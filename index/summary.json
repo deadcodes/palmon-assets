@@ -1,106 +1,106 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv425",
+ "generatedFor": "rv426",
  "totals": {
   "textures": 5445,
-  "sprites": 7271
+  "sprites": 7284
  },
  "shards": [
   {
    "id": "00",
    "file": "index/assets/00.json",
    "count": 754,
-   "bytes": 271077
+   "bytes": 273384
   },
   {
    "id": "01",
    "file": "index/assets/01.json",
    "count": 773,
-   "bytes": 278403
+   "bytes": 281246
   },
   {
    "id": "02",
    "file": "index/assets/02.json",
-   "count": 803,
-   "bytes": 289313
+   "count": 804,
+   "bytes": 291994
   },
   {
    "id": "03",
    "file": "index/assets/03.json",
-   "count": 795,
-   "bytes": 286274
+   "count": 796,
+   "bytes": 288947
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
    "count": 787,
-   "bytes": 282946
+   "bytes": 285261
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
-   "count": 808,
-   "bytes": 291016
+   "count": 809,
+   "bytes": 293512
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
    "count": 832,
-   "bytes": 299300
+   "bytes": 300715
   },
   {
    "id": "07",
    "file": "index/assets/07.json",
-   "count": 793,
-   "bytes": 285989
+   "count": 795,
+   "bytes": 288324
   },
   {
    "id": "08",
    "file": "index/assets/08.json",
    "count": 808,
-   "bytes": 291311
+   "bytes": 293616
   },
   {
    "id": "09",
    "file": "index/assets/09.json",
-   "count": 765,
-   "bytes": 275735
+   "count": 767,
+   "bytes": 277885
   },
   {
    "id": "0a",
    "file": "index/assets/0a.json",
-   "count": 768,
-   "bytes": 276165
+   "count": 770,
+   "bytes": 278840
   },
   {
    "id": "0b",
    "file": "index/assets/0b.json",
    "count": 781,
-   "bytes": 281158
+   "bytes": 282932
   },
   {
    "id": "0c",
    "file": "index/assets/0c.json",
-   "count": 821,
-   "bytes": 295833
+   "count": 822,
+   "bytes": 298865
   },
   {
    "id": "0d",
    "file": "index/assets/0d.json",
    "count": 772,
-   "bytes": 277811
+   "bytes": 279581
   },
   {
    "id": "0e",
    "file": "index/assets/0e.json",
-   "count": 827,
-   "bytes": 298477
+   "count": 829,
+   "bytes": 301707
   },
   {
    "id": "0f",
    "file": "index/assets/0f.json",
-   "count": 829,
-   "bytes": 298224
+   "count": 830,
+   "bytes": 300360
   }
  ],
  "categories": [
@@ -322,7 +322,7 @@
   },
   {
    "path": "sprites/A_UICardArena",
-   "count": 45
+   "count": 46
   },
   {
    "path": "sprites/A_UICardBag",
@@ -410,7 +410,7 @@
   },
   {
    "path": "sprites/A_UIDesertTech",
-   "count": 11
+   "count": 21
   },
   {
    "path": "sprites/A_UIDojo",
@@ -590,7 +590,7 @@
   },
   {
    "path": "sprites/A_UINumberBattle",
-   "count": 183
+   "count": 185
   },
   {
    "path": "sprites/A_UIOpeningAnim",
@@ -1638,6 +1638,7 @@
   "rv421__vs__rv422",
   "rv422__vs__rv423",
   "rv423__vs__rv424",
-  "rv424__vs__rv425"
+  "rv424__vs__rv425",
+  "rv425__vs__rv426"
  ]
 }
