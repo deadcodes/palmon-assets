@@ -1,0 +1,295 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv430",
+  "new": "rv431"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 1,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 3,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 1,
+  "otherRowsExcluded": 1,
+  "assetsNew": 2,
+  "assetsListed": 2,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 2,
+  "assetImageBytes": 1766884,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 2,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 0,
+  "imagesCopied": 2
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "hero_recruit",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the recruit nohero: added 1016 = 500, 1019 = 500, 1020 = 500, 2016 = 500, 2019 = 500, 2020 = 500.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "1 table with 1 changed row is not shown here. Re-run with --include-other-data for the full audit view. Excluded: gm_users (1).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`uiv3/texture/_static_uipanel/uibackground` (2)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "goldrobberbg",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/goldrobberbg.png",
+           "version": "rv431",
+           "published": true,
+           "sha256": "ec4f580f4de81ccdcbc104a7bea8896bd31905a7d555a8127588cfb446a4a0c5"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "goldrobberbg9",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/goldrobberbg9.png",
+           "version": "rv431",
+           "published": true,
+           "sha256": "b32c5609e21a1cf8285842d1f9db05244846e068aae3569c7ae6d39beb5b3935"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "Only newly REGISTERED assets are listed -- pass --assets to the diff to also detect new files by content hash.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/goldrobberbg",
+   "path": "uiv3/texture/_static_uipanel/uibackground/goldrobberbg.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-goldrobberbg-bc6f0562.png",
+   "sizeBytes": 1232583
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/goldrobberbg9",
+   "path": "uiv3/texture/_static_uipanel/uibackground/goldrobberbg9.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-goldrobberbg9-c37a8ddb.png",
+   "sizeBytes": 534301
+  }
+ ]
+}
