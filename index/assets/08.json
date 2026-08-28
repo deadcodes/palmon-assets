@@ -8671,6 +8671,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uibackground/goldrobberbg9.png",
+   "kind": "texture",
+   "firstSeen": "rv431",
+   "lastSeen": "rv431",
+   "history": [
+    {
+     "version": "rv431",
+     "sha256": "b32c5609e21a1cf8285842d1f9db05244846e068aae3569c7ae6d39beb5b3935",
+     "bytes": 534301,
+     "width": 980,
+     "height": 748
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uibackground/guild_flag_bg.png",
    "kind": "texture",
    "firstSeen": "rv417",
