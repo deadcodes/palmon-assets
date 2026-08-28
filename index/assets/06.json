@@ -9821,6 +9821,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardsuperevolve/superevolve_5027.png",
+   "kind": "texture",
+   "firstSeen": "rv420",
+   "lastSeen": "rv420",
+   "history": [
+    {
+     "version": "rv420",
+     "sha256": "b9f92df851338c8f9bf010da688de0a0b5cd10c529a2ef1194b70e6f677a074d",
+     "bytes": 109438,
+     "width": 312,
+     "height": 320
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uichallenge/BattleMode_pic_Arena.png",
    "kind": "texture",
    "firstSeen": "rv417",

@@ -9274,6 +9274,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardsuperevolve/superevolve_5007.png",
+   "kind": "texture",
+   "firstSeen": "rv420",
+   "lastSeen": "rv420",
+   "history": [
+    {
+     "version": "rv420",
+     "sha256": "26526518fb6dd18f622edc7052b06b4c17c399b14ea21f87a338a426ab359a92",
+     "bytes": 97365,
+     "width": 312,
+     "height": 320
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uichallengedojo/RankMatch_icon_S03.png",
    "kind": "texture",
    "firstSeen": "rv417",
