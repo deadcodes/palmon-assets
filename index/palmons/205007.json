@@ -25,7 +25,7 @@
       "portrait": "uiv3/texture/uiherohalf/Palmon_full_5007_evolve.png"
     },
     "super": {
-      "name": "Thundermane",
+      "name": "Shadowvolt",
       "portrait": "uiv3/texture/uiherohalf/Palmon_full_5007_evolve_1.png"
     }
   },
@@ -819,7 +819,7 @@
       "id": "21500711",
       "name": "Stormcall",
       "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5007_1.png",
-      "des": "15s after battle starts, summon a thundercloud that strikes all enemies every 5s, dealing {0} damage per strike.",
+      "des": "At the start of battle, summon a thundercloud. After 15s, it strikes all enemies, then every 10s after that. Deals {0} damage per strike. Boosts all Electric Palmon's damage reduction by 20%. (Does not stack with Fulgairy's Thunderous Boon damage reduction.)",
       "kind": "evolution_ultimate",
       "unlockStage": 5,
       "rageGain": 0,
@@ -831,7 +831,7 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "15s after battle starts, summon a thundercloud that strikes all enemies every 5s, dealing 500% damage per strike."
+          "effect": "At the start of battle, summon a thundercloud. After 15s, it strikes all enemies, then every 10s after that. Deals 150% damage per strike. Boosts all Electric Palmon's damage reduction by 20%. (Does not stack with Fulgairy's Thunderous Boon damage reduction.)"
         }
       ]
     },
@@ -839,7 +839,7 @@
       "id": "21500721",
       "name": "Thunder Hunt",
       "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5007_2.png",
-      "des": "Predalynx deals +{0} damage to trapped enemies.",
+      "des": "Stormcall: Each lightning strike has a 60% chance to become a Super Strike. Deals {0} damage. In battle, boosts all allied Electric Palmon's Stun Resist by 20% and Freeze Resist by 20%.",
       "kind": "evolution_ultimate",
       "unlockStage": 8,
       "rageGain": 0,
@@ -851,7 +851,7 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "Predalynx deals +100% damage to trapped enemies."
+          "effect": "Stormcall: Each lightning strike has a 60% chance to become a Super Strike. Deals 300% damage. In battle, boosts all allied Electric Palmon's Stun Resist by 20% and Freeze Resist by 20%."
         }
       ]
     }
@@ -9978,7 +9978,7 @@
             "dropType": 3,
             "icon": "/game-assets/materials/8335007.png",
             "itemId": 8335007,
-            "name": "Thundermane Oath",
+            "name": "Shadowvolt Oath",
             "quantity": 1
           }
         ],

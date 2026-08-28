@@ -25,8 +25,8 @@
       "portrait": "uiv3/texture/uiherohalf/Palmon_full_5008_evolve.png"
     },
     "super": {
-      "name": "hero_name_5008_2",
-      "portrait": null
+      "name": "Pharohound",
+      "portrait": "uiv3/texture/uiherohalf/Palmon_full_5008_evolve_1.png"
     }
   },
   "skills": [
@@ -817,9 +817,9 @@
     },
     {
       "id": "21500811",
-      "name": "evolve_skill_5008_name_1",
-      "icon": null,
-      "des": "evolve_skill_5008_des_1",
+      "name": "Death Echo",
+      "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5008_1.png",
+      "des": "In battle, gain 30% damage reduction. For each allied or enemy Palmon defeated, gain {0} increased damage.",
       "kind": "evolution_ultimate",
       "unlockStage": 5,
       "rageGain": 0,
@@ -831,16 +831,15 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "evolve_skill_5008_des_1"
+          "effect": "In battle, gain 30% damage reduction. For each allied or enemy Palmon defeated, gain 10% increased damage."
         }
-      ],
-      "reason": "art-not-exported"
+      ]
     },
     {
       "id": "21500821",
-      "name": "evolve_skill_5008_name_2",
-      "icon": null,
-      "des": "evolve_skill_5008_des_2",
+      "name": "Death Descends",
+      "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5008_2.png",
+      "des": "When an allied Palmon is defeated, gain {0} increased damage. In battle, boosts all allied Earth Palmon's Stun Resist by 20% and Freeze Resist by 20%.",
       "kind": "evolution_ultimate",
       "unlockStage": 8,
       "rageGain": 0,
@@ -852,10 +851,9 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "evolve_skill_5008_des_2"
+          "effect": "When an allied Palmon is defeated, gain 10% increased damage. In battle, boosts all allied Earth Palmon's Stun Resist by 20% and Freeze Resist by 20%."
         }
-      ],
-      "reason": "art-not-exported"
+      ]
     }
   ],
   "attackSpeedModifiers": [],
@@ -9969,7 +9967,7 @@
       "id": 10293,
       "kind": "super",
       "name": "Evolution V",
-      "preview": "evolve_skill_5008_tip_1",
+      "preview": "Ultimate Skill: Death Echo",
       "previewSkillId": 21500811,
       "requirements": {
         "campLevel": 10,
@@ -15728,7 +15726,7 @@
       "id": 10296,
       "kind": "super",
       "name": "Evolution VIII",
-      "preview": "evolve_skill_5008_tip_2",
+      "preview": "Ultimate Skill: Death Descends",
       "previewSkillId": 21500821,
       "requirements": {
         "campLevel": 10,

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv417",
+ "generatedFor": "rv418",
  "palmons": {
   "203201": {
    "name": "Graffitty",
@@ -2910,7 +2910,7 @@
    "name": "Lightning Feather Mark",
    "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205039_3.png",
    "palmon": "205039",
-   "des": "Rage builds up <color=#00A069>{0}</color> faster and Crit Rate increases by <color=#00A069>{0}</color> while in combat."
+   "des": "Rage builds up <color=#00A069>{0}</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>{1}</color> while in combat."
   },
   "135401": {
    "name": "Rending Sandstorm",
@@ -2922,13 +2922,13 @@
    "name": "Desert Judgment",
    "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205040_2.png",
    "palmon": "205040",
-   "des": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>{0}</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+   "des": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>{0}</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
   },
   "135403": {
    "name": "Sandstorm Dance",
    "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205040_3.png",
    "palmon": "205040",
-   "des": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>{0}</color>, stacking up to 3 times."
+   "des": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>{0}</color>, stacking up to 3 times."
   },
   "135411": {
    "name": "Blazing Sweep",
@@ -2940,7 +2940,7 @@
    "name": "Radiant Charge",
    "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205041_2.png",
    "palmon": "205041",
-   "des": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>{0}</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+   "des": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>{0}</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
   },
   "135413": {
    "name": "Rebirth from Ashes",

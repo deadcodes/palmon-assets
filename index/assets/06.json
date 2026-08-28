@@ -9581,6 +9581,36 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_22_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "1a889e1ee8b822001cb5cfb4cbe2a70f8f53c556a3b230b19ed3c7f7b615cab5",
+     "bytes": 43529,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_31_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "ee057b235e7d842f2e0ffb288016281e8621bdc647ea07d614ce78402996564b",
+     "bytes": 49422,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_39.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9592,6 +9622,21 @@
      "bytes": 427530,
      "width": 634,
      "height": 538
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_44_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "2d602ccacaf0c311bcd7a1040c03c6ec9cd521cba5dd83c5cf4c22857643f637",
+     "bytes": 43713,
+     "width": 164,
+     "height": 139
     }
    ]
   },
@@ -9637,6 +9682,36 @@
      "bytes": 1204761,
      "width": 746,
      "height": 1240
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_ssr_12_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "831a2d66b2ae287abaf8462ff40a394b7da1e67a05b43a6d4b2dd3bee38241d8",
+     "bytes": 141113,
+     "width": 194,
+     "height": 322
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_ssr_9_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "62cb80ef250450294da02d631252be7ed9f9f0e3acb61894b4ab0bd7fb2467c2",
+     "bytes": 130652,
+     "width": 194,
+     "height": 322
     }
    ]
   },
@@ -9757,6 +9832,21 @@
      "bytes": 277807,
      "width": 1020,
      "height": 400
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_icon_14.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "c72dbc4e2132d67c94001a9e2c1694c98669b1d7d865ff9f59493521934606fe",
+     "bytes": 3984,
+     "width": 72,
+     "height": 80
     }
    ]
   },

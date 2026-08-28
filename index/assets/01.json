@@ -9122,6 +9122,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_23_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "9f9fc53e125058aa61257bd33e0d4a19bd44c4ab6c01c02f89524964df1b4d66",
+     "bytes": 42258,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_30.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9133,6 +9148,21 @@
      "bytes": 466707,
      "width": 634,
      "height": 538
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_30_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "a4f273a83f060875191ef45bed482cb65440e2d574a5431086fc4ec2dc2671fd",
+     "bytes": 44757,
+     "width": 164,
+     "height": 139
     }
    ]
   },
@@ -9167,6 +9197,36 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_18_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "d0873bb31ecc2fa55b4304dce7b48b677dd529fb1e28ddb4d0ec5f2f58eac0c6",
+     "bytes": 102220,
+     "width": 194,
+     "height": 322
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_1_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "70751f12d8acc43867e0ad5c95e4dfd6fc2f1f2700009ce51dfe1af6015be1b1",
+     "bytes": 91553,
+     "width": 194,
+     "height": 322
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_ssr_8.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9178,6 +9238,21 @@
      "bytes": 1204355,
      "width": 746,
      "height": 1240
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_ssr_8_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "a90b6983f8cb638daa5d5646e0b62cc301f32ee69470eee6eb721035287d60a7",
+     "bytes": 126925,
+     "width": 194,
+     "height": 322
     }
    ]
   },
@@ -9403,6 +9478,36 @@
      "bytes": 1040887,
      "width": 968,
      "height": 968
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_Recommend_3.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "e12e0d5e86ad2acb196051d5355d8b9e08a195d362b4115211aefa131edc1782",
+     "bytes": 134105,
+     "width": 300,
+     "height": 300
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_icon_6.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "c5f75793df32f853850dae2606a3510d66b2c269a4663138813989bbddffc41e",
+     "bytes": 2577,
+     "width": 72,
+     "height": 80
     }
    ]
   },
@@ -10337,6 +10442,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uiheroshadow/hero_shadow_205021.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "e6710185f029320788b218768277e0df4310aa3f854357b3171a5edd6e42bbae",
+     "bytes": 102417,
+     "width": 1024,
+     "height": 1024
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uihomemainplayerwork/work_btn_image2.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -10610,12 +10730,19 @@
    "path": "uiv3/texture/uiitem/Palmon_evolution_5002.png",
    "kind": "texture",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv418",
    "history": [
     {
      "version": "rv417",
      "sha256": "7d0c11ea2249fa64014b1d17f3895b5c34fa9351f12e61abae8418a6fdd06ef4",
      "bytes": 33208,
+     "width": 160,
+     "height": 160
+    },
+    {
+     "version": "rv418",
+     "sha256": "69100559a2d11349e80bcc561a907aaac5f5b3787f646bd4b6ff910a98f205a2",
+     "bytes": 27167,
      "width": 160,
      "height": 160
     }

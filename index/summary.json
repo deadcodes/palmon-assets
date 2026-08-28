@@ -1,106 +1,106 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv417",
+ "generatedFor": "rv418",
  "totals": {
-  "textures": 5316,
+  "textures": 5440,
   "sprites": 7271
  },
  "shards": [
   {
    "id": "00",
    "file": "index/assets/00.json",
-   "count": 747,
-   "bytes": 268684
+   "count": 754,
+   "bytes": 271077
   },
   {
    "id": "01",
    "file": "index/assets/01.json",
-   "count": 765,
-   "bytes": 275479
+   "count": 773,
+   "bytes": 278403
   },
   {
    "id": "02",
    "file": "index/assets/02.json",
-   "count": 796,
-   "bytes": 286915
+   "count": 803,
+   "bytes": 289313
   },
   {
    "id": "03",
    "file": "index/assets/03.json",
-   "count": 789,
-   "bytes": 284044
+   "count": 795,
+   "bytes": 286274
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
-   "count": 776,
-   "bytes": 278939
+   "count": 786,
+   "bytes": 282600
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
-   "count": 802,
-   "bytes": 288602
+   "count": 808,
+   "bytes": 291016
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
-   "count": 825,
-   "bytes": 296912
+   "count": 831,
+   "bytes": 298953
   },
   {
    "id": "07",
    "file": "index/assets/07.json",
-   "count": 783,
-   "bytes": 282357
+   "count": 793,
+   "bytes": 285989
   },
   {
    "id": "08",
    "file": "index/assets/08.json",
-   "count": 802,
-   "bytes": 288902
+   "count": 808,
+   "bytes": 291311
   },
   {
    "id": "09",
    "file": "index/assets/09.json",
-   "count": 758,
-   "bytes": 273358
+   "count": 764,
+   "bytes": 275389
   },
   {
    "id": "0a",
    "file": "index/assets/0a.json",
-   "count": 758,
-   "bytes": 272711
+   "count": 768,
+   "bytes": 276165
   },
   {
    "id": "0b",
    "file": "index/assets/0b.json",
-   "count": 771,
-   "bytes": 277690
+   "count": 781,
+   "bytes": 281158
   },
   {
    "id": "0c",
    "file": "index/assets/0c.json",
-   "count": 812,
-   "bytes": 292560
+   "count": 819,
+   "bytes": 295142
   },
   {
    "id": "0d",
    "file": "index/assets/0d.json",
-   "count": 764,
-   "bytes": 274867
+   "count": 772,
+   "bytes": 277811
   },
   {
    "id": "0e",
    "file": "index/assets/0e.json",
-   "count": 819,
-   "bytes": 295742
+   "count": 827,
+   "bytes": 298477
   },
   {
    "id": "0f",
    "file": "index/assets/0f.json",
-   "count": 820,
-   "bytes": 295139
+   "count": 829,
+   "bytes": 298224
   }
  ],
  "categories": [
@@ -934,7 +934,7 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uicardchampioncompetition",
-   "count": 2
+   "count": 4
   },
   {
    "path": "uiv3/texture/_static_uipanel/uicardstage",
@@ -1234,7 +1234,7 @@
   },
   {
    "path": "uiv3/texture/uicardbag",
-   "count": 184
+   "count": 260
   },
   {
    "path": "uiv3/texture/uicardsuperevolve",
@@ -1251,6 +1251,10 @@
   {
    "path": "uiv3/texture/uichat_face",
    "count": 16
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails",
+   "count": 28
   },
   {
    "path": "uiv3/texture/uicrossserverroyal",
@@ -1278,11 +1282,11 @@
   },
   {
    "path": "uiv3/texture/uiherohalf",
-   "count": 323
+   "count": 327
   },
   {
    "path": "uiv3/texture/uiheroicon",
-   "count": 424
+   "count": 430
   },
   {
    "path": "uiv3/texture/uiherolist",
@@ -1294,7 +1298,7 @@
   },
   {
    "path": "uiv3/texture/uiheroshadow",
-   "count": 10
+   "count": 12
   },
   {
    "path": "uiv3/texture/uihomemainplayerwork",
@@ -1314,7 +1318,7 @@
   },
   {
    "path": "uiv3/texture/uiitem",
-   "count": 521
+   "count": 523
   },
   {
    "path": "uiv3/texture/uimilestone",
@@ -1386,7 +1390,7 @@
   },
   {
    "path": "uiv3/texture/uiskillicon_card",
-   "count": 290
+   "count": 294
   },
   {
    "path": "uiv3/texture/uisnowman",
@@ -1626,5 +1630,7 @@
   "A_UIWishingWell",
   "A_UIWorldHUD"
  ],
- "changelogPairs": []
+ "changelogPairs": [
+  "rv417__vs__rv418"
+ ]
 }

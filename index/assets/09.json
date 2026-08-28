@@ -8824,6 +8824,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_16_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "695ed5ff8fb7f740c35c8df4d5f2c5aaf44ad9e621dc2c6970d3fdad8e25673a",
+     "bytes": 50686,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_3.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -8854,6 +8869,36 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_38_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "9dcd29b3c6cc863185fb87b50b75d9b3f49864a5f9d9fbeb9e29be9f27ccf973",
+     "bytes": 49611,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_3_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "41567e2be5fc7652d83188fd1048953d62107b1aec827d4abbea39c35484303f",
+     "bytes": 43942,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_sr_10.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -8869,6 +8914,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_10_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "8baa65429c3fc6bac29758f2760eeeecdd017c049545d2fbb3cb0d24feafe31b",
+     "bytes": 122106,
+     "width": 194,
+     "height": 322
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_sr_9.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -8880,6 +8940,21 @@
      "bytes": 1286087,
      "width": 746,
      "height": 1240
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_9_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "2e0e9960cff82a1bbbb910a17c7e867b61722d545b7adb0bf02ebdddd28c42be",
+     "bytes": 136045,
+     "width": 194,
+     "height": 322
     }
    ]
   },
@@ -8955,6 +9030,21 @@
      "bytes": 1586228,
      "width": 1024,
      "height": 2048
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Gacha_frame_card2_2.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "c15e6ab02709ce920b9b94158c9701a0ee06cd7133e4c0b506850a557058553c",
+     "bytes": 1026617,
+     "width": 682,
+     "height": 1139
     }
    ]
   },

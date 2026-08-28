@@ -25,8 +25,8 @@
       "portrait": "uiv3/texture/uiherohalf/Palmon_full_5021_evolve.png"
     },
     "super": {
-      "name": "hero_name_5021_2",
-      "portrait": null
+      "name": "Scarvulpine",
+      "portrait": "uiv3/texture/uiherohalf/Palmon_full_5021_evolve_1.png"
     }
   },
   "skills": [
@@ -817,9 +817,9 @@
     },
     {
       "id": "21502111",
-      "name": "evolve_skill_5021_name_1",
-      "icon": null,
-      "des": "evolve_skill_5021_des_1",
+      "name": "Heartscorch",
+      "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5021_1.png",
+      "des": "Burning Tails deals {0} more damage against the burned targets.",
       "kind": "evolution_ultimate",
       "unlockStage": 5,
       "rageGain": 0,
@@ -831,16 +831,15 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "evolve_skill_5021_des_1"
+          "effect": "Burning Tails deals 40% more damage against the burned targets."
         }
-      ],
-      "reason": "art-not-exported"
+      ]
     },
     {
       "id": "21502121",
-      "name": "evolve_skill_5021_name_2",
-      "icon": null,
-      "des": "evolve_skill_5021_des_2",
+      "name": "Vixenflare",
+      "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5021_2.png",
+      "des": "If the target of Burning Tails is afflicted with Burn Damage, they are ignited: all Burn effects are immediately triggered, and the Burn Damage is increased by {0}. In battle, boosts all allied Fire Palmon's Stun Resist by 20% and Freeze Resist by 20%.",
       "kind": "evolution_ultimate",
       "unlockStage": 8,
       "rageGain": 0,
@@ -852,10 +851,9 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "evolve_skill_5021_des_2"
+          "effect": "If the target of Burning Tails is afflicted with Burn Damage, they are ignited: all Burn effects are immediately triggered, and the Burn Damage is increased by 30%. In battle, boosts all allied Fire Palmon's Stun Resist by 20% and Freeze Resist by 20%."
         }
-      ],
-      "reason": "art-not-exported"
+      ]
     }
   ],
   "attackSpeedModifiers": [],
@@ -9870,7 +9868,7 @@
       "id": 10297,
       "kind": "super",
       "name": "Evolution V",
-      "preview": "evolve_skill_5021_tip_1",
+      "preview": "Ultimate Skill: Heartscorch",
       "previewSkillId": 21502111,
       "requirements": {
         "campLevel": 10,
@@ -15629,7 +15627,7 @@
       "id": 10300,
       "kind": "super",
       "name": "Evolution VIII",
-      "preview": "evolve_skill_5021_tip_2",
+      "preview": "Ultimate Skill: Vixenflare",
       "previewSkillId": 21502121,
       "requirements": {
         "campLevel": 10,

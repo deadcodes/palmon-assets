@@ -839,7 +839,7 @@
       "id": "21502721",
       "name": "Crimson Tide Dance",
       "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5027_2.png",
-      "des": "Predalynx deals +{0} damage to trapped enemies.",
+      "des": "Blood Sense: Each Blood Tide Mark increases damage by {0}. In battle, boosts all allied Water Palmon's Stun Resist by 20% and Freeze Resist by 20%.",
       "kind": "evolution_ultimate",
       "unlockStage": 8,
       "rageGain": 0,
@@ -851,7 +851,7 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "Predalynx deals +50% damage to trapped enemies."
+          "effect": "Blood Sense: Each Blood Tide Mark increases damage by 50%. In battle, boosts all allied Water Palmon's Stun Resist by 20% and Freeze Resist by 20%."
         }
       ]
     }
