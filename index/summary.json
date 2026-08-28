@@ -1,0 +1,109 @@
+{
+ "schemaVersion": 1,
+ "generatedFor": null,
+ "totals": {
+  "textures": 0,
+  "sprites": 0
+ },
+ "shards": [
+  {
+   "id": "00",
+   "file": "index/assets/00.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "01",
+   "file": "index/assets/01.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "02",
+   "file": "index/assets/02.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "03",
+   "file": "index/assets/03.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "04",
+   "file": "index/assets/04.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "05",
+   "file": "index/assets/05.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "06",
+   "file": "index/assets/06.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "07",
+   "file": "index/assets/07.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "08",
+   "file": "index/assets/08.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "09",
+   "file": "index/assets/09.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "0a",
+   "file": "index/assets/0a.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "0b",
+   "file": "index/assets/0b.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "0c",
+   "file": "index/assets/0c.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "0d",
+   "file": "index/assets/0d.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "0e",
+   "file": "index/assets/0e.json",
+   "count": 0,
+   "bytes": 39
+  },
+  {
+   "id": "0f",
+   "file": "index/assets/0f.json",
+   "count": 0,
+   "bytes": 39
+  }
+ ],
+ "categories": [],
+ "atlases": [],
+ "changelogPairs": []
+}
