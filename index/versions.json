@@ -118,6 +118,26 @@
     "pair": "rv422",
     "path": "changelogs/rv422/changelog.json"
    }
+  },
+  {
+   "label": "rv423",
+   "tag": "rv423",
+   "order": 423,
+   "publishedAtUtc": "2026-08-28T16:32:31.396340+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5445,
+    "sprites": 7271,
+    "added": 0,
+    "modified": 0,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": {
+    "pair": "rv423",
+    "path": "changelogs/rv423/changelog.json"
+   }
   }
  ]
 }
