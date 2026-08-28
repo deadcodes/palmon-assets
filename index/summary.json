@@ -1,106 +1,106 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv427",
+ "generatedFor": "rv428",
  "totals": {
-  "textures": 5445,
-  "sprites": 7271
+  "textures": 5468,
+  "sprites": 7284
  },
  "shards": [
   {
    "id": "00",
    "file": "index/assets/00.json",
-   "count": 754,
-   "bytes": 275691
+   "count": 756,
+   "bytes": 278907
   },
   {
    "id": "01",
    "file": "index/assets/01.json",
-   "count": 773,
-   "bytes": 284089
+   "count": 775,
+   "bytes": 287665
   },
   {
    "id": "02",
    "file": "index/assets/02.json",
-   "count": 804,
-   "bytes": 294370
+   "count": 806,
+   "bytes": 297745
   },
   {
    "id": "03",
    "file": "index/assets/03.json",
-   "count": 796,
-   "bytes": 291312
+   "count": 799,
+   "bytes": 295410
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
    "count": 787,
-   "bytes": 287575
+   "bytes": 290071
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
    "count": 809,
-   "bytes": 295704
+   "bytes": 298190
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
-   "count": 832,
-   "bytes": 302129
+   "count": 834,
+   "bytes": 304458
   },
   {
    "id": "07",
    "file": "index/assets/07.json",
    "count": 795,
-   "bytes": 290042
+   "bytes": 292171
   },
   {
    "id": "08",
    "file": "index/assets/08.json",
    "count": 808,
-   "bytes": 295921
+   "bytes": 298226
   },
   {
    "id": "09",
    "file": "index/assets/09.json",
    "count": 767,
-   "bytes": 279427
+   "bytes": 281559
   },
   {
    "id": "0a",
    "file": "index/assets/0a.json",
-   "count": 770,
-   "bytes": 280911
+   "count": 774,
+   "bytes": 284647
   },
   {
    "id": "0b",
    "file": "index/assets/0b.json",
    "count": 781,
-   "bytes": 284707
+   "bytes": 286481
   },
   {
    "id": "0c",
    "file": "index/assets/0c.json",
-   "count": 822,
-   "bytes": 301587
+   "count": 824,
+   "bytes": 305338
   },
   {
    "id": "0d",
    "file": "index/assets/0d.json",
-   "count": 772,
-   "bytes": 281351
+   "count": 776,
+   "bytes": 284586
   },
   {
    "id": "0e",
    "file": "index/assets/0e.json",
    "count": 829,
-   "bytes": 304325
+   "bytes": 307167
   },
   {
    "id": "0f",
    "file": "index/assets/0f.json",
-   "count": 830,
-   "bytes": 302192
+   "count": 832,
+   "bytes": 305045
   }
  ],
  "categories": [
@@ -322,7 +322,7 @@
   },
   {
    "path": "sprites/A_UICardArena",
-   "count": 45
+   "count": 46
   },
   {
    "path": "sprites/A_UICardBag",
@@ -410,7 +410,7 @@
   },
   {
    "path": "sprites/A_UIDesertTech",
-   "count": 11
+   "count": 21
   },
   {
    "path": "sprites/A_UIDojo",
@@ -590,7 +590,7 @@
   },
   {
    "path": "sprites/A_UINumberBattle",
-   "count": 183
+   "count": 185
   },
   {
    "path": "sprites/A_UIOpeningAnim",
@@ -906,7 +906,7 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uibackground",
-   "count": 392
+   "count": 410
   },
   {
    "path": "uiv3/texture/_static_uipanel/uiballoonadventure",
@@ -1058,7 +1058,7 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uipayactivity",
-   "count": 46
+   "count": 47
   },
   {
    "path": "uiv3/texture/_static_uipanel/uipaycontinuityrecharge",
@@ -1154,7 +1154,7 @@
   },
   {
    "path": "uiv3/texture/ui_season_main",
-   "count": 147
+   "count": 148
   },
   {
    "path": "uiv3/texture/ui_seasontask",
@@ -1318,11 +1318,11 @@
   },
   {
    "path": "uiv3/texture/uiitem",
-   "count": 523
+   "count": 524
   },
   {
    "path": "uiv3/texture/uimilestone",
-   "count": 57
+   "count": 58
   },
   {
    "path": "uiv3/texture/uimonstericon",
@@ -1358,7 +1358,7 @@
   },
   {
    "path": "uiv3/texture/uiplayerheadframe",
-   "count": 26
+   "count": 27
   },
   {
    "path": "uiv3/texture/uiplayericon",
@@ -1640,6 +1640,7 @@
   "rv423__vs__rv424",
   "rv424__vs__rv425",
   "rv425__vs__rv426",
-  "rv426__vs__rv427"
+  "rv426__vs__rv427",
+  "rv427__vs__rv428"
  ]
 }

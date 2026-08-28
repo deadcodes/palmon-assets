@@ -1461,7 +1461,7 @@
    "path": "sprites/A_UICardArena/arena_pic_box1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -1481,6 +1481,13 @@
      "version": "rv427",
      "sha256": "e3c37b08bb930ec3beef93df5232021833d24b2892773969544f59501b45c083",
      "bytes": 3361,
+     "width": 80,
+     "height": 74
+    },
+    {
+     "version": "rv428",
+     "sha256": "b1db4ad32906ca5fde4e86936a35b4fc94eac0853f33d7a0f87be07aace67e3b",
+     "bytes": 3580,
      "width": 80,
      "height": 74
     }
@@ -1507,7 +1514,7 @@
    "path": "sprites/A_UICardArena/arena_pic_dan3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -1529,6 +1536,13 @@
      "bytes": 1785,
      "width": 32,
      "height": 43
+    },
+    {
+     "version": "rv428",
+     "sha256": "8785c62ae135dfa0e4b67f414169aa7774e5453332cc64c901cae45d0facc754",
+     "bytes": 1705,
+     "width": 32,
+     "height": 43
     }
    ],
    "atlas": "A_UICardArena"
@@ -1537,7 +1551,7 @@
    "path": "sprites/A_UICardArena/arena_pic_ranking2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -1557,6 +1571,13 @@
      "version": "rv427",
      "sha256": "0534d90e89af2ffc3f53cab888a6dc5e7ce97246c3cb7cdf171ea9a050b3177c",
      "bytes": 4862,
+     "width": 150,
+     "height": 58
+    },
+    {
+     "version": "rv428",
+     "sha256": "c29666193c9d8b8f9fdd1c65f174e27a8c19905e4af494a51711cf210ad66cff",
+     "bytes": 5029,
      "width": 150,
      "height": 58
     }
@@ -3055,7 +3076,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_frame_goodnumber.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv426",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv426",
@@ -3067,6 +3088,13 @@
     {
      "version": "rv427",
      "status": "removed"
+    },
+    {
+     "version": "rv428",
+     "sha256": "9c01cd4478780bd1bf252e8fe0f2ad3e627a9f6ed2961e669c7a8313f68ded2b",
+     "bytes": 689,
+     "width": 52,
+     "height": 50
     }
    ],
    "atlas": "A_UIDesertTech"
@@ -3075,7 +3103,7 @@
    "path": "sprites/A_UIDesertTech/Desert_frame_tipsbg.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv426",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv426",
@@ -3087,6 +3115,13 @@
     {
      "version": "rv427",
      "status": "removed"
+    },
+    {
+     "version": "rv428",
+     "sha256": "2c3853329c92e46da9d854c70e5eab074e0db3a962c6b79605a1f7416183f2a8",
+     "bytes": 778,
+     "width": 96,
+     "height": 60
     }
    ],
    "atlas": "A_UIDesertTech"
@@ -3095,7 +3130,7 @@
    "path": "sprites/A_UIDesertTech/Treasure_btn_share01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -3115,6 +3150,13 @@
      "version": "rv427",
      "sha256": "090c404355ff553b96d6902488a728db7107b81ffe920529fe5190c28670d2d1",
      "bytes": 15107,
+     "width": 128,
+     "height": 128
+    },
+    {
+     "version": "rv428",
+     "sha256": "cf08f1e7ffa128cec6887f34f7420094964ea8bb4a4576c103f2ba07993af0be",
+     "bytes": 15104,
      "width": 128,
      "height": 128
     }
@@ -5813,7 +5855,7 @@
    "path": "sprites/A_UINumberBattle/Battle_pic_Blue03.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -5835,6 +5877,13 @@
      "bytes": 1433,
      "width": 30,
      "height": 42
+    },
+    {
+     "version": "rv428",
+     "sha256": "2875ec4b4607fc2704a0849c7da12e6fa7b955f410a515fbb0d13cc1b6f575b0",
+     "bytes": 1396,
+     "width": 30,
+     "height": 42
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5843,7 +5892,7 @@
    "path": "sprites/A_UINumberBattle/Battle_pic_Red06.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -5865,6 +5914,13 @@
      "bytes": 1271,
      "width": 36,
      "height": 48
+    },
+    {
+     "version": "rv428",
+     "sha256": "28114a12de29a086081bf1771643e8a63fb80be56bc771a2918fb04e1ca945f6",
+     "bytes": 1242,
+     "width": 36,
+     "height": 48
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5873,7 +5929,7 @@
    "path": "sprites/A_UINumberBattle/Battle_pic_W08.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -5895,6 +5951,13 @@
      "bytes": 1003,
      "width": 32,
      "height": 42
+    },
+    {
+     "version": "rv428",
+     "sha256": "d7e787158e10a700fc5fb1155b315b8dfafc59dd78e0ba0f53abdfc456ed80ed",
+     "bytes": 1015,
+     "width": 32,
+     "height": 42
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5903,7 +5966,7 @@
    "path": "sprites/A_UINumberBattle/Battle_pic_Yellow03.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -5925,6 +5988,13 @@
      "bytes": 1154,
      "width": 30,
      "height": 42
+    },
+    {
+     "version": "rv428",
+     "sha256": "221b5387f61b239e78735941a36c07c81295bacc57499131c30211c1013b2e6f",
+     "bytes": 1274,
+     "width": 30,
+     "height": 42
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5933,7 +6003,7 @@
    "path": "sprites/A_UINumberBattle/battle_icon_caidai1_9.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -5955,6 +6025,13 @@
      "bytes": 100637,
      "width": 311,
      "height": 337
+    },
+    {
+     "version": "rv428",
+     "sha256": "171ac85b5b549e626158165ff3f31cc2b8aff19b1320020b2628cc729f8eecf8",
+     "bytes": 100622,
+     "width": 311,
+     "height": 337
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5963,7 +6040,7 @@
    "path": "sprites/A_UINumberBattle/battle_pic_buff17.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -5985,6 +6062,13 @@
      "bytes": 1668,
      "width": 37,
      "height": 40
+    },
+    {
+     "version": "rv428",
+     "sha256": "21165c3de8b9c073a6da937ec0a0ff53e60e28c100cd6366b3ffb514753398ba",
+     "bytes": 1670,
+     "width": 37,
+     "height": 40
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5993,7 +6077,7 @@
    "path": "sprites/A_UINumberBattle/battle_pic_buff2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -6013,6 +6097,13 @@
      "version": "rv427",
      "sha256": "f85b4c220ceacd354d7d13f19b70631466f0aae7e82348b54ad6407ca9beb6f8",
      "bytes": 1018,
+     "width": 37,
+     "height": 33
+    },
+    {
+     "version": "rv428",
+     "sha256": "01ae60e670c2f4a83dd86c2eeeac103cd642b9289afba70cfd26fb748b72fa27",
+     "bytes": 983,
      "width": 37,
      "height": 33
     }
@@ -6039,7 +6130,7 @@
    "path": "sprites/A_UINumberBattle/battle_pvp_slider02.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -6061,6 +6152,13 @@
      "bytes": 1076,
      "width": 40,
      "height": 30
+    },
+    {
+     "version": "rv428",
+     "sha256": "2d5c6d7942ed0f9e636986e5f16876802fc2e53c9e325f722ef700d97171196e",
+     "bytes": 925,
+     "width": 40,
+     "height": 30
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -6069,7 +6167,7 @@
    "path": "sprites/A_UINumberBattle/lose_icon_12.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -6091,6 +6189,13 @@
      "bytes": 34918,
      "width": 180,
      "height": 180
+    },
+    {
+     "version": "rv428",
+     "sha256": "67cb74b207a462e90a2b43c20b196e9a6bdfb26e994a9aeca225e97a6491865d",
+     "bytes": 34902,
+     "width": 180,
+     "height": 180
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -6099,7 +6204,7 @@
    "path": "sprites/A_UINumberBattle/lose_icon_9.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv427",
+   "lastSeen": "rv428",
    "history": [
     {
      "version": "rv417",
@@ -6119,6 +6224,13 @@
      "version": "rv427",
      "sha256": "bc6747f5482ae6af9dd2bb9f1a0197f4dfe5e73783726e893d448f687cdb3108",
      "bytes": 39520,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv428",
+     "sha256": "153163d2aa3505e35633af5b9fcc01704c2866d72e9a8e344278f907ec42b514",
+     "bytes": 39542,
      "width": 180,
      "height": 180
     }
