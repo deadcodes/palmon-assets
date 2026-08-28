@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv427",
+ "generatedFor": "rv428",
  "kinds": {
   "armigo": {
    "10001": {
@@ -1757,8 +1757,7 @@
     "icon": "uiv3/texture/uiitem/item_icon_BirthCard_2026.png"
    },
    "106002": {
-    "icon": null,
-    "reason": "art-not-exported"
+    "icon": "uiv3/texture/uiitem/item_icon_BirthCard_2027.png"
    },
    "200001": {
     "icon": "uiv3/texture/uiitem/item_icon_custom.png"
@@ -39692,7 +39691,7 @@
  "unresolved": {
   "armigo": 0,
   "buff": 0,
-  "item": 12,
+  "item": 11,
   "mount": 0,
   "palmon": 5,
   "skill": 4157

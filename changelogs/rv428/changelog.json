@@ -1,0 +1,3141 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv427",
+  "new": "rv428"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 64,
+  "noiseSkipped": 1,
+  "languageEntries": 0,
+  "bullets": 87,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 30,
+  "otherRowsExcluded": 84906,
+  "assetsNew": 23,
+  "assetsListed": 23,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 22,
+  "assetImageBytes": 12930261,
+  "assetsWithoutArt": 1,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 1,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 23,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 0,
+  "imagesCopied": 77
+ },
+ "warnings": [
+  "New assets: 1 are registered but had no art exported."
+ ],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "Other skill data",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "DeathAddBuff4",
+           "kind": "bold"
+          },
+          {
+           "text": " (#10260)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [
+          {
+           "runs": [
+            {
+             "text": "Increased the super-evolve show2 from 0 to 1.",
+             "kind": "text"
+            },
+            {
+             "text": " ↑",
+             "kind": "up"
+            }
+           ],
+           "icons": [],
+           "images": [],
+           "sub": [],
+           "levels": {},
+           "level_range": null,
+           "level_mode": "slider",
+           "level_label": "Level",
+           "level_group_id": null,
+           "overflow": null
+          }
+         ],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": "No Palmon owns these rows in this build's config -- no skill, evolution or buff chain references them -- so they are listed by their own effect name and icon instead of under a Palmon.",
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "Barkplug (#205001)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Barkplug",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5001.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "53ee667761c1b6f87712c966633daa76cc52a40ac1255fb9511b1040eaa62e6f"
+       }
+      },
+      {
+       "title": "Ninjump (#205002)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Ninjump",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5002.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "d73839e28a0587cb5e3d9ec920f6593cd63c2d30bf09d95cbeaceec8e39d3324"
+       }
+      },
+      {
+       "title": "Lucidina (#205003)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Lucidina",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5003.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "b08f48c720ce9dbaba7d19ecb19bde02c700713d4a43953eecd479baabe902ba"
+       }
+      },
+      {
+       "title": "Mantleray (#205004)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Mantleray",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5004.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "1ffc21637414489ed763437b80c9a0552746d8c5f979ecbeb880b03a536159fd"
+       }
+      },
+      {
+       "title": "Ghillant (#205005)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Ghillant",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5005.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "397d51e7769b7c87fde93141e4241c2418fc2d6074cc0a4021b637cb5c14a7b2"
+       }
+      },
+      {
+       "title": "Dolphriend (#205006)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Dolphriend",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5006.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "66b0c21165942e1048641cf967e9389f40ce3ee94df6f00a39325226e84e6b72"
+       }
+      },
+      {
+       "title": "Abuzzinian (#205007)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Abuzzinian",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5007.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "f5efcdc435ed402842047234306a09be5436efbfa7cddef610b9cf60608d5ff1"
+       }
+      },
+      {
+       "title": "Statchew (#205008)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Statchew",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5008.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "c85ab113202d35596bdaa8918a467cd85340a31dc3d52211ca568cc3baca6713"
+       }
+      },
+      {
+       "title": "Blazeal (#205009)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Blazeal",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5009.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "bfc038fadad1d67bb33f2db537cb387c829b97d57278182987b5840df6c3aff0"
+       }
+      },
+      {
+       "title": "Baboom (#205010)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Baboom",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5010.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "9280b14eacab71607d5ecb0b95002b4ee9fa426036b703fdb3f0397a33d2d117"
+       }
+      },
+      {
+       "title": "Magmolin (#205011)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Magmolin",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5011.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "9474645a211a60265f037691daa2e6aea03ebe3266775e79c62f1897f57becb7"
+       }
+      },
+      {
+       "title": "Surveilynx (#205012)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Surveilynx",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5012.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "281e6d6b055e88a03aff164201a21cab79e6efadde75d174d4568c4a9ff59916"
+       }
+      },
+      {
+       "title": "Fingenue (#205013)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Fingenue",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5013.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "6f67d20684f4d066e4ef00a4cae836bfcedc3c3bde0ec11f6362aa8f7a6b69ca"
+       }
+      },
+      {
+       "title": "Woozard (#205014)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Woozard",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5014.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "ff6f242b7026df09f6a6adf0b13e0980bcb109f452ffeac1b060fbdbe966ebf2"
+       }
+      },
+      {
+       "title": "Salamantis (#205015)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Salamantis",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5015.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "e017f54852d560e001aba3a8eae0c8be96feb651031db522242733bc5fa4f0cb"
+       }
+      },
+      {
+       "title": "Fulgairy (#205016)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Fulgairy",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5016.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "ec07ff6cb06595e111d7a3ff8f62dfe10c2dab7558b34e89eaa774f70db3855d"
+       }
+      },
+      {
+       "title": "Hoofrit (#205017)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Hoofrit",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5017.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "60b74465145af4d745fbd15fc63119d59cf6199e91068cef36177634d93266e1"
+       }
+      },
+      {
+       "title": "Limudroid (#205018)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Limudroid",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5018.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "9d74b4b0387082fcb7f4e1197b2470625d86d7c81fea1f2c4818945c9868b098"
+       }
+      },
+      {
+       "title": "Regalion (#205019)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Regalion",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5019.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "6315dc6a647a01c7ee7bb7e7ba51b72bc77f91142f97ded04ab6f64e7a23db39"
+       }
+      },
+      {
+       "title": "Battereina (#205020)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Battereina",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5020.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "38df34a6e77edeaabe01437bb8bcf8e8c3c442472f5a1ec4e0c1bedf9d4d898b"
+       }
+      },
+      {
+       "title": "Revontulet (#205021)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Revontulet",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5021.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "5a471f059d34e374db15c9113956279256db46b18587cfb008598b3c2b09590a"
+       }
+      },
+      {
+       "title": "Escarffier (#205022)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Escarffier",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5022.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "df59f0ccd1a9041096bc8eef9cdfce3d5fa60ee05e3bb3f636f9b261c7195992"
+       }
+      },
+      {
+       "title": "Glacewing (#205023)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Glacewing",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5023.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "29234a81aca6dc8aff72a78d154c37c15664d23fc364aafac82706c7e6c23961"
+       }
+      },
+      {
+       "title": "Mammolith (#205024)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Mammolith",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5024.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "a313246d18292908829bb416def6198fd1de4446fc46b871c15209d6f4fc6d9d"
+       }
+      },
+      {
+       "title": "Thundertooth (#205025)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Thundertooth",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5025.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "a3951e325bb7dbad6941dcb65425c03450798ed50b11148a934280ca9d98c703"
+       }
+      },
+      {
+       "title": "Embergeist (#205026)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Embergeist",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5026.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "96d25cda4b3943bcb483a5df8a5787d34833d4f6624a82af26c64d6ef36ff89a"
+       }
+      },
+      {
+       "title": "Gnashley (#205027)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Gnashley",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5027.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "096ca0ac2778960505706d717d4bbfc217e12a4cee518fa8e0df878014dfdc8a"
+       }
+      },
+      {
+       "title": "Pipistrigoi (#205028)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Pipistrigoi",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5028.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "26e8371ad8faaa3d498e587166e40caa5baa12eb37d18ec6017e4977e5ced6d5"
+       }
+      },
+      {
+       "title": "Kungpaw (#205031)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Kungpaw",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5031.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "48764391ba72f7a916396a6907e89ae53802245b18f78163e26a73e002a5f4e4"
+       }
+      },
+      {
+       "title": "Plunderjaw (#205032)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Plunderjaw",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5032.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "9193adc584df37007ad27124c931064298aa62f7d7ea0fd9890f1f33951f11bc"
+       }
+      },
+      {
+       "title": "Zapantis (#205033)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Zapantis",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5033.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "8842954c6e9995975900d2010173dbc9e50d3471eff8842aa28b83a411e13b91"
+       }
+      },
+      {
+       "title": "Rootwarden (#205034)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Rootwarden",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5034.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "594932a460a9d2d6774634e388ee807b3adc6696e9b6294f54f3f0229c288f97"
+       }
+      },
+      {
+       "title": "Hexkit (#205035)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Hexkit",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5035.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "0bce3ac7d29f9f787d5d22e26affe2f7fc8555e2ae5fa1301a2e12fe4763981c"
+       }
+      },
+      {
+       "title": "Sylphira (#205037)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Sylphira",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5037.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "a2d41d2747c3d4a80df4b35d1f5a800921ea6c6474a59c3001ab639a04d68548"
+       }
+      },
+      {
+       "title": "Dialuna (#205038)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Dialuna",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5038.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "b7819f3401e716abd9796e0c2137e5304350f1c4bc321f95949b9d627580edf8"
+       }
+      },
+      {
+       "title": "Gryndarr (#205039)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Gryndarr",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5039.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "0c4b6e7075b877904d04ebcd3c0fc15fae7329e1a0e2eb095637ef4eeee5426f"
+       }
+      },
+      {
+       "title": "Scorphelia (#205040)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Scorphelia",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5040.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "4b34e4d1f40dc019f9d3c343ee142d1dd7c40704de144cfb0055e3c41fb4f6bf"
+       }
+      },
+      {
+       "title": "Rapheni (#205041)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Rapheni",
+           "kind": "bold"
+          },
+          {
+           "text": ": Changed the evolution day thresholds from servers 1-240: from day 4; servers 241-9,999: from day 8 to servers 1-240: from day 4; servers 241-264: from day 8; servers 245-9,999: from day 12.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5041.png",
+        "version": "rv428",
+        "published": true,
+        "sha256": "a2ab0eb5f6e6bdc72dbc8bde4673b4cece5559d2b60375c7858564ea00cd4cd0"
+       }
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Lvl 5 Armigo (player troop)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 122 to 138.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uisoldierheadicon/WarriorHead05.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "9dc9a57924b921844cce84f29c8feb3279fe2132ddaf0881f9f59a1c8a390656"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 6 Armigo (player troop)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 130 to 180.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uisoldierheadicon/WarriorHead06.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "6911ac1081087a8e3d54311aa4a1c763903050ea11242e97adb1083c4d1fa2ea"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 7 Armigo (player troop)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 141 to 216.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uisoldierheadicon/WarriorHead07.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "5d8840b688994dce2ca09f2c2359d060820bec7a1a20de27e85f655be18464e7"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 8 Armigo (player troop)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 155 to 238.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uisoldierheadicon/WarriorHead08.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "7da533d10fedd12721c8d6606a41ea47f5efa65e388393f84d9ff7961f2ff2d3"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 9 Armigo",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 186 to 286.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uisoldierheadicon/WarriorHead09.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "5c29639465e4a5a3a9ca4ffc055cdc1f51be5e91fa74c7609aa5b8cb9edb0134"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 10 Armigo",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 224 to 345.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uisoldierheadicon/WarriorHead10.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "f8468a4433e696c2e3a9e60ac938502516e80bb85b9d91ccd8978c7d2a16a658"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 5 Armigo (NPC troop)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 122 to 138.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/formation_pic_guard_red2.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "ca45437bbe834d3f61b23a24f3189b55ffa3b0b9e1c0b015a20f77f610861b02"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 6 Armigo (NPC troop)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 130 to 180.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/formation_pic_guard_red2.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "ca45437bbe834d3f61b23a24f3189b55ffa3b0b9e1c0b015a20f77f610861b02"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 7 Armigo (NPC troop)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 141 to 216.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/formation_pic_guard_red2.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "ca45437bbe834d3f61b23a24f3189b55ffa3b0b9e1c0b015a20f77f610861b02"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Lvl 8 Armigo (NPC troop)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Increased the morale from 155 to 238.",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "buff"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/formation_pic_guard_red2.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "ca45437bbe834d3f61b23a24f3189b55ffa3b0b9e1c0b015a20f77f610861b02"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Narfoal",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from 90 to [20,20].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_001.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "ee5a6d5af9286444a88626440cd3b49be83c7b7db0256abd5d93a828714e3057"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Swiftger",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from 30 to [18,16].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_002.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "67a60995d1e3bb8bd2e89dc4e5d0b449871b40eade6824e57e23945ca263059f"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Amourphibian",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from 20 to [19,18].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_003.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "9b48e1e778af45ccfe19603e1509ad4d4859bdd87b25517e339f3b2ddb86b094"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Slackycapy",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from 21 to [17,15].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_004.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "99ef11d4ee5d8a3c17042d73f7f0575902e6a575d062dbbed4bc1a27760e9893"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Night Mare",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from 19 to [16,19].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_005.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "3063b1940279323c272f437e2f9ca1a6a26a44cae508de0f6e9d2348f7f48190"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Bunny Runny",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from 18 to [15,14].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_006.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "75040aa0c115b59165186cbb4137c983d9315087afdc5622a05f4722cc609d19"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Skybound Patrol",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from 17 to [14,17].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_007.png",
+         "version": "rv428",
+         "published": true,
+         "sha256": "c8e91b6a6c6f250116061257df69bdc095b9752642def26c5b36da0950a9bee8"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "activity_recharge_gift",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the openingday heroid: reshaped from a map of 3 keys, each a nested map of varying key(s) to a map of 4 keys, each a nested map of varying key(s).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": {
+          "old": "{\n  \"1\": {\n    \"1\": [\n      205003\n    ],\n    \"22\": [\n      205003,\n      205002,\n      205004,\n      205001\n    ],\n    \"43\": [\n      205003,\n      205002,\n      205004,\n      205001,\n      205006,\n      205013,\n      205018,\n      205010,\n      205008,\n      205011,\n      205009\n    ]\n  },\n  \"2\": {\n    \"1\": [\n      205003\n    ],\n    \"8\": [\n      205003,\n      205001\n    ],\n    \"15\": [\n      205003,\n      205001,\n      205008\n    ],\n    \"22\": [\n      205003,\n      205001,\n      205008,\n      205019\n    ],\n    \"29\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020\n    ],\n    \"36\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020,\n      205015\n    ],\n    \"43\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020,\n      205015,\n      205021\n    ]\n  },\n  \"3\": {\n    \"1\": [\n      205003\n    ],\n    \"8\": [\n      205003,\n      205018\n    ],\n    \"15\": [\n      205003,\n      205018,\n      205008\n    ],\n    \"22\": [\n      205003,\n      205018,\n      205008,\n      205019\n    ],\n    \"29\": [\n      205003,\n      205018,\n      205008,\n      205019,\n      205020\n    ],\n    \"36\": [\n      205003,\n      205018,\n      205008,\n      205019,\n      205020,\n      205015\n    ],\n    \"43\": [\n      205003,\n      205018,\n      205008,\n      205019,\n      205020,\n      205015,\n      205021\n    ]\n  }\n}",
+          "new": "{\n  \"1\": {\n    \"1\": [\n      205003\n    ],\n    \"22\": [\n      205003,\n      205002,\n      205004,\n      205001\n    ],\n    \"43\": [\n      205003,\n      205002,\n      205004,\n      205001,\n      205006,\n      205013,\n      205018,\n      205010,\n      205008,\n      205011,\n      205009\n    ]\n  },\n  \"2\": {\n    \"1\": [\n      205003\n    ],\n    \"8\": [\n      205003,\n      205001\n    ],\n    \"15\": [\n      205003,\n      205001,\n      205008\n    ],\n    \"22\": [\n      205003,\n      205001,\n      205008,\n      205019\n    ],\n    \"29\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020\n    ],\n    \"36\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020,\n      205015\n    ],\n    \"43\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020,\n      205015,\n      205021\n    ]\n  },\n  \"3\": {\n    \"1\": [\n      205003\n    ],\n    \"8\": [\n      205003,\n      205018\n    ],\n    \"15\": [\n      205003,\n      205018,\n      205008\n    ],\n    \"22\": [\n      205003,\n      205018,\n      205008,\n      205019\n    ],\n    \"29\": [\n      205003,\n      205018,\n      205008,\n      205019,\n      205020\n    ],\n    \"36\": [\n      205003,\n      205018,\n      205008,\n      205019,\n      205020,\n      205015\n    ],\n    \"43\": [\n      205003,\n      205018,\n      205008,\n      205019,\n      205020,\n      205015,\n      205021\n    ]\n  },\n  \"4\": {\n    \"1\": [\n      205003\n    ],\n    \"8\": [\n      205003,\n      205001\n    ],\n    \"15\": [\n      205003,\n      205001,\n      205008\n    ],\n    \"22\": [\n      205003,\n      205001,\n      205008,\n      205019\n    ],\n    \"29\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020\n    ],\n    \"36\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020,\n      205015\n    ],\n    \"43\": [\n      205003,\n      205001,\n      205008,\n      205019,\n      205020,\n      205015,\n      205021\n    ]\n  }\n}"
+         }
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the seasonday heroid2: reshaped from a map of 3 keys, each a nested map of varying key(s) to a map of 4 keys, each a nested map of varying key(s).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": {
+          "old": "{\n  \"1\": {\n    \"-1\": {\n      \"1\": [\n        205003,\n        205002,\n        205004,\n        205001,\n        205006,\n        205013,\n        205018,\n        205010,\n        205008,\n        205011,\n        205009\n      ]\n    }\n  },\n  \"2\": {\n    \"-1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017\n      ],\n      \"36\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"2\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"3\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    }\n  },\n  \"3\": {\n    \"-1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017\n      ],\n      \"36\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"2\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"3\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    }\n  }\n}",
+          "new": "{\n  \"1\": {\n    \"-1\": {\n      \"1\": [\n        205003,\n        205002,\n        205004,\n        205001,\n        205006,\n        205013,\n        205018,\n        205010,\n        205008,\n        205011,\n        205009\n      ]\n    }\n  },\n  \"2\": {\n    \"-1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017\n      ],\n      \"36\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"2\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"3\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    }\n  },\n  \"3\": {\n    \"-1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017\n      ],\n      \"36\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"2\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"3\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    }\n  },\n  \"4\": {\n    \"-1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"1\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017\n      ],\n      \"36\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"2\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    },\n    \"3\": {\n      \"1\": [\n        205003,\n        205002,\n        205031,\n        205004,\n        205001,\n        205018,\n        205012,\n        205008,\n        205006,\n        205013,\n        205027,\n        205010,\n        205007,\n        205016,\n        205014,\n        205005,\n        205011,\n        205017,\n        205022,\n        205009,\n        205019,\n        205020,\n        205015,\n        205021,\n        205028\n      ]\n    }\n  }\n}"
+         }
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the server: added 4 = [[265,999]]; changed 3 from [[249,999]] to [[249,264]].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "city_ur_monster",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the version server: added 4 = [[265,9999]]; changed 3 from [[249,9999]] to [[249,264]].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "hero_train",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the hero evolution day: added 3 = {\"server_limit\":[265,9999],\"server_day\":12}; changed 2 from {\"server_limit\":[241,9999],\"server_day\":8} to {\"server_limit\":[241,264],\"server_day\":8}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "home_mount",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the mount package unlock: changed 2 from {\"8600001\":[1005422,1,4709,2,3]} to {\"8600001\":[1005422,1,4709,2]}, 3 from {\"8600002\":[1005423,1,4709,3,35]} to {\"8600002\":[1005423,1,4709,3]}, 4 from {\"8600003\":[1005424,1,4709,4,14]} to {\"8600003\":[1005424,1,4709,4]}, 5 from {\"8600004\":[1005441,1,4709,5,60]} to {\"8600004\":[1005441,1,4709,5]}, 6 from {\"8600005\":[1005442,1,4709,6,95]} to {\"8600005\":[1005442,1,4709,6]}, 7 from {\"8600006\":[1005443,1,4709,7,125]} to {\"8600006\":[1005443,1,4709,7]}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Set the mount package unlock day to {\"2\":[[1,264,3],[265,9999,60]],\"3\":[[1,264,35],[265,9999,14]],\"4\":[[1,264,14],[265,9999,95]],\"5\":[[1,264,60],[265,9999,3]],\"6\":[[1,264,95],[265,9999,125]],\"7\":[[1,264,125],[265,9999,35]]}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "ruins_challenge_new",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Removed the open condition day (was {\"1\":[0,5],\"2\":[0,5],\"3\":[0,22],\"4\":[0,5],\"5\":[0,5],\"6\":[2,1]}).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "1 row had internal placeholder churn (absent <-> empty list) with no gameplay meaning.",
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "30 tables with 84906 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: activity_award_turnhero (5), activity_award_turnhero_new (70), activity_birthday_main (1), activity_details (152), activity_hero_refine_new (13), activity_new_evolve_task (29), card_arena_npc (268), challenge_management (3), drop (2031), federal_badge (2), gift (80639), hero_equip_star (100), home_mount_level (362), limit_activity (43), milestone (6), model (1), monster (12), monster_npc (20), player_headframe (1), power_detail (490), recharge (88), recharge_birthday (2), recharge_gift (5), recharge_gift_heroequip (26), s00_city_data (97), s01_city_data (168), s02_city_data (168), s03_city_data (80), shop (12), special_activity (12).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`models/prefabs` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "gfx_uipframe_027",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uipframe_027.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/_static_uipanel/uibackground` (18)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "city_summon_pack_titie1_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie1_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "55e1ec4cf153c58a75b6f5ea48ba50c975108e8f9232c77a31f848184c24a129"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_pack_titie2_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie2_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "55e1ec4cf153c58a75b6f5ea48ba50c975108e8f9232c77a31f848184c24a129"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_pack_titie3_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie3_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "206adba021c37eba55061d1909a51e4b6590a6f473a7f847c4fa1c7f485cbe43"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_pack_titie4_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie4_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "206adba021c37eba55061d1909a51e4b6590a6f473a7f847c4fa1c7f485cbe43"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_pack_titie5_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie5_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "efd6ee068a05c7e965081358ed5ab1d34096c017e8420d3fd1003c17e547f509"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_pack_titie6_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie6_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "efd6ee068a05c7e965081358ed5ab1d34096c017e8420d3fd1003c17e547f509"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_useitem1_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem1_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "552b656459430615792dd1d750c5c8604089b8e4de4d8c9d829ae7e27dc5c694"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_useitem2_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem2_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "552b656459430615792dd1d750c5c8604089b8e4de4d8c9d829ae7e27dc5c694"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_useitem3_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem3_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "f2b0b87d06e1b0d01ae5bbb31e31acb5d3031067dda0840a918909f3ea183265"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_useitem4_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem4_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "f2b0b87d06e1b0d01ae5bbb31e31acb5d3031067dda0840a918909f3ea183265"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_useitem5_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem5_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "82716d8370d810788a39efbe59c2e060c0f507860c845c1a657c8e5321e79506"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "city_summon_useitem6_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem6_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "82716d8370d810788a39efbe59c2e060c0f507860c845c1a657c8e5321e79506"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "cityrace_pic_hero1_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero1_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "5343209239c607a43b5536be99c07473c88627f973a961bd415b004a06db6d65"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "cityrace_pic_hero2_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero2_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "5343209239c607a43b5536be99c07473c88627f973a961bd415b004a06db6d65"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "cityrace_pic_hero3_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero3_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "185025c6f565574acc6c6f6ab738ed07e315c08e0b501ed5bad8b9adda48e6ef"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "cityrace_pic_hero4_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero4_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "185025c6f565574acc6c6f6ab738ed07e315c08e0b501ed5bad8b9adda48e6ef"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "cityrace_pic_hero5_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero5_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "4ffea0473e018139222db57979c2ecdc434770dfbda11589efff5abfd162c1c4"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "cityrace_pic_hero6_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero6_v4.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "4ffea0473e018139222db57979c2ecdc434770dfbda11589efff5abfd162c1c4"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/_static_uipanel/uipayactivity` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "piggybank_artfont_break_th",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uipayactivity/PiggyBank_ArtFont_break_th.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "8553e4c27061148e6d8659fc39e80664dc39ac047fbb0b3b9d2a8fc01d0af745"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/ui_season_main` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_2.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "8fdfe716e4218e108ebba2cdd678320f54f7ddd849bdfe391a6814e5057b2be1"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uimilestone` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "milest_sdzc_113",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uimilestone/milest_sdzc_113.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "b08d6f5425fe8815bc7efe39a50447e0dcb957234d9d3cadeaf1c50efbfa79fb"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiplayerheadframe` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "pframe_027",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiplayerheadframe/PFrame_027.png",
+           "version": "rv428",
+           "published": true,
+           "sha256": "345a4e5e2daad1b1da2342eca6da214abe1910a5f6392a770fd853d53051a62c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "1 of 23 new assets have no image: 1 registered but with no art exported at their path (config ahead of art, a normal state in this game's data). Only newly REGISTERED assets are listed -- pass --assets to the diff to also detect new files by content hash.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "models/prefabs/gfx_uipframe_027",
+   "path": "models/prefabs/gfx_uipframe_027",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uipframe_027.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie1_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie1_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_pack_titie1_v4-9f702d9d.png",
+   "sizeBytes": 610277
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie2_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie2_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_pack_titie2_v4-af9a1840.png",
+   "sizeBytes": 610277
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie3_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie3_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_pack_titie3_v4-38ff43d5.png",
+   "sizeBytes": 591601
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie4_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie4_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_pack_titie4_v4-e30dd0d8.png",
+   "sizeBytes": 591601
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie5_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie5_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_pack_titie5_v4-04cd5d02.png",
+   "sizeBytes": 574659
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie6_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_pack_titie6_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_pack_titie6_v4-e0bce1bf.png",
+   "sizeBytes": 574659
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem1_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem1_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_useitem1_v4-28a05ea0.png",
+   "sizeBytes": 657933
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem2_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem2_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_useitem2_v4-a4a922e8.png",
+   "sizeBytes": 657933
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem3_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem3_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_useitem3_v4-c4f83b4d.png",
+   "sizeBytes": 655458
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem4_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem4_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_useitem4_v4-6c22d057.png",
+   "sizeBytes": 655458
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem5_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem5_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_useitem5_v4-2585e246.png",
+   "sizeBytes": 614889
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem6_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/city_summon_useitem6_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-city_summon_useitem6_v4-b9269c51.png",
+   "sizeBytes": 614889
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero1_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero1_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cityrace_pic_hero1_v4-d113da1d.png",
+   "sizeBytes": 174425
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero2_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero2_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cityrace_pic_hero2_v4-4640c0d4.png",
+   "sizeBytes": 174425
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero3_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero3_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cityrace_pic_hero3_v4-23e5c027.png",
+   "sizeBytes": 155449
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero4_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero4_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cityrace_pic_hero4_v4-93cbfa30.png",
+   "sizeBytes": 155449
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero5_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero5_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cityrace_pic_hero5_v4-408d30ad.png",
+   "sizeBytes": 192062
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero6_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/cityrace_pic_hero6_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cityrace_pic_hero6_v4-4fbc4d28.png",
+   "sizeBytes": 192062
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uipayactivity/piggybank_artfont_break_th",
+   "path": "uiv3/texture/_static_uipanel/uipayactivity/PiggyBank_ArtFont_break_th.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-piggybank_artfont_break_th-f20cf0b3.png",
+   "sizeBytes": 33208
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_2",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_2.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_2-3fdd5cb2.png",
+   "sizeBytes": 444803
+  },
+  {
+   "canonical": "uiv3/texture/uimilestone/milest_sdzc_113",
+   "path": "uiv3/texture/uimilestone/milest_sdzc_113.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-milest_sdzc_113-87ae764c.png",
+   "sizeBytes": 339225
+  },
+  {
+   "canonical": "uiv3/texture/uiplayerheadframe/pframe_027",
+   "path": "uiv3/texture/uiplayerheadframe/PFrame_027.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-pframe_027-873b5a8d.png",
+   "sizeBytes": 102995
+  }
+ ]
+}
