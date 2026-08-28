@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv422",
+ "generatedFor": "rv423",
  "totals": {
   "textures": 5445,
   "sprites": 7271
@@ -1635,6 +1635,7 @@
   "rv418__vs__rv419",
   "rv419__vs__rv420",
   "rv420__vs__rv421",
-  "rv421__vs__rv422"
+  "rv421__vs__rv422",
+  "rv422__vs__rv423"
  ]
 }
