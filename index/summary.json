@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv420",
+ "generatedFor": "rv421",
  "totals": {
   "textures": 5445,
   "sprites": 7271
@@ -1633,6 +1633,7 @@
  "changelogPairs": [
   "rv417__vs__rv418",
   "rv418__vs__rv419",
-  "rv419__vs__rv420"
+  "rv419__vs__rv420",
+  "rv420__vs__rv421"
  ]
 }
