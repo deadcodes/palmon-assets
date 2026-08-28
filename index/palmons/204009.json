@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "id": "204009",
+  "name": "Bruiseberry",
+  "icon": "uiv3/texture/uiheroicon/Palmon_head_4009.png",
+  "camp": 3,
+  "levelType": 10,
+  "rarity": "SSR",
+  "baseStats": {
+    "attack": 224,
+    "defense": 19,
+    "hp": 4928,
+    "power": 19820
+  },
+  "remit": 1,
+  "role": "frontline",
+  "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
+  "forms": {
+    "base": {
+      "name": "Bruiseberry",
+      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4009.png"
+    }
+  },
+  "skills": [
+    {
+      "id": "134091",
+      "name": "Berry Bash",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204009_1.png",
+      "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
+      "kind": "normal_attack",
+      "rageGain": 20,
+      "rageActivation": 0,
+      "timing": {
+        "forms": [
+          {
+            "timelineId": 21,
+            "animationMs": 1400,
+            "attackIntervalMs": 1400
+          },
+          null,
+          null
+        ]
+      },
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 60,
+          "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 240,
+          "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 420,
+          "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 600,
+          "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 780,
+          "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 960,
+          "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 1140,
+          "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 1320,
+          "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 1500,
+          "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 1680,
+          "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 1860,
+          "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 2040,
+          "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 2220,
+          "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 2400,
+          "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 2580,
+          "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 2760,
+          "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 2940,
+          "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 3120,
+          "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 3300,
+          "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 3480,
+          "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 3660,
+          "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 3840,
+          "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 4020,
+          "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 4200,
+          "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 4380,
+          "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 4560,
+          "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 4740,
+          "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 4920,
+          "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 5100,
+          "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 1400,
+          "power": 5280,
+          "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
+        }
+      ]
+    },
+    {
+      "id": "134092",
+      "name": "Fruit Punch-Up",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204009_2.png",
+      "des": "Deals <color=#00A069>{0}</color> damage to a nearby enemy.",
+      "kind": "rage",
+      "rageGain": 0,
+      "rageActivation": 100,
+      "timing": {
+        "forms": [
+          {
+            "timelineId": 22,
+            "animationMs": 2600,
+            "attackIntervalMs": 2600
+          },
+          null,
+          null
+        ]
+      },
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 60,
+          "effect": "Deals <color=#00A069>400%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 240,
+          "effect": "Deals <color=#00A069>406.89%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 420,
+          "effect": "Deals <color=#00A069>413.79%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 600,
+          "effect": "Deals <color=#00A069>420.68%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 780,
+          "effect": "Deals <color=#00A069>427.58%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 960,
+          "effect": "Deals <color=#00A069>434.48%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 1140,
+          "effect": "Deals <color=#00A069>441.37%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 1320,
+          "effect": "Deals <color=#00A069>448.27%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 1500,
+          "effect": "Deals <color=#00A069>455.17%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 1680,
+          "effect": "Deals <color=#00A069>462.06%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 1860,
+          "effect": "Deals <color=#00A069>468.96%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 2040,
+          "effect": "Deals <color=#00A069>475.86%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 2220,
+          "effect": "Deals <color=#00A069>482.75%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 2400,
+          "effect": "Deals <color=#00A069>489.65%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 2580,
+          "effect": "Deals <color=#00A069>496.55%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 2760,
+          "effect": "Deals <color=#00A069>503.44%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 2940,
+          "effect": "Deals <color=#00A069>510.34%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 3120,
+          "effect": "Deals <color=#00A069>517.24%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 3300,
+          "effect": "Deals <color=#00A069>524.13%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 3480,
+          "effect": "Deals <color=#00A069>531.03%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 3660,
+          "effect": "Deals <color=#00A069>537.92%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 3840,
+          "effect": "Deals <color=#00A069>544.82%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 4020,
+          "effect": "Deals <color=#00A069>551.72%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 4200,
+          "effect": "Deals <color=#00A069>558.62%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 4380,
+          "effect": "Deals <color=#00A069>565.51%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 4560,
+          "effect": "Deals <color=#00A069>572.41%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 4740,
+          "effect": "Deals <color=#00A069>579.3%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 4920,
+          "effect": "Deals <color=#00A069>586.2%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 5100,
+          "effect": "Deals <color=#00A069>593.1%</color> damage to a nearby enemy."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 2600,
+          "power": 5280,
+          "effect": "Deals <color=#00A069>600%</color> damage to a nearby enemy."
+        }
+      ]
+    },
+    {
+      "id": "214093",
+      "name": "Fiery Warm-Up",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204009_3.png",
+      "des": "Training speed +{0} when working in an Armigo Hut.",
+      "kind": "special_passive",
+      "rageGain": 0,
+      "rageActivation": 0,
+      "timing": null,
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 60,
+          "effect": "Training speed +10% when working in an Armigo Hut."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 240,
+          "effect": "Training speed +10.69% when working in an Armigo Hut."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 420,
+          "effect": "Training speed +11.38% when working in an Armigo Hut."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 600,
+          "effect": "Training speed +12.07% when working in an Armigo Hut."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 780,
+          "effect": "Training speed +12.76% when working in an Armigo Hut."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 960,
+          "effect": "Training speed +13.45% when working in an Armigo Hut."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1140,
+          "effect": "Training speed +14.14% when working in an Armigo Hut."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1320,
+          "effect": "Training speed +14.83% when working in an Armigo Hut."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1500,
+          "effect": "Training speed +15.52% when working in an Armigo Hut."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1680,
+          "effect": "Training speed +16.21% when working in an Armigo Hut."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1860,
+          "effect": "Training speed +16.89% when working in an Armigo Hut."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2040,
+          "effect": "Training speed +17.59% when working in an Armigo Hut."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2220,
+          "effect": "Training speed +18.28% when working in an Armigo Hut."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2400,
+          "effect": "Training speed +18.97% when working in an Armigo Hut."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2580,
+          "effect": "Training speed +19.66% when working in an Armigo Hut."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2760,
+          "effect": "Training speed +20.35% when working in an Armigo Hut."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2940,
+          "effect": "Training speed +21.04% when working in an Armigo Hut."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3120,
+          "effect": "Training speed +21.73% when working in an Armigo Hut."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3300,
+          "effect": "Training speed +22.42% when working in an Armigo Hut."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3480,
+          "effect": "Training speed +23.11% when working in an Armigo Hut."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3660,
+          "effect": "Training speed +23.8% when working in an Armigo Hut."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3840,
+          "effect": "Training speed +24.49% when working in an Armigo Hut."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4020,
+          "effect": "Training speed +25.18% when working in an Armigo Hut."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4200,
+          "effect": "Training speed +25.87% when working in an Armigo Hut."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4380,
+          "effect": "Training speed +26.56% when working in an Armigo Hut."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4560,
+          "effect": "Training speed +27.25% when working in an Armigo Hut."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4740,
+          "effect": "Training speed +27.94% when working in an Armigo Hut."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4920,
+          "effect": "Training speed +28.63% when working in an Armigo Hut."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5100,
+          "effect": "Training speed +29.32% when working in an Armigo Hut."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5280,
+          "effect": "Training speed +30% when working in an Armigo Hut."
+        }
+      ]
+    }
+  ],
+  "attackSpeedModifiers": [],
+  "evolutionStages": []
+}

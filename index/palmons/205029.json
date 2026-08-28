@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "id": "205029",
+  "name": "Oleana",
+  "icon": "uiv3/texture/uiheroicon/Palmon_head_5029.png",
+  "camp": 3,
+  "levelType": 11,
+  "rarity": "UR",
+  "baseStats": {
+    "attack": 507,
+    "defense": 44,
+    "hp": 12675,
+    "power": 49700
+  },
+  "remit": 2,
+  "role": "backline",
+  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+  "forms": {
+    "base": {
+      "name": "Oleana",
+      "portrait": "uiv3/texture/uiherohalf/Palmon_full_5029.png"
+    }
+  },
+  "skills": [
+    {
+      "id": "135291",
+      "name": "Olive Barrage",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205029_1.png",
+      "des": "Throws an olive, dealing <color=#00A069>{0}</color> damage to a single enemy.",
+      "kind": "normal_attack",
+      "rageGain": 19,
+      "rageActivation": 0,
+      "timing": {
+        "forms": [
+          {
+            "timelineId": 188,
+            "animationMs": 1500,
+            "attackIntervalMs": 1500
+          },
+          null,
+          null
+        ]
+      },
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 100,
+          "effect": "Throws an olive, dealing <color=#00A069>100%</color> damage to a single enemy."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 400,
+          "effect": "Throws an olive, dealing <color=#00A069>101.38%</color> damage to a single enemy."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 700,
+          "effect": "Throws an olive, dealing <color=#00A069>102.76%</color> damage to a single enemy."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 1000,
+          "effect": "Throws an olive, dealing <color=#00A069>104.14%</color> damage to a single enemy."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 1300,
+          "effect": "Throws an olive, dealing <color=#00A069>105.52%</color> damage to a single enemy."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 1600,
+          "effect": "Throws an olive, dealing <color=#00A069>106.9%</color> damage to a single enemy."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 1900,
+          "effect": "Throws an olive, dealing <color=#00A069>108.28%</color> damage to a single enemy."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 2200,
+          "effect": "Throws an olive, dealing <color=#00A069>109.66%</color> damage to a single enemy."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 2500,
+          "effect": "Throws an olive, dealing <color=#00A069>111.04%</color> damage to a single enemy."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 2800,
+          "effect": "Throws an olive, dealing <color=#00A069>112.42%</color> damage to a single enemy."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 3100,
+          "effect": "Throws an olive, dealing <color=#00A069>113.8%</color> damage to a single enemy."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 3400,
+          "effect": "Throws an olive, dealing <color=#00A069>115.18%</color> damage to a single enemy."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 3700,
+          "effect": "Throws an olive, dealing <color=#00A069>116.56%</color> damage to a single enemy."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 4000,
+          "effect": "Throws an olive, dealing <color=#00A069>117.94%</color> damage to a single enemy."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 4300,
+          "effect": "Throws an olive, dealing <color=#00A069>119.32%</color> damage to a single enemy."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 4600,
+          "effect": "Throws an olive, dealing <color=#00A069>120.69%</color> damage to a single enemy."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 4900,
+          "effect": "Throws an olive, dealing <color=#00A069>122.07%</color> damage to a single enemy."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 5200,
+          "effect": "Throws an olive, dealing <color=#00A069>123.45%</color> damage to a single enemy."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 5500,
+          "effect": "Throws an olive, dealing <color=#00A069>124.83%</color> damage to a single enemy."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 5800,
+          "effect": "Throws an olive, dealing <color=#00A069>126.21%</color> damage to a single enemy."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 6100,
+          "effect": "Throws an olive, dealing <color=#00A069>127.59%</color> damage to a single enemy."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 6400,
+          "effect": "Throws an olive, dealing <color=#00A069>128.97%</color> damage to a single enemy."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 6700,
+          "effect": "Throws an olive, dealing <color=#00A069>130.35%</color> damage to a single enemy."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 7000,
+          "effect": "Throws an olive, dealing <color=#00A069>131.72%</color> damage to a single enemy."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 7300,
+          "effect": "Throws an olive, dealing <color=#00A069>133.11%</color> damage to a single enemy."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 7600,
+          "effect": "Throws an olive, dealing <color=#00A069>134.49%</color> damage to a single enemy."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 7900,
+          "effect": "Throws an olive, dealing <color=#00A069>135.87%</color> damage to a single enemy."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 8200,
+          "effect": "Throws an olive, dealing <color=#00A069>137.25%</color> damage to a single enemy."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 8500,
+          "effect": "Throws an olive, dealing <color=#00A069>138.63%</color> damage to a single enemy."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 1500,
+          "power": 8800,
+          "effect": "Throws an olive, dealing <color=#00A069>140%</color> damage to a single enemy."
+        }
+      ]
+    },
+    {
+      "id": "135292",
+      "name": "Wreath Toss",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205029_2.png",
+      "des": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>{0}</color> damage to each enemy.",
+      "kind": "rage",
+      "rageGain": 0,
+      "rageActivation": 100,
+      "timing": {
+        "forms": [
+          {
+            "timelineId": 189,
+            "animationMs": 4100,
+            "attackIntervalMs": 4100
+          },
+          null,
+          null
+        ]
+      },
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 100,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>502%</color> damage to each enemy."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 400,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>510.66%</color> damage to each enemy."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 700,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>519.32%</color> damage to each enemy."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 1000,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>527.97%</color> damage to each enemy."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 1300,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>536.63%</color> damage to each enemy."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 1600,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>545.28%</color> damage to each enemy."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 1900,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>553.94%</color> damage to each enemy."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 2200,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>562.59%</color> damage to each enemy."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 2500,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>571.25%</color> damage to each enemy."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 2800,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>579.9%</color> damage to each enemy."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 3100,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>588.55%</color> damage to each enemy."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 3400,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>597.21%</color> damage to each enemy."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 3700,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>605.87%</color> damage to each enemy."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 4000,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>614.52%</color> damage to each enemy."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 4300,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>623.17%</color> damage to each enemy."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 4600,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>631.83%</color> damage to each enemy."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 4900,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>640.49%</color> damage to each enemy."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 5200,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>649.14%</color> damage to each enemy."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 5500,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>657.8%</color> damage to each enemy."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 5800,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>666.45%</color> damage to each enemy."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 6100,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>675.11%</color> damage to each enemy."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 6400,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>683.76%</color> damage to each enemy."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 6700,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>692.42%</color> damage to each enemy."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 7000,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>701.07%</color> damage to each enemy."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 7300,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>709.73%</color> damage to each enemy."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 7600,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>718.38%</color> damage to each enemy."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 7900,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>727.04%</color> damage to each enemy."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 8200,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>735.69%</color> damage to each enemy."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 8500,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>744.35%</color> damage to each enemy."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 4100,
+          "power": 8800,
+          "effect": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>753%</color> damage to each enemy."
+        }
+      ]
+    },
+    {
+      "id": "215293",
+      "name": "Leafy Hug",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205029_3.png",
+      "des": "Increases the HP of all Palmon by <color=#00A069>{0}</color> (even when undeployed). ",
+      "kind": "special_passive",
+      "rageGain": 0,
+      "rageActivation": 0,
+      "timing": null,
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 100,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>60000</color> (even when undeployed). "
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 400,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>78621</color> (even when undeployed). "
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 700,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>97242</color> (even when undeployed). "
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1000,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>115863</color> (even when undeployed). "
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1300,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>134483</color> (even when undeployed). "
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1600,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>153104</color> (even when undeployed). "
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1900,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>171725</color> (even when undeployed). "
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2200,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>190345</color> (even when undeployed). "
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2500,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>208966</color> (even when undeployed). "
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2800,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>227587</color> (even when undeployed). "
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3100,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>246207</color> (even when undeployed). "
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3400,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>264828</color> (even when undeployed). "
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3700,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>283449</color> (even when undeployed). "
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4000,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>302069</color> (even when undeployed). "
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4300,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>320690</color> (even when undeployed). "
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4600,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>339311</color> (even when undeployed). "
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4900,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>357932</color> (even when undeployed). "
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5200,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>376552</color> (even when undeployed). "
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5500,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>395173</color> (even when undeployed). "
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5800,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>413794</color> (even when undeployed). "
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 6100,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>432414</color> (even when undeployed). "
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 6400,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>451035</color> (even when undeployed). "
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 6700,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>469656</color> (even when undeployed). "
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 7000,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>488276</color> (even when undeployed). "
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 7300,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>506897</color> (even when undeployed). "
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 7600,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>525518</color> (even when undeployed). "
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 7900,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>544138</color> (even when undeployed). "
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 8200,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>562759</color> (even when undeployed). "
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 8500,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>581380</color> (even when undeployed). "
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 8800,
+          "effect": "Increases the HP of all Palmon by <color=#00A069>600000</color> (even when undeployed). "
+        }
+      ]
+    }
+  ],
+  "attackSpeedModifiers": [],
+  "evolutionStages": []
+}
