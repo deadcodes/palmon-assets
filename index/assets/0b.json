@@ -3124,12 +3124,19 @@
    "path": "sprites/A_UIHUD/Shortcut_icon_text.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "a78b90e922ab96276bc739a57bf9b2e06188151ceb60ac10f6c72c5130de800e",
      "bytes": 9188,
+     "width": 91,
+     "height": 95
+    },
+    {
+     "version": "rv429",
+     "sha256": "6e8ed0901cf314616db2f1d6bb6ad47ad5d274c6b594d0155aab21703cf4173a",
+     "bytes": 8678,
      "width": 91,
      "height": 95
     }
@@ -3140,12 +3147,19 @@
    "path": "sprites/A_UIHUD/UnionMark_icon11.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "98d8c7afd2855489ef49d2a531688bc60f47bcb99fa74d58fc826869fcc0068f",
      "bytes": 5654,
+     "width": 94,
+     "height": 85
+    },
+    {
+     "version": "rv429",
+     "sha256": "122ea27d7987e829493571a96dfc75518a8a5f6b3781370256ff9fbcdca21420",
+     "bytes": 6621,
      "width": 94,
      "height": 85
     }
@@ -3156,12 +3170,19 @@
    "path": "sprites/A_UIHUD/city_Palmon_head_5008.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "e72fe932b68914e382921a6609ea4a47212bcde6e370f9089b084c97b68d8970",
      "bytes": 31110,
+     "width": 152,
+     "height": 140
+    },
+    {
+     "version": "rv429",
+     "sha256": "fc5081563d5b9276628f6c351d824d5a8c314d2943817577923d742ef530cd8c",
+     "bytes": 31018,
      "width": 152,
      "height": 140
     }
@@ -3172,12 +3193,19 @@
    "path": "sprites/A_UIHUD/common_pic_hero_status_3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "42e14db697477e3c957922fcb786a12b796f514d5191cb1e6de47dad6fb50f5c",
      "bytes": 2135,
+     "width": 40,
+     "height": 40
+    },
+    {
+     "version": "rv429",
+     "sha256": "aaaa2068ac9bfe21614a5280efbbbbbcbd70277c5ae4fe2cb1039489f0dc7288",
+     "bytes": 2018,
      "width": 40,
      "height": 40
     }
@@ -3188,12 +3216,19 @@
    "path": "sprites/A_UIHUD/formation_pic_arrow2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "606a231ec00e97a489f07cbdcc6c67f093449fd3b1b2cbe47091540aea41aa13",
      "bytes": 595,
+     "width": 30,
+     "height": 22
+    },
+    {
+     "version": "rv429",
+     "sha256": "c7a74141883f86e97aae6d39f9aa6cdd098a38837ad1377cc954ee9e50e11d42",
+     "bytes": 605,
      "width": 30,
      "height": 22
     }
@@ -3204,12 +3239,19 @@
    "path": "sprites/A_UIHUD/formation_pic_headPointer.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "c50bee1e21f515a8eaf14d425e7a913004abfbcff4907dc037e4d13d5b76231a",
      "bytes": 3865,
+     "width": 118,
+     "height": 165
+    },
+    {
+     "version": "rv429",
+     "sha256": "6f47e9306a7e1eeb1abecc8eaf8a3d76b5e83bfb3e1bd1d983e27998b72303ee",
+     "bytes": 3781,
      "width": 118,
      "height": 165
     }
@@ -3220,12 +3262,19 @@
    "path": "sprites/A_UIHUD/infomation_pic_p04.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "e73b1d301f42255bccf59b773bbfe8a86b35202864b0b784a1165d2d5fa1225d",
      "bytes": 9687,
+     "width": 116,
+     "height": 144
+    },
+    {
+     "version": "rv429",
+     "sha256": "dd1c14752f830a8d04b9f03324e30c66074c5b34d1a3f46984f56fdbee6721ac",
+     "bytes": 9854,
      "width": 116,
      "height": 144
     }
@@ -3236,12 +3285,19 @@
    "path": "sprites/A_UIHUD/infomation_pic_type4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "02bc283724c05065bb0421a491b60f1ad5c414c8e9b496ac452541ac270a5d29",
      "bytes": 2238,
+     "width": 79,
+     "height": 81
+    },
+    {
+     "version": "rv429",
+     "sha256": "1d9e741fe485656de4dcd747568bd0f617d0e40fe351cb79c8e125375d9613a6",
+     "bytes": 2048,
      "width": 79,
      "height": 81
     }
@@ -3252,12 +3308,19 @@
    "path": "sprites/A_UIHUD/item_icon_flag.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "26e166dc25eefa296eec9b29080ec1a84ba7b1c5d21ab05c743f710e5edab5f2",
      "bytes": 15696,
+     "width": 132,
+     "height": 159
+    },
+    {
+     "version": "rv429",
+     "sha256": "98a9e767db6392d7eda63fd2301fb9386a46cd86196f6bdfedd832358cdeaee3",
+     "bytes": 15492,
      "width": 132,
      "height": 159
     }
@@ -3268,12 +3331,19 @@
    "path": "sprites/A_UIHUD/main_pic_groupsbg.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "e7a8fc174fc2015a76275e2ea28ee60405f7d0898e62a857d47b13353fd74782",
      "bytes": 1297,
+     "width": 50,
+     "height": 40
+    },
+    {
+     "version": "rv429",
+     "sha256": "b7de64e2b9ebbd4bb8c5770237bcc7d923d2ccd80e06dad36573acb1238908f7",
+     "bytes": 1543,
      "width": 50,
      "height": 40
     }
@@ -3284,12 +3354,19 @@
    "path": "sprites/A_UIHUD/monster_429_21.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "06c7e1729b54ea16127c6eaf38c2c814fec341422d79215e1d1766fe69231eb8",
      "bytes": 4159,
+     "width": 60,
+     "height": 60
+    },
+    {
+     "version": "rv429",
+     "sha256": "5c564384cad13a7185a45b34dd3ad875b02ca2f9c78dd89a620e2a8c277fe511",
+     "bytes": 4232,
      "width": 60,
      "height": 60
     }
@@ -3300,12 +3377,19 @@
    "path": "sprites/A_UIHUD/monster_429_9.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "03eb86405f8755e851d21054124a1d87467f64e02157f77a02370be7ba31d236",
      "bytes": 4384,
+     "width": 60,
+     "height": 60
+    },
+    {
+     "version": "rv429",
+     "sha256": "597f455ef41d9c490a692126bc87ac7d857d02fe2193768bd1b479445a46b144",
+     "bytes": 4292,
      "width": 60,
      "height": 60
     }
@@ -3316,12 +3400,19 @@
    "path": "sprites/A_UIHUD/s03_pyramid_war_world_bg_02.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "14c3eced09a3ef29bec7dd99016da0f9fcd0bc186b52b478867b3fd412e96b78",
      "bytes": 2069,
+     "width": 40,
+     "height": 58
+    },
+    {
+     "version": "rv429",
+     "sha256": "0ca1b79efe4a672d5df92caccc941312a8fa3a4e6c9cb336356c6831aa7e8951",
+     "bytes": 2100,
      "width": 40,
      "height": 58
     }
@@ -5575,12 +5666,19 @@
    "path": "sprites/A_UIPyramidBattle/battle_icon_Takedamage.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "b8816ab01ae1223243991c33b19512c3562a7eef1a287c84e726fd0e6f16afd4",
      "bytes": 576,
+     "width": 40,
+     "height": 41
+    },
+    {
+     "version": "rv429",
+     "sha256": "4d271fd90a85998aab22ba910654d5684144498670b3461ed1d92a538c7a4548",
+     "bytes": 651,
      "width": 40,
      "height": 41
     }
@@ -5591,12 +5689,19 @@
    "path": "sprites/A_UIPyramidBattle/pyramid_war_tips_btn_01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "d71d94f45f562fb47ee647906d05064f5704d10af86ff5dbffee4debd1cec741",
      "bytes": 3981,
+     "width": 62,
+     "height": 64
+    },
+    {
+     "version": "rv429",
+     "sha256": "2b270934344632f4d7551a3429ed306cd9d833f112fe50523e107d29b2063611",
+     "bytes": 3729,
      "width": 62,
      "height": 64
     }
@@ -5607,12 +5712,19 @@
    "path": "sprites/A_UIPyramidBattle/pyramid_war_world_btnbg_02.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "77c5c41d48e0c03389f733759a654f219cfab58e5c63c50858453527f3ead77f",
      "bytes": 3784,
+     "width": 302,
+     "height": 100
+    },
+    {
+     "version": "rv429",
+     "sha256": "f4d5730962e0325c0eca797c11b08bd054b2bed6402db90c86a29fc5d5e3c97b",
+     "bytes": 3780,
      "width": 302,
      "height": 100
     }
@@ -6039,12 +6151,19 @@
    "path": "sprites/A_UITask/task_pic_box8_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "7270eae3e1b901347a8e23e07015376f9c9d6a79f1fd17e936a5623fc34a9e73",
      "bytes": 29767,
+     "width": 156,
+     "height": 140
+    },
+    {
+     "version": "rv429",
+     "sha256": "e0cd331a06291fed9885c18148d7b75cd8bd8f93d5df2e44023d513828a55193",
+     "bytes": 29781,
      "width": 156,
      "height": 140
     }
@@ -6055,12 +6174,19 @@
    "path": "sprites/A_UITask/task_pic_claimed.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "30c331ac6906f6e2ac4841c8ac408e2dfc5e586080da93f406121967f5e4411e",
      "bytes": 7138,
+     "width": 184,
+     "height": 122
+    },
+    {
+     "version": "rv429",
+     "sha256": "e9c0c15a65640002495db36367c0ae0ef1c7b9a0642dfacdd9e1da684874ce58",
+     "bytes": 7040,
      "width": 184,
      "height": 122
     }
@@ -6071,12 +6197,19 @@
    "path": "sprites/A_UITask/task_pic_infobase2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "5f7413876742fbe854761670a5afad5b2329d53386d637f0c3429e1c0a0dafd9",
      "bytes": 2160,
+     "width": 100,
+     "height": 130
+    },
+    {
+     "version": "rv429",
+     "sha256": "d7ec4a1b90b80cf516b2b3ba615901ee4daf39bdd6242254a5532fb3840d06f5",
+     "bytes": 2137,
      "width": 100,
      "height": 130
     }
@@ -7501,6 +7634,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie4_v4.png",
+   "kind": "texture",
+   "firstSeen": "rv429",
+   "lastSeen": "rv429",
+   "history": [
+    {
+     "version": "rv429",
+     "sha256": "ebef7c05e02f26d78be68646b01d2f7c0415329967f8eb5cb9a9a971d25fb527",
+     "bytes": 575822,
+     "width": 890,
+     "height": 646
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem3_v2.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -7512,6 +7660,36 @@
      "bytes": 580175,
      "width": 982,
      "height": 429
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem4_v3.png",
+   "kind": "texture",
+   "firstSeen": "rv429",
+   "lastSeen": "rv429",
+   "history": [
+    {
+     "version": "rv429",
+     "sha256": "6f4b3528471748611ffd58212d89e7ec000eef22fa36673023a278e8e1ecd97c",
+     "bytes": 580175,
+     "width": 982,
+     "height": 429
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero3_v4.png",
+   "kind": "texture",
+   "firstSeen": "rv429",
+   "lastSeen": "rv429",
+   "history": [
+    {
+     "version": "rv429",
+     "sha256": "e1480176790f5fea120005c3fa0d460ca4b9a5ffc2bf5e02a2f33b5072aed509",
+     "bytes": 53104,
+     "width": 286,
+     "height": 300
     }
    ]
   },
@@ -9544,12 +9722,19 @@
    "path": "uiv3/texture/uichallengedojo/RankMatch_icon_S06.png",
    "kind": "texture",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv429",
    "history": [
     {
      "version": "rv417",
      "sha256": "7da0d84b92fdbe8718aaeb6dc03e6546607414d0b61ee8249bce43d7d9571bd0",
      "bytes": 46308,
+     "width": 190,
+     "height": 190
+    },
+    {
+     "version": "rv429",
+     "sha256": "e94e9ea815a3eef8cf5faf26f1cfe536ea5523c55999de09b4ce2824af313805",
+     "bytes": 56972,
      "width": 190,
      "height": 190
     }
