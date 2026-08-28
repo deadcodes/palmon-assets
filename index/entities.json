@@ -1,0 +1,4926 @@
+{
+ "schemaVersion": 1,
+ "generatedFor": "rv417",
+ "palmons": {
+  "203201": {
+   "name": "Graffitty",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_3201.png",
+   "skills": [
+    "133011",
+    "133012",
+    "213013",
+    "213014"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 9,
+   "rarity": "SR"
+  },
+  "203202": {
+   "name": "Herculeaf",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_3202.png",
+   "skills": [
+    "133021",
+    "133022",
+    "213023"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 9,
+   "rarity": "SR"
+  },
+  "203203": {
+   "name": "Flouffant",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_3203.png",
+   "skills": [
+    "133031",
+    "133032",
+    "213033"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 9,
+   "rarity": "SR"
+  },
+  "203204": {
+   "name": "Spinchilla",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_3204.png",
+   "skills": [
+    "133041",
+    "133042",
+    "213043"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 9,
+   "rarity": "SR"
+  },
+  "203205": {
+   "name": "Emboa",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_3205.png",
+   "skills": [
+    "133051",
+    "133052",
+    "213053"
+   ],
+   "evolutions": [],
+   "camp": 2,
+   "levelType": 9,
+   "rarity": "SR"
+  },
+  "203206": {
+   "name": "Auktyke",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_3206.png",
+   "skills": [
+    "133061",
+    "133062",
+    "133063"
+   ],
+   "evolutions": [],
+   "camp": 1,
+   "levelType": 9,
+   "rarity": "SR"
+  },
+  "203207": {
+   "name": "Kilohopp",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_3207.png",
+   "skills": [
+    "133071",
+    "133072",
+    "213073"
+   ],
+   "evolutions": [],
+   "camp": 4,
+   "levelType": 9,
+   "rarity": "SR"
+  },
+  "204001": {
+   "name": "Wyvierno",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4001.png",
+   "skills": [
+    "134011",
+    "134012",
+    "214013",
+    "214014"
+   ],
+   "evolutions": [],
+   "camp": 2,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204002": {
+   "name": "Meowdame",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4002.png",
+   "skills": [
+    "134021",
+    "134022",
+    "214023"
+   ],
+   "evolutions": [],
+   "camp": 1,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204003": {
+   "name": "Platyputz",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4003.png",
+   "skills": [
+    "134031",
+    "134032",
+    "134033"
+   ],
+   "evolutions": [],
+   "camp": 1,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204004": {
+   "name": "Snowkami",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4004.png",
+   "skills": [
+    "134041",
+    "134042",
+    "134043"
+   ],
+   "evolutions": [],
+   "camp": 1,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204005": {
+   "name": "Thunderclawd",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4005.png",
+   "skills": [
+    "134051",
+    "134052",
+    "214053"
+   ],
+   "evolutions": [],
+   "camp": 4,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204006": {
+   "name": "Terrastudo",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4006.png",
+   "skills": [
+    "134061",
+    "134062",
+    "214063"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204007": {
+   "name": "Incineraptor",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4007.png",
+   "skills": [
+    "134071",
+    "134072",
+    "210073"
+   ],
+   "evolutions": [],
+   "camp": 2,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204008": {
+   "name": "Maximito",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4008.png",
+   "skills": [
+    "134081",
+    "134082",
+    "214083"
+   ],
+   "evolutions": [],
+   "camp": 1,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204009": {
+   "name": "Bruiseberry",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4009.png",
+   "skills": [
+    "134091",
+    "134092",
+    "214093"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204010": {
+   "name": "Lendanear",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4010.png",
+   "skills": [
+    "134101",
+    "134102",
+    "214103"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204011": {
+   "name": "Rotorlotor",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4011.png",
+   "skills": [
+    "134111",
+    "134112",
+    "214113"
+   ],
+   "evolutions": [],
+   "camp": 4,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204012": {
+   "name": "Cerverdant",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4012.png",
+   "skills": [
+    "134121",
+    "134122",
+    "214123"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204013": {
+   "name": "Vulcanid",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4013.png",
+   "skills": [
+    "134131",
+    "134132",
+    "214133"
+   ],
+   "evolutions": [],
+   "camp": 2,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204014": {
+   "name": "Squeezel",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4014.png",
+   "skills": [
+    "134141",
+    "134142",
+    "134143"
+   ],
+   "evolutions": [],
+   "camp": 1,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204015": {
+   "name": "Voltbolt",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4015.png",
+   "skills": [
+    "134151",
+    "134152",
+    "214153"
+   ],
+   "evolutions": [],
+   "camp": 4,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "204016": {
+   "name": "Axollium",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_4016.png",
+   "skills": [
+    "134161",
+    "134162",
+    "214163"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 10,
+   "rarity": "SSR"
+  },
+  "205001": {
+   "name": "Barkplug",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5001.png",
+   "skills": [
+    "135011",
+    "135012",
+    "135013",
+    "215001"
+   ],
+   "evolutions": [
+    {
+     "id": "10105",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10106",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10107",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10108",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10217",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10218",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10219",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10220",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 4,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205002": {
+   "name": "Ninjump",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5002.png",
+   "skills": [
+    "135021",
+    "135022",
+    "135023",
+    "215002"
+   ],
+   "evolutions": [
+    {
+     "id": "10101",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10102",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10103",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10104",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10213",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10214",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10215",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10216",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 1,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205003": {
+   "name": "Lucidina",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5003.png",
+   "skills": [
+    "135031",
+    "135032",
+    "135033",
+    "215003"
+   ],
+   "evolutions": [
+    {
+     "id": "10109",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10110",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10111",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10112",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 1,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205004": {
+   "name": "Mantleray",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5004.png",
+   "skills": [
+    "135041",
+    "135042",
+    "135043",
+    "215004"
+   ],
+   "evolutions": [
+    {
+     "id": "10117",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10118",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10119",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10120",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10221",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10222",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10223",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10224",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 4,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205005": {
+   "name": "Ghillant",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5005.png",
+   "skills": [
+    "135051",
+    "135052",
+    "135053",
+    "215005"
+   ],
+   "evolutions": [
+    {
+     "id": "10113",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10114",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10115",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10116",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10229",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10230",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10231",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10232",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 3,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205006": {
+   "name": "Dolphriend",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5006.png",
+   "skills": [
+    "135061",
+    "135062",
+    "135063",
+    "215006"
+   ],
+   "evolutions": [
+    {
+     "id": "10125",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10126",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10127",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10128",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10225",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10226",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10227",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10228",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 1,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205007": {
+   "name": "Abuzzinian",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5007.png",
+   "skills": [
+    "135071",
+    "135072",
+    "135073",
+    "215007"
+   ],
+   "evolutions": [
+    {
+     "id": "10129",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10130",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10131",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10132",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10285",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10286",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10287",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10288",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 4,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205008": {
+   "name": "Statchew",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5008.png",
+   "skills": [
+    "135081",
+    "135082",
+    "135083",
+    "215008"
+   ],
+   "evolutions": [
+    {
+     "id": "10133",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10134",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10135",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10136",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10293",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10294",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10295",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10296",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 3,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205009": {
+   "name": "Blazeal",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5009.png",
+   "skills": [
+    "135111",
+    "135112",
+    "135113",
+    "215009"
+   ],
+   "evolutions": [
+    {
+     "id": "10121",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10122",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10123",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10124",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 2,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205010": {
+   "name": "Baboom",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5010.png",
+   "skills": [
+    "135091",
+    "135092",
+    "215010",
+    "215103"
+   ],
+   "evolutions": [
+    {
+     "id": "10181",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10182",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10183",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10184",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 3,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205011": {
+   "name": "Magmolin",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5011.png",
+   "skills": [
+    "135101",
+    "135102",
+    "215011",
+    "215113"
+   ],
+   "evolutions": [
+    {
+     "id": "10161",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10162",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10163",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10164",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10237",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10238",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10239",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10240",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 2,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205012": {
+   "name": "Surveilynx",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5012.png",
+   "skills": [
+    "135121",
+    "135122",
+    "215012",
+    "215123"
+   ],
+   "evolutions": [
+    {
+     "id": "10189",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10190",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10191",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10192",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10241",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10242",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10243",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10244",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 3,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205013": {
+   "name": "Fingenue",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5013.png",
+   "skills": [
+    "135131",
+    "135132",
+    "135133",
+    "215013"
+   ],
+   "evolutions": [
+    {
+     "id": "10141",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10142",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10143",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10144",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 1,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205014": {
+   "name": "Woozard",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5014.png",
+   "skills": [
+    "135141",
+    "135142",
+    "135143",
+    "215014",
+    "215114"
+   ],
+   "evolutions": [
+    {
+     "id": "10197",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10198",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10199",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10200",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 3,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205015": {
+   "name": "Salamantis",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5015.png",
+   "skills": [
+    "135161",
+    "135162",
+    "135163",
+    "215015"
+   ],
+   "evolutions": [
+    {
+     "id": "10153",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10154",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10155",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10156",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 3,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205016": {
+   "name": "Fulgairy",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5016.png",
+   "skills": [
+    "135151",
+    "135152",
+    "135153",
+    "215016"
+   ],
+   "evolutions": [
+    {
+     "id": "10145",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10146",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10147",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10148",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 4,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205017": {
+   "name": "Hoofrit",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5017.png",
+   "skills": [
+    "135171",
+    "135172",
+    "135173",
+    "215017"
+   ],
+   "evolutions": [
+    {
+     "id": "10137",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10138",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10139",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10140",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10233",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10234",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10235",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10236",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 2,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205018": {
+   "name": "Limudroid",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5018.png",
+   "skills": [
+    "135181",
+    "135182",
+    "215018",
+    "215183"
+   ],
+   "evolutions": [
+    {
+     "id": "10193",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10194",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10195",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10196",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 4,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205019": {
+   "name": "Regalion",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5019.png",
+   "skills": [
+    "135191",
+    "135192",
+    "135193",
+    "215019"
+   ],
+   "evolutions": [
+    {
+     "id": "10149",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10150",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10151",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10152",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 1,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205020": {
+   "name": "Battereina",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5020.png",
+   "skills": [
+    "135201",
+    "135202",
+    "135203",
+    "215020"
+   ],
+   "evolutions": [
+    {
+     "id": "10165",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10166",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10167",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10168",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 4,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205021": {
+   "name": "Revontulet",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5021.png",
+   "skills": [
+    "135211",
+    "135212",
+    "135213",
+    "215021"
+   ],
+   "evolutions": [
+    {
+     "id": "10201",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10202",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10203",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10204",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10297",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10298",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10299",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10300",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 2,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205022": {
+   "name": "Escarffier",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5022.png",
+   "skills": [
+    "135221",
+    "135222",
+    "135223",
+    "215022"
+   ],
+   "evolutions": [
+    {
+     "id": "10185",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10186",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10187",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10188",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 2,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205023": {
+   "name": "Glacewing",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5023.png",
+   "skills": [
+    "135231",
+    "135232",
+    "135233",
+    "215023"
+   ],
+   "evolutions": [
+    {
+     "id": "10157",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10158",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10159",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10160",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 1,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205024": {
+   "name": "Mammolith",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5024.png",
+   "skills": [
+    "135241",
+    "135242",
+    "135243",
+    "215024"
+   ],
+   "evolutions": [
+    {
+     "id": "10169",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10170",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10171",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10172",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 3,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205025": {
+   "name": "Thundertooth",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5025.png",
+   "skills": [
+    "135251",
+    "135252",
+    "135253",
+    "215025"
+   ],
+   "evolutions": [
+    {
+     "id": "10173",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10174",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10175",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10176",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 4,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205026": {
+   "name": "Embergeist",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5026.png",
+   "skills": [
+    "135261",
+    "135262",
+    "135263",
+    "215026"
+   ],
+   "evolutions": [
+    {
+     "id": "10177",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10178",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10179",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10180",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 2,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205027": {
+   "name": "Gnashley",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5027.png",
+   "skills": [
+    "135271",
+    "135272",
+    "135273",
+    "215027"
+   ],
+   "evolutions": [
+    {
+     "id": "10205",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10206",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10207",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10208",
+     "lv": 4,
+     "name": "Evolution IV"
+    },
+    {
+     "id": "10289",
+     "lv": 5,
+     "name": "Evolution V"
+    },
+    {
+     "id": "10290",
+     "lv": 6,
+     "name": "Evolution VI"
+    },
+    {
+     "id": "10291",
+     "lv": 7,
+     "name": "Evolution VII"
+    },
+    {
+     "id": "10292",
+     "lv": 8,
+     "name": "Evolution VIII"
+    }
+   ],
+   "camp": 1,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205028": {
+   "name": "Pipistrigoi",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5028.png",
+   "skills": [
+    "135281",
+    "135282",
+    "135283",
+    "215028"
+   ],
+   "evolutions": [
+    {
+     "id": "10209",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10210",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10211",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10212",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 2,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205029": {
+   "name": "Oleana",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5029.png",
+   "skills": [
+    "135291",
+    "135292",
+    "215293"
+   ],
+   "evolutions": [],
+   "camp": 3,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205030": {
+   "name": "Spookaboo",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5030.png",
+   "skills": [
+    "135301",
+    "135302",
+    "215303"
+   ],
+   "evolutions": [],
+   "camp": 2,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205031": {
+   "name": "Kungpaw",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5031.png",
+   "skills": [
+    "135311",
+    "135312",
+    "215031",
+    "215313"
+   ],
+   "evolutions": [
+    {
+     "id": "10257",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10258",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10259",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10260",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 1,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205032": {
+   "name": "Plunderjaw",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5032.png",
+   "skills": [
+    "135321",
+    "135322",
+    "135323",
+    "215032"
+   ],
+   "evolutions": [
+    {
+     "id": "10245",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10246",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10247",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10248",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 1,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205033": {
+   "name": "Zapantis",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5033.png",
+   "skills": [
+    "135331",
+    "135332",
+    "135333",
+    "215033"
+   ],
+   "evolutions": [
+    {
+     "id": "10249",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10250",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10251",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10252",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 4,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205034": {
+   "name": "Rootwarden",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5034.png",
+   "skills": [
+    "135341",
+    "135342",
+    "135343",
+    "215034"
+   ],
+   "evolutions": [
+    {
+     "id": "10253",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10254",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10255",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10256",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 3,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205035": {
+   "name": "Hexkit",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5035.png",
+   "skills": [
+    "135351",
+    "135352",
+    "135353",
+    "215035"
+   ],
+   "evolutions": [
+    {
+     "id": "10261",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10262",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10263",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10264",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 2,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205036": {
+   "name": "Sunplume",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5036.png",
+   "skills": [
+    "135361",
+    "135362",
+    "215363"
+   ],
+   "evolutions": [],
+   "camp": 2,
+   "levelType": 11,
+   "rarity": "UR"
+  },
+  "205037": {
+   "name": "Sylphira",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5037.png",
+   "skills": [
+    "135371",
+    "135372",
+    "135373",
+    "215037"
+   ],
+   "evolutions": [
+    {
+     "id": "10265",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10266",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10267",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10268",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 1,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205038": {
+   "name": "Dialuna",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5038.png",
+   "skills": [
+    "135381",
+    "135382",
+    "215038",
+    "215383",
+    "215384"
+   ],
+   "evolutions": [
+    {
+     "id": "10281",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10282",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10283",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10284",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 3,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205039": {
+   "name": "Gryndarr",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5039.png",
+   "skills": [
+    "135391",
+    "135392",
+    "135393",
+    "215039"
+   ],
+   "evolutions": [
+    {
+     "id": "10269",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10270",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10271",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10272",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 4,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205040": {
+   "name": "Scorphelia",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5040.png",
+   "skills": [
+    "135401",
+    "135402",
+    "135403",
+    "215040"
+   ],
+   "evolutions": [
+    {
+     "id": "10273",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10274",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10275",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10276",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 3,
+   "levelType": 12,
+   "rarity": "Mythic"
+  },
+  "205041": {
+   "name": "Rapheni",
+   "icon": "uiv3/texture/uiheroicon/Palmon_head_5041.png",
+   "skills": [
+    "135411",
+    "135412",
+    "135413",
+    "215041"
+   ],
+   "evolutions": [
+    {
+     "id": "10277",
+     "lv": 1,
+     "name": "Evolution I"
+    },
+    {
+     "id": "10278",
+     "lv": 2,
+     "name": "Evolution II"
+    },
+    {
+     "id": "10279",
+     "lv": 3,
+     "name": "Evolution III"
+    },
+    {
+     "id": "10280",
+     "lv": 4,
+     "name": "Evolution IV"
+    }
+   ],
+   "camp": 2,
+   "levelType": 12,
+   "rarity": "Mythic"
+  }
+ },
+ "skills": {
+  "133011": {
+   "name": "Paintball",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203201_1.png",
+   "palmon": "203201",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133012": {
+   "name": "Splash of Color",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203201_2.png",
+   "palmon": "203201",
+   "des": "A long-ranged attack that deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133021": {
+   "name": "Urssault",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203202_1.png",
+   "palmon": "203202",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133022": {
+   "name": "Powerful Pounce",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203202_2.png",
+   "palmon": "203202",
+   "des": "Gives a nearby enemy a proper thumping, dealing <color=#00A069>{0}</color> damage."
+  },
+  "133031": {
+   "name": "Entangle",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203203_1.png",
+   "palmon": "203203",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133032": {
+   "name": "Summon Thorns",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203203_2.png",
+   "palmon": "203203",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133041": {
+   "name": "Woozy Wallop",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203204_1.png",
+   "palmon": "203204",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133042": {
+   "name": "Whirling Leaves",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203204_2.png",
+   "palmon": "203204",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133051": {
+   "name": "Springboard Spike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_1.png",
+   "palmon": "203205",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133052": {
+   "name": "Heating Up",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_2.png",
+   "palmon": "203205",
+   "des": "Gains <color=#00A069>+{0}</color> Attack for <color=#00A069>{1}s</color>."
+  },
+  "133061": {
+   "name": "Princely Peck",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_1.png",
+   "palmon": "203206",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133062": {
+   "name": "Geyser Jet",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_2.png",
+   "palmon": "203206",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy. "
+  },
+  "133063": {
+   "name": "Frost Resist",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_3.png",
+   "palmon": "203206",
+   "des": "Gains <color=#00A069>+{0}</color> max HP while in combat."
+  },
+  "133071": {
+   "name": "Fluff Static",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203207_1.png",
+   "palmon": "203207",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "133072": {
+   "name": "Power Surge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203207_2.png",
+   "palmon": "203207",
+   "des": "Deals <color=#00A069>{0}</color> damage to all nearby enemies."
+  },
+  "134011": {
+   "name": "Fireball",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_1.png",
+   "palmon": "204001",
+   "des": "Shoots a fireball at a single enemy, dealing <color=#00A069>{0}</color> damage."
+  },
+  "134012": {
+   "name": "Scorching Sweep",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_2.png",
+   "palmon": "204001",
+   "des": "Deals <color=#00A069>{0}</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>{1}</color> damage per second for <color=#00A069>{2}s</color>."
+  },
+  "134013": {
+   "name": "Fiery Heart",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_3.png",
+   "palmon": null,
+   "des": "Gains <color=#00A069>+{0}</color> max HP while in combat."
+  },
+  "134021": {
+   "name": "Dream Orb",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204002_1.png",
+   "palmon": "204002",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134022": {
+   "name": "Starlight Blessing",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204002_2.png",
+   "palmon": "204002",
+   "des": "Grants a random allied Palmon a <color=#00A069>{0}</color> bonus to damage dealt for <color=#00A069>5s</color>."
+  },
+  "134031": {
+   "name": "I Got Just the Thing",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_1.png",
+   "palmon": "204003",
+   "des": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>{0}</color> damage."
+  },
+  "134032": {
+   "name": "Bubble Shield",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_2.png",
+   "palmon": "204003",
+   "des": "Grants a shield equal to <color=#00A069>{0}</color> of its max HP to the ally with the lowest HP for <color=#00A069>{1}s</color>."
+  },
+  "134033": {
+   "name": "Blunt Sense",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_3.png",
+   "palmon": "204003",
+   "des": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-{0}</color> damage."
+  },
+  "134041": {
+   "name": "Frostclaw",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_1.png",
+   "palmon": "204004",
+   "des": "Bites a single enemy multiple times, dealing a total of <color=#00A069>{0}</color> damage."
+  },
+  "134042": {
+   "name": "Glacial Howl",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_2.png",
+   "palmon": "204004",
+   "des": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>{0}</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+  },
+  "134043": {
+   "name": "Wolfy Will",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_3.png",
+   "palmon": "204004",
+   "des": "Gains <color=#00A069>+{0}</color> Attack while in combat."
+  },
+  "134051": {
+   "name": "Thunderstrike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_1.png",
+   "palmon": "204005",
+   "des": "Deals <color=#00A069>{0}</color> damage to the closest enemy target and all enemies near it."
+  },
+  "134052": {
+   "name": "Dark Cloud",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_2.png",
+   "palmon": "204005",
+   "des": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>{0}</color> damage."
+  },
+  "134061": {
+   "name": "Headbutt",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_1.png",
+   "palmon": "204006",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134062": {
+   "name": "Tectonic Spin",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_2.png",
+   "palmon": "204006",
+   "des": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>{0}</color> damage to all nearby enemy targets."
+  },
+  "134071": {
+   "name": "Heat Wave",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204007_1.png",
+   "palmon": "204007",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134072": {
+   "name": "Flamewing Dive",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204007_2.png",
+   "palmon": "204007",
+   "des": "Deals <color=#00A069>{0}</color> damage to all enemies in a straight line."
+  },
+  "134073": {
+   "name": "Eagle Eye",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204007_3.png",
+   "palmon": null,
+   "des": "Allied Fire Palmon gain <color=#00A069>+{0}</color> Attack."
+  },
+  "134081": {
+   "name": "Trunk Slam",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204008_1.png",
+   "palmon": "204008",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134082": {
+   "name": "Elephantine Blessing",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204008_2.png",
+   "palmon": "204008",
+   "des": "The allied Palmon with the lowest remaining HP takes <color=#00A069>-{0}</color> damage for the next <color=#00A069>5s</color>."
+  },
+  "134083": {
+   "name": "Big Little Builder",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204008_3.png",
+   "palmon": null,
+   "des": "Gains <color=#00A069>+{0}</color> Defense while in combat."
+  },
+  "134091": {
+   "name": "Berry Bash",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204009_1.png",
+   "palmon": "204009",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134092": {
+   "name": "Fruit Punch-Up",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204009_2.png",
+   "palmon": "204009",
+   "des": "Deals <color=#00A069>{0}</color> damage to a nearby enemy."
+  },
+  "134101": {
+   "name": "Heart Blitz",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_1.png",
+   "palmon": "204010",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134102": {
+   "name": "Rejuvenate",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_2.png",
+   "palmon": "204010",
+   "des": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>{0}</color>."
+  },
+  "134111": {
+   "name": "Charged Strike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204011_1.png",
+   "palmon": "204011",
+   "des": "Launches a lightning bolt, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134112": {
+   "name": "Thunderstorm",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204011_2.png",
+   "palmon": "204011",
+   "des": "Calls down a thunderstorm that deals <color=#00A069>{0}</color> damage to 2 random targets. Has a 20% chance to paralyze targets for <color=#00A069>2s</color>."
+  },
+  "134113": {
+   "name": "Tailwind Riches",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204011_3.png",
+   "palmon": null,
+   "des": "Gains <color=#00A069>+{0}</color> Attack while in combat."
+  },
+  "134121": {
+   "name": "Force of Nature",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_1.png",
+   "palmon": "204012",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134122": {
+   "name": "Verdant Grace",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_2.png",
+   "palmon": "204012",
+   "des": "Allied Earth Palmon gain <color=#00A069>+{0}</color> Attack for <color=#00A069>5s</color>."
+  },
+  "134131": {
+   "name": "Blazing Bite",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204013_1.png",
+   "palmon": "204013",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134132": {
+   "name": "Trial By Fire",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204013_2.png",
+   "palmon": "204013",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134141": {
+   "name": "Water Spray",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_1.png",
+   "palmon": "204014",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134142": {
+   "name": "Aqua Cannon",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_2.png",
+   "palmon": "204014",
+   "des": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>{0}</color> damage."
+  },
+  "134143": {
+   "name": "Water Surge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_3.png",
+   "palmon": "204014",
+   "des": "Aqua Cannon Boost: Increases damage by <color=#00A069>{0}</color>."
+  },
+  "134151": {
+   "name": "Quick Kick",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204015_1.png",
+   "palmon": "204015",
+   "des": "Gives a single enemy a swift kick, dealing <color=#00A069>{0}</color> damage."
+  },
+  "134152": {
+   "name": "Tempest Dive",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204015_2.png",
+   "palmon": "204015",
+   "des": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>{0}</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+  },
+  "134153": {
+   "name": "Quick Study",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204015_3.png",
+   "palmon": null,
+   "des": "Gains <color=#00A069>+{0}</color> HP while in combat."
+  },
+  "134161": {
+   "name": "Lacerating Leek",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204016_1.png",
+   "palmon": "204016",
+   "des": "Flings a razor-sharp leaf, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "134162": {
+   "name": "Shallot Slam",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204016_2.png",
+   "palmon": "204016",
+   "des": "Strikes the ground with its tail, creating a fissure that deals <color=#00A069>{0}</color> damage to all enemies in its path. Targets lose 20% Accuracy for <color=#00A069>3s</color>."
+  },
+  "134163": {
+   "name": "Dream Rush",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204016_3.png",
+   "palmon": null,
+   "des": "Gains <color=#00A069>+{0}</color> Attack while in combat."
+  },
+  "135011": {
+   "name": "Maelstrom Bolt",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205001_1.png",
+   "palmon": "205001",
+   "des": "Unleashes a chain of lightning that strikes up to 5 enemy targets, dealing <color=#00A069>{0}</color> damage to each target."
+  },
+  "135012": {
+   "name": "Overcharge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205001_2.png",
+   "palmon": "205001",
+   "des": "Leaps into the air and zaps a single enemy for <color=#00A069>{0}</color> damage."
+  },
+  "135013": {
+   "name": "Focused Surge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205001_3.png",
+   "palmon": "205001",
+   "des": "Gains <color=#00A069>+{0}</color> max HP in combat."
+  },
+  "135021": {
+   "name": "Flow Like a River",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205002_1.png",
+   "palmon": "205002",
+   "des": "Slashes a single enemy multiple times with a ninjato, dealing a total of <color=#00A069>{0}</color> damage."
+  },
+  "135022": {
+   "name": "Strike Like a Waterfall",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205002_2.png",
+   "palmon": "205002",
+   "des": "Hurls 3 shuriken, dealing <color=#00A069>{0}</color> damage to all enemies in a fan."
+  },
+  "135023": {
+   "name": "Crash Like the Waves",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205002_3.png",
+   "palmon": "205002",
+   "des": "Gains <color=#00A069>+{0}</color> Attack while in combat."
+  },
+  "135031": {
+   "name": "Phantasm",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205003_1.png",
+   "palmon": "205003",
+   "des": "Launches an orb of dream power, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135032": {
+   "name": "Torment",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205003_2.png",
+   "palmon": "205003",
+   "des": "Pulls an enemy into a dream for <color=#00A069>3s</color>. When the dream shatters, deals <color=#00A069>{0}</color> damage to that enemy (ignores Evasion and Invincibility)."
+  },
+  "135033": {
+   "name": "Dream Shadow",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205003_3.png",
+   "palmon": "205003",
+   "des": "Gains <color=#00A069>+{0}</color> Crit Rate while in combat."
+  },
+  "135041": {
+   "name": "Lightning Bolt",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205004_1.png",
+   "palmon": "205004",
+   "des": "Launches lightning bolts from a distance, dealing <color=#00A069>{0}</color> damage to a random back-row enemy."
+  },
+  "135042": {
+   "name": "Electric Burst",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205004_2.png",
+   "palmon": "205004",
+   "des": "Fires 3 electric bombs randomly targeting enemies, each dealing <color=#00A069>{0}</color> damage. (The bombs can target the same enemy)."
+  },
+  "135043": {
+   "name": "Stinging Spark",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205004_3.png",
+   "palmon": "205004",
+   "des": "Gains <color=#00A069>+{0}</color> Crit Rate while in combat."
+  },
+  "135051": {
+   "name": "Blitz",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205005_1.png",
+   "palmon": "205005",
+   "des": "Delivers a powerful strike to a nearby target, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135052": {
+   "name": "Shadow Surge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205005_2.png",
+   "palmon": "205005",
+   "des": "Hits an enemy for <color=#00A069>{0}</color> damage, and takes <color=#00A069>20%</color> of the damage meant for allies for the next <color=#00A069>8s</color>."
+  },
+  "135053": {
+   "name": "Nature's Guard",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205005_3.png",
+   "palmon": "205005",
+   "des": "Allied back-row Earth Palmon take <color=#00A069>{0}</color> less damage in combat."
+  },
+  "135061": {
+   "name": "Smash",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205006_1.png",
+   "palmon": "205006",
+   "des": "Delivers a powerful strike on an enemy target, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135062": {
+   "name": "Rush Wave",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205006_2.png",
+   "palmon": "205006",
+   "des": "Smashes violently into an enemy, dealing <color=#00A069>{0}</color> damage, with a <color=#00A069>70%</color> chance to stun the enemy for <color=#00A069>3s</color>."
+  },
+  "135063": {
+   "name": "Tidal Guard",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205006_3.png",
+   "palmon": "205006",
+   "des": "Gains <color=#00A069>+{0}</color> max HP while in combat."
+  },
+  "135071": {
+   "name": "Electric Surge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205007_1.png",
+   "palmon": "205007",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135072": {
+   "name": "Nightstorm",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205007_2.png",
+   "palmon": "205007",
+   "des": "Calls down 2 bolts of lightning, zapping the 2 enemies with the lowest HP for <color=#00A069>{0}</color> damage."
+  },
+  "135073": {
+   "name": "Phantom Step",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205007_3.png",
+   "palmon": "205007",
+   "des": "Gains <color=#00A069>+{0}</color> Evasion in combat."
+  },
+  "135081": {
+   "name": "Gnash",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205008_1.png",
+   "palmon": "205008",
+   "des": "Bites a nearby enemy, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135082": {
+   "name": "Protective Roar",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205008_2.png",
+   "palmon": "205008",
+   "des": "Lets out a terrifying roar, dealing <color=#00A069>{0}</color> damage to all enemies and reducing their damage dealt by <color=#00A069>30%</color> for 5s."
+  },
+  "135083": {
+   "name": "Sentinel",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205008_3.png",
+   "palmon": "205008",
+   "des": "Allied front-row Palmon take <color=#00A069>-{0}</color> damage while in combat."
+  },
+  "135091": {
+   "name": "Stifle",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205010_1.png",
+   "palmon": "205010",
+   "des": "Swings a stick at a single enemy, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135092": {
+   "name": "Power Strike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205010_2.png",
+   "palmon": "205010",
+   "des": "Launches a charged strike, dealing <color=#00A069>{0}</color> damage to an enemy in melee range. Has a <color=#00A069>100%</color> chance to stun the enemy for <color=#00A069>2s</color>."
+  },
+  "135093": {
+   "name": "card_skill_name_510_3",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205010_3.png",
+   "palmon": null,
+   "des": "Rage builds up <color=#00A069>{0}</color> faster."
+  },
+  "135101": {
+   "name": "Claw",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205011_1.png",
+   "palmon": "205011",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135102": {
+   "name": "Lava Shock",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205011_2.png",
+   "palmon": "205011",
+   "des": "Slams the ground, causing volcanic spikes to hit 3 random enemies for <color=#00A069>{0}</color> damage and burns them, dealing an extra <color=#00A069>{1}</color> damage over <color=#00A069>10s</color>."
+  },
+  "135103": {
+   "name": "Tempered Fists",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205011_3.png",
+   "palmon": null,
+   "des": "Allied Fire Palmon take <color=#00A069>{0}</color> less damage in combat."
+  },
+  "135111": {
+   "name": "Hyah!",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205009_1.png",
+   "palmon": "205009",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135112": {
+   "name": "Huuuah!",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205009_2.png",
+   "palmon": "205009",
+   "des": "Charges up and releases a large fireball, dealing <color=#00A069>{0}</color> damage to all enemies in its path. Deals <color=#00A069>1.5x</color> damage to enemies that are already burning."
+  },
+  "135113": {
+   "name": "Tempered Steel",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205009_3.png",
+   "palmon": "205009",
+   "des": "Gains +{0} Attack while in combat."
+  },
+  "135121": {
+   "name": "Snap Shot",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205012_1.png",
+   "palmon": "205012",
+   "des": "A long-ranged attack that deals <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135122": {
+   "name": "Shadow Step",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205012_2.png",
+   "palmon": "205012",
+   "des": "Surveilynx teleports to 3 nearby spots, dealing <color=#00A069>{0}</color> damage to all enemies in a fan."
+  },
+  "135131": {
+   "name": "Spurt",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205013_1.png",
+   "palmon": "205013",
+   "des": "Fires a water projectile, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135132": {
+   "name": "Waterspout",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205013_2.png",
+   "palmon": "205013",
+   "des": "Summons a swirling column of water, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135133": {
+   "name": "Ocean's Favor",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205013_3.png",
+   "palmon": "205013",
+   "des": "Deals <color=#00A069>+{0}</color> damage while in battle."
+  },
+  "135141": {
+   "name": "Shroomshot",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205014_1.png",
+   "palmon": "205014",
+   "des": "Fires a toxic spore, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135142": {
+   "name": "Fungiburst",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205014_2.png",
+   "palmon": "205014",
+   "des": "Fires 6 shrooms at the enemy with the highest Attack, dealing <color=#00A069>{0}</color> total damage and reducing their Attack by <color=#00A069>35%</color> for <color=#00A069>10s</color>."
+  },
+  "135143": {
+   "name": "Dragonesque",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205014_3.png",
+   "palmon": "205014",
+   "des": "Deals <color=#00A069>+{0}</color> damage while in battle."
+  },
+  "135151": {
+   "name": "Thundercrack",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205016_1.png",
+   "palmon": "205016",
+   "des": "Flings a lightning bolt at a single enemy, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135152": {
+   "name": "Countervolt",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205016_2.png",
+   "palmon": "205016",
+   "des": "Fills its body with electricity, gaining a <color=#00A069>Counterattack Shield</color> that deals <color=#00A069>{0}</color> damage to attackers. Triggers up to <color=#00A069>5</color> times."
+  },
+  "135153": {
+   "name": "Thunderous Boon",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205016_3.png",
+   "palmon": "205016",
+   "des": "Allied Electric Palmon take <color=#00A069>{0}</color> less damage in combat."
+  },
+  "135161": {
+   "name": "Fatal Flier",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205015_1.png",
+   "palmon": "205015",
+   "des": "Throws a dart, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135162": {
+   "name": "Blade Vortex",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205015_2.png",
+   "palmon": "205015",
+   "des": "Hurls 5 darts at 5 random enemies, dealing <color=#00A069>{0}</color> damage to each."
+  },
+  "135163": {
+   "name": "Predator Instincts",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205015_3.png",
+   "palmon": "205015",
+   "des": "Allied Earth Palmon deal <color=#00A069>{0}</color> more damage in combat."
+  },
+  "135171": {
+   "name": "Fiery Charge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205017_1.png",
+   "palmon": "205017",
+   "des": "Rams a single enemy, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135172": {
+   "name": "Blazing Volley",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205017_2.png",
+   "palmon": "205017",
+   "des": "Deals <color=#00A069>{0}</color> damage to all back-row enemies. If a target is already burning, they're also stunned for <color=#00A069>2s</color>."
+  },
+  "135173": {
+   "name": "Blazing Crescendo",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205017_3.png",
+   "palmon": "205017",
+   "des": "Gains <color=#00A069>+{0}</color> Crit Rate in combat."
+  },
+  "135181": {
+   "name": "Energy Ball",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205018_1.png",
+   "palmon": "205018",
+   "des": "Throws an energy ball at a single enemy, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135182": {
+   "name": "Ionic Rays",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205018_3.png",
+   "palmon": "205018",
+   "des": "Fires three laser eyebeams, dealing <color=#00A069>{0}</color> damage to all enemies."
+  },
+  "135191": {
+   "name": "Fury of the Sea",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205019_1.png",
+   "palmon": "205019",
+   "des": "Regalion fires a jet of water at a single enemy, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135192": {
+   "name": "Surging Tides",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205019_2.png",
+   "palmon": "205019",
+   "des": "Regalion summons a surging sea, dealing <color=#00A069>{0}</color> damage to all enemies."
+  },
+  "135193": {
+   "name": "King of the Waves",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205019_3.png",
+   "palmon": "205019",
+   "des": "Allied Water Palmon deal <color=#00A069>{0}</color> more damage in combat."
+  },
+  "135201": {
+   "name": "Fulminous Strike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205020_1.png",
+   "palmon": "205020",
+   "des": "Unleashes a powerful current from the electropollen in its hand, dealing <color=#00A069>{0}</color> damage to 2 random back-row enemies."
+  },
+  "135202": {
+   "name": "Dynamic Discharge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205020_2.png",
+   "palmon": "205020",
+   "des": "Unleashes an immense energy surge from its electropollen, dealing <color=#00A069>{0}</color> damage to <color=#00A069>2</color> random back-row enemies."
+  },
+  "135203": {
+   "name": "Bow to the Queen",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205020_3.png",
+   "palmon": "205020",
+   "des": "Allied Electric Palmon deal <color=#00A069>{0}</color> more damage in combat."
+  },
+  "135211": {
+   "name": "Foxfire",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205021_1.png",
+   "palmon": "205021",
+   "des": "Unleashes a fireball from its flaming tail, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135212": {
+   "name": "Burning Tails",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205021_2.png",
+   "palmon": "205021",
+   "des": "Shoots 3 to 5 fireballs, each dealing <color=#00A069>{0}</color> damage to an enemy and burns them, dealing an extra <color=#00A069>{1}</color> damage over <color=#00A069>10s</color>."
+  },
+  "135213": {
+   "name": "Spectral Flames",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205021_3.png",
+   "palmon": "205021",
+   "des": "Allied Fire Palmon deal <color=#00A069>{0}</color> more damage in combat."
+  },
+  "135221": {
+   "name": "Châtiment Piment",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205022_1.png",
+   "palmon": "205022",
+   "des": "Throws a (literally) flaming-hot pepper, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135222": {
+   "name": "Bon Appétit",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205022_2.png",
+   "palmon": "205022",
+   "des": "Bon appétit mes amis! Tosses a perfectly cooked hamburger to the allied Palmon with the highest Attack, boosting its Attack by <color=#00A069>{0}</color> for <color=#00A069>10s</color>."
+  },
+  "135223": {
+   "name": "Rage Ignition",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205022_3.png",
+   "palmon": "205022",
+   "des": "Rage builds up <color=#00A069>{0}</color> faster."
+  },
+  "135231": {
+   "name": "Icicle Barrage",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205023_1.png",
+   "palmon": "205023",
+   "des": "Launches a series of icy spikes, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135232": {
+   "name": "Frostwing Blast",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205023_2.png",
+   "palmon": "205023",
+   "des": "Unleashes a frost explosion, dealing <color=#00A069>{0}</color> damage to nearby enemies, and inflicting <color=#00A069>Deep Freeze</color> for <color=#00A069>2s</color>."
+  },
+  "135233": {
+   "name": "Dragon's Roar",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205023_3.png",
+   "palmon": "205023",
+   "des": "Rage builds up <color=#00A069>{0}</color> faster."
+  },
+  "135241": {
+   "name": "Trunk Slam",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205024_1.png",
+   "palmon": "205024",
+   "des": "Swings its mighty trunk, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135242": {
+   "name": "Avalanche Charge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205024_2.png",
+   "palmon": "205024",
+   "des": "Charges towards the furthest enemy, dealing <color=#00A069>{0}</color> damage to all enemies in its path and stunning them for <color=#00A069>2s</color>."
+  },
+  "135243": {
+   "name": "Runic Hide",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205024_3.png",
+   "palmon": "205024",
+   "des": "Increases final damage and damage reduction by <color=#00A069>20%</color>. Each time Avalanche Charge is cast, gains an additional <color=#00A069>{0}</color> Final Damage and Damage Reduction. This effect stacks up to <color=#00A069>3</color> times."
+  },
+  "135251": {
+   "name": "Storm Claws",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205025_1.png",
+   "palmon": "205025",
+   "des": "Slashes twice with its claws, dealing a total of <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135252": {
+   "name": "Phantom Blitz",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205025_2.png",
+   "palmon": "205025",
+   "des": "Unleashes a barrage of <color=#00A069>12</color> strikes against random enemies, each dealing <color=#00A069>{0}</color> damage. Thundertooth is Invincible during this time. Each strike has a <color=#00A069>50%</color> chance of targeting the enemy with the highest Attack."
+  },
+  "135253": {
+   "name": "Charged Bolt",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205025_3.png",
+   "palmon": "205025",
+   "des": "Increases normal attack speed by <color=#00A069>{0}</color>, and gains <color=#00A069>+{1}</color> HP while in combat."
+  },
+  "135261": {
+   "name": "Ember Strike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205026_1.png",
+   "palmon": "205026",
+   "des": "Unleashes a charged strike, dealing <color=#00A069>{0}</color> damage to a single enemy target."
+  },
+  "135262": {
+   "name": "Inferno Ward",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205026_2.png",
+   "palmon": "205026",
+   "des": "Wraps itself in a Flame Shield that absorbs <color=#00A069>{0}</color> of incoming damage for <color=#00A069>5s</color>. When the shield expires, it explodes, dealing <color=#00A069>{1}</color> damage to all enemies."
+  },
+  "135263": {
+   "name": "Roaring Rage",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205026_3.png",
+   "palmon": "205026",
+   "des": "Each time this Palmon takes damage in battle, its Attack increases by <color=#00A069>{0}</color> (stack up to <color=#00A069>{1}</color> times)."
+  },
+  "135271": {
+   "name": "Whiplash",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205027_1.png",
+   "palmon": "205027",
+   "des": "Swings its mighty tail, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135272": {
+   "name": "Tail Flurry",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205027_2.png",
+   "palmon": "205027",
+   "des": "Swings its mighty tail 3 times, dealing a total of <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135273": {
+   "name": "Ocean's Blessing",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205027_3.png",
+   "palmon": "205027",
+   "des": "Allied Water Palmon take <color=#00A069>{0}</color> less damage in combat."
+  },
+  "135281": {
+   "name": "Netherflame",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205028_1.png",
+   "palmon": "205028",
+   "des": "Shoots a blue fireball, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135282": {
+   "name": "Phantom Cyclone",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205028_2.png",
+   "palmon": "205028",
+   "des": "Shoots a blue fire tornado, dealing <color=#00A069>{0}</color> damage to all enemies."
+  },
+  "135283": {
+   "name": "Nocturne's Focus",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205028_3.png",
+   "palmon": "205028",
+   "des": "Damage <color=#00A069>+{0}</color> for Phantom Cyclone."
+  },
+  "135291": {
+   "name": "Olive Barrage",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205029_1.png",
+   "palmon": "205029",
+   "des": "Throws an olive, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135292": {
+   "name": "Wreath Toss",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205029_2.png",
+   "palmon": "205029",
+   "des": "Summons an olive wreath overhead. Throws multiple olives at the enemy front row, dealing <color=#00A069>{0}</color> damage to each enemy."
+  },
+  "135301": {
+   "name": "Candleflame Orb",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205030_1.png",
+   "palmon": "205030",
+   "des": "Launches a ghostly fireball, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135302": {
+   "name": "Jack-o'-Smash",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205030_2.png",
+   "palmon": "205030",
+   "des": "Drops a pumpkin lantern from above, dealing <color=#00A069>{0}</color> damage to 3 random enemies."
+  },
+  "135311": {
+   "name": "Hydro Punch",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205031_1.png",
+   "palmon": "205031",
+   "des": "Channels Qi to condense water flow onto the fist, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135312": {
+   "name": "Tidal Vortex",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205031_2.png",
+   "palmon": "205031",
+   "des": "Charges in place and releases Qi, dealing <color=#00A069>{0}</color> damage to <color=#00A069>3</color> random enemies. Each time Kungpaw is attacked for the next 5s, there is a <color=#00A069>25%</color> chance to ignore the damage."
+  },
+  "135321": {
+   "name": "Hook Slash",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205032_1.png",
+   "palmon": "205032",
+   "des": "Swings the pirate hook, dealing <color=#00A069>{0}</color> damage to a single enemy and applying <color=#00A069>2</color> stacks of Rupture Mark."
+  },
+  "135322": {
+   "name": "Devouring Doom",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205032_2.png",
+   "palmon": "205032",
+   "des": "Bursts from underground and bites a single enemy, dealing <color=#00A069>{0}</color> damage and applying <color=#00A069>3</color> stacks of Rupture Mark."
+  },
+  "135323": {
+   "name": "Predator's Edge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205032_3.png",
+   "palmon": "205032",
+   "des": "Deals <color=#00A069>10%</color> more damage for each stack of Rupture Mark on the target (stacks up to <color=#00A069>10</color> times). While in combat, increases Rage build-up by <color=#00A069>{0}</color> and Crit Rate by <color=#00A069>{1}</color>."
+  },
+  "135331": {
+   "name": "Storm Scythe",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205033_1.png",
+   "palmon": "205033",
+   "des": "Swings its claws, dealing <color=#00A069>{0}</color> damage to front-row enemies."
+  },
+  "135332": {
+   "name": "Lightning Leap",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205033_2.png",
+   "palmon": "205033",
+   "des": "Leaps to the enemy back-row, dealing <color=#00A069>{0}</color> damage to all back-row enemies, with a <color=#00A069>70%</color> chance to paralyze them for <color=#00A069>3s</color> (preventing them from casting Rage Skills)."
+  },
+  "135333": {
+   "name": "High-Voltage Speed",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205033_3.png",
+   "palmon": "205033",
+   "des": "Increases Evasion by <color=#00A069>{0}</color> and reduces damage allied Electric Palmon take by <color=#00A069>{1}</color> while in combat."
+  },
+  "135341": {
+   "name": "Energy Surge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205034_1.png",
+   "palmon": "205034",
+   "des": "Swings the Earthroot Staff, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135342": {
+   "name": "Rootbind",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205034_2.png",
+   "palmon": "205034",
+   "des": "Summons up to 3 vines that entangle 3 random enemies, dealing <color=#00A069>{0}</color> damage to each target, with a 70% chance to inflict Entangle for 3s."
+  },
+  "135343": {
+   "name": "Primal Sigil",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205034_3.png",
+   "palmon": "205034",
+   "des": "Gains <color=#00A069>{0}</color> Accuracy and <color=#00A069>{1}</color> Final Damage while in combat."
+  },
+  "135351": {
+   "name": "Arcane Flame",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205035_1.png",
+   "palmon": "205035",
+   "des": "Swings its staff to release blue flames, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135352": {
+   "name": "Infernal Grip",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205035_2.png",
+   "palmon": "205035",
+   "des": "Hexkit summons a flame familiar, forming a massive hand that grabs enemies. Deals <color=#00A069>{0}</color> damage to 4 random targets and applies a Searing Mark for 10s: Burn damage taken <color=#00A069>+50%</color>, damage dealt <color=#00A069>-10%</color>."
+  },
+  "135353": {
+   "name": "Blazing Surge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205035_3.png",
+   "palmon": "205035",
+   "des": "Gains <color=#00A069>{0}</color> normal attack speed and increases allied Fire Palmon Attack by <color=#00A069>{1}</color> while in combat."
+  },
+  "135361": {
+   "name": "Solar Flare",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_1.png",
+   "palmon": "205036",
+   "des": "Flaps its wings and hurls a fireball, dealing <color=#00A069>{0}</color> damage to a single enemy target"
+  },
+  "135362": {
+   "name": "Scorching Rune",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_2.png",
+   "palmon": "205036",
+   "des": "Sunplume calls upon the power of sun runes to deal <color=#00A069>{0}</color> damage to a single enemy"
+  },
+  "135371": {
+   "name": "Vortex Impact",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205037_1.png",
+   "palmon": "205037",
+   "des": "Launch a water orb to deal <color=#00A069>{0}</color> damage to all enemies in the front row"
+  },
+  "135372": {
+   "name": "Sylphira's Ebb",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205037_2.png",
+   "palmon": "205037",
+   "des": "Leap like a fish over the dragon gate, launching a school of fish to deal <color=#00A069>{0}</color> damage to all enemies in the front row, with an additional <color=#00A069>25%</color> damage to the target with the highest HP among them"
+  },
+  "135373": {
+   "name": "Riptide Rage",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205037_3.png",
+   "palmon": "205037",
+   "des": "When allied Water Palmon's HP drops below 50% during battle, its final damage increases by <color=#00A069>{0}</color>."
+  },
+  "135381": {
+   "name": "Radiant Crystal",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205038_1.png",
+   "palmon": "205038",
+   "des": "Launches a star blade at a single enemy target, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135382": {
+   "name": "Prism Spike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205038_2.png",
+   "palmon": "205038",
+   "des": "Summons a diamond from underground that strikes all enemies in a circular area, dealing <color=#00A069>{0}</color> damage."
+  },
+  "135391": {
+   "name": "Lightning Shot",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205039_1.png",
+   "palmon": "205039",
+   "des": "Fires a ranged electric attack, dealing <color=#00A069>{0}</color> damage to a single enemy target."
+  },
+  "135392": {
+   "name": "Thunderous Wings",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205039_2.png",
+   "palmon": "205039",
+   "des": "Flaps its wings to summon thunder and unleash chain lightning, striking up to <color=#00A069>5</color> enemies. The first target takes <color=#00A069>{0}</color> damage, and each subsequent target receives <color=#00A069>80%</color> of the previous target's damage modifier."
+  },
+  "135393": {
+   "name": "Lightning Feather Mark",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205039_3.png",
+   "palmon": "205039",
+   "des": "Rage builds up <color=#00A069>{0}</color> faster and Crit Rate increases by <color=#00A069>{0}</color> while in combat."
+  },
+  "135401": {
+   "name": "Rending Sandstorm",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205040_1.png",
+   "palmon": "205040",
+   "des": "Calls upon the power of sand and stone, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135402": {
+   "name": "Desert Judgment",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205040_2.png",
+   "palmon": "205040",
+   "des": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>{0}</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+  },
+  "135403": {
+   "name": "Sandstorm Dance",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205040_3.png",
+   "palmon": "205040",
+   "des": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>{0}</color>, stacking up to 3 times."
+  },
+  "135411": {
+   "name": "Blazing Sweep",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205041_1.png",
+   "palmon": "205041",
+   "des": "Lashes out with blazing feathers, dealing <color=#00A069>{0}</color> damage to a single enemy."
+  },
+  "135412": {
+   "name": "Radiant Charge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205041_2.png",
+   "palmon": "205041",
+   "des": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>{0}</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+  },
+  "135413": {
+   "name": "Rebirth from Ashes",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205041_3.png",
+   "palmon": "205041",
+   "des": "The sun never fades. When defeated in battle, transforms into a molten egg. If the battle isn't over in 3 seconds, revives at full HP, dealing {0} damage to all enemies and stunning them for 2.5 seconds. (Once per battle.)"
+  },
+  "136011": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136012": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136021": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136022": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136031": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136032": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136041": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136042": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136051": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136052": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136061": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136062": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136071": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136072": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136081": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136082": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136091": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136092": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136101": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136102": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136111": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136112": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136121": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136122": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136131": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136132": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136151": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136152": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136161": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136162": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136171": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136172": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136181": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136182": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136191": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136192": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136201": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136202": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136211": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136212": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136221": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136222": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136231": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136232": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136241": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136242": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136251": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136252": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136253": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136254": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136255": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136256": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136257": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136258": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136259": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136260": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136261": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136262": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136263": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136264": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136265": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136266": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136267": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136268": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136269": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136270": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136271": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136272": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136273": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136274": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136275": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136276": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136277": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136278": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136279": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136280": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136281": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136282": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136283": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136284": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136285": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136286": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136287": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136288": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136289": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136290": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136291": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136292": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136293": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136294": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136295": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136296": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136297": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136298": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136299": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136300": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136301": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136302": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136303": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136304": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136305": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136306": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136307": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136308": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136309": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136310": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136311": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "136312": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137011": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137012": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137021": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137022": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137031": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137032": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137041": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137042": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137051": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137052": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137061": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137062": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137071": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137072": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137081": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137082": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137091": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137092": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137101": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137102": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "137113": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138013": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138023": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138033": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138043": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138053": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138063": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138073": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138083": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138093": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138103": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138113": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138123": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138133": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138143": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138153": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138163": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138173": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138183": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138193": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138203": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138213": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138223": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138233": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138243": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138253": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138263": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138273": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138283": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138293": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138303": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138313": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138323": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138333": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138343": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138353": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138513": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138523": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138533": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138543": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138553": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138563": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138573": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138583": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138593": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138603": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138613": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138623": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138633": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138643": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138653": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138663": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138673": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138683": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138693": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138703": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138713": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138723": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138733": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "138743": {
+   "name": null,
+   "nameReason": "empty-or-missing-name-field",
+   "icon": null,
+   "reason": "unresolved-resource-id",
+   "palmon": null,
+   "des": null
+  },
+  "210073": {
+   "name": "Eagle Eye",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204007_3.png",
+   "palmon": "204007",
+   "des": "Incineraptor can always find where the treasure is hidden. Provides extra treasure (up to {0} a day) when completing an Intel Quest."
+  },
+  "211073": {
+   "name": "Eagle Eye",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204007_3.png",
+   "palmon": null,
+   "des": "Incineraptor can burn 10 Incineraptor Plumes to generate 3 high-quality intel quests. You'll receive 1 Incineraptor Plume every {0} min."
+  },
+  "213013": {
+   "name": "Deft Paws",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203201_3.png",
+   "palmon": "203201",
+   "des": "Ore output +{0} when working a Mining job."
+  },
+  "213014": {
+   "name": "Remarkable",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_common_4.png",
+   "palmon": "203201",
+   "des": "Gains +{0} Total Attack, Defense, and HP."
+  },
+  "213023": {
+   "name": "Bear-y Strong",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203202_3.png",
+   "palmon": "203202",
+   "des": "Lumber output +{0} when working a Sawing job."
+  },
+  "213033": {
+   "name": "Nature's Blessing",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203203_3.png",
+   "palmon": "203203",
+   "des": "Crop output +{0} when working a Planting job."
+  },
+  "213043": {
+   "name": "Lucky Klutz",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203204_3.png",
+   "palmon": "203204",
+   "des": "Ore output +{0} when working a Mining job."
+  },
+  "213053": {
+   "name": "Thermal Recycling",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_3.png",
+   "palmon": "203205",
+   "des": "Steel output +{0} when working a Smelting job."
+  },
+  "213073": {
+   "name": "Static Fluff",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203207_3.png",
+   "palmon": "203207",
+   "des": "Electricity output +{0} when working a Charging job."
+  },
+  "214013": {
+   "name": "Fiery Heart",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_3.png",
+   "palmon": "204001",
+   "des": "Temperite output speed +{0} when working in an Alchemy Lab."
+  },
+  "214014": {
+   "name": "Sturdy",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_common_4.png",
+   "palmon": "204001",
+   "des": "Gains +{0} Total Attack, Defense, and HP."
+  },
+  "214023": {
+   "name": "Miracle-Maker",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204002_3.png",
+   "palmon": "204002",
+   "des": "Meowdame has a penchant for making miracles happen. Increases Gold, Lumber, and Steel rewards by {0} when it defeats a Bullymon or Bullyboss."
+  },
+  "214053": {
+   "name": "Ionized",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_3.png",
+   "palmon": "204005",
+   "des": "Electricity output +{0} when working a Charging job."
+  },
+  "214063": {
+   "name": "Drill Shell",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_3.png",
+   "palmon": "204006",
+   "des": "Ore output +{0} when working a Mining job."
+  },
+  "214083": {
+   "name": "Big Little Builder",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204008_3.png",
+   "palmon": "204008",
+   "des": "When constructing a building, total construction time is reduced by {0} min."
+  },
+  "214093": {
+   "name": "Fiery Warm-Up",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204009_3.png",
+   "palmon": "204009",
+   "des": "Training speed +{0} when working in an Armigo Hut."
+  },
+  "214103": {
+   "name": "Tender Care",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_3.png",
+   "palmon": "204010",
+   "des": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +{0} when working in a Hospital."
+  },
+  "214113": {
+   "name": "Tailwind Riches",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204011_3.png",
+   "palmon": "204011",
+   "des": "Gold output +{0} when working in a Shop."
+  },
+  "214123": {
+   "name": "Verdant Bounty",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_3.png",
+   "palmon": "204012",
+   "des": "Wood output +{0} when working a Logging job."
+  },
+  "214133": {
+   "name": "Hot Diggity Dog",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204013_3.png",
+   "palmon": "204013",
+   "des": "Steel output +{0} when working a Smelting job."
+  },
+  "214153": {
+   "name": "Quick Study",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204015_3.png",
+   "palmon": "204015",
+   "des": "When researching a tech, reduces final research time by {0} min."
+  },
+  "214163": {
+   "name": "Dream Rush",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204016_3.png",
+   "palmon": "204016",
+   "des": "Dreamium output speed +{0} when working in a Dreamium Siever."
+  },
+  "215001": {
+   "name": "Electro Field",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5001.png",
+   "palmon": "205001",
+   "des": "Hits (from normal attacks or Rage Skills) have a 10% chance to shock the target, increasing their damage taken by {0} for 10s."
+  },
+  "215002": {
+   "name": "Wavebreak Vow",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5002.png",
+   "palmon": "205002",
+   "des": "Damage +{0} for Strike Like a Waterfall."
+  },
+  "215003": {
+   "name": "Eternal Dream",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5003.png",
+   "palmon": "205003",
+   "des": "Enemies hit by Torment take +{0} damage for 10s."
+  },
+  "215004": {
+   "name": "Finchantment",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5004.png",
+   "palmon": "205004",
+   "des": "Attack Increase: {0}"
+  },
+  "215005": {
+   "name": "Chêneson de Geste",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5005.png",
+   "palmon": "205005",
+   "des": "When HP is below 50%, reduces damage taken by {0}."
+  },
+  "215006": {
+   "name": "Porpoised and Ready",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5006.png",
+   "palmon": "205006",
+   "des": "When HP is below 50%, reduces damage taken by {0}."
+  },
+  "215007": {
+   "name": "Gathering Storm",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5007.png",
+   "palmon": "205007",
+   "des": "Crit Rate Increase: {0}"
+  },
+  "215008": {
+   "name": "Strong as Stone",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5008.png",
+   "palmon": "205008",
+   "des": "After using Protective Roar, the effect of Sentinel is increased by {0} for 10s."
+  },
+  "215009": {
+   "name": "RAAAGH!",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5009.png",
+   "palmon": "205009",
+   "des": "For each enemy alive, increases damage by {0}."
+  },
+  "215010": {
+   "name": "Simian Vigor",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5010.png",
+   "palmon": "205010",
+   "des": "After using Power Strike, increases normal attack speed by {0} for 8s."
+  },
+  "215011": {
+   "name": "Blazing Inferno",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5011.png",
+   "palmon": "205011",
+   "des": "When taking damage, there is a 25% chance to burn the attacker, dealing a total of {0} damage over 5s."
+  },
+  "215012": {
+   "name": "Kill Shot",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5012.png",
+   "palmon": "205012",
+   "des": "Damage +{0} for Shadow Step."
+  },
+  "215013": {
+   "name": "Azure Torrent",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5013.png",
+   "palmon": "205013",
+   "des": "Damage +{0} for Waterspout."
+  },
+  "215014": {
+   "name": "Promising",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_common_5.png",
+   "palmon": "205014",
+   "des": "Gains +{0} Total Attack, Defense, and HP."
+  },
+  "215015": {
+   "name": "Silent Edge",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5015.png",
+   "palmon": "205015",
+   "des": "Enemies hit by Blade Vortex take {0} increased damage for 10s."
+  },
+  "215016": {
+   "name": "Aetherfury Bolt",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5016.png",
+   "palmon": "205016",
+   "des": "After using Countervolt, allied Electric Palmon will counterattack twice when attacked, dealing {0} damage each time."
+  },
+  "215017": {
+   "name": "Flame-Tempered",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5017.png",
+   "palmon": "205017",
+   "des": "Critical hits are guaranteed to burn the target, dealing a total of {0} damage over 10s."
+  },
+  "215018": {
+   "name": "Overclock",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5018.png",
+   "palmon": "205018",
+   "des": "Damage +{0} for Ionic Rays."
+  },
+  "215019": {
+   "name": "Tidal Majesty",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5019.png",
+   "palmon": "205019",
+   "des": "King of the Waves effect increased by {0}."
+  },
+  "215020": {
+   "name": "Radiant Thunder",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5020.png",
+   "palmon": "205020",
+   "des": "Bow to the Queen effect increased by {0}."
+  },
+  "215021": {
+   "name": "Infernotail",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5021.png",
+   "palmon": "205021",
+   "des": "Spectral Flames effect increased by {0}."
+  },
+  "215022": {
+   "name": "Flambé Fury",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5022.png",
+   "palmon": "205022",
+   "des": "After using Bon Appétit, restores {0} Rage to the allied Fire Palmon with the highest Attack."
+  },
+  "215023": {
+   "name": "Absolute Zero",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5023.png",
+   "palmon": "205023",
+   "des": "Enemies take {0} damage when Deep Freeze ends."
+  },
+  "215024": {
+   "name": "Primal Quake",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5024.png",
+   "palmon": "205024",
+   "des": "After using Avalanche Charge, there's a 60% chance to trigger it again, dealing {0} damage."
+  },
+  "215025": {
+   "name": "Storm Shackles",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5025.png",
+   "palmon": "205025",
+   "des": "Damage increased by {0} when attacking the enemy with the highest current Attack."
+  },
+  "215026": {
+   "name": "Explosive Core",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5026.png",
+   "palmon": "205026",
+   "des": "When the flame shield explodes, it burns all enemies, dealing {0} damage for 10s."
+  },
+  "215027": {
+   "name": "Abyssal Surge",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5027.png",
+   "palmon": "205027",
+   "des": "After using the Rage Skill, Tail Flurry, the effect of Ocean's Blessing is increased by {0} for 10s."
+  },
+  "215028": {
+   "name": "Scorch the Living",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5028.png",
+   "palmon": "205028",
+   "des": "Deals an additional {0} damage to targets with more than 50% HP remaining."
+  },
+  "215031": {
+   "name": "Way of Mastery",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5031.png",
+   "palmon": "205031",
+   "des": "Increases the effect of Shifu's Guidance by {0}. Also increases the damage of your initial backline Water Palmon by 10%, even if Kungfury is not deployed."
+  },
+  "215032": {
+   "name": "Rampage Unbound",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5032.png",
+   "palmon": "205032",
+   "des": "Devouring Doom damage increases by {0}. After casting Devouring Doom, Plunderjaw removes all stacks of Burn and becomes immune to being burned for the next 5s."
+  },
+  "215033": {
+   "name": "Thunder Awakening",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5033.png",
+   "palmon": "205033",
+   "des": "Lightning Leap damage increases by {0}. After casting Lightning Leap, allied Electric Palmon gain 30% Damage Reduction for the next 10s."
+  },
+  "215034": {
+   "name": "Forest Awakening",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5034.png",
+   "palmon": "205034",
+   "des": "Increases the damage of Rootbind by {0} and raises its entangle chance to 100%."
+  },
+  "215035": {
+   "name": "Cinder Feast",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5035.png",
+   "palmon": "205035",
+   "des": "Increases Infernal Grip damage by {0}."
+  },
+  "215037": {
+   "name": "Tide Hunt",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5037.png",
+   "palmon": "205037",
+   "des": "Sylphira's Ebb deals an additional {0} damage to targets with HP above 50%"
+  },
+  "215038": {
+   "name": "Windsprint Voyage",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5038.png",
+   "palmon": "205038",
+   "des": "Desert Transport Load +{0}"
+  },
+  "215039": {
+   "name": "Overwhelming Force",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5039.png",
+   "palmon": "205039",
+   "des": "Thunderous Wings damage +{0}"
+  },
+  "215040": {
+   "name": "Sand Fury",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5040.png",
+   "palmon": "205040",
+   "des": "Desert Judgment targets +1 and damage +{0}"
+  },
+  "215041": {
+   "name": "Solar Majesty",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5041.png",
+   "palmon": "205041",
+   "des": "Radiant Charge damage +{0}. Burned enemies deal {0} less damage to Pyronyx while its shield is active."
+  },
+  "215103": {
+   "name": "Steel Smarts",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205010_3.png",
+   "palmon": "205010",
+   "des": "Increases Lumber output by +{0} for all Table Saws in Camp."
+  },
+  "215113": {
+   "name": "Tempered Steel",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205011_3.png",
+   "palmon": "205011",
+   "des": "Increases Steel output by +{0} for all Furnaces in Camp."
+  },
+  "215114": {
+   "name": "Flower Power",
+   "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5014.png",
+   "palmon": "205014",
+   "des": "Steals {0} of the Attack reduced by Fungiburst."
+  },
+  "215123": {
+   "name": "Tactical Drills",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205012_3.png",
+   "palmon": "205012",
+   "des": "Surveilynx can Quick Train up to {0} Armigo per day."
+  },
+  "215183": {
+   "name": "Whiz Kid",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205018_2.png",
+   "palmon": "205018",
+   "des": "Limudroid's advanced digibrain grants you +{0} tech research speed."
+  },
+  "215293": {
+   "name": "Leafy Hug",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205029_3.png",
+   "palmon": "205029",
+   "des": "Increases the HP of all Palmon by <color=#00A069>{0}</color> (even when undeployed). "
+  },
+  "215303": {
+   "name": "Ghostly Power",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205030_3.png",
+   "palmon": "205030",
+   "des": "Increases the Attack of all Palmon by <color=#00A069>{0}</color> (even when undeployed)."
+  },
+  "215313": {
+   "name": "Shifu's Guidance",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205031_3.png",
+   "palmon": "205031",
+   "des": "Whether deployed or not, back-row Palmon on your squad take <color=#00A069>{1}</color> less Rage Skill damage for {0}s once the battle starts."
+  },
+  "215363": {
+   "name": "Blazing Motivation",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_3.png",
+   "palmon": "205036",
+   "des": "Palmon Bed XP output +<color=#00A069>{0}</color>"
+  },
+  "215383": {
+   "name": "Radiant Inspiration",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205038_3.png",
+   "palmon": "205038",
+   "des": "Increases all Palmon Defense by <color=#00A069>{0}</color> in Camp attack battles on the World Map. (Takes effect without deploying.) Desert building level cap +<color=#00A069>{1}</color>."
+  },
+  "215384": {
+   "name": "Earth's Authority",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205038_4.png",
+   "palmon": "205038",
+   "des": "Number of claimable territories in Desert Wonderland +3"
+  },
+  "216123": {
+   "name": "card_skill_name_612_3",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205012_2.png",
+   "palmon": null,
+   "des": "Your Armigo gain <color=#00A069>+{0}</color> Attack when defending your Camp."
+  },
+  "216183": {
+   "name": "Whiz Kid",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205018_2.png",
+   "palmon": null,
+   "des": "When researching a tech, reduces final research time by {0} min."
+  },
+  "216293": {
+   "name": "card_skill_name_529_3_2",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205029_3.png",
+   "palmon": null,
+   "des": "Increases Hospital capacity by <color=#00A069>{0}</color>."
+  },
+  "216303": {
+   "name": "card_skill_name_530_3_2",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205030_3.png",
+   "palmon": null,
+   "des": "Increases Armigo Hut capacity by <color=#00A069>{0}</color>."
+  },
+  "216363": {
+   "name": "Blazing Motivation",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_3.png",
+   "palmon": null,
+   "des": "All Palmon gain <color=#00A069>{0}</color> Crit Rate. (Active without being deployed)"
+  }
+ },
+ "counts": {
+  "palmons": 64,
+  "skills": 436
+ },
+ "unresolved": {
+  "palmons": 0,
+  "skills": 188
+ },
+ "collisions": {
+  "skills": 24
+ },
+ "excluded": {
+  "palmons": 5
+ }
+}

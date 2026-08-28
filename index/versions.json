@@ -1,5 +1,23 @@
 {
  "schemaVersion": 1,
  "repo": "deadcodes/palmon-assets",
- "versions": []
+ "versions": [
+  {
+   "label": "rv417",
+   "tag": "rv417",
+   "order": 417,
+   "publishedAtUtc": "2026-08-28T16:25:32.658096+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5316,
+    "sprites": 7271,
+    "added": 12587,
+    "modified": 0,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": null
+  }
+ ]
 }

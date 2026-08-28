@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "id": "204015",
+  "name": "Voltbolt",
+  "icon": "uiv3/texture/uiheroicon/Palmon_head_4015.png",
+  "camp": 4,
+  "levelType": 10,
+  "rarity": "SSR",
+  "baseStats": {
+    "attack": 259,
+    "defense": 24,
+    "hp": 6475,
+    "power": 19820
+  },
+  "remit": 1,
+  "role": "frontline",
+  "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
+  "forms": {
+    "base": {
+      "name": "Voltbolt",
+      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4015.png"
+    }
+  },
+  "skills": [
+    {
+      "id": "134151",
+      "name": "Quick Kick",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204015_1.png",
+      "des": "Gives a single enemy a swift kick, dealing <color=#00A069>{0}</color> damage.",
+      "kind": "normal_attack",
+      "rageGain": 20,
+      "rageActivation": 0,
+      "timing": {
+        "forms": [
+          {
+            "timelineId": 123,
+            "animationMs": 1100,
+            "attackIntervalMs": 1100
+          },
+          null,
+          null
+        ]
+      },
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 60,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>80%</color> damage."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 240,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>80.81%</color> damage."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 420,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>81.65%</color> damage."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 600,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>82.48%</color> damage."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 780,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>83.31%</color> damage."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 960,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>84.13%</color> damage."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 1140,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>84.96%</color> damage."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 1320,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>85.79%</color> damage."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 1500,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>86.62%</color> damage."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 1680,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>87.44%</color> damage."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 1860,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>88.27%</color> damage."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 2040,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>89.1%</color> damage."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 2220,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>89.93%</color> damage."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 2400,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>90.75%</color> damage."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 2580,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>91.58%</color> damage."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 2760,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>92.41%</color> damage."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 2940,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>93.24%</color> damage."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 3120,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>94.06%</color> damage."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 3300,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>94.89%</color> damage."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 3480,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>95.72%</color> damage."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 3660,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>96.55%</color> damage."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 3840,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>97.37%</color> damage."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 4020,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>98.2%</color> damage."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 4200,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>99.03%</color> damage."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 4380,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>99.86%</color> damage."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 4560,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>100.68%</color> damage."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 4740,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>101.51%</color> damage."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 4920,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>102.34%</color> damage."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 5100,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>103.17%</color> damage."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 1100,
+          "power": 5280,
+          "effect": "Gives a single enemy a swift kick, dealing <color=#00A069>104%</color> damage."
+        }
+      ]
+    },
+    {
+      "id": "134152",
+      "name": "Tempest Dive",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204015_2.png",
+      "des": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>{0}</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>.",
+      "kind": "rage",
+      "rageGain": 0,
+      "rageActivation": 100,
+      "timing": {
+        "forms": [
+          {
+            "timelineId": 124,
+            "animationMs": 4000,
+            "attackIntervalMs": 4000
+          },
+          null,
+          null
+        ]
+      },
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 60,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>120%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 240,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>122.07%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 420,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>124.14%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 600,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>126.21%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 780,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>128.28%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 960,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>130.35%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 1140,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>132.41%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 1320,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>134.49%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 1500,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>136.56%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 1680,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>138.63%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 1860,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>140.69%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 2040,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>142.76%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 2220,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>144.83%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 2400,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>146.9%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 2580,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>148.97%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 2760,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>151.04%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 2940,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>153.11%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 3120,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>155.18%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 3300,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>157.25%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 3480,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>159.32%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 3660,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>161.38%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 3840,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>163.44%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 4020,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>165.52%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 4200,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>167.59%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 4380,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>169.66%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 4560,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>171.73%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 4740,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>173.8%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 4920,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>175.87%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 5100,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>177.94%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 4000,
+          "power": 5280,
+          "effect": "Quickly leaps into the air and dives back down, charged with electricity. Deals <color=#00A069>180%</color> damage to targets in range, with a 20% chance to stun them for <color=#00A069>1.5s</color>."
+        }
+      ]
+    },
+    {
+      "id": "214153",
+      "name": "Quick Study",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204015_3.png",
+      "des": "When researching a tech, reduces final research time by {0} min.",
+      "kind": "special_passive",
+      "rageGain": 0,
+      "rageActivation": 0,
+      "timing": null,
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 60,
+          "effect": "When researching a tech, reduces final research time by 5 min."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 240,
+          "effect": "When researching a tech, reduces final research time by 6 min."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 420,
+          "effect": "When researching a tech, reduces final research time by 7 min."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 600,
+          "effect": "When researching a tech, reduces final research time by 8 min."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 780,
+          "effect": "When researching a tech, reduces final research time by 9 min."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 960,
+          "effect": "When researching a tech, reduces final research time by 10 min."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1140,
+          "effect": "When researching a tech, reduces final research time by 11 min."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1320,
+          "effect": "When researching a tech, reduces final research time by 12 min."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1500,
+          "effect": "When researching a tech, reduces final research time by 13 min."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1680,
+          "effect": "When researching a tech, reduces final research time by 14 min."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1860,
+          "effect": "When researching a tech, reduces final research time by 15 min."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2040,
+          "effect": "When researching a tech, reduces final research time by 16 min."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2220,
+          "effect": "When researching a tech, reduces final research time by 17 min."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2400,
+          "effect": "When researching a tech, reduces final research time by 18 min."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2580,
+          "effect": "When researching a tech, reduces final research time by 19 min."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2760,
+          "effect": "When researching a tech, reduces final research time by 20 min."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2940,
+          "effect": "When researching a tech, reduces final research time by 21 min."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3120,
+          "effect": "When researching a tech, reduces final research time by 22 min."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3300,
+          "effect": "When researching a tech, reduces final research time by 23 min."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3480,
+          "effect": "When researching a tech, reduces final research time by 24 min."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3660,
+          "effect": "When researching a tech, reduces final research time by 25 min."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3840,
+          "effect": "When researching a tech, reduces final research time by 26 min."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4020,
+          "effect": "When researching a tech, reduces final research time by 27 min."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4200,
+          "effect": "When researching a tech, reduces final research time by 28 min."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4380,
+          "effect": "When researching a tech, reduces final research time by 29 min."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4560,
+          "effect": "When researching a tech, reduces final research time by 30 min."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4740,
+          "effect": "When researching a tech, reduces final research time by 31 min."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4920,
+          "effect": "When researching a tech, reduces final research time by 32 min."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5100,
+          "effect": "When researching a tech, reduces final research time by 33 min."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5280,
+          "effect": "When researching a tech, reduces final research time by 34 min."
+        }
+      ]
+    }
+  ],
+  "attackSpeedModifiers": [],
+  "evolutionStages": []
+}

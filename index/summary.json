@@ -1,109 +1,1630 @@
 {
  "schemaVersion": 1,
- "generatedFor": null,
+ "generatedFor": "rv417",
  "totals": {
-  "textures": 0,
-  "sprites": 0
+  "textures": 5316,
+  "sprites": 7271
  },
  "shards": [
   {
    "id": "00",
    "file": "index/assets/00.json",
-   "count": 0,
-   "bytes": 39
+   "count": 747,
+   "bytes": 268684
   },
   {
    "id": "01",
    "file": "index/assets/01.json",
-   "count": 0,
-   "bytes": 39
+   "count": 765,
+   "bytes": 275479
   },
   {
    "id": "02",
    "file": "index/assets/02.json",
-   "count": 0,
-   "bytes": 39
+   "count": 796,
+   "bytes": 286915
   },
   {
    "id": "03",
    "file": "index/assets/03.json",
-   "count": 0,
-   "bytes": 39
+   "count": 789,
+   "bytes": 284044
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
-   "count": 0,
-   "bytes": 39
+   "count": 776,
+   "bytes": 278939
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
-   "count": 0,
-   "bytes": 39
+   "count": 802,
+   "bytes": 288602
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
-   "count": 0,
-   "bytes": 39
+   "count": 825,
+   "bytes": 296912
   },
   {
    "id": "07",
    "file": "index/assets/07.json",
-   "count": 0,
-   "bytes": 39
+   "count": 783,
+   "bytes": 282357
   },
   {
    "id": "08",
    "file": "index/assets/08.json",
-   "count": 0,
-   "bytes": 39
+   "count": 802,
+   "bytes": 288902
   },
   {
    "id": "09",
    "file": "index/assets/09.json",
-   "count": 0,
-   "bytes": 39
+   "count": 758,
+   "bytes": 273358
   },
   {
    "id": "0a",
    "file": "index/assets/0a.json",
-   "count": 0,
-   "bytes": 39
+   "count": 758,
+   "bytes": 272711
   },
   {
    "id": "0b",
    "file": "index/assets/0b.json",
-   "count": 0,
-   "bytes": 39
+   "count": 771,
+   "bytes": 277690
   },
   {
    "id": "0c",
    "file": "index/assets/0c.json",
-   "count": 0,
-   "bytes": 39
+   "count": 812,
+   "bytes": 292560
   },
   {
    "id": "0d",
    "file": "index/assets/0d.json",
-   "count": 0,
-   "bytes": 39
+   "count": 764,
+   "bytes": 274867
   },
   {
    "id": "0e",
    "file": "index/assets/0e.json",
-   "count": 0,
-   "bytes": 39
+   "count": 819,
+   "bytes": 295742
   },
   {
    "id": "0f",
    "file": "index/assets/0f.json",
-   "count": 0,
-   "bytes": 39
+   "count": 820,
+   "bytes": 295139
   }
  ],
- "categories": [],
- "atlases": [],
+ "categories": [
+  {
+   "path": "sprites/A_ActivityAdventurer",
+   "count": 42
+  },
+  {
+   "path": "sprites/A_ActivityBattlePass",
+   "count": 124
+  },
+  {
+   "path": "sprites/A_ActivityChristmas",
+   "count": 56
+  },
+  {
+   "path": "sprites/A_ActivityCommon",
+   "count": 56
+  },
+  {
+   "path": "sprites/A_ActivityDiamondTip",
+   "count": 10
+  },
+  {
+   "path": "sprites/A_ActivityEaster",
+   "count": 32
+  },
+  {
+   "path": "sprites/A_ActivityPrecious",
+   "count": 19
+  },
+  {
+   "path": "sprites/A_ActivitySportMeeting",
+   "count": 71
+  },
+  {
+   "path": "sprites/A_ActivityThreeWar",
+   "count": 9
+  },
+  {
+   "path": "sprites/A_ActivityValentineDay",
+   "count": 35
+  },
+  {
+   "path": "sprites/A_AllianceBattleField",
+   "count": 97
+  },
+  {
+   "path": "sprites/A_ChatPrefab",
+   "count": 11
+  },
+  {
+   "path": "sprites/A_LowResFly",
+   "count": 13
+  },
+  {
+   "path": "sprites/A_UIActivityBlackJack",
+   "count": 26
+  },
+  {
+   "path": "sprites/A_UIActivityCommunity",
+   "count": 2
+  },
+  {
+   "path": "sprites/A_UIActivityDart",
+   "count": 10
+  },
+  {
+   "path": "sprites/A_UIActivityHalloween",
+   "count": 37
+  },
+  {
+   "path": "sprites/A_UIActivityHeroTrial",
+   "count": 6
+  },
+  {
+   "path": "sprites/A_UIActivityLuckyWheel",
+   "count": 32
+  },
+  {
+   "path": "sprites/A_UIActivityMeteorShower",
+   "count": 33
+  },
+  {
+   "path": "sprites/A_UIActivityMusic",
+   "count": 35
+  },
+  {
+   "path": "sprites/A_UIActivityNaturalTreasures",
+   "count": 5
+  },
+  {
+   "path": "sprites/A_UIActivityPandaLogin",
+   "count": 20
+  },
+  {
+   "path": "sprites/A_UIActivityPoachers",
+   "count": 21
+  },
+  {
+   "path": "sprites/A_UIActivityPrepareWar",
+   "count": 19
+  },
+  {
+   "path": "sprites/A_UIActivityRechargeDiy",
+   "count": 8
+  },
+  {
+   "path": "sprites/A_UIActivityRefluxActivity",
+   "count": 22
+  },
+  {
+   "path": "sprites/A_UIActivityTimeLimitCE",
+   "count": 20
+  },
+  {
+   "path": "sprites/A_UIActivityTrickOrTreat",
+   "count": 8
+  },
+  {
+   "path": "sprites/A_UIActivityValentineDay",
+   "count": 8
+  },
+  {
+   "path": "sprites/A_UIActivityWanderer",
+   "count": 13
+  },
+  {
+   "path": "sprites/A_UIActivityWeekSeven",
+   "count": 13
+  },
+  {
+   "path": "sprites/A_UIActivity_DailyLogin",
+   "count": 5
+  },
+  {
+   "path": "sprites/A_UIActivity_EventCalendar",
+   "count": 43
+  },
+  {
+   "path": "sprites/A_UIActivity_NewYear",
+   "count": 32
+  },
+  {
+   "path": "sprites/A_UIActivity_ProtectingCoral",
+   "count": 48
+  },
+  {
+   "path": "sprites/A_UIAirshipTrade",
+   "count": 52
+  },
+  {
+   "path": "sprites/A_UIAllianceBoss",
+   "count": 27
+  },
+  {
+   "path": "sprites/A_UIAmigoResearch",
+   "count": 9
+  },
+  {
+   "path": "sprites/A_UIAnniversary_2026",
+   "count": 7
+  },
+  {
+   "path": "sprites/A_UIAppCommunity",
+   "count": 8
+  },
+  {
+   "path": "sprites/A_UIArmDrill",
+   "count": 6
+  },
+  {
+   "path": "sprites/A_UIAssimilationWar",
+   "count": 15
+  },
+  {
+   "path": "sprites/A_UIBag",
+   "count": 22
+  },
+  {
+   "path": "sprites/A_UIBalloonAdventure",
+   "count": 25
+  },
+  {
+   "path": "sprites/A_UIBg",
+   "count": 8
+  },
+  {
+   "path": "sprites/A_UIBossCatch",
+   "count": 117
+  },
+  {
+   "path": "sprites/A_UIBuildQueue",
+   "count": 10
+  },
+  {
+   "path": "sprites/A_UIBuildSkin",
+   "count": 22
+  },
+  {
+   "path": "sprites/A_UIBuildSkinLuckyDraw",
+   "count": 14
+  },
+  {
+   "path": "sprites/A_UIBuildUp",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UIBuildingsCity_s03",
+   "count": 18
+  },
+  {
+   "path": "sprites/A_UICampInstruct",
+   "count": 42
+  },
+  {
+   "path": "sprites/A_UICapture",
+   "count": 25
+  },
+  {
+   "path": "sprites/A_UICardArena",
+   "count": 45
+  },
+  {
+   "path": "sprites/A_UICardBag",
+   "count": 47
+  },
+  {
+   "path": "sprites/A_UICardBattle_Word",
+   "count": 227
+  },
+  {
+   "path": "sprites/A_UICardChampionCompetition",
+   "count": 97
+  },
+  {
+   "path": "sprites/A_UICardStage",
+   "count": 51
+  },
+  {
+   "path": "sprites/A_UIChallenge",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UIChallengeDojo",
+   "count": 28
+  },
+  {
+   "path": "sprites/A_UIChat",
+   "count": 213
+  },
+  {
+   "path": "sprites/A_UIChoiseWeek",
+   "count": 3
+  },
+  {
+   "path": "sprites/A_UICityGoods",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UICityGoods_s02",
+   "count": 1
+  },
+  {
+   "path": "sprites/A_UICityWar",
+   "count": 13
+  },
+  {
+   "path": "sprites/A_UIColorfulPameng",
+   "count": 16
+  },
+  {
+   "path": "sprites/A_UICombatPowerDetails",
+   "count": 12
+  },
+  {
+   "path": "sprites/A_UICommon",
+   "count": 391
+  },
+  {
+   "path": "sprites/A_UIConquestBattle",
+   "count": 20
+  },
+  {
+   "path": "sprites/A_UICrossServerArena",
+   "count": 8
+  },
+  {
+   "path": "sprites/A_UICrossServerRoyal",
+   "count": 103
+  },
+  {
+   "path": "sprites/A_UIDesertCompetition_s03",
+   "count": 22
+  },
+  {
+   "path": "sprites/A_UIDesertKingHonorary",
+   "count": 12
+  },
+  {
+   "path": "sprites/A_UIDesertOfficer",
+   "count": 10
+  },
+  {
+   "path": "sprites/A_UIDesertStormBattlefield",
+   "count": 61
+  },
+  {
+   "path": "sprites/A_UIDesertTech",
+   "count": 11
+  },
+  {
+   "path": "sprites/A_UIDojo",
+   "count": 41
+  },
+  {
+   "path": "sprites/A_UIEaster",
+   "count": 38
+  },
+  {
+   "path": "sprites/A_UIEquipFactory",
+   "count": 18
+  },
+  {
+   "path": "sprites/A_UIFederal",
+   "count": 44
+  },
+  {
+   "path": "sprites/A_UIFederalBadge",
+   "count": 13
+  },
+  {
+   "path": "sprites/A_UIFirstRecharge",
+   "count": 10
+  },
+  {
+   "path": "sprites/A_UIForceUpdateRwd",
+   "count": 6
+  },
+  {
+   "path": "sprites/A_UIForestParty",
+   "count": 37
+  },
+  {
+   "path": "sprites/A_UIFormation",
+   "count": 80
+  },
+  {
+   "path": "sprites/A_UIFreshTrial",
+   "count": 34
+  },
+  {
+   "path": "sprites/A_UIFunnyClub",
+   "count": 11
+  },
+  {
+   "path": "sprites/A_UIFurnace",
+   "count": 14
+  },
+  {
+   "path": "sprites/A_UIFurnace_s02",
+   "count": 11
+  },
+  {
+   "path": "sprites/A_UIGemstoneAbility",
+   "count": 54
+  },
+  {
+   "path": "sprites/A_UIGoldRobber",
+   "count": 18
+  },
+  {
+   "path": "sprites/A_UIGoto",
+   "count": 144
+  },
+  {
+   "path": "sprites/A_UIGuildFurnace",
+   "count": 30
+  },
+  {
+   "path": "sprites/A_UIHUD",
+   "count": 285
+  },
+  {
+   "path": "sprites/A_UIHeroItem",
+   "count": 9
+  },
+  {
+   "path": "sprites/A_UIHeroList",
+   "count": 306
+  },
+  {
+   "path": "sprites/A_UIHeroPowerAwakening",
+   "count": 39
+  },
+  {
+   "path": "sprites/A_UIHeroRecruit",
+   "count": 54
+  },
+  {
+   "path": "sprites/A_UIHeroRecruit_heart",
+   "count": 12
+  },
+  {
+   "path": "sprites/A_UIHeroRefine",
+   "count": 7
+  },
+  {
+   "path": "sprites/A_UIHomeHUD",
+   "count": 91
+  },
+  {
+   "path": "sprites/A_UIHomeTile",
+   "count": 30
+  },
+  {
+   "path": "sprites/A_UIImmigrant",
+   "count": 46
+  },
+  {
+   "path": "sprites/A_UIIntelligence",
+   "count": 97
+  },
+  {
+   "path": "sprites/A_UIIntelligenceCatch",
+   "count": 6
+  },
+  {
+   "path": "sprites/A_UIIslandHomeWarehouse",
+   "count": 38
+  },
+  {
+   "path": "sprites/A_UIIslandHome_Main",
+   "count": 51
+  },
+  {
+   "path": "sprites/A_UILoading",
+   "count": 12
+  },
+  {
+   "path": "sprites/A_UILootArea",
+   "count": 15
+  },
+  {
+   "path": "sprites/A_UIMail",
+   "count": 156
+  },
+  {
+   "path": "sprites/A_UIMain",
+   "count": 302
+  },
+  {
+   "path": "sprites/A_UIMark",
+   "count": 33
+  },
+  {
+   "path": "sprites/A_UIMilestone",
+   "count": 20
+  },
+  {
+   "path": "sprites/A_UIMiniGame",
+   "count": 20
+  },
+  {
+   "path": "sprites/A_UIMiniGame_Community",
+   "count": 13
+  },
+  {
+   "path": "sprites/A_UIMonthCardNew",
+   "count": 12
+  },
+  {
+   "path": "sprites/A_UIMount",
+   "count": 11
+  },
+  {
+   "path": "sprites/A_UIMountChallenge",
+   "count": 5
+  },
+  {
+   "path": "sprites/A_UIMountReincarnation",
+   "count": 29
+  },
+  {
+   "path": "sprites/A_UINewPlayer",
+   "count": 37
+  },
+  {
+   "path": "sprites/A_UINumberBattle",
+   "count": 183
+  },
+  {
+   "path": "sprites/A_UIOpeningAnim",
+   "count": 9
+  },
+  {
+   "path": "sprites/A_UIPalmonBottleProduct",
+   "count": 9
+  },
+  {
+   "path": "sprites/A_UIPalmonCatch",
+   "count": 11
+  },
+  {
+   "path": "sprites/A_UIPamengSportsMeeting",
+   "count": 82
+  },
+  {
+   "path": "sprites/A_UIPamengTreatment",
+   "count": 20
+  },
+  {
+   "path": "sprites/A_UIPanelTips",
+   "count": 11
+  },
+  {
+   "path": "sprites/A_UIPay",
+   "count": 13
+  },
+  {
+   "path": "sprites/A_UIPay2",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UIPayActivity",
+   "count": 77
+  },
+  {
+   "path": "sprites/A_UIPaydirect",
+   "count": 3
+  },
+  {
+   "path": "sprites/A_UIPiggyBank",
+   "count": 12
+  },
+  {
+   "path": "sprites/A_UIPlayer",
+   "count": 101
+  },
+  {
+   "path": "sprites/A_UIPlayerCareer",
+   "count": 50
+  },
+  {
+   "path": "sprites/A_UIPlayerEmblem",
+   "count": 37
+  },
+  {
+   "path": "sprites/A_UIPyramidBattle",
+   "count": 36
+  },
+  {
+   "path": "sprites/A_UIRampageSheep",
+   "count": 11
+  },
+  {
+   "path": "sprites/A_UIRateLoot",
+   "count": 59
+  },
+  {
+   "path": "sprites/A_UIRestartTemple",
+   "count": 9
+  },
+  {
+   "path": "sprites/A_UIRestartTemple_s02",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UIRoyalWar",
+   "count": 22
+  },
+  {
+   "path": "sprites/A_UIRoyalWarS01",
+   "count": 5
+  },
+  {
+   "path": "sprites/A_UIRoyalWarS03",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UIRuin",
+   "count": 48
+  },
+  {
+   "path": "sprites/A_UISandwich",
+   "count": 8
+  },
+  {
+   "path": "sprites/A_UISearch",
+   "count": 2
+  },
+  {
+   "path": "sprites/A_UISeasonCommon1",
+   "count": 43
+  },
+  {
+   "path": "sprites/A_UISeasonCommon2",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UISeasonContribute",
+   "count": 6
+  },
+  {
+   "path": "sprites/A_UISeasonJourney",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UISeasonJourneyMain",
+   "count": 50
+  },
+  {
+   "path": "sprites/A_UISeasonRecruit",
+   "count": 43
+  },
+  {
+   "path": "sprites/A_UISeasonReward",
+   "count": 36
+  },
+  {
+   "path": "sprites/A_UISeasonTask",
+   "count": 27
+  },
+  {
+   "path": "sprites/A_UIShop",
+   "count": 25
+  },
+  {
+   "path": "sprites/A_UIShopUp",
+   "count": 16
+  },
+  {
+   "path": "sprites/A_UISnowman",
+   "count": 25
+  },
+  {
+   "path": "sprites/A_UISnowstorm",
+   "count": 6
+  },
+  {
+   "path": "sprites/A_UISnowstorm_s02",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UISpecialPack",
+   "count": 5
+  },
+  {
+   "path": "sprites/A_UISportMeeting_FIFA",
+   "count": 31
+  },
+  {
+   "path": "sprites/A_UISpringFestival",
+   "count": 54
+  },
+  {
+   "path": "sprites/A_UIStrongestPlayer",
+   "count": 17
+  },
+  {
+   "path": "sprites/A_UITask",
+   "count": 50
+  },
+  {
+   "path": "sprites/A_UITech",
+   "count": 39
+  },
+  {
+   "path": "sprites/A_UITempBook",
+   "count": 94
+  },
+  {
+   "path": "sprites/A_UITempBook_s02",
+   "count": 60
+  },
+  {
+   "path": "sprites/A_UITreasureHunt",
+   "count": 75
+  },
+  {
+   "path": "sprites/A_UIUnion",
+   "count": 122
+  },
+  {
+   "path": "sprites/A_UIUnionBreed_Main",
+   "count": 10
+  },
+  {
+   "path": "sprites/A_UIUnionChampion",
+   "count": 67
+  },
+  {
+   "path": "sprites/A_UIUnionCity",
+   "count": 58
+  },
+  {
+   "path": "sprites/A_UIUnionExpedition",
+   "count": 23
+  },
+  {
+   "path": "sprites/A_UIUnionMerchant",
+   "count": 6
+  },
+  {
+   "path": "sprites/A_UIUnionPK",
+   "count": 40
+  },
+  {
+   "path": "sprites/A_UIUnionPkTips",
+   "count": 4
+  },
+  {
+   "path": "sprites/A_UIUnionTech",
+   "count": 48
+  },
+  {
+   "path": "sprites/A_UIUnionTrial",
+   "count": 10
+  },
+  {
+   "path": "sprites/A_UIValentinesDay",
+   "count": 42
+  },
+  {
+   "path": "sprites/A_UIVip",
+   "count": 46
+  },
+  {
+   "path": "sprites/A_UIWishingWell",
+   "count": 8
+  },
+  {
+   "path": "sprites/A_UIWorldHUD",
+   "count": 33
+  },
+  {
+   "path": "uiv3/font/sprite",
+   "count": 2
+  },
+  {
+   "path": "uiv3/font/uifontb/fallback",
+   "count": 1
+  },
+  {
+   "path": "uiv3/font/uifontb/fontsdf",
+   "count": 2
+  },
+  {
+   "path": "uiv3/font/uifontr/fallback",
+   "count": 1
+  },
+  {
+   "path": "uiv3/font/uifontr/fontsdf",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivity",
+   "count": 19
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivity_newyear",
+   "count": 7
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitymeteorshower",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitymusic",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitypandalogin",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitypreparewar",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivityrefluxactivity",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiairshiptrade",
+   "count": 32
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uialliancebattlefield",
+   "count": 30
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiamigoresearch",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiappcommunity",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uibackground",
+   "count": 392
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiballoonadventure",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uibosscatchbg",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uibuffstateicon",
+   "count": 9
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uibuildingscity",
+   "count": 3
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uicampinstruct",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uicardbag",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uicardchampioncompetition",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uicardstage",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uichallengedojo",
+   "count": 24
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uichat",
+   "count": 17
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uicolorfulpameng",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uicommon",
+   "count": 25
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uicrossserverroyal",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uidailypack",
+   "count": 42
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uidesertofficer",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uidesertstormbattlefield",
+   "count": 15
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uidojo",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uieastergachapon",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiformation",
+   "count": 3
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uigemstoneability",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiheroicon",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiherolist",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiheropowerawakening",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiimmigrant",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiislandhome",
+   "count": 14
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiloading",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uimail",
+   "count": 7
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uimailboard",
+   "count": 15
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uimainacticon",
+   "count": 253
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiminigame_community",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiminigame_sidebar",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uinumberbattle",
+   "count": 11
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiopeninganim/s02_uiopeninganim",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiopeninganim/s03_uiopeninganim",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiopeninganim/uibadgecomicanim",
+   "count": 3
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiopeninganim/uibeginnerguideanim",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uipamengsportsmeeting",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uipayactivity",
+   "count": 46
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uipaycontinuityrecharge",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiplayeremblem",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiplayerset_quickemoticons",
+   "count": 8
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiplayoffcheckin_s02",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uipyramidbattle",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uirateloot",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiruin",
+   "count": 24
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiseasonjourney",
+   "count": 15
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiseasonreward",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uisportmeeting_fifa",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uispringfestival",
+   "count": 49
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiunion",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiunionbreed_main",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiunionchampion",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiunioncity",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiunionmerchant",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiunionpkmain",
+   "count": 3
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiuniontrial",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uivalentinesday",
+   "count": 4
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiwindow_birthdaygift",
+   "count": 7
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiwindow_gift",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/dicon",
+   "count": 77
+  },
+  {
+   "path": "uiv3/texture/ui_boss_talent",
+   "count": 91
+  },
+  {
+   "path": "uiv3/texture/ui_season_main",
+   "count": 147
+  },
+  {
+   "path": "uiv3/texture/ui_seasontask",
+   "count": 24
+  },
+  {
+   "path": "uiv3/texture/uiactivity_newyear",
+   "count": 7
+  },
+  {
+   "path": "uiv3/texture/uiactivityadventurer",
+   "count": 19
+  },
+  {
+   "path": "uiv3/texture/uiactivityblackjack",
+   "count": 31
+  },
+  {
+   "path": "uiv3/texture/uiactivitydigseason",
+   "count": 3
+  },
+  {
+   "path": "uiv3/texture/uiactivityherotrial",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/uiactivitymeteorshower",
+   "count": 21
+  },
+  {
+   "path": "uiv3/texture/uiactivitypandalogin",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/uiactivitypreparewar",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/uiactivityweekseven",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/uiactivitywelfare",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/uiamigoresearch",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/uiarmdrill",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/uiassimilationwar",
+   "count": 6
+  },
+  {
+   "path": "uiv3/texture/uibosscatchbg",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/uibuildingbigicon",
+   "count": 163
+  },
+  {
+   "path": "uiv3/texture/uibuildingicon",
+   "count": 135
+  },
+  {
+   "path": "uiv3/texture/uibuildingiconsmall",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/uicardarena",
+   "count": 18
+  },
+  {
+   "path": "uiv3/texture/uicardbag",
+   "count": 184
+  },
+  {
+   "path": "uiv3/texture/uicardsuperevolve",
+   "count": 8
+  },
+  {
+   "path": "uiv3/texture/uichallenge",
+   "count": 12
+  },
+  {
+   "path": "uiv3/texture/uichallengedojo",
+   "count": 7
+  },
+  {
+   "path": "uiv3/texture/uichat_face",
+   "count": 16
+  },
+  {
+   "path": "uiv3/texture/uicrossserverroyal",
+   "count": 7
+  },
+  {
+   "path": "uiv3/texture/uidialogue",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/uifederal",
+   "count": 21
+  },
+  {
+   "path": "uiv3/texture/uigem",
+   "count": 34
+  },
+  {
+   "path": "uiv3/texture/uiheadicon",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/uiherobig",
+   "count": 14
+  },
+  {
+   "path": "uiv3/texture/uiherohalf",
+   "count": 323
+  },
+  {
+   "path": "uiv3/texture/uiheroicon",
+   "count": 424
+  },
+  {
+   "path": "uiv3/texture/uiherolist",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/uiherorecruit",
+   "count": 139
+  },
+  {
+   "path": "uiv3/texture/uiheroshadow",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/uihomemainplayerwork",
+   "count": 7
+  },
+  {
+   "path": "uiv3/texture/uiicepeakwolf",
+   "count": 1
+  },
+  {
+   "path": "uiv3/texture/uiimmigrant",
+   "count": 3
+  },
+  {
+   "path": "uiv3/texture/uiislandhome",
+   "count": 149
+  },
+  {
+   "path": "uiv3/texture/uiitem",
+   "count": 521
+  },
+  {
+   "path": "uiv3/texture/uimilestone",
+   "count": 57
+  },
+  {
+   "path": "uiv3/texture/uimonstericon",
+   "count": 108
+  },
+  {
+   "path": "uiv3/texture/uipamengsportsmeeting",
+   "count": 56
+  },
+  {
+   "path": "uiv3/texture/uipamengtreatment",
+   "count": 30
+  },
+  {
+   "path": "uiv3/texture/uipayactivity",
+   "count": 15
+  },
+  {
+   "path": "uiv3/texture/uipayactivityicon",
+   "count": 156
+  },
+  {
+   "path": "uiv3/texture/uiplayercareer",
+   "count": 21
+  },
+  {
+   "path": "uiv3/texture/uiplayercarrerskillicon",
+   "count": 69
+  },
+  {
+   "path": "uiv3/texture/uiplayeremblem",
+   "count": 35
+  },
+  {
+   "path": "uiv3/texture/uiplayerheadframe",
+   "count": 26
+  },
+  {
+   "path": "uiv3/texture/uiplayericon",
+   "count": 5
+  },
+  {
+   "path": "uiv3/texture/uiplayermodel",
+   "count": 7
+  },
+  {
+   "path": "uiv3/texture/uipyramidbattle",
+   "count": 4
+  },
+  {
+   "path": "uiv3/texture/uiresourceicon",
+   "count": 35
+  },
+  {
+   "path": "uiv3/texture/uisearch",
+   "count": 17
+  },
+  {
+   "path": "uiv3/texture/uiseasonreward",
+   "count": 14
+  },
+  {
+   "path": "uiv3/texture/uishopup",
+   "count": 14
+  },
+  {
+   "path": "uiv3/texture/uiskillicon_card",
+   "count": 290
+  },
+  {
+   "path": "uiv3/texture/uisnowman",
+   "count": 3
+  },
+  {
+   "path": "uiv3/texture/uisoldierheadicon",
+   "count": 10
+  },
+  {
+   "path": "uiv3/texture/uitechicon",
+   "count": 203
+  },
+  {
+   "path": "uiv3/texture/uitraintask",
+   "count": 48
+  },
+  {
+   "path": "uiv3/texture/uitreasurehunt",
+   "count": 21
+  },
+  {
+   "path": "uiv3/texture/uiunionbrillianttask",
+   "count": 35
+  },
+  {
+   "path": "uiv3/texture/uiunioncity",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/uiunionexpedition",
+   "count": 62
+  },
+  {
+   "path": "uiv3/texture/uiunionflag",
+   "count": 17
+  },
+  {
+   "path": "uiv3/texture/uiunionmerchant",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/uiunionpkmain",
+   "count": 4
+  },
+  {
+   "path": "uiv3/texture/uiuniontrial",
+   "count": 25
+  },
+  {
+   "path": "uiv3/texture/uivip",
+   "count": 4
+  }
+ ],
+ "atlases": [
+  "A_ActivityAdventurer",
+  "A_ActivityBattlePass",
+  "A_ActivityChristmas",
+  "A_ActivityCommon",
+  "A_ActivityDiamondTip",
+  "A_ActivityEaster",
+  "A_ActivityPrecious",
+  "A_ActivitySportMeeting",
+  "A_ActivityThreeWar",
+  "A_ActivityValentineDay",
+  "A_AllianceBattleField",
+  "A_ChatPrefab",
+  "A_LowResFly",
+  "A_UIActivityBlackJack",
+  "A_UIActivityCommunity",
+  "A_UIActivityDart",
+  "A_UIActivityHalloween",
+  "A_UIActivityHeroTrial",
+  "A_UIActivityLuckyWheel",
+  "A_UIActivityMeteorShower",
+  "A_UIActivityMusic",
+  "A_UIActivityNaturalTreasures",
+  "A_UIActivityPandaLogin",
+  "A_UIActivityPoachers",
+  "A_UIActivityPrepareWar",
+  "A_UIActivityRechargeDiy",
+  "A_UIActivityRefluxActivity",
+  "A_UIActivityTimeLimitCE",
+  "A_UIActivityTrickOrTreat",
+  "A_UIActivityValentineDay",
+  "A_UIActivityWanderer",
+  "A_UIActivityWeekSeven",
+  "A_UIActivity_DailyLogin",
+  "A_UIActivity_EventCalendar",
+  "A_UIActivity_NewYear",
+  "A_UIActivity_ProtectingCoral",
+  "A_UIAirshipTrade",
+  "A_UIAllianceBoss",
+  "A_UIAmigoResearch",
+  "A_UIAnniversary_2026",
+  "A_UIAppCommunity",
+  "A_UIArmDrill",
+  "A_UIAssimilationWar",
+  "A_UIBag",
+  "A_UIBalloonAdventure",
+  "A_UIBg",
+  "A_UIBossCatch",
+  "A_UIBuildQueue",
+  "A_UIBuildSkin",
+  "A_UIBuildSkinLuckyDraw",
+  "A_UIBuildUp",
+  "A_UIBuildingsCity_s03",
+  "A_UICampInstruct",
+  "A_UICapture",
+  "A_UICardArena",
+  "A_UICardBag",
+  "A_UICardBattle_Word",
+  "A_UICardChampionCompetition",
+  "A_UICardStage",
+  "A_UIChallenge",
+  "A_UIChallengeDojo",
+  "A_UIChat",
+  "A_UIChoiseWeek",
+  "A_UICityGoods",
+  "A_UICityGoods_s02",
+  "A_UICityWar",
+  "A_UIColorfulPameng",
+  "A_UICombatPowerDetails",
+  "A_UICommon",
+  "A_UIConquestBattle",
+  "A_UICrossServerArena",
+  "A_UICrossServerRoyal",
+  "A_UIDesertCompetition_s03",
+  "A_UIDesertKingHonorary",
+  "A_UIDesertOfficer",
+  "A_UIDesertStormBattlefield",
+  "A_UIDesertTech",
+  "A_UIDojo",
+  "A_UIEaster",
+  "A_UIEquipFactory",
+  "A_UIFederal",
+  "A_UIFederalBadge",
+  "A_UIFirstRecharge",
+  "A_UIForceUpdateRwd",
+  "A_UIForestParty",
+  "A_UIFormation",
+  "A_UIFreshTrial",
+  "A_UIFunnyClub",
+  "A_UIFurnace",
+  "A_UIFurnace_s02",
+  "A_UIGemstoneAbility",
+  "A_UIGoldRobber",
+  "A_UIGoto",
+  "A_UIGuildFurnace",
+  "A_UIHUD",
+  "A_UIHeroItem",
+  "A_UIHeroList",
+  "A_UIHeroPowerAwakening",
+  "A_UIHeroRecruit",
+  "A_UIHeroRecruit_heart",
+  "A_UIHeroRefine",
+  "A_UIHomeHUD",
+  "A_UIHomeTile",
+  "A_UIImmigrant",
+  "A_UIIntelligence",
+  "A_UIIntelligenceCatch",
+  "A_UIIslandHomeWarehouse",
+  "A_UIIslandHome_Main",
+  "A_UILoading",
+  "A_UILootArea",
+  "A_UIMail",
+  "A_UIMain",
+  "A_UIMark",
+  "A_UIMilestone",
+  "A_UIMiniGame",
+  "A_UIMiniGame_Community",
+  "A_UIMonthCardNew",
+  "A_UIMount",
+  "A_UIMountChallenge",
+  "A_UIMountReincarnation",
+  "A_UINewPlayer",
+  "A_UINumberBattle",
+  "A_UIOpeningAnim",
+  "A_UIPalmonBottleProduct",
+  "A_UIPalmonCatch",
+  "A_UIPamengSportsMeeting",
+  "A_UIPamengTreatment",
+  "A_UIPanelTips",
+  "A_UIPay",
+  "A_UIPay2",
+  "A_UIPayActivity",
+  "A_UIPaydirect",
+  "A_UIPiggyBank",
+  "A_UIPlayer",
+  "A_UIPlayerCareer",
+  "A_UIPlayerEmblem",
+  "A_UIPyramidBattle",
+  "A_UIRampageSheep",
+  "A_UIRateLoot",
+  "A_UIRestartTemple",
+  "A_UIRestartTemple_s02",
+  "A_UIRoyalWar",
+  "A_UIRoyalWarS01",
+  "A_UIRoyalWarS03",
+  "A_UIRuin",
+  "A_UISandwich",
+  "A_UISearch",
+  "A_UISeasonCommon1",
+  "A_UISeasonCommon2",
+  "A_UISeasonContribute",
+  "A_UISeasonJourney",
+  "A_UISeasonJourneyMain",
+  "A_UISeasonRecruit",
+  "A_UISeasonReward",
+  "A_UISeasonTask",
+  "A_UIShop",
+  "A_UIShopUp",
+  "A_UISnowman",
+  "A_UISnowstorm",
+  "A_UISnowstorm_s02",
+  "A_UISpecialPack",
+  "A_UISportMeeting_FIFA",
+  "A_UISpringFestival",
+  "A_UIStrongestPlayer",
+  "A_UITask",
+  "A_UITech",
+  "A_UITempBook",
+  "A_UITempBook_s02",
+  "A_UITreasureHunt",
+  "A_UIUnion",
+  "A_UIUnionBreed_Main",
+  "A_UIUnionChampion",
+  "A_UIUnionCity",
+  "A_UIUnionExpedition",
+  "A_UIUnionMerchant",
+  "A_UIUnionPK",
+  "A_UIUnionPkTips",
+  "A_UIUnionTech",
+  "A_UIUnionTrial",
+  "A_UIValentinesDay",
+  "A_UIVip",
+  "A_UIWishingWell",
+  "A_UIWorldHUD"
+ ],
  "changelogPairs": []
 }

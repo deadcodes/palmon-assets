@@ -1,0 +1,714 @@
+{
+  "schemaVersion": 1,
+  "id": "205030",
+  "name": "Spookaboo",
+  "icon": "uiv3/texture/uiheroicon/Palmon_head_5030.png",
+  "camp": 2,
+  "levelType": 11,
+  "rarity": "UR",
+  "baseStats": {
+    "attack": 508,
+    "defense": 54,
+    "hp": 12700,
+    "power": 49700
+  },
+  "remit": 2,
+  "role": "backline",
+  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+  "forms": {
+    "base": {
+      "name": "Spookaboo",
+      "portrait": "uiv3/texture/uiherohalf/Palmon_full_5030.png"
+    }
+  },
+  "skills": [
+    {
+      "id": "135301",
+      "name": "Candleflame Orb",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205030_1.png",
+      "des": "Launches a ghostly fireball, dealing <color=#00A069>{0}</color> damage to a single enemy.",
+      "kind": "normal_attack",
+      "rageGain": 21,
+      "rageActivation": 0,
+      "timing": {
+        "forms": [
+          {
+            "timelineId": 190,
+            "animationMs": 1700,
+            "attackIntervalMs": 1700
+          },
+          null,
+          null
+        ]
+      },
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 100,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>113%</color> damage to a single enemy."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 400,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>114.56%</color> damage to a single enemy."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 700,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>116.11%</color> damage to a single enemy."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 1000,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>117.66%</color> damage to a single enemy."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 1300,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>119.21%</color> damage to a single enemy."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 1600,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>120.76%</color> damage to a single enemy."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 1900,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>122.32%</color> damage to a single enemy."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 2200,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>123.87%</color> damage to a single enemy."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 2500,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>125.42%</color> damage to a single enemy."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 2800,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>126.97%</color> damage to a single enemy."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 3100,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>128.52%</color> damage to a single enemy."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 3400,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>130.07%</color> damage to a single enemy."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 3700,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>131.63%</color> damage to a single enemy."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 4000,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>133.18%</color> damage to a single enemy."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 4300,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>134.72%</color> damage to a single enemy."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 4600,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>136.28%</color> damage to a single enemy."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 4900,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>137.83%</color> damage to a single enemy."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 5200,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>139.38%</color> damage to a single enemy."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 5500,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>140.94%</color> damage to a single enemy."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 5800,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>142.49%</color> damage to a single enemy."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 6100,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>144.04%</color> damage to a single enemy."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 6400,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>145.59%</color> damage to a single enemy."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 6700,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>147.13%</color> damage to a single enemy."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 7000,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>148.69%</color> damage to a single enemy."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 7300,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>150.25%</color> damage to a single enemy."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 7600,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>151.8%</color> damage to a single enemy."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 7900,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>153.35%</color> damage to a single enemy."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 8200,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>154.9%</color> damage to a single enemy."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 8500,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>156.44%</color> damage to a single enemy."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 1700,
+          "power": 8800,
+          "effect": "Launches a ghostly fireball, dealing <color=#00A069>158%</color> damage to a single enemy."
+        }
+      ]
+    },
+    {
+      "id": "135302",
+      "name": "Jack-o'-Smash",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205030_2.png",
+      "des": "Drops a pumpkin lantern from above, dealing <color=#00A069>{0}</color> damage to 3 random enemies.",
+      "kind": "rage",
+      "rageGain": 0,
+      "rageActivation": 100,
+      "timing": {
+        "forms": [
+          {
+            "timelineId": 191,
+            "animationMs": 3400,
+            "attackIntervalMs": 3400
+          },
+          null,
+          null
+        ]
+      },
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 100,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>423%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 400,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>430.32%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 700,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>437.63%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 1000,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>444.94%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 1300,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>452.25%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 1600,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>459.56%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 1900,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>466.87%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 2200,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>474.18%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 2500,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>481.49%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 2800,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>488.8%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 3100,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>496.11%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 3400,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>503.42%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 3700,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>510.73%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 4000,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>518.04%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 4300,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>525.35%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 4600,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>532.66%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 4900,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>539.97%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 5200,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>547.28%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 5500,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>554.59%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 5800,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>561.9%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 6100,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>569.21%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 6400,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>576.52%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 6700,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>583.83%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 7000,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>591.14%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 7300,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>598.45%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 7600,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>605.76%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 7900,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>613.07%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 8200,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>620.38%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 8500,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>627.69%</color> damage to 3 random enemies."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 3400,
+          "power": 8800,
+          "effect": "Drops a pumpkin lantern from above, dealing <color=#00A069>635%</color> damage to 3 random enemies."
+        }
+      ]
+    },
+    {
+      "id": "215303",
+      "name": "Ghostly Power",
+      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205030_3.png",
+      "des": "Increases the Attack of all Palmon by <color=#00A069>{0}</color> (even when undeployed).",
+      "kind": "special_passive",
+      "rageGain": 0,
+      "rageActivation": 0,
+      "timing": null,
+      "tiers": [
+        {
+          "lv": 1,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 100,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>200</color> (even when undeployed)."
+        },
+        {
+          "lv": 2,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 400,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>263</color> (even when undeployed)."
+        },
+        {
+          "lv": 3,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 700,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>325</color> (even when undeployed)."
+        },
+        {
+          "lv": 4,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1000,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>387</color> (even when undeployed)."
+        },
+        {
+          "lv": 5,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1300,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>449</color> (even when undeployed)."
+        },
+        {
+          "lv": 6,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1600,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>511</color> (even when undeployed)."
+        },
+        {
+          "lv": 7,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 1900,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>573</color> (even when undeployed)."
+        },
+        {
+          "lv": 8,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2200,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>635</color> (even when undeployed)."
+        },
+        {
+          "lv": 9,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2500,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>697</color> (even when undeployed)."
+        },
+        {
+          "lv": 10,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 2800,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>759</color> (even when undeployed)."
+        },
+        {
+          "lv": 11,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3100,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>821</color> (even when undeployed)."
+        },
+        {
+          "lv": 12,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3400,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>883</color> (even when undeployed)."
+        },
+        {
+          "lv": 13,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 3700,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>945</color> (even when undeployed)."
+        },
+        {
+          "lv": 14,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4000,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1007</color> (even when undeployed)."
+        },
+        {
+          "lv": 15,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4300,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1069</color> (even when undeployed)."
+        },
+        {
+          "lv": 16,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4600,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1132</color> (even when undeployed)."
+        },
+        {
+          "lv": 17,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 4900,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1194</color> (even when undeployed)."
+        },
+        {
+          "lv": 18,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5200,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1256</color> (even when undeployed)."
+        },
+        {
+          "lv": 19,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5500,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1318</color> (even when undeployed)."
+        },
+        {
+          "lv": 20,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 5800,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1380</color> (even when undeployed)."
+        },
+        {
+          "lv": 21,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 6100,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1442</color> (even when undeployed)."
+        },
+        {
+          "lv": 22,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 6400,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1504</color> (even when undeployed)."
+        },
+        {
+          "lv": 23,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 6700,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1566</color> (even when undeployed)."
+        },
+        {
+          "lv": 24,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 7000,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1628</color> (even when undeployed)."
+        },
+        {
+          "lv": 25,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 7300,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1690</color> (even when undeployed)."
+        },
+        {
+          "lv": 26,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 7600,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1752</color> (even when undeployed)."
+        },
+        {
+          "lv": 27,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 7900,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1814</color> (even when undeployed)."
+        },
+        {
+          "lv": 28,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 8200,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1876</color> (even when undeployed)."
+        },
+        {
+          "lv": 29,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 8500,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>1938</color> (even when undeployed)."
+        },
+        {
+          "lv": 30,
+          "maxLevel": 30,
+          "attackCd": 0,
+          "power": 8800,
+          "effect": "Increases the Attack of all Palmon by <color=#00A069>2000</color> (even when undeployed)."
+        }
+      ]
+    }
+  ],
+  "attackSpeedModifiers": [],
+  "evolutionStages": []
+}
