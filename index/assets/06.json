@@ -1557,7 +1557,7 @@
    "path": "sprites/A_UICardArena/arena_pic_star2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv426",
+   "lastSeen": "rv427",
    "history": [
     {
      "version": "rv417",
@@ -1570,6 +1570,13 @@
      "version": "rv426",
      "sha256": "ccfa896d31b989bf011e91be782c77ce658aa9f20ffe9673e12ea9c678bb4e48",
      "bytes": 4073,
+     "width": 64,
+     "height": 78
+    },
+    {
+     "version": "rv427",
+     "sha256": "f1af0b6bf7aa8ea973c39e878262856a5cd0882fe5edd5028e923be57562ae64",
+     "bytes": 4014,
      "width": 64,
      "height": 78
     }
@@ -5276,7 +5283,7 @@
    "path": "sprites/A_UINumberBattle/Battle_pic_Green02.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv426",
+   "lastSeen": "rv427",
    "history": [
     {
      "version": "rv417",
@@ -5291,6 +5298,13 @@
      "bytes": 1059,
      "width": 30,
      "height": 42
+    },
+    {
+     "version": "rv427",
+     "sha256": "c2f980c05770aeb5c41d6d2feae39a8a382c19f7cdec7d3d24e49024f345d555",
+     "bytes": 997,
+     "width": 30,
+     "height": 42
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5299,7 +5313,7 @@
    "path": "sprites/A_UINumberBattle/Battle_pic_Green11.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv426",
+   "lastSeen": "rv427",
    "history": [
     {
      "version": "rv417",
@@ -5314,6 +5328,13 @@
      "bytes": 587,
      "width": 26,
      "height": 42
+    },
+    {
+     "version": "rv427",
+     "sha256": "7c374d02419f608b5eba9d66a8dfcb0a8851995d23479010de335e4bb2e48835",
+     "bytes": 616,
+     "width": 26,
+     "height": 42
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5322,7 +5343,7 @@
    "path": "sprites/A_UINumberBattle/battle_clock.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv426",
+   "lastSeen": "rv427",
    "history": [
     {
      "version": "rv417",
@@ -5337,6 +5358,13 @@
      "bytes": 9701,
      "width": 82,
      "height": 95
+    },
+    {
+     "version": "rv427",
+     "sha256": "e926bff28d69710f5eb67695d26b88f4c4f32d142f4136debbf11bfefd6bf70a",
+     "bytes": 9701,
+     "width": 82,
+     "height": 95
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5345,7 +5373,7 @@
    "path": "sprites/A_UINumberBattle/battle_pic_bossbloodvolume2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv426",
+   "lastSeen": "rv427",
    "history": [
     {
      "version": "rv417",
@@ -5360,6 +5388,13 @@
      "bytes": 500,
      "width": 52,
      "height": 32
+    },
+    {
+     "version": "rv427",
+     "sha256": "1f4c49141834be4a97e3a66ad30b85853529f7f724d007236bd6ee9ad1c33d1e",
+     "bytes": 499,
+     "width": 52,
+     "height": 32
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5368,7 +5403,7 @@
    "path": "sprites/A_UINumberBattle/battle_pic_buff.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv426",
+   "lastSeen": "rv427",
    "history": [
     {
      "version": "rv417",
@@ -5383,6 +5418,13 @@
      "bytes": 505,
      "width": 40,
      "height": 40
+    },
+    {
+     "version": "rv427",
+     "sha256": "992ae47164a5eceaad7ed1a70cb7a321eb00143efb423d91f81014e2cb798951",
+     "bytes": 546,
+     "width": 40,
+     "height": 40
     }
    ],
    "atlas": "A_UINumberBattle"
@@ -5391,7 +5433,7 @@
    "path": "sprites/A_UINumberBattle/battle_pic_buff22.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv426",
+   "lastSeen": "rv427",
    "history": [
     {
      "version": "rv417",
@@ -5404,6 +5446,13 @@
      "version": "rv426",
      "sha256": "04c5ff0f982b8852097a1c70a30a39f39afb4a7a8dc6ed7a8f59829abb05d94f",
      "bytes": 1526,
+     "width": 36,
+     "height": 39
+    },
+    {
+     "version": "rv427",
+     "sha256": "d7a15df9b64ecd6a99208b559b8ea48f8bdc45a62a8df45d495d98b6100a347a",
+     "bytes": 1590,
      "width": 36,
      "height": 39
     }
@@ -5430,7 +5479,7 @@
    "path": "sprites/A_UINumberBattle/card_formation_btn_restrainTip.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv426",
+   "lastSeen": "rv427",
    "history": [
     {
      "version": "rv417",
@@ -5443,6 +5492,13 @@
      "version": "rv426",
      "sha256": "d62fc39d41380bd13f7b642eb342d5a95cac0e110058bdee3c811587588feb8b",
      "bytes": 9893,
+     "width": 120,
+     "height": 120
+    },
+    {
+     "version": "rv427",
+     "sha256": "083dce8883bbdf3db65c89cebd48ed5d875109ffd5fa07d01267cfac6cb93e7c",
+     "bytes": 9980,
      "width": 120,
      "height": 120
     }
