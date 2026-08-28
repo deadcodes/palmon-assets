@@ -9722,6 +9722,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Gacha_frame_card2_1_m.png",
+   "kind": "texture",
+   "firstSeen": "rv419",
+   "lastSeen": "rv419",
+   "history": [
+    {
+     "version": "rv419",
+     "sha256": "e8f1fbb9ea4272d769838614546c6c5f3b3b8809b1a4b0440ceaca2a6d5f957b",
+     "bytes": 106529,
+     "width": 192,
+     "height": 323
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Gacha_frame_cardBg1_1_m.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9763,6 +9778,21 @@
      "bytes": 44302,
      "width": 512,
      "height": 268
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardsuperevolve/superevolve_5021.png",
+   "kind": "texture",
+   "firstSeen": "rv419",
+   "lastSeen": "rv419",
+   "history": [
+    {
+     "version": "rv419",
+     "sha256": "9300129ae0516a7923b415baf67786eb08288e17bf34875fb28f1dc75c6202e4",
+     "bytes": 114928,
+     "width": 312,
+     "height": 320
     }
    ]
   },
