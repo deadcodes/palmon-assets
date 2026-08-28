@@ -266,7 +266,7 @@
       "id": "135402",
       "name": "Desert Judgment",
       "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205040_2.png",
-      "des": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>{0}</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies.",
+      "des": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>{0}</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies.",
       "kind": "rage",
       "rageGain": 0,
       "rageActivation": 100,
@@ -291,210 +291,210 @@
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 100,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>812%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>812%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 2,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 400,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>826%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>826%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 3,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 700,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>840%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>840%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 4,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 1000,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>854%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>854%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 5,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 1300,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>868%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>868%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 6,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 1600,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>882%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>882%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 7,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 1900,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>896%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>896%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 8,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 2200,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>910%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>910%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 9,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 2500,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>924%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>924%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 10,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 2800,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>938%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>938%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 11,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 3100,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>952%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>952%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 12,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 3400,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>966%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>966%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 13,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 3700,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>980%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>980%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 14,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 4000,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>994%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>994%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 15,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 4300,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1008%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1008%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 16,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 4600,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1022%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1022%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 17,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 4900,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1036%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1036%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 18,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 5200,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1050%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1050%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 19,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 5500,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1064%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1064%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 20,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 5800,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1078%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1078%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 21,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 6100,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1092%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1092%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 22,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 6400,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1106%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1106%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 23,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 6700,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1120%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1120%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 24,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 7000,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1134%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1134%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 25,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 7300,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1148%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1148%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 26,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 7600,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1162%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1162%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 27,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 7900,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1176%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1176%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 28,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 8200,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1190%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1190%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 29,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 8500,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1204%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1204%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         },
         {
           "lv": 30,
           "maxLevel": 30,
           "attackCd": 4000,
           "power": 8800,
-          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1218%</color> damage with its venomous stinger. If any target is killed, Scorphelia triggers a toxin explosion, dealing <color=#00A069>1000%</color> damage to all enemies."
+          "effect": "Scorphelia burrows underground, rapidly emerging to strike the <color=#00A069>2</color> enemies with the highest Attack, dealing <color=#00A069>1218%</color> damage with its venomous stinger. Triggers a toxin explosion meanwhile, dealing <color=#00A069>1500%</color> damage to all enemies."
         }
       ]
     },
@@ -502,7 +502,7 @@
       "id": "135403",
       "name": "Sandstorm Dance",
       "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205040_3.png",
-      "des": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>{0}</color>, stacking up to 3 times.",
+      "des": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>{0}</color>, stacking up to 3 times.",
       "kind": "special_passive",
       "rageGain": 0,
       "rageActivation": 0,
@@ -513,210 +513,210 @@
           "maxLevel": 30,
           "attackCd": 0,
           "power": 100,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>5%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>5%</color>, stacking up to 3 times."
         },
         {
           "lv": 2,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 400,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>5.18%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>5.18%</color>, stacking up to 3 times."
         },
         {
           "lv": 3,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 700,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>5.35%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>5.35%</color>, stacking up to 3 times."
         },
         {
           "lv": 4,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 1000,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>5.52%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>5.52%</color>, stacking up to 3 times."
         },
         {
           "lv": 5,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 1300,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>5.69%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>5.69%</color>, stacking up to 3 times."
         },
         {
           "lv": 6,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 1600,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>5.87%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>5.87%</color>, stacking up to 3 times."
         },
         {
           "lv": 7,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 1900,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>6.04%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>6.04%</color>, stacking up to 3 times."
         },
         {
           "lv": 8,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 2200,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>6.21%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>6.21%</color>, stacking up to 3 times."
         },
         {
           "lv": 9,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 2500,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>6.38%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>6.38%</color>, stacking up to 3 times."
         },
         {
           "lv": 10,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 2800,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>6.56%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>6.56%</color>, stacking up to 3 times."
         },
         {
           "lv": 11,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 3100,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>6.73%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>6.73%</color>, stacking up to 3 times."
         },
         {
           "lv": 12,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 3400,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>6.9%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>6.9%</color>, stacking up to 3 times."
         },
         {
           "lv": 13,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 3700,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>7.07%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>7.07%</color>, stacking up to 3 times."
         },
         {
           "lv": 14,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 4000,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>7.25%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>7.25%</color>, stacking up to 3 times."
         },
         {
           "lv": 15,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 4300,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>7.42%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>7.42%</color>, stacking up to 3 times."
         },
         {
           "lv": 16,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 4600,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>7.59%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>7.59%</color>, stacking up to 3 times."
         },
         {
           "lv": 17,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 4900,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>7.76%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>7.76%</color>, stacking up to 3 times."
         },
         {
           "lv": 18,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 5200,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>7.94%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>7.94%</color>, stacking up to 3 times."
         },
         {
           "lv": 19,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 5500,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>8.11%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>8.11%</color>, stacking up to 3 times."
         },
         {
           "lv": 20,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 5800,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>8.27%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>8.27%</color>, stacking up to 3 times."
         },
         {
           "lv": 21,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 6100,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>8.44%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>8.44%</color>, stacking up to 3 times."
         },
         {
           "lv": 22,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 6400,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>8.63%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>8.63%</color>, stacking up to 3 times."
         },
         {
           "lv": 23,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 6700,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>8.8%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>8.8%</color>, stacking up to 3 times."
         },
         {
           "lv": 24,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 7000,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>8.97%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>8.97%</color>, stacking up to 3 times."
         },
         {
           "lv": 25,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 7300,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>9.14%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>9.14%</color>, stacking up to 3 times."
         },
         {
           "lv": 26,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 7600,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>9.32%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>9.32%</color>, stacking up to 3 times."
         },
         {
           "lv": 27,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 7900,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>9.49%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>9.49%</color>, stacking up to 3 times."
         },
         {
           "lv": 28,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 8200,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>9.66%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>9.66%</color>, stacking up to 3 times."
         },
         {
           "lv": 29,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 8500,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>9.83%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>9.83%</color>, stacking up to 3 times."
         },
         {
           "lv": 30,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 8800,
-          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases Attack by <color=#00A069>10%</color>, stacking up to 3 times."
+          "effect": "Dances with the raging sands! Each Rage Skill cast during battle increases all allied Earth Palmon's Final Attack by <color=#00A069>10%</color>, stacking up to 3 times."
         }
       ]
     },

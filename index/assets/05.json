@@ -9335,6 +9335,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_12_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "7f238591d8ca79b71106ed61f22281071235f6588c1280f612305dbb11afe317",
+     "bytes": 39215,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_7.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9346,6 +9361,21 @@
      "bytes": 461024,
      "width": 634,
      "height": 538
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_7_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "34b88212b23619fda4c5aeb2193621d659d55604e3f95ea40340b2d2d3d988aa",
+     "bytes": 44179,
+     "width": 164,
+     "height": 139
     }
    ]
   },
@@ -9365,6 +9395,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_14_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "a4da4378c57e1b17562bc9185e7ca484499ff3ff48f6965bb3b1f7aa66083b7c",
+     "bytes": 103032,
+     "width": 194,
+     "height": 322
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_ssr_4.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9376,6 +9421,21 @@
      "bytes": 1344895,
      "width": 746,
      "height": 1240
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_ssr_4_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "a4027680b0b66b268a3120da0298e32fb80b789ffc71c2d451ebccedcb732c0b",
+     "bytes": 130142,
+     "width": 194,
+     "height": 322
     }
    ]
   },
@@ -9511,6 +9571,21 @@
      "bytes": 905955,
      "width": 968,
      "height": 968
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_icon_11.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "feb2780abb333fe74d914c107a4f572ae76f0e505fa2afbea85ebd72c01be064",
+     "bytes": 4142,
+     "width": 72,
+     "height": 80
     }
    ]
   },
@@ -10025,6 +10100,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uiheroicon/Palmon_bottle_5021_evolve_1.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "d00b083c9b09acbe7bc0b61bde150121ecf298c701031d9626b3e00e768c2a95",
+     "bytes": 45902,
+     "width": 160,
+     "height": 160
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uiheroicon/Palmon_bottle_5025.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -10373,12 +10463,19 @@
    "path": "uiv3/texture/uiherorecruit/Hero5008_2.png",
    "kind": "texture",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv418",
    "history": [
     {
      "version": "rv417",
      "sha256": "6653bd9df8468acf3006fdf54f9a6533d72a2a054e0d2db6840b978542efe88f",
      "bytes": 399963,
+     "width": 1920,
+     "height": 780
+    },
+    {
+     "version": "rv418",
+     "sha256": "5286d90c9b798c69c00842ce84bd489be8f2b00fa3b4fa7d54342fbcabe0b45e",
+     "bytes": 429803,
      "width": 1920,
      "height": 780
     }
@@ -10703,12 +10800,19 @@
    "path": "uiv3/texture/uiitem/Palmon_evolution_5011.png",
    "kind": "texture",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv418",
    "history": [
     {
      "version": "rv417",
      "sha256": "b42a9e2fefed0e08b143f14b8af5afaad5f5d565f2c4f69a5affaa23d83a93da",
      "bytes": 32617,
+     "width": 160,
+     "height": 160
+    },
+    {
+     "version": "rv418",
+     "sha256": "90b5a5c4d13a4dfdf81452d30a04d8ca1221a9e72920571a57507861f149e128",
+     "bytes": 27691,
      "width": 160,
      "height": 160
     }

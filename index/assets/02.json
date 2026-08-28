@@ -9360,6 +9360,51 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_26_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "bb3deee58ebdfe0724fc2bb1150abf47cabc2808a7f0aed3c280a5b95d4222c6",
+     "bytes": 48060,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_35_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "aa28deaef68fd007c5bbdedbdd4ae9db05d39009432c4340ec416eb0d76a4c24",
+     "bytes": 44899,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_40_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "50b88b747ec22fa37c9e112b68de750cf8284999cffe7a71d792984663af2994",
+     "bytes": 48489,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_6.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9386,6 +9431,21 @@
      "bytes": 946254,
      "width": 746,
      "height": 1240
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_4_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "e959d6dc6b6fa9db5d7deb4ece15cc96f46d5ed39a2623439565913151a42848",
+     "bytes": 111440,
+     "width": 194,
+     "height": 322
     }
    ]
   },
@@ -9521,6 +9581,21 @@
      "bytes": 1017393,
      "width": 968,
      "height": 968
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_icon_10.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "ff2014edb35ec80efd2178d39629ce0a1f6e81e3afe6fc90b78019e65570dc1a",
+     "bytes": 4789,
+     "width": 72,
+     "height": 80
     }
    ]
   },
@@ -9954,6 +10029,21 @@
      "version": "rv417",
      "sha256": "90e4565c7c5ff5e09535da17f142501aa84694ba04feb8d0b90c8166833beef8",
      "bytes": 45837,
+     "width": 160,
+     "height": 160
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiheroicon/Palmon_bottle_5008_evolve_1.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "1572a6f2cbc14ea49bea1db5f54416166b6631906b549872088ec330ff5d8fc4",
+     "bytes": 41218,
      "width": 160,
      "height": 160
     }
@@ -11829,6 +11919,21 @@
      "version": "rv417",
      "sha256": "7f58942daaf21294a7837382399e2c38fd9429bd3dc105e295bde97d21ffa8bf",
      "bytes": 42215,
+     "width": 160,
+     "height": 160
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiskillicon_card/evolve_skill_5008_2.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "803c6698b395e5c208956b3aea2e22d0b9c52a24000702325c80700fb52e97ee",
+     "bytes": 52535,
      "width": 160,
      "height": 160
     }

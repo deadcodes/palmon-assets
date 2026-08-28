@@ -9564,6 +9564,36 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_21_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "422cb6ceec0810103de108fca9cf2b9bdfb01270d41017105eee05266f030344",
+     "bytes": 46401,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_32_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "4e1001de03eaf7bffa9ec5856311d0cee0f8e067708d1b3a2d171d52b1685865",
+     "bytes": 48401,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_5.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9579,6 +9609,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_9_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "ffe644a19e6e31a1d1db826341c898bb3533d3d4d8c1e2d397542e2b3642bd37",
+     "bytes": 42685,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_sr_16.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9590,6 +9635,36 @@
      "bytes": 1074808,
      "width": 746,
      "height": 1240
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_3_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "d3e23a030634c8de0da253347da9be3023b27c08efe2f0eac4997977dffed942",
+     "bytes": 96967,
+     "width": 194,
+     "height": 322
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_ssr_11_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "bb85ac222106e1b7163c378ecb475e361a3bb9c5e5b54bf588ad18534957c0e0",
+     "bytes": 128422,
+     "width": 194,
+     "height": 322
     }
    ]
   },
@@ -9744,6 +9819,36 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_icon_13.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "062e6409f8e96d090a4fccee16a3a02b34da1df9198f136b3d8491c1ad8bdea3",
+     "bytes": 3925,
+     "width": 72,
+     "height": 80
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_icon_8.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "25efd9bc05a46e2e4a6e674a97f265570dfd47a572ca82e0cb28c69278b01a2b",
+     "bytes": 4456,
+     "width": 72,
+     "height": 80
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicrossserverroyal/comic_pic_Plot4.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9873,6 +9978,21 @@
      "version": "rv417",
      "sha256": "90bea054ae584d693968ffd24561679c86b569bb0593ad3da4c49f8e5d56d5ba",
      "bytes": 164341,
+     "width": 500,
+     "height": 572
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiherohalf/Palmon_full_5008_evolve_1.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "5656b81cf4c0d26a0bc1393167bb4014ff99f4a90b4493a9e4c92236073a0669",
+     "bytes": 238073,
      "width": 500,
      "height": 572
     }
@@ -12228,6 +12348,21 @@
      "version": "rv417",
      "sha256": "eeeb270fcf3fc177168c5e76c05c4ede84759298c071cc56928c949ac828140c",
      "bytes": 36212,
+     "width": 160,
+     "height": 160
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiskillicon_card/evolve_skill_5008_1.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "ffd4e80439b0e08be2bca3787eeafb53ecf730b55ea97d683aee98ee248ef0fa",
+     "bytes": 47285,
      "width": 160,
      "height": 160
     }

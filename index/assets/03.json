@@ -9108,6 +9108,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_10_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "1ae314047c7da35d96db30fae897b29a4bb7b56d979b4add0ea28aeab432dfa8",
+     "bytes": 37240,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_14.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9138,6 +9153,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_5_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "3e87b0796e158bfc373ed9f8249137596fb19c2cf69f04737027c42664d6cfac",
+     "bytes": 42664,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_sr_12.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9153,6 +9183,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_16_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "9a0a47714f69119ec184db2448248e5cfafb8776f41e721f7919d6c584552c3e",
+     "bytes": 120386,
+     "width": 194,
+     "height": 322
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_ssr_2.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9164,6 +9209,21 @@
      "bytes": 1459238,
      "width": 746,
      "height": 1240
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_ssr_6_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "3f35a406a02213674db4c44e29b52fbc85f69f0f9827d070aa6e12d639dcef7e",
+     "bytes": 138326,
+     "width": 194,
+     "height": 322
     }
    ]
   },
@@ -9224,6 +9284,21 @@
      "bytes": 63733,
      "width": 202,
      "height": 322
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_Recommend_9.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "e0c13e6f24c8dee6f2db04eafeed02b25a8b414ef7dfc8eda4502d9810071fbb",
+     "bytes": 137539,
+     "width": 300,
+     "height": 300
     }
    ]
   },
@@ -10608,15 +10683,37 @@
    ]
   },
   {
+   "path": "uiv3/texture/uiitem/Palmon_evolution_5008.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "4aaa777840d100178083d05f3b0cac98465043ef7f5605ab37620f83617b6fef",
+     "bytes": 32755,
+     "width": 160,
+     "height": 160
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uiitem/Palmon_evolution_5017.png",
    "kind": "texture",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv418",
    "history": [
     {
      "version": "rv417",
      "sha256": "f15c572f547eda84f02049b6c735a876b5abe02a4b2739257589f9a92a7e689d",
      "bytes": 33199,
+     "width": 160,
+     "height": 160
+    },
+    {
+     "version": "rv418",
+     "sha256": "82deae5f7337aee927f07d342f8fc91be602c50419cf445b2bef2772cffbcf6a",
+     "bytes": 26931,
      "width": 160,
      "height": 160
     }

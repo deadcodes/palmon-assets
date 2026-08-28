@@ -266,7 +266,7 @@
       "id": "135412",
       "name": "Radiant Charge",
       "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205041_2.png",
-      "des": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>{0}</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s.",
+      "des": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>{0}</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s.",
       "kind": "rage",
       "rageGain": 0,
       "rageActivation": 100,
@@ -291,210 +291,210 @@
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 100,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>504%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>504%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 2,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 400,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>512.69%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>512.69%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 3,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 700,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>521.38%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>521.38%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 4,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 1000,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>530.07%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>530.07%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 5,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 1300,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>538.76%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>538.76%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 6,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 1600,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>547.45%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>547.45%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 7,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 1900,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>556.14%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>556.14%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 8,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 2200,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>564.83%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>564.83%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 9,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 2500,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>573.52%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>573.52%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 10,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 2800,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>582.21%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>582.21%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 11,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 3100,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>590.9%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>590.9%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 12,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 3400,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>599.59%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>599.59%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 13,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 3700,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>608.28%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>608.28%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 14,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 4000,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>616.97%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>616.97%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 15,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 4300,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>625.66%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>625.66%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 16,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 4600,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>634.35%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>634.35%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 17,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 4900,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>643.04%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>643.04%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 18,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 5200,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>651.73%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>651.73%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 19,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 5500,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>660.42%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>660.42%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 20,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 5800,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>669.11%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>669.11%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 21,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 6100,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>677.8%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>677.8%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 22,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 6400,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>686.49%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>686.49%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 23,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 6700,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>695.18%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>695.18%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 24,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 7000,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>703.87%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>703.87%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 25,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 7300,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>712.56%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>712.56%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 26,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 7600,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>721.25%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>721.25%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 27,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 7900,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>729.94%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>729.94%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 28,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 8200,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>738.63%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>738.63%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 29,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 8500,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>747.32%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>747.32%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         },
         {
           "lv": 30,
           "maxLevel": 30,
           "attackCd": 2500,
           "power": 8800,
-          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>756%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
+          "effect": "Charges through enemy lines as a blazing flame, targeting the farthest enemy. Deals <color=#00A069>756%</color> damage to all enemies in the path. Knocks them back and stuns them for 2s. For the next 8s, takes <color=#00A069>30%</color> of damage dealt to allies. Also grants a shield equal to 20% of max HP for <color=#00A069>5</color>s."
         }
       ]
     },

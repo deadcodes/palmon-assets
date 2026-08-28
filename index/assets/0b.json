@@ -7396,6 +7396,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uicardchampioncompetition/champion_bg_top3_02.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "52cbc2b50c56c1a96d2422b466097e8dce2c90ed263be9c4a4b6f6112f60eb39",
+     "bytes": 892522,
+     "width": 878,
+     "height": 2048
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uicardchampioncompetition/champion_image_top3_06.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -8986,6 +9001,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_18_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "b90ae0c94fd8c5b72ed4d162882831b242b1e0f16e69304dffb514c5f9944e84",
+     "bytes": 38528,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_21.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9001,6 +9031,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_25_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "c94c38e15078257099d7b38ce392c47c213535eececbc4afcf8f024294ef3a1d",
+     "bytes": 47835,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_c_32.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9012,6 +9057,36 @@
      "bytes": 524540,
      "width": 634,
      "height": 538
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_36_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "75c1512c8860d0cf3e7b8e0d5cf3058499442541c4ce8d90c3de9fe333f9a472",
+     "bytes": 44767,
+     "width": 164,
+     "height": 139
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_c_43_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "a90025bffb76fbe89e3e08e0ce0297abf1763db0a348dc1970b759dc1f0abba1",
+     "bytes": 46492,
+     "width": 164,
+     "height": 139
     }
    ]
   },
@@ -9046,6 +9121,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uicardbag/Card2Bag_sr_7_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "f9cb090e7866c7205d7274ba3b599ac30242c0af362504fc21fbb0b421da899f",
+     "bytes": 130051,
+     "width": 194,
+     "height": 322
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uicardbag/Card2Bag_ssr_11.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9057,6 +9147,21 @@
      "bytes": 1139151,
      "width": 746,
      "height": 1240
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicardbag/Card2Bag_ur_1_m.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "791db8e38723edd42ebe74375c2f06eaa8c07071f98f4746ef46bf5d310531bc",
+     "bytes": 131926,
+     "width": 194,
+     "height": 322
     }
    ]
   },
@@ -9267,6 +9372,51 @@
      "bytes": 879686,
      "width": 968,
      "height": 968
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_Recommend_1.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "39e845b186906403cfc3f572999240fa23429b5c2f9142afb03b3048fa4d7519",
+     "bytes": 138815,
+     "width": 300,
+     "height": 300
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_Recommend_14.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "1b20fcc4889b89eea40c25b19107392e18cc833582901e6c79492e61bdebc4f8",
+     "bytes": 127503,
+     "width": 300,
+     "height": 300
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uicombatpowerdetails/CombatDetails_icon_4.png",
+   "kind": "texture",
+   "firstSeen": "rv418",
+   "lastSeen": "rv418",
+   "history": [
+    {
+     "version": "rv418",
+     "sha256": "9a7734cd0a8c4a8fdc138a3b98886eeb652064bdd53758748031765302e10c21",
+     "bytes": 3758,
+     "width": 72,
+     "height": 80
     }
    ]
   },

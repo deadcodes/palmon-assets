@@ -502,7 +502,7 @@
       "id": "135393",
       "name": "Lightning Feather Mark",
       "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205039_3.png",
-      "des": "Rage builds up <color=#00A069>{0}</color> faster and Crit Rate increases by <color=#00A069>{0}</color> while in combat.",
+      "des": "Rage builds up <color=#00A069>{0}</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>{1}</color> while in combat.",
       "kind": "special_passive",
       "rageGain": 0,
       "rageActivation": 0,
@@ -513,210 +513,210 @@
           "maxLevel": 30,
           "attackCd": 0,
           "power": 100,
-          "effect": "Rage builds up <color=#00A069>5%</color> faster and Crit Rate increases by <color=#00A069>5%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>5%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>2.5%</color> while in combat."
         },
         {
           "lv": 2,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 400,
-          "effect": "Rage builds up <color=#00A069>5.18%</color> faster and Crit Rate increases by <color=#00A069>5.18%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>5.18%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>2.59%</color> while in combat."
         },
         {
           "lv": 3,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 700,
-          "effect": "Rage builds up <color=#00A069>5.35%</color> faster and Crit Rate increases by <color=#00A069>5.35%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>5.35%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>2.68%</color> while in combat."
         },
         {
           "lv": 4,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 1000,
-          "effect": "Rage builds up <color=#00A069>5.52%</color> faster and Crit Rate increases by <color=#00A069>5.52%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>5.52%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>2.76%</color> while in combat."
         },
         {
           "lv": 5,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 1300,
-          "effect": "Rage builds up <color=#00A069>5.69%</color> faster and Crit Rate increases by <color=#00A069>5.69%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>5.69%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>2.85%</color> while in combat."
         },
         {
           "lv": 6,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 1600,
-          "effect": "Rage builds up <color=#00A069>5.87%</color> faster and Crit Rate increases by <color=#00A069>5.87%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>5.87%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>2.94%</color> while in combat."
         },
         {
           "lv": 7,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 1900,
-          "effect": "Rage builds up <color=#00A069>6.04%</color> faster and Crit Rate increases by <color=#00A069>6.04%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>6.04%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.02%</color> while in combat."
         },
         {
           "lv": 8,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 2200,
-          "effect": "Rage builds up <color=#00A069>6.21%</color> faster and Crit Rate increases by <color=#00A069>6.21%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>6.21%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.11%</color> while in combat."
         },
         {
           "lv": 9,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 2500,
-          "effect": "Rage builds up <color=#00A069>6.38%</color> faster and Crit Rate increases by <color=#00A069>6.38%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>6.38%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.19%</color> while in combat."
         },
         {
           "lv": 10,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 2800,
-          "effect": "Rage builds up <color=#00A069>6.56%</color> faster and Crit Rate increases by <color=#00A069>6.56%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>6.56%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.28%</color> while in combat."
         },
         {
           "lv": 11,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 3100,
-          "effect": "Rage builds up <color=#00A069>6.73%</color> faster and Crit Rate increases by <color=#00A069>6.73%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>6.73%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.37%</color> while in combat."
         },
         {
           "lv": 12,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 3400,
-          "effect": "Rage builds up <color=#00A069>6.9%</color> faster and Crit Rate increases by <color=#00A069>6.9%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>6.9%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.45%</color> while in combat."
         },
         {
           "lv": 13,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 3700,
-          "effect": "Rage builds up <color=#00A069>7.07%</color> faster and Crit Rate increases by <color=#00A069>7.07%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>7.07%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.54%</color> while in combat."
         },
         {
           "lv": 14,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 4000,
-          "effect": "Rage builds up <color=#00A069>7.25%</color> faster and Crit Rate increases by <color=#00A069>7.25%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>7.25%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.63%</color> while in combat."
         },
         {
           "lv": 15,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 4300,
-          "effect": "Rage builds up <color=#00A069>7.42%</color> faster and Crit Rate increases by <color=#00A069>7.42%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>7.42%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.71%</color> while in combat."
         },
         {
           "lv": 16,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 4600,
-          "effect": "Rage builds up <color=#00A069>7.59%</color> faster and Crit Rate increases by <color=#00A069>7.59%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>7.59%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.8%</color> while in combat."
         },
         {
           "lv": 17,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 4900,
-          "effect": "Rage builds up <color=#00A069>7.76%</color> faster and Crit Rate increases by <color=#00A069>7.76%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>7.76%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.88%</color> while in combat."
         },
         {
           "lv": 18,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 5200,
-          "effect": "Rage builds up <color=#00A069>7.94%</color> faster and Crit Rate increases by <color=#00A069>7.94%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>7.94%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>3.97%</color> while in combat."
         },
         {
           "lv": 19,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 5500,
-          "effect": "Rage builds up <color=#00A069>8.11%</color> faster and Crit Rate increases by <color=#00A069>8.11%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>8.11%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.05%</color> while in combat."
         },
         {
           "lv": 20,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 5800,
-          "effect": "Rage builds up <color=#00A069>8.27%</color> faster and Crit Rate increases by <color=#00A069>8.27%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>8.27%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.13%</color> while in combat."
         },
         {
           "lv": 21,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 6100,
-          "effect": "Rage builds up <color=#00A069>8.44%</color> faster and Crit Rate increases by <color=#00A069>8.44%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>8.44%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.23%</color> while in combat."
         },
         {
           "lv": 22,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 6400,
-          "effect": "Rage builds up <color=#00A069>8.63%</color> faster and Crit Rate increases by <color=#00A069>8.63%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>8.63%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.32%</color> while in combat."
         },
         {
           "lv": 23,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 6700,
-          "effect": "Rage builds up <color=#00A069>8.8%</color> faster and Crit Rate increases by <color=#00A069>8.8%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>8.8%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.4%</color> while in combat."
         },
         {
           "lv": 24,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 7000,
-          "effect": "Rage builds up <color=#00A069>8.97%</color> faster and Crit Rate increases by <color=#00A069>8.97%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>8.97%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.49%</color> while in combat."
         },
         {
           "lv": 25,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 7300,
-          "effect": "Rage builds up <color=#00A069>9.14%</color> faster and Crit Rate increases by <color=#00A069>9.14%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>9.14%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.57%</color> while in combat."
         },
         {
           "lv": 26,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 7600,
-          "effect": "Rage builds up <color=#00A069>9.32%</color> faster and Crit Rate increases by <color=#00A069>9.32%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>9.32%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.66%</color> while in combat."
         },
         {
           "lv": 27,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 7900,
-          "effect": "Rage builds up <color=#00A069>9.49%</color> faster and Crit Rate increases by <color=#00A069>9.49%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>9.49%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.75%</color> while in combat."
         },
         {
           "lv": 28,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 8200,
-          "effect": "Rage builds up <color=#00A069>9.66%</color> faster and Crit Rate increases by <color=#00A069>9.66%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>9.66%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.83%</color> while in combat."
         },
         {
           "lv": 29,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 8500,
-          "effect": "Rage builds up <color=#00A069>9.83%</color> faster and Crit Rate increases by <color=#00A069>9.83%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>9.83%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>4.92%</color> while in combat."
         },
         {
           "lv": 30,
           "maxLevel": 30,
           "attackCd": 0,
           "power": 8800,
-          "effect": "Rage builds up <color=#00A069>10%</color> faster and Crit Rate increases by <color=#00A069>10%</color> while in combat."
+          "effect": "Rage builds up <color=#00A069>10%</color> faster and all allied Electric Palmon's Crit Rate increases by <color=#00A069>5%</color> while in combat."
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv417",
+ "generatedFor": "rv418",
  "kinds": {
   "armigo": {
    "10001": {
@@ -2722,7 +2722,7 @@
     "icon": "uiv3/texture/uiitem/Palmon_evolution_5007.png"
    },
    "8335008": {
-    "icon": "uiv3/texture/uiitem/Palmon_chip_5008.png"
+    "icon": "uiv3/texture/uiitem/Palmon_evolution_5008.png"
    },
    "8335009": {
     "icon": "uiv3/texture/uiitem/Palmon_chip_5009.png"
@@ -2761,7 +2761,7 @@
     "icon": "uiv3/texture/uiitem/Palmon_chip_5020.png"
    },
    "8335021": {
-    "icon": "uiv3/texture/uiitem/Palmon_chip_5021.png"
+    "icon": "uiv3/texture/uiitem/Palmon_evolution_5021.png"
    },
    "8335022": {
     "icon": "uiv3/texture/uiitem/Palmon_chip_5022.png"
@@ -37454,12 +37454,10 @@
     "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5008.png"
    },
    "21500811": {
-    "icon": null,
-    "reason": "art-not-exported"
+    "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5008_1.png"
    },
    "21500821": {
-    "icon": null,
-    "reason": "art-not-exported"
+    "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5008_2.png"
    },
    "21500901": {
     "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5009.png"
@@ -37855,12 +37853,10 @@
     "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5021.png"
    },
    "21502111": {
-    "icon": null,
-    "reason": "art-not-exported"
+    "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5021_1.png"
    },
    "21502121": {
-    "icon": null,
-    "reason": "art-not-exported"
+    "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5021_2.png"
    },
    "21502201": {
     "icon": "uiv3/texture/uiskillicon_card/evolve_skill_5022.png"
@@ -39699,7 +39695,7 @@
   "item": 12,
   "mount": 0,
   "palmon": 5,
-  "skill": 4161
+  "skill": 4157
  },
  "collisions": {
   "armigo": 0,
