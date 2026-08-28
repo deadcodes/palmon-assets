@@ -831,7 +831,7 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "At the start of battle, summon a thundercloud. After 15s, it strikes all enemies, then every 10s after that. Deals 150% damage per strike. Boosts all Electric Palmon's damage reduction by 20%. (Does not stack with Fulgairy's Thunderous Boon damage reduction.)"
+          "effect": "At the start of battle, summon a thundercloud. After 15s, it strikes all enemies, then every 10s after that. Deals 480% damage per strike. Boosts all Electric Palmon's damage reduction by 20%. (Does not stack with Fulgairy's Thunderous Boon damage reduction.)"
         }
       ]
     },
@@ -851,7 +851,7 @@
           "maxLevel": 1,
           "attackCd": 0,
           "power": 0,
-          "effect": "Stormcall: Each lightning strike has a 60% chance to become a Super Strike. Deals 300% damage. In battle, boosts all allied Electric Palmon's Stun Resist by 20% and Freeze Resist by 20%."
+          "effect": "Stormcall: Each lightning strike has a 60% chance to become a Super Strike. Deals 800% damage. In battle, boosts all allied Electric Palmon's Stun Resist by 20% and Freeze Resist by 20%."
         }
       ]
     }

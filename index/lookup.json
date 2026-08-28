@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv428",
+ "generatedFor": "rv429",
  "kinds": {
   "armigo": {
    "10001": {
@@ -1757,7 +1757,7 @@
     "icon": "uiv3/texture/uiitem/item_icon_BirthCard_2026.png"
    },
    "106002": {
-    "icon": "uiv3/texture/uiitem/item_icon_BirthCard_2027.png"
+    "icon": "uiv3/texture/uiitem/item_icon_BirthCard_2027new.png"
    },
    "200001": {
     "icon": "uiv3/texture/uiitem/item_icon_custom.png"

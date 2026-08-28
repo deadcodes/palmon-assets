@@ -1,0 +1,2079 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv428",
+  "new": "rv429"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 25,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 57,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 22,
+  "otherRowsExcluded": 22449,
+  "assetsNew": 39,
+  "assetsListed": 39,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 39,
+  "assetImageBytes": 15076407,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 39,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 0,
+  "imagesCopied": 45
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "Abuzzinian (#205007)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Gathering Storm",
+           "kind": "bold"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiskillicon_card/evolve_skill_5007_1.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "7f58942daaf21294a7837382399e2c38fd9429bd3dc105e295bde97d21ffa8bf"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {
+          "11": [
+           {
+            "runs": [
+             {
+              "text": "Changed the buff value (1-star to 5-star) from [15000] to [48000].",
+              "kind": "text"
+             }
+            ],
+            "icons": [],
+            "images": [],
+            "sub": [],
+            "levels": {},
+            "level_range": null,
+            "level_mode": "slider",
+            "level_label": "Level",
+            "level_group_id": null,
+            "overflow": null
+           },
+           {
+            "runs": [
+             {
+              "text": "Changed the description value from 150% to 480%.",
+              "kind": "text"
+             }
+            ],
+            "icons": [],
+            "images": [],
+            "sub": [],
+            "levels": {},
+            "level_range": null,
+            "level_mode": "slider",
+            "level_label": "Level",
+            "level_group_id": null,
+            "overflow": null
+           }
+          ],
+          "21": [
+           {
+            "runs": [
+             {
+              "text": "Changed the buff value (1-star to 5-star) from [30000] to [80000].",
+              "kind": "text"
+             }
+            ],
+            "icons": [],
+            "images": [],
+            "sub": [],
+            "levels": {},
+            "level_range": null,
+            "level_mode": "slider",
+            "level_label": "Level",
+            "level_group_id": null,
+            "overflow": null
+           },
+           {
+            "runs": [
+             {
+              "text": "Changed the description value from 300% to 800%.",
+              "kind": "text"
+             }
+            ],
+            "icons": [],
+            "images": [],
+            "sub": [],
+            "levels": {},
+            "level_range": null,
+            "level_mode": "slider",
+            "level_label": "Level",
+            "level_group_id": null,
+            "overflow": null
+           }
+          ]
+         },
+         "level_range": [
+          11,
+          21
+         ],
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5007.png",
+        "version": "rv429",
+        "published": true,
+        "sha256": "f5efcdc435ed402842047234306a09be5436efbfa7cddef610b9cf60608d5ff1"
+       }
+      },
+      {
+       "title": "Other skill data",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "ThunderHurtAdd",
+           "kind": "bold"
+          },
+          {
+           "text": " (#10255)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [
+          {
+           "runs": [
+            {
+             "text": "Increased the effect parameter from 15,000 to 48,000.",
+             "kind": "text"
+            },
+            {
+             "text": " ↑",
+             "kind": "up"
+            }
+           ],
+           "icons": [],
+           "images": [],
+           "sub": [],
+           "levels": {},
+           "level_range": null,
+           "level_mode": "slider",
+           "level_label": "Level",
+           "level_group_id": null,
+           "overflow": null
+          }
+         ],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ThunderHurtAdd1",
+           "kind": "bold"
+          },
+          {
+           "text": " (#10256)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [
+          {
+           "runs": [
+            {
+             "text": "Increased the effect parameter from 5,000 to 6,000.",
+             "kind": "text"
+            },
+            {
+             "text": " ↑",
+             "kind": "up"
+            }
+           ],
+           "icons": [],
+           "images": [],
+           "sub": [],
+           "levels": {},
+           "level_range": null,
+           "level_mode": "slider",
+           "level_label": "Level",
+           "level_group_id": null,
+           "overflow": null
+          },
+          {
+           "runs": [
+            {
+             "text": "Increased the par2 from 30,000 to 80,000.",
+             "kind": "text"
+            },
+            {
+             "text": " ↑",
+             "kind": "up"
+            }
+           ],
+           "icons": [],
+           "images": [],
+           "sub": [],
+           "levels": {},
+           "level_range": null,
+           "level_mode": "slider",
+           "level_label": "Level",
+           "level_group_id": null,
+           "overflow": null
+          }
+         ],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": "No Palmon owns these rows in this build's config -- no skill, evolution or buff chain references them -- so they are listed by their own effect name and icon instead of under a Palmon.",
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "2027 Birthday Card",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the icon from -1,593,660,649 to 1,798,619,895.",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_BirthCard_2027new.png",
+         "version": "rv429",
+         "published": true,
+         "sha256": "40c5ad0749586c987113a4479d01d83c837890e4967169af6dc4c922a754cafa"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Swiftger",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from [18,16] to [19,16].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_002.png",
+         "version": "rv429",
+         "published": true,
+         "sha256": "67a60995d1e3bb8bd2e89dc4e5d0b449871b40eade6824e57e23945ca263059f"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Amourphibian",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from [19,18] to [17,18].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_003.png",
+         "version": "rv429",
+         "published": true,
+         "sha256": "9b48e1e778af45ccfe19603e1509ad4d4859bdd87b25517e339f3b2ddb86b094"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Slackycapy",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the sort ID from [17,15] to [18,15].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uimonstericon/MountHead_004.png",
+         "version": "rv429",
+         "published": true,
+         "sha256": "99ef11d4ee5d8a3c17042d73f7f0575902e6a575d062dbbed4bc1a27760e9893"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "activity_member_club",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Reduced the member club day android from 30 to 7.",
+           "kind": "text"
+          },
+          {
+           "text": " ↓",
+           "kind": "down"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Increased the member club money android from 10,000 to 20,000.",
+           "kind": "text"
+          },
+          {
+           "text": " ↑",
+           "kind": "up"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Set the member club times android to 3.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "city_ur_monster",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the city refresh min count: reshaped from a map of 3 keys, each a nested map of varying key(s) to a map of 4 keys, each a nested map of varying key(s).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": {
+          "old": "{\n  \"1\": {\n    \"205004\": 0,\n    \"205001\": 66,\n    \"205008\": 24,\n    \"205010\": 0,\n    \"205006\": 0,\n    \"205009\": 7,\n    \"205022\": 15,\n    \"205019\": 0,\n    \"205005\": 82,\n    \"205015\": 0,\n    \"205020\": 0,\n    \"205021\": 0,\n    \"205029\": 82,\n    \"205030\": 15,\n    \"205036\": 97\n  },\n  \"2\": {\n    \"205031\": 66,\n    \"205018\": 24,\n    \"205006\": 7,\n    \"205028\": 66,\n    \"205022\": 24,\n    \"205009\": 7,\n    \"205029\": 82,\n    \"205030\": 15,\n    \"205036\": 97\n  },\n  \"3\": {\n    \"205002\": 66,\n    \"205001\": 24,\n    \"205010\": 7,\n    \"205028\": 66,\n    \"205022\": 24,\n    \"205009\": 7,\n    \"205029\": 82,\n    \"205030\": 15,\n    \"205036\": 97\n  }\n}",
+          "new": "{\n  \"1\": {\n    \"205004\": 0,\n    \"205001\": 66,\n    \"205008\": 24,\n    \"205010\": 0,\n    \"205006\": 0,\n    \"205009\": 7,\n    \"205022\": 15,\n    \"205019\": 0,\n    \"205005\": 82,\n    \"205015\": 0,\n    \"205020\": 0,\n    \"205021\": 0,\n    \"205029\": 82,\n    \"205030\": 15,\n    \"205036\": 97\n  },\n  \"2\": {\n    \"205031\": 66,\n    \"205018\": 24,\n    \"205006\": 7,\n    \"205028\": 66,\n    \"205022\": 24,\n    \"205009\": 7,\n    \"205029\": 82,\n    \"205030\": 15,\n    \"205036\": 97\n  },\n  \"3\": {\n    \"205002\": 66,\n    \"205001\": 24,\n    \"205010\": 7,\n    \"205028\": 66,\n    \"205022\": 24,\n    \"205009\": 7,\n    \"205029\": 82,\n    \"205030\": 15,\n    \"205036\": 97\n  },\n  \"4\": {\n    \"205002\": 66,\n    \"205018\": 24,\n    \"205010\": 7,\n    \"205028\": 66,\n    \"205022\": 24,\n    \"205009\": 7,\n    \"205029\": 82,\n    \"205030\": 15,\n    \"205036\": 97\n  }\n}"
+         }
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "task",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the train task group days: added 14 = [0,1,14], 15 = [0,15,28], 16 = [0,29,42].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the train task group gift: added 14 = 1,091,030, 15 = 1,091,031, 16 = 1,091,032.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "22 tables with 22449 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: PanelTitle (1), activity_new_evolve_task (5), card_arena_npc (268), card_lose_condition (1), card_lose_type (1), gift (20809), goto (3), hero_equip_star (100), home_mount_level (362), languages_season (1), limit_activity (13), milestone (8), power_detail (490), recharge (91), recharge_gift (3), recharge_gift_window (91), shop (5), special_activity (32), task_guide (2), tech (48), train_task (24), trigger_pack_icon (91).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`uiv3/texture/_static_uipanel/uibackground` (38)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie1_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie1_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "32e7a3dccbb9f8d6e84c0d3265d429cc1ea677a242ca84d38f432d8709cba2d9"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie1_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie1_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "32e7a3dccbb9f8d6e84c0d3265d429cc1ea677a242ca84d38f432d8709cba2d9"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie2_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie2_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "32e7a3dccbb9f8d6e84c0d3265d429cc1ea677a242ca84d38f432d8709cba2d9"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie2_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie2_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "32e7a3dccbb9f8d6e84c0d3265d429cc1ea677a242ca84d38f432d8709cba2d9"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie3_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie3_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "ebef7c05e02f26d78be68646b01d2f7c0415329967f8eb5cb9a9a971d25fb527"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie3_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie3_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "ebef7c05e02f26d78be68646b01d2f7c0415329967f8eb5cb9a9a971d25fb527"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie4_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie4_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "ebef7c05e02f26d78be68646b01d2f7c0415329967f8eb5cb9a9a971d25fb527"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie4_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie4_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "ebef7c05e02f26d78be68646b01d2f7c0415329967f8eb5cb9a9a971d25fb527"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie5_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie5_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "9aac0755b3369e5fa45ab07df36304a7eda0efaab71e0e4b26aca769431fcd07"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie5_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie5_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "9aac0755b3369e5fa45ab07df36304a7eda0efaab71e0e4b26aca769431fcd07"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie6_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie6_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "9aac0755b3369e5fa45ab07df36304a7eda0efaab71e0e4b26aca769431fcd07"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_pack_titie6_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie6_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "9aac0755b3369e5fa45ab07df36304a7eda0efaab71e0e4b26aca769431fcd07"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem1_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem1_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "dc508e435499219084873db91e49dc94595ca7d1436730e50b6f47cb7dc7546e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem1_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem1_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "dc508e435499219084873db91e49dc94595ca7d1436730e50b6f47cb7dc7546e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem2_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem2_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "dc508e435499219084873db91e49dc94595ca7d1436730e50b6f47cb7dc7546e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem2_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem2_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "dc508e435499219084873db91e49dc94595ca7d1436730e50b6f47cb7dc7546e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem3_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem3_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "6f4b3528471748611ffd58212d89e7ec000eef22fa36673023a278e8e1ecd97c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem3_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem3_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "6f4b3528471748611ffd58212d89e7ec000eef22fa36673023a278e8e1ecd97c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem4_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem4_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "6f4b3528471748611ffd58212d89e7ec000eef22fa36673023a278e8e1ecd97c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem4_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem4_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "6f4b3528471748611ffd58212d89e7ec000eef22fa36673023a278e8e1ecd97c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem5_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem5_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "8ac6ce4e674d4a015858b0be1ecc5f3957d93ac57b4bdc873b2e90e4b97da05f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem5_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem5_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "8ac6ce4e674d4a015858b0be1ecc5f3957d93ac57b4bdc873b2e90e4b97da05f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem6_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem6_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "8ac6ce4e674d4a015858b0be1ecc5f3957d93ac57b4bdc873b2e90e4b97da05f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_city_summon_useitem6_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem6_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "8ac6ce4e674d4a015858b0be1ecc5f3957d93ac57b4bdc873b2e90e4b97da05f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero1_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero1_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "6c059f2dc7c34146d4372352442092211dbd024314de0d4e127ca0c8e998a7b2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero1_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero1_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "6c059f2dc7c34146d4372352442092211dbd024314de0d4e127ca0c8e998a7b2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero2_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero2_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "6c059f2dc7c34146d4372352442092211dbd024314de0d4e127ca0c8e998a7b2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero2_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero2_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "6c059f2dc7c34146d4372352442092211dbd024314de0d4e127ca0c8e998a7b2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero3_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero3_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "e1480176790f5fea120005c3fa0d460ca4b9a5ffc2bf5e02a2f33b5072aed509"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero3_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero3_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "e1480176790f5fea120005c3fa0d460ca4b9a5ffc2bf5e02a2f33b5072aed509"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero4_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero4_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "e1480176790f5fea120005c3fa0d460ca4b9a5ffc2bf5e02a2f33b5072aed509"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero4_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero4_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "e1480176790f5fea120005c3fa0d460ca4b9a5ffc2bf5e02a2f33b5072aed509"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero5_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero5_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "af59a7dd881f0602d19adfc1c5b4566cd5a7baa2dff44c972f21296d6f5e93a3"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero5_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero5_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "af59a7dd881f0602d19adfc1c5b4566cd5a7baa2dff44c972f21296d6f5e93a3"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero6_v3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero6_v3.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "af59a7dd881f0602d19adfc1c5b4566cd5a7baa2dff44c972f21296d6f5e93a3"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s01_cityrace_pic_hero6_v4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero6_v4.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "af59a7dd881f0602d19adfc1c5b4566cd5a7baa2dff44c972f21296d6f5e93a3"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "task_pic_c15",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/task_pic_C15.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "58cbc8aa6fd6fc5aceda79514b80e58f1f27cb423aa8ea9c51f6c0535118f86b"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "task_pic_c16",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/task_pic_C16.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "33e77a7c8f9e0f11ba7886068774b5f27b933109184ff0b63371f0efca02ccb5"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiitem` (2)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "item_icon_birthcard_2027new",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/item_icon_BirthCard_2027new.png",
+           "version": "rv429",
+           "published": true,
+           "sha256": "40c5ad0749586c987113a4479d01d83c837890e4967169af6dc4c922a754cafa"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "1 removed entry: ",
+           "kind": "text"
+          },
+          {
+           "text": "item_icon_birthcard_2027",
+           "kind": "code"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "Only newly REGISTERED assets are listed -- pass --assets to the diff to also detect new files by content hash.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie1_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie1_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie1_v3-804cd23b.png",
+   "sizeBytes": 513729
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie1_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie1_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie1_v4-34ee8cf7.png",
+   "sizeBytes": 513729
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie2_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie2_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie2_v3-cbbcbedf.png",
+   "sizeBytes": 513729
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie2_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie2_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie2_v4-42c51b60.png",
+   "sizeBytes": 513729
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie3_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie3_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie3_v3-e47d3488.png",
+   "sizeBytes": 575822
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie3_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie3_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie3_v4-8824f356.png",
+   "sizeBytes": 575822
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie4_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie4_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie4_v3-7a8c7313.png",
+   "sizeBytes": 575822
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie4_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie4_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie4_v4-7de5829c.png",
+   "sizeBytes": 575822
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie5_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie5_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie5_v3-67e4ee1e.png",
+   "sizeBytes": 534946
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie5_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie5_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie5_v4-8411ace8.png",
+   "sizeBytes": 534946
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie6_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie6_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie6_v3-8c8725d9.png",
+   "sizeBytes": 534946
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie6_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_pack_titie6_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_pack_titie6_v4-0aa07492.png",
+   "sizeBytes": 534946
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem1_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem1_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem1_v3-905f4e54.png",
+   "sizeBytes": 590593
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem1_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem1_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem1_v4-f29be3ac.png",
+   "sizeBytes": 590593
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem2_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem2_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem2_v3-17ef21db.png",
+   "sizeBytes": 590593
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem2_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem2_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem2_v4-6190f9f0.png",
+   "sizeBytes": 590593
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem3_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem3_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem3_v3-74d67c45.png",
+   "sizeBytes": 580175
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem3_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem3_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem3_v4-c3ff0198.png",
+   "sizeBytes": 580175
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem4_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem4_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem4_v3-074eb8c0.png",
+   "sizeBytes": 580175
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem4_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem4_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem4_v4-fe7c11ae.png",
+   "sizeBytes": 580175
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem5_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem5_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem5_v3-753292f8.png",
+   "sizeBytes": 499039
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem5_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem5_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem5_v4-590b524f.png",
+   "sizeBytes": 499039
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem6_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem6_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem6_v3-176df364.png",
+   "sizeBytes": 499039
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem6_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_city_summon_useitem6_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_city_summon_useitem6_v4-36bc52ca.png",
+   "sizeBytes": 499039
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero1_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero1_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero1_v3-441c8bd3.png",
+   "sizeBytes": 97115
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero1_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero1_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero1_v4-e4668040.png",
+   "sizeBytes": 97115
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero2_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero2_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero2_v3-81bfdbab.png",
+   "sizeBytes": 97115
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero2_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero2_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero2_v4-23f28683.png",
+   "sizeBytes": 97115
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero3_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero3_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero3_v3-b474cc8a.png",
+   "sizeBytes": 53104
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero3_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero3_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero3_v4-6676cd98.png",
+   "sizeBytes": 53104
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero4_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero4_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero4_v3-1bac3bc1.png",
+   "sizeBytes": 53104
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero4_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero4_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero4_v4-ab8744d0.png",
+   "sizeBytes": 53104
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero5_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero5_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero5_v3-076d5bb0.png",
+   "sizeBytes": 82154
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero5_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero5_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero5_v4-cba84430.png",
+   "sizeBytes": 82154
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero6_v3",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero6_v3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero6_v3-66cf901a.png",
+   "sizeBytes": 82154
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero6_v4",
+   "path": "uiv3/texture/_static_uipanel/uibackground/s01_cityrace_pic_hero6_v4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_cityrace_pic_hero6_v4-bbb9b9ac.png",
+   "sizeBytes": 82154
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/task_pic_c15",
+   "path": "uiv3/texture/_static_uipanel/uibackground/task_pic_C15.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-task_pic_c15-0e8a5345.png",
+   "sizeBytes": 296621
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/task_pic_c16",
+   "path": "uiv3/texture/_static_uipanel/uibackground/task_pic_C16.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-task_pic_c16-19ddc2f8.png",
+   "sizeBytes": 298795
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/item_icon_birthcard_2027new",
+   "path": "uiv3/texture/uiitem/item_icon_BirthCard_2027new.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-item_icon_birthcard_2027new-e07f53c1.png",
+   "sizeBytes": 34481
+  }
+ ]
+}
