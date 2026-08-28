@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv419",
+ "generatedFor": "rv420",
  "totals": {
-  "textures": 5443,
+  "textures": 5445,
   "sprites": 7271
  },
  "shards": [
@@ -33,8 +33,8 @@
   {
    "id": "04",
    "file": "index/assets/04.json",
-   "count": 786,
-   "bytes": 282600
+   "count": 787,
+   "bytes": 282946
   },
   {
    "id": "05",
@@ -45,8 +45,8 @@
   {
    "id": "06",
    "file": "index/assets/06.json",
-   "count": 831,
-   "bytes": 298953
+   "count": 832,
+   "bytes": 299300
   },
   {
    "id": "07",
@@ -1238,7 +1238,7 @@
   },
   {
    "path": "uiv3/texture/uicardsuperevolve",
-   "count": 10
+   "count": 12
   },
   {
    "path": "uiv3/texture/uichallenge",
@@ -1632,6 +1632,7 @@
  ],
  "changelogPairs": [
   "rv417__vs__rv418",
-  "rv418__vs__rv419"
+  "rv418__vs__rv419",
+  "rv419__vs__rv420"
  ]
 }
