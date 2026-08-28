@@ -1,0 +1,278 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv420",
+  "new": "rv421"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 4,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 4,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 0,
+  "otherRowsExcluded": 0,
+  "assetsNew": 0,
+  "assetsListed": 0,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 0,
+  "assetImageBytes": 66212,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 0,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 0,
+  "imagesCopied": 2
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Pharohound Oath",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"Evolution Essence\" to \"Pharohound Oath\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/Palmon_evolution_5008.png",
+         "version": "rv421",
+         "published": true,
+         "sha256": "4aaa777840d100178083d05f3b0cac98465043ef7f5605ab37620f83617b6fef"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Pharohound Oath",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the description from \"Can be used to evolve Palmon.\" to \"An item that allows you to mega evolve Pharohound to Stage 5.\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Scarvulpine Oath",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"Evolution Essence\" to \"Scarvulpine Oath\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/Palmon_evolution_5021.png",
+         "version": "rv421",
+         "published": true,
+         "sha256": "317337a9d100ee0f05fbd49b9c78eec1fd2ac6b0f149080a0ad1821c13332af4"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Scarvulpine Oath",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the description from \"Can be used to evolve Palmon.\" to \"An item that allows you to mega evolve Scarvulpine to Stage 5.\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [],
+     "note": "Only newly REGISTERED assets are listed -- pass --assets to the diff to also detect new files by content hash.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": []
+}
