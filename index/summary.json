@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv418",
+ "generatedFor": "rv419",
  "totals": {
-  "textures": 5440,
+  "textures": 5443,
   "sprites": 7271
  },
  "shards": [
@@ -63,8 +63,8 @@
   {
    "id": "09",
    "file": "index/assets/09.json",
-   "count": 764,
-   "bytes": 275389
+   "count": 765,
+   "bytes": 275735
   },
   {
    "id": "0a",
@@ -81,8 +81,8 @@
   {
    "id": "0c",
    "file": "index/assets/0c.json",
-   "count": 819,
-   "bytes": 295142
+   "count": 821,
+   "bytes": 295833
   },
   {
    "id": "0d",
@@ -1234,11 +1234,11 @@
   },
   {
    "path": "uiv3/texture/uicardbag",
-   "count": 260
+   "count": 261
   },
   {
    "path": "uiv3/texture/uicardsuperevolve",
-   "count": 8
+   "count": 10
   },
   {
    "path": "uiv3/texture/uichallenge",
@@ -1631,6 +1631,7 @@
   "A_UIWorldHUD"
  ],
  "changelogPairs": [
-  "rv417__vs__rv418"
+  "rv417__vs__rv418",
+  "rv418__vs__rv419"
  ]
 }
