@@ -1,0 +1,5 @@
+{
+ "schemaVersion": 1,
+ "epoch": "2026-09-02T13:58:28Z",
+ "reason": "backfilled index/palmons/<id>.json across rv417..rv431: evolution ultimates split per stage"
+}
