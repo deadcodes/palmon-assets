@@ -8814,6 +8814,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_8.png",
+   "kind": "texture",
+   "firstSeen": "rv434",
+   "lastSeen": "rv434",
+   "history": [
+    {
+     "version": "rv434",
+     "sha256": "cbb365ddd499defa9a7fc4b1f512e6776c957d8145da24d9cc8110c765e58c83",
+     "bytes": 459202,
+     "width": 1028,
+     "height": 446
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/ui_season_main/s03_icon_13.png",
    "kind": "texture",
    "firstSeen": "rv417",
