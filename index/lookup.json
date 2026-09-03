@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv434",
+ "generatedFor": "rv435",
  "kinds": {
   "armigo": {
    "10001": {
@@ -1106,6 +1106,15 @@
    },
    "995": {
     "icon": "uiv3/texture/uiitem/item_icon_evolveBox4.png"
+   },
+   "996": {
+    "icon": "uiv3/texture/uiitem/rock_and_roll_box.png"
+   },
+   "997": {
+    "icon": "uiv3/texture/uiitem/ValentinesDay_icon_Points.png"
+   },
+   "998": {
+    "icon": "uiv3/texture/uiitem/ValentinesDay_2.png"
    },
    "1001": {
     "icon": "uiv3/texture/uiitem/item_icon_HeartCoin.png"
@@ -39683,7 +39692,7 @@
  "counts": {
   "armigo": 26,
   "buff": 0,
-  "item": 968,
+  "item": 971,
   "mount": 7,
   "palmon": 69,
   "skill": 10761
