@@ -388,6 +388,24 @@
     "ambiguousSkipped": 0
    },
    "changelog": null
+  },
+  {
+   "label": "rv437",
+   "tag": "rv437",
+   "order": 437,
+   "publishedAtUtc": "2026-09-03T21:41:54.989575+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5530,
+    "sprites": 7328,
+    "builder": 0,
+    "added": 1,
+    "modified": 0,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": null
   }
  ]
 }
