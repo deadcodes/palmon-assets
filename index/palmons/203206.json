@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "203206",
-  "name": "Auktyke",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_3206.png",
-  "camp": 1,
-  "levelType": 9,
-  "rarity": "SR",
-  "baseStats": {
-    "attack": 226,
-    "defense": 64,
-    "hp": 9040,
-    "power": 9910
-  },
-  "remit": 1,
-  "role": "frontline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
-  "forms": {
-    "base": {
-      "name": "Auktyke",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_3206.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "203206",
+ "name": "Auktyke",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_3206.png",
+ "camp": 1,
+ "levelType": 9,
+ "rarity": "SR",
+ "baseStats": {
+  "attack": 226,
+  "defense": 64,
+  "hp": 9040,
+  "power": 9910
+ },
+ "remit": 1,
+ "role": "frontline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
+ "forms": {
+  "base": {
+   "name": "Auktyke",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_3206.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "133061",
+   "name": "Princely Peck",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_1.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 3,
+      "animationMs": 1200,
+      "attackIntervalMs": 1200
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "133061",
-      "name": "Princely Peck",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_1.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 3,
-            "animationMs": 1200,
-            "attackIntervalMs": 1200
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 30,
-          "effect": "Deals <color=#00A069>80%</color> damage to a single enemy."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 120,
-          "effect": "Deals <color=#00A069>80.81%</color> damage to a single enemy."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 210,
-          "effect": "Deals <color=#00A069>81.65%</color> damage to a single enemy."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 300,
-          "effect": "Deals <color=#00A069>82.48%</color> damage to a single enemy."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 390,
-          "effect": "Deals <color=#00A069>83.31%</color> damage to a single enemy."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 480,
-          "effect": "Deals <color=#00A069>84.13%</color> damage to a single enemy."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 570,
-          "effect": "Deals <color=#00A069>84.96%</color> damage to a single enemy."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 660,
-          "effect": "Deals <color=#00A069>85.79%</color> damage to a single enemy."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 750,
-          "effect": "Deals <color=#00A069>86.62%</color> damage to a single enemy."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 840,
-          "effect": "Deals <color=#00A069>87.44%</color> damage to a single enemy."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 930,
-          "effect": "Deals <color=#00A069>88.27%</color> damage to a single enemy."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1020,
-          "effect": "Deals <color=#00A069>89.1%</color> damage to a single enemy."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1110,
-          "effect": "Deals <color=#00A069>89.93%</color> damage to a single enemy."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1200,
-          "effect": "Deals <color=#00A069>90.75%</color> damage to a single enemy."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1290,
-          "effect": "Deals <color=#00A069>91.58%</color> damage to a single enemy."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1380,
-          "effect": "Deals <color=#00A069>92.41%</color> damage to a single enemy."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1470,
-          "effect": "Deals <color=#00A069>93.24%</color> damage to a single enemy."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1560,
-          "effect": "Deals <color=#00A069>94.06%</color> damage to a single enemy."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1650,
-          "effect": "Deals <color=#00A069>94.89%</color> damage to a single enemy."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1740,
-          "effect": "Deals <color=#00A069>95.72%</color> damage to a single enemy."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1830,
-          "effect": "Deals <color=#00A069>96.55%</color> damage to a single enemy."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1920,
-          "effect": "Deals <color=#00A069>97.37%</color> damage to a single enemy."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2010,
-          "effect": "Deals <color=#00A069>98.2%</color> damage to a single enemy."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2100,
-          "effect": "Deals <color=#00A069>99.03%</color> damage to a single enemy."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2190,
-          "effect": "Deals <color=#00A069>99.86%</color> damage to a single enemy."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2280,
-          "effect": "Deals <color=#00A069>100.68%</color> damage to a single enemy."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2370,
-          "effect": "Deals <color=#00A069>101.51%</color> damage to a single enemy."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2460,
-          "effect": "Deals <color=#00A069>102.34%</color> damage to a single enemy."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2550,
-          "effect": "Deals <color=#00A069>103.17%</color> damage to a single enemy."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2640,
-          "effect": "Deals <color=#00A069>104%</color> damage to a single enemy."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 30,
+     "effect": "Deals <color=#00A069>80%</color> damage to a single enemy."
     },
     {
-      "id": "133062",
-      "name": "Geyser Jet",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_2.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to a single enemy. ",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 4,
-            "animationMs": 4100,
-            "attackIntervalMs": 4100
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 30,
-          "effect": "Deals <color=#00A069>224%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 120,
-          "effect": "Deals <color=#00A069>227.86%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 210,
-          "effect": "Deals <color=#00A069>231.72%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 300,
-          "effect": "Deals <color=#00A069>235.58%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 390,
-          "effect": "Deals <color=#00A069>239.44%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 480,
-          "effect": "Deals <color=#00A069>243.31%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 570,
-          "effect": "Deals <color=#00A069>247.17%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 660,
-          "effect": "Deals <color=#00A069>251.03%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 750,
-          "effect": "Deals <color=#00A069>254.89%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 840,
-          "effect": "Deals <color=#00A069>258.75%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 930,
-          "effect": "Deals <color=#00A069>262.62%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1020,
-          "effect": "Deals <color=#00A069>266.48%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1110,
-          "effect": "Deals <color=#00A069>270.33%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1200,
-          "effect": "Deals <color=#00A069>274.2%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1290,
-          "effect": "Deals <color=#00A069>278.06%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1380,
-          "effect": "Deals <color=#00A069>281.93%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1470,
-          "effect": "Deals <color=#00A069>285.79%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1560,
-          "effect": "Deals <color=#00A069>289.64%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1650,
-          "effect": "Deals <color=#00A069>293.51%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1740,
-          "effect": "Deals <color=#00A069>297.37%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1830,
-          "effect": "Deals <color=#00A069>301.24%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 1920,
-          "effect": "Deals <color=#00A069>305.1%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 2010,
-          "effect": "Deals <color=#00A069>308.95%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 2100,
-          "effect": "Deals <color=#00A069>312.82%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 2190,
-          "effect": "Deals <color=#00A069>316.68%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 2280,
-          "effect": "Deals <color=#00A069>320.55%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 2370,
-          "effect": "Deals <color=#00A069>324.41%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 2460,
-          "effect": "Deals <color=#00A069>328.27%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 2550,
-          "effect": "Deals <color=#00A069>332.13%</color> damage to a single enemy. "
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 4100,
-          "power": 2640,
-          "effect": "Deals <color=#00A069>336%</color> damage to a single enemy. "
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 120,
+     "effect": "Deals <color=#00A069>80.81%</color> damage to a single enemy."
     },
     {
-      "id": "133063",
-      "name": "Frost Resist",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_3.png",
-      "des": "Gains <color=#00A069>+{0}</color> max HP while in combat.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 30,
-          "effect": "Gains <color=#00A069>+5%</color> max HP while in combat."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 120,
-          "effect": "Gains <color=#00A069>+5.18%</color> max HP while in combat."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 210,
-          "effect": "Gains <color=#00A069>+5.35%</color> max HP while in combat."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 300,
-          "effect": "Gains <color=#00A069>+5.52%</color> max HP while in combat."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 390,
-          "effect": "Gains <color=#00A069>+5.69%</color> max HP while in combat."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 480,
-          "effect": "Gains <color=#00A069>+5.87%</color> max HP while in combat."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 570,
-          "effect": "Gains <color=#00A069>+6.04%</color> max HP while in combat."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 660,
-          "effect": "Gains <color=#00A069>+6.21%</color> max HP while in combat."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 750,
-          "effect": "Gains <color=#00A069>+6.38%</color> max HP while in combat."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 840,
-          "effect": "Gains <color=#00A069>+6.56%</color> max HP while in combat."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 930,
-          "effect": "Gains <color=#00A069>+6.73%</color> max HP while in combat."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1020,
-          "effect": "Gains <color=#00A069>+6.9%</color> max HP while in combat."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1110,
-          "effect": "Gains <color=#00A069>+7.07%</color> max HP while in combat."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1200,
-          "effect": "Gains <color=#00A069>+7.25%</color> max HP while in combat."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1290,
-          "effect": "Gains <color=#00A069>+7.42%</color> max HP while in combat."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1380,
-          "effect": "Gains <color=#00A069>+7.59%</color> max HP while in combat."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1470,
-          "effect": "Gains <color=#00A069>+7.76%</color> max HP while in combat."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1560,
-          "effect": "Gains <color=#00A069>+7.94%</color> max HP while in combat."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1650,
-          "effect": "Gains <color=#00A069>+8.11%</color> max HP while in combat."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1740,
-          "effect": "Gains <color=#00A069>+8.27%</color> max HP while in combat."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1830,
-          "effect": "Gains <color=#00A069>+8.44%</color> max HP while in combat."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1920,
-          "effect": "Gains <color=#00A069>+8.63%</color> max HP while in combat."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2010,
-          "effect": "Gains <color=#00A069>+8.8%</color> max HP while in combat."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2100,
-          "effect": "Gains <color=#00A069>+8.97%</color> max HP while in combat."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2190,
-          "effect": "Gains <color=#00A069>+9.14%</color> max HP while in combat."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2280,
-          "effect": "Gains <color=#00A069>+9.32%</color> max HP while in combat."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2370,
-          "effect": "Gains <color=#00A069>+9.49%</color> max HP while in combat."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2460,
-          "effect": "Gains <color=#00A069>+9.66%</color> max HP while in combat."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2550,
-          "effect": "Gains <color=#00A069>+9.83%</color> max HP while in combat."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2640,
-          "effect": "Gains <color=#00A069>+10%</color> max HP while in combat."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 210,
+     "effect": "Deals <color=#00A069>81.65%</color> damage to a single enemy."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 300,
+     "effect": "Deals <color=#00A069>82.48%</color> damage to a single enemy."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 390,
+     "effect": "Deals <color=#00A069>83.31%</color> damage to a single enemy."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 480,
+     "effect": "Deals <color=#00A069>84.13%</color> damage to a single enemy."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 570,
+     "effect": "Deals <color=#00A069>84.96%</color> damage to a single enemy."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 660,
+     "effect": "Deals <color=#00A069>85.79%</color> damage to a single enemy."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 750,
+     "effect": "Deals <color=#00A069>86.62%</color> damage to a single enemy."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 840,
+     "effect": "Deals <color=#00A069>87.44%</color> damage to a single enemy."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 930,
+     "effect": "Deals <color=#00A069>88.27%</color> damage to a single enemy."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1020,
+     "effect": "Deals <color=#00A069>89.1%</color> damage to a single enemy."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1110,
+     "effect": "Deals <color=#00A069>89.93%</color> damage to a single enemy."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1200,
+     "effect": "Deals <color=#00A069>90.75%</color> damage to a single enemy."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1290,
+     "effect": "Deals <color=#00A069>91.58%</color> damage to a single enemy."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1380,
+     "effect": "Deals <color=#00A069>92.41%</color> damage to a single enemy."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1470,
+     "effect": "Deals <color=#00A069>93.24%</color> damage to a single enemy."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1560,
+     "effect": "Deals <color=#00A069>94.06%</color> damage to a single enemy."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1650,
+     "effect": "Deals <color=#00A069>94.89%</color> damage to a single enemy."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1740,
+     "effect": "Deals <color=#00A069>95.72%</color> damage to a single enemy."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1830,
+     "effect": "Deals <color=#00A069>96.55%</color> damage to a single enemy."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1920,
+     "effect": "Deals <color=#00A069>97.37%</color> damage to a single enemy."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2010,
+     "effect": "Deals <color=#00A069>98.2%</color> damage to a single enemy."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2100,
+     "effect": "Deals <color=#00A069>99.03%</color> damage to a single enemy."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2190,
+     "effect": "Deals <color=#00A069>99.86%</color> damage to a single enemy."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2280,
+     "effect": "Deals <color=#00A069>100.68%</color> damage to a single enemy."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2370,
+     "effect": "Deals <color=#00A069>101.51%</color> damage to a single enemy."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2460,
+     "effect": "Deals <color=#00A069>102.34%</color> damage to a single enemy."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2550,
+     "effect": "Deals <color=#00A069>103.17%</color> damage to a single enemy."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2640,
+     "effect": "Deals <color=#00A069>104%</color> damage to a single enemy."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "133062",
+   "name": "Geyser Jet",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_2.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy. ",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 4,
+      "animationMs": 4100,
+      "attackIntervalMs": 4100
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 30,
+     "effect": "Deals <color=#00A069>224%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 120,
+     "effect": "Deals <color=#00A069>227.86%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 210,
+     "effect": "Deals <color=#00A069>231.72%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 300,
+     "effect": "Deals <color=#00A069>235.58%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 390,
+     "effect": "Deals <color=#00A069>239.44%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 480,
+     "effect": "Deals <color=#00A069>243.31%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 570,
+     "effect": "Deals <color=#00A069>247.17%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 660,
+     "effect": "Deals <color=#00A069>251.03%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 750,
+     "effect": "Deals <color=#00A069>254.89%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 840,
+     "effect": "Deals <color=#00A069>258.75%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 930,
+     "effect": "Deals <color=#00A069>262.62%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1020,
+     "effect": "Deals <color=#00A069>266.48%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1110,
+     "effect": "Deals <color=#00A069>270.33%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1200,
+     "effect": "Deals <color=#00A069>274.2%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1290,
+     "effect": "Deals <color=#00A069>278.06%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1380,
+     "effect": "Deals <color=#00A069>281.93%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1470,
+     "effect": "Deals <color=#00A069>285.79%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1560,
+     "effect": "Deals <color=#00A069>289.64%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1650,
+     "effect": "Deals <color=#00A069>293.51%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1740,
+     "effect": "Deals <color=#00A069>297.37%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1830,
+     "effect": "Deals <color=#00A069>301.24%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 1920,
+     "effect": "Deals <color=#00A069>305.1%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 2010,
+     "effect": "Deals <color=#00A069>308.95%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 2100,
+     "effect": "Deals <color=#00A069>312.82%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 2190,
+     "effect": "Deals <color=#00A069>316.68%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 2280,
+     "effect": "Deals <color=#00A069>320.55%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 2370,
+     "effect": "Deals <color=#00A069>324.41%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 2460,
+     "effect": "Deals <color=#00A069>328.27%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 2550,
+     "effect": "Deals <color=#00A069>332.13%</color> damage to a single enemy. "
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 4100,
+     "power": 2640,
+     "effect": "Deals <color=#00A069>336%</color> damage to a single enemy. "
+    }
+   ]
+  },
+  {
+   "id": "133063",
+   "name": "Frost Resist",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203206_3.png",
+   "des": "Gains <color=#00A069>+{0}</color> max HP while in combat.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 30,
+     "effect": "Gains <color=#00A069>+5%</color> max HP while in combat."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 120,
+     "effect": "Gains <color=#00A069>+5.18%</color> max HP while in combat."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 210,
+     "effect": "Gains <color=#00A069>+5.35%</color> max HP while in combat."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 300,
+     "effect": "Gains <color=#00A069>+5.52%</color> max HP while in combat."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 390,
+     "effect": "Gains <color=#00A069>+5.69%</color> max HP while in combat."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 480,
+     "effect": "Gains <color=#00A069>+5.87%</color> max HP while in combat."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 570,
+     "effect": "Gains <color=#00A069>+6.04%</color> max HP while in combat."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 660,
+     "effect": "Gains <color=#00A069>+6.21%</color> max HP while in combat."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 750,
+     "effect": "Gains <color=#00A069>+6.38%</color> max HP while in combat."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 840,
+     "effect": "Gains <color=#00A069>+6.56%</color> max HP while in combat."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 930,
+     "effect": "Gains <color=#00A069>+6.73%</color> max HP while in combat."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1020,
+     "effect": "Gains <color=#00A069>+6.9%</color> max HP while in combat."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1110,
+     "effect": "Gains <color=#00A069>+7.07%</color> max HP while in combat."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1200,
+     "effect": "Gains <color=#00A069>+7.25%</color> max HP while in combat."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1290,
+     "effect": "Gains <color=#00A069>+7.42%</color> max HP while in combat."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1380,
+     "effect": "Gains <color=#00A069>+7.59%</color> max HP while in combat."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1470,
+     "effect": "Gains <color=#00A069>+7.76%</color> max HP while in combat."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1560,
+     "effect": "Gains <color=#00A069>+7.94%</color> max HP while in combat."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1650,
+     "effect": "Gains <color=#00A069>+8.11%</color> max HP while in combat."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1740,
+     "effect": "Gains <color=#00A069>+8.27%</color> max HP while in combat."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1830,
+     "effect": "Gains <color=#00A069>+8.44%</color> max HP while in combat."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1920,
+     "effect": "Gains <color=#00A069>+8.63%</color> max HP while in combat."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2010,
+     "effect": "Gains <color=#00A069>+8.8%</color> max HP while in combat."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2100,
+     "effect": "Gains <color=#00A069>+8.97%</color> max HP while in combat."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2190,
+     "effect": "Gains <color=#00A069>+9.14%</color> max HP while in combat."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2280,
+     "effect": "Gains <color=#00A069>+9.32%</color> max HP while in combat."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2370,
+     "effect": "Gains <color=#00A069>+9.49%</color> max HP while in combat."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2460,
+     "effect": "Gains <color=#00A069>+9.66%</color> max HP while in combat."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2550,
+     "effect": "Gains <color=#00A069>+9.83%</color> max HP while in combat."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2640,
+     "effect": "Gains <color=#00A069>+10%</color> max HP while in combat."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

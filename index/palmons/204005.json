@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "204005",
-  "name": "Thunderclawd",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_4005.png",
-  "camp": 4,
-  "levelType": 10,
-  "rarity": "SSR",
-  "baseStats": {
-    "attack": 250,
-    "defense": 23,
-    "hp": 5500,
-    "power": 19820
-  },
-  "remit": 2,
-  "role": "backline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
-  "forms": {
-    "base": {
-      "name": "Thunderclawd",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4005.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "204005",
+ "name": "Thunderclawd",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_4005.png",
+ "camp": 4,
+ "levelType": 10,
+ "rarity": "SSR",
+ "baseStats": {
+  "attack": 250,
+  "defense": 23,
+  "hp": 5500,
+  "power": 19820
+ },
+ "remit": 2,
+ "role": "backline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+ "forms": {
+  "base": {
+   "name": "Thunderclawd",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_4005.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "134051",
+   "name": "Thunderstrike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_1.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to the closest enemy target and all enemies near it.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 9,
+      "animationMs": 1400,
+      "attackIntervalMs": 1400
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "134051",
-      "name": "Thunderstrike",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_1.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to the closest enemy target and all enemies near it.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 9,
-            "animationMs": 1400,
-            "attackIntervalMs": 1400
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 60,
-          "effect": "Deals <color=#00A069>46.5%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 240,
-          "effect": "Deals <color=#00A069>46.98%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 420,
-          "effect": "Deals <color=#00A069>47.46%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 600,
-          "effect": "Deals <color=#00A069>47.94%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 780,
-          "effect": "Deals <color=#00A069>48.43%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 960,
-          "effect": "Deals <color=#00A069>48.91%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1140,
-          "effect": "Deals <color=#00A069>49.39%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1320,
-          "effect": "Deals <color=#00A069>49.87%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1500,
-          "effect": "Deals <color=#00A069>50.36%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1680,
-          "effect": "Deals <color=#00A069>50.84%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1860,
-          "effect": "Deals <color=#00A069>51.32%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2040,
-          "effect": "Deals <color=#00A069>51.81%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2220,
-          "effect": "Deals <color=#00A069>52.29%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2400,
-          "effect": "Deals <color=#00A069>52.77%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2580,
-          "effect": "Deals <color=#00A069>53.25%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2760,
-          "effect": "Deals <color=#00A069>53.74%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2940,
-          "effect": "Deals <color=#00A069>54.22%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 3120,
-          "effect": "Deals <color=#00A069>54.7%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 3300,
-          "effect": "Deals <color=#00A069>55.18%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 3480,
-          "effect": "Deals <color=#00A069>55.67%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 3660,
-          "effect": "Deals <color=#00A069>56.15%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 3840,
-          "effect": "Deals <color=#00A069>56.63%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 4020,
-          "effect": "Deals <color=#00A069>57.12%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 4200,
-          "effect": "Deals <color=#00A069>57.6%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 4380,
-          "effect": "Deals <color=#00A069>58.08%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 4560,
-          "effect": "Deals <color=#00A069>58.56%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 4740,
-          "effect": "Deals <color=#00A069>59.05%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 4920,
-          "effect": "Deals <color=#00A069>59.53%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 5100,
-          "effect": "Deals <color=#00A069>60.01%</color> damage to the closest enemy target and all enemies near it."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 5280,
-          "effect": "Deals <color=#00A069>60.5%</color> damage to the closest enemy target and all enemies near it."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 60,
+     "effect": "Deals <color=#00A069>46.5%</color> damage to the closest enemy target and all enemies near it."
     },
     {
-      "id": "134052",
-      "name": "Dark Cloud",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_2.png",
-      "des": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>{0}</color> damage.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 10,
-            "animationMs": 3200,
-            "attackIntervalMs": 3200
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 60,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>144%</color> damage."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 240,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>146.47%</color> damage."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 420,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>148.96%</color> damage."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 600,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>151.44%</color> damage."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 780,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>153.93%</color> damage."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 960,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>156.41%</color> damage."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 1140,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>158.88%</color> damage."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 1320,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>161.37%</color> damage."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 1500,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>163.86%</color> damage."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 1680,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>166.34%</color> damage."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 1860,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>168.82%</color> damage."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 2040,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>171.31%</color> damage."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 2220,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>173.79%</color> damage."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 2400,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>176.27%</color> damage."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 2580,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>178.75%</color> damage."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 2760,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>181.24%</color> damage."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 2940,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>183.72%</color> damage."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 3120,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>186.2%</color> damage."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 3300,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>188.68%</color> damage."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 3480,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>191.17%</color> damage."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 3660,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>193.65%</color> damage."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 3840,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>196.13%</color> damage."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 4020,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>198.62%</color> damage."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 4200,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>201.1%</color> damage."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 4380,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>203.58%</color> damage."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 4560,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>206.06%</color> damage."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 4740,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>208.55%</color> damage."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 4920,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>211.03%</color> damage."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 5100,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>213.51%</color> damage."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 3200,
-          "power": 5280,
-          "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>216%</color> damage."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 240,
+     "effect": "Deals <color=#00A069>46.98%</color> damage to the closest enemy target and all enemies near it."
     },
     {
-      "id": "214053",
-      "name": "Ionized",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_3.png",
-      "des": "Electricity output +{0} when working a Charging job.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 60,
-          "effect": "Electricity output +10% when working a Charging job."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 240,
-          "effect": "Electricity output +10.69% when working a Charging job."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 420,
-          "effect": "Electricity output +11.38% when working a Charging job."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 600,
-          "effect": "Electricity output +12.07% when working a Charging job."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 780,
-          "effect": "Electricity output +12.76% when working a Charging job."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 960,
-          "effect": "Electricity output +13.45% when working a Charging job."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1140,
-          "effect": "Electricity output +14.14% when working a Charging job."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1320,
-          "effect": "Electricity output +14.83% when working a Charging job."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1500,
-          "effect": "Electricity output +15.52% when working a Charging job."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1680,
-          "effect": "Electricity output +16.21% when working a Charging job."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1860,
-          "effect": "Electricity output +16.89% when working a Charging job."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2040,
-          "effect": "Electricity output +17.59% when working a Charging job."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2220,
-          "effect": "Electricity output +18.28% when working a Charging job."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2400,
-          "effect": "Electricity output +18.97% when working a Charging job."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2580,
-          "effect": "Electricity output +19.66% when working a Charging job."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2760,
-          "effect": "Electricity output +20.35% when working a Charging job."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2940,
-          "effect": "Electricity output +21.04% when working a Charging job."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3120,
-          "effect": "Electricity output +21.73% when working a Charging job."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3300,
-          "effect": "Electricity output +22.42% when working a Charging job."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3480,
-          "effect": "Electricity output +23.11% when working a Charging job."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3660,
-          "effect": "Electricity output +23.8% when working a Charging job."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3840,
-          "effect": "Electricity output +24.49% when working a Charging job."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4020,
-          "effect": "Electricity output +25.18% when working a Charging job."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4200,
-          "effect": "Electricity output +25.87% when working a Charging job."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4380,
-          "effect": "Electricity output +26.56% when working a Charging job."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4560,
-          "effect": "Electricity output +27.25% when working a Charging job."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4740,
-          "effect": "Electricity output +27.94% when working a Charging job."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4920,
-          "effect": "Electricity output +28.63% when working a Charging job."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5100,
-          "effect": "Electricity output +29.32% when working a Charging job."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5280,
-          "effect": "Electricity output +30% when working a Charging job."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 420,
+     "effect": "Deals <color=#00A069>47.46%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 600,
+     "effect": "Deals <color=#00A069>47.94%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 780,
+     "effect": "Deals <color=#00A069>48.43%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 960,
+     "effect": "Deals <color=#00A069>48.91%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1140,
+     "effect": "Deals <color=#00A069>49.39%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1320,
+     "effect": "Deals <color=#00A069>49.87%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1500,
+     "effect": "Deals <color=#00A069>50.36%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1680,
+     "effect": "Deals <color=#00A069>50.84%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1860,
+     "effect": "Deals <color=#00A069>51.32%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2040,
+     "effect": "Deals <color=#00A069>51.81%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2220,
+     "effect": "Deals <color=#00A069>52.29%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2400,
+     "effect": "Deals <color=#00A069>52.77%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2580,
+     "effect": "Deals <color=#00A069>53.25%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2760,
+     "effect": "Deals <color=#00A069>53.74%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2940,
+     "effect": "Deals <color=#00A069>54.22%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 3120,
+     "effect": "Deals <color=#00A069>54.7%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 3300,
+     "effect": "Deals <color=#00A069>55.18%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 3480,
+     "effect": "Deals <color=#00A069>55.67%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 3660,
+     "effect": "Deals <color=#00A069>56.15%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 3840,
+     "effect": "Deals <color=#00A069>56.63%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 4020,
+     "effect": "Deals <color=#00A069>57.12%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 4200,
+     "effect": "Deals <color=#00A069>57.6%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 4380,
+     "effect": "Deals <color=#00A069>58.08%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 4560,
+     "effect": "Deals <color=#00A069>58.56%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 4740,
+     "effect": "Deals <color=#00A069>59.05%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 4920,
+     "effect": "Deals <color=#00A069>59.53%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 5100,
+     "effect": "Deals <color=#00A069>60.01%</color> damage to the closest enemy target and all enemies near it."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 5280,
+     "effect": "Deals <color=#00A069>60.5%</color> damage to the closest enemy target and all enemies near it."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "134052",
+   "name": "Dark Cloud",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_2.png",
+   "des": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>{0}</color> damage.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 10,
+      "animationMs": 3200,
+      "attackIntervalMs": 3200
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 60,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>144%</color> damage."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 240,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>146.47%</color> damage."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 420,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>148.96%</color> damage."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 600,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>151.44%</color> damage."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 780,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>153.93%</color> damage."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 960,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>156.41%</color> damage."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 1140,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>158.88%</color> damage."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 1320,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>161.37%</color> damage."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 1500,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>163.86%</color> damage."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 1680,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>166.34%</color> damage."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 1860,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>168.82%</color> damage."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 2040,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>171.31%</color> damage."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 2220,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>173.79%</color> damage."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 2400,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>176.27%</color> damage."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 2580,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>178.75%</color> damage."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 2760,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>181.24%</color> damage."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 2940,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>183.72%</color> damage."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 3120,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>186.2%</color> damage."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 3300,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>188.68%</color> damage."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 3480,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>191.17%</color> damage."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 3660,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>193.65%</color> damage."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 3840,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>196.13%</color> damage."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 4020,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>198.62%</color> damage."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 4200,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>201.1%</color> damage."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 4380,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>203.58%</color> damage."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 4560,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>206.06%</color> damage."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 4740,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>208.55%</color> damage."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 4920,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>211.03%</color> damage."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 5100,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>213.51%</color> damage."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 3200,
+     "power": 5280,
+     "effect": "Rises up in the air and unleashes a thunderstorm, striking 4 random enemies for <color=#00A069>216%</color> damage."
+    }
+   ]
+  },
+  {
+   "id": "214053",
+   "name": "Ionized",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204005_3.png",
+   "des": "Electricity output +{0} when working a Charging job.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 60,
+     "effect": "Electricity output +10% when working a Charging job."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 240,
+     "effect": "Electricity output +10.69% when working a Charging job."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 420,
+     "effect": "Electricity output +11.38% when working a Charging job."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 600,
+     "effect": "Electricity output +12.07% when working a Charging job."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 780,
+     "effect": "Electricity output +12.76% when working a Charging job."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 960,
+     "effect": "Electricity output +13.45% when working a Charging job."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1140,
+     "effect": "Electricity output +14.14% when working a Charging job."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1320,
+     "effect": "Electricity output +14.83% when working a Charging job."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1500,
+     "effect": "Electricity output +15.52% when working a Charging job."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1680,
+     "effect": "Electricity output +16.21% when working a Charging job."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1860,
+     "effect": "Electricity output +16.89% when working a Charging job."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2040,
+     "effect": "Electricity output +17.59% when working a Charging job."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2220,
+     "effect": "Electricity output +18.28% when working a Charging job."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2400,
+     "effect": "Electricity output +18.97% when working a Charging job."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2580,
+     "effect": "Electricity output +19.66% when working a Charging job."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2760,
+     "effect": "Electricity output +20.35% when working a Charging job."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2940,
+     "effect": "Electricity output +21.04% when working a Charging job."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3120,
+     "effect": "Electricity output +21.73% when working a Charging job."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3300,
+     "effect": "Electricity output +22.42% when working a Charging job."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3480,
+     "effect": "Electricity output +23.11% when working a Charging job."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3660,
+     "effect": "Electricity output +23.8% when working a Charging job."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3840,
+     "effect": "Electricity output +24.49% when working a Charging job."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4020,
+     "effect": "Electricity output +25.18% when working a Charging job."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4200,
+     "effect": "Electricity output +25.87% when working a Charging job."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4380,
+     "effect": "Electricity output +26.56% when working a Charging job."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4560,
+     "effect": "Electricity output +27.25% when working a Charging job."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4740,
+     "effect": "Electricity output +27.94% when working a Charging job."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4920,
+     "effect": "Electricity output +28.63% when working a Charging job."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5100,
+     "effect": "Electricity output +29.32% when working a Charging job."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5280,
+     "effect": "Electricity output +30% when working a Charging job."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

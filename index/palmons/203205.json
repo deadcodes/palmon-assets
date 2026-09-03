@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "203205",
-  "name": "Emboa",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_3205.png",
-  "camp": 2,
-  "levelType": 9,
-  "rarity": "SR",
-  "baseStats": {
-    "attack": 204,
-    "defense": 23,
-    "hp": 4488,
-    "power": 9910
-  },
-  "remit": 2,
-  "role": "backline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
-  "forms": {
-    "base": {
-      "name": "Emboa",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_3205.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "203205",
+ "name": "Emboa",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_3205.png",
+ "camp": 2,
+ "levelType": 9,
+ "rarity": "SR",
+ "baseStats": {
+  "attack": 204,
+  "defense": 23,
+  "hp": 4488,
+  "power": 9910
+ },
+ "remit": 2,
+ "role": "backline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+ "forms": {
+  "base": {
+   "name": "Emboa",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_3205.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "133051",
+   "name": "Springboard Spike",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_1.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 49,
+      "animationMs": 1400,
+      "attackIntervalMs": 1400
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "133051",
-      "name": "Springboard Spike",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_1.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 49,
-            "animationMs": 1400,
-            "attackIntervalMs": 1400
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 30,
-          "effect": "Deals <color=#00A069>80%</color> damage to a single enemy."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 120,
-          "effect": "Deals <color=#00A069>80.81%</color> damage to a single enemy."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 210,
-          "effect": "Deals <color=#00A069>81.65%</color> damage to a single enemy."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 300,
-          "effect": "Deals <color=#00A069>82.48%</color> damage to a single enemy."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 390,
-          "effect": "Deals <color=#00A069>83.31%</color> damage to a single enemy."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 480,
-          "effect": "Deals <color=#00A069>84.13%</color> damage to a single enemy."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 570,
-          "effect": "Deals <color=#00A069>84.96%</color> damage to a single enemy."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 660,
-          "effect": "Deals <color=#00A069>85.79%</color> damage to a single enemy."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 750,
-          "effect": "Deals <color=#00A069>86.62%</color> damage to a single enemy."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 840,
-          "effect": "Deals <color=#00A069>87.44%</color> damage to a single enemy."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 930,
-          "effect": "Deals <color=#00A069>88.27%</color> damage to a single enemy."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1020,
-          "effect": "Deals <color=#00A069>89.1%</color> damage to a single enemy."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1110,
-          "effect": "Deals <color=#00A069>89.93%</color> damage to a single enemy."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1200,
-          "effect": "Deals <color=#00A069>90.75%</color> damage to a single enemy."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1290,
-          "effect": "Deals <color=#00A069>91.58%</color> damage to a single enemy."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1380,
-          "effect": "Deals <color=#00A069>92.41%</color> damage to a single enemy."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1470,
-          "effect": "Deals <color=#00A069>93.24%</color> damage to a single enemy."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1560,
-          "effect": "Deals <color=#00A069>94.06%</color> damage to a single enemy."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1650,
-          "effect": "Deals <color=#00A069>94.89%</color> damage to a single enemy."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1740,
-          "effect": "Deals <color=#00A069>95.72%</color> damage to a single enemy."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1830,
-          "effect": "Deals <color=#00A069>96.55%</color> damage to a single enemy."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 1920,
-          "effect": "Deals <color=#00A069>97.37%</color> damage to a single enemy."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2010,
-          "effect": "Deals <color=#00A069>98.2%</color> damage to a single enemy."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2100,
-          "effect": "Deals <color=#00A069>99.03%</color> damage to a single enemy."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2190,
-          "effect": "Deals <color=#00A069>99.86%</color> damage to a single enemy."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2280,
-          "effect": "Deals <color=#00A069>100.68%</color> damage to a single enemy."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2370,
-          "effect": "Deals <color=#00A069>101.51%</color> damage to a single enemy."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2460,
-          "effect": "Deals <color=#00A069>102.34%</color> damage to a single enemy."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2550,
-          "effect": "Deals <color=#00A069>103.17%</color> damage to a single enemy."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1400,
-          "power": 2640,
-          "effect": "Deals <color=#00A069>104%</color> damage to a single enemy."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 30,
+     "effect": "Deals <color=#00A069>80%</color> damage to a single enemy."
     },
     {
-      "id": "133052",
-      "name": "Heating Up",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_2.png",
-      "des": "Gains <color=#00A069>+{0}</color> Attack for <color=#00A069>{1}s</color>.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 50,
-            "animationMs": 2900,
-            "attackIntervalMs": 2900
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 30,
-          "effect": "Gains <color=#00A069>+20%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 120,
-          "effect": "Gains <color=#00A069>+20.69%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 210,
-          "effect": "Gains <color=#00A069>+21.38%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 300,
-          "effect": "Gains <color=#00A069>+22.07%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 390,
-          "effect": "Gains <color=#00A069>+22.76%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 480,
-          "effect": "Gains <color=#00A069>+23.45%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 570,
-          "effect": "Gains <color=#00A069>+24.14%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 660,
-          "effect": "Gains <color=#00A069>+24.83%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 750,
-          "effect": "Gains <color=#00A069>+25.52%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 840,
-          "effect": "Gains <color=#00A069>+26.21%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 930,
-          "effect": "Gains <color=#00A069>+26.9%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1020,
-          "effect": "Gains <color=#00A069>+27.59%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1110,
-          "effect": "Gains <color=#00A069>+28.28%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1200,
-          "effect": "Gains <color=#00A069>+28.97%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1290,
-          "effect": "Gains <color=#00A069>+29.66%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1380,
-          "effect": "Gains <color=#00A069>+30.35%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1470,
-          "effect": "Gains <color=#00A069>+31.04%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1560,
-          "effect": "Gains <color=#00A069>+31.73%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1650,
-          "effect": "Gains <color=#00A069>+32.42%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1740,
-          "effect": "Gains <color=#00A069>+33.11%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1830,
-          "effect": "Gains <color=#00A069>+33.79%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 1920,
-          "effect": "Gains <color=#00A069>+34.49%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 2010,
-          "effect": "Gains <color=#00A069>+35.18%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 2100,
-          "effect": "Gains <color=#00A069>+35.86%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 2190,
-          "effect": "Gains <color=#00A069>+36.56%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 2280,
-          "effect": "Gains <color=#00A069>+37.25%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 2370,
-          "effect": "Gains <color=#00A069>+37.94%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 2460,
-          "effect": "Gains <color=#00A069>+38.63%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 2550,
-          "effect": "Gains <color=#00A069>+39.32%</color> Attack for <color=#00A069>7s</color>."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 2900,
-          "power": 2640,
-          "effect": "Gains <color=#00A069>+40%</color> Attack for <color=#00A069>7s</color>."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 120,
+     "effect": "Deals <color=#00A069>80.81%</color> damage to a single enemy."
     },
     {
-      "id": "213053",
-      "name": "Thermal Recycling",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_3.png",
-      "des": "Steel output +{0} when working a Smelting job.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 30,
-          "effect": "Steel output +8% when working a Smelting job."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 120,
-          "effect": "Steel output +8.41% when working a Smelting job."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 210,
-          "effect": "Steel output +8.82% when working a Smelting job."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 300,
-          "effect": "Steel output +9.23% when working a Smelting job."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 390,
-          "effect": "Steel output +9.64% when working a Smelting job."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 480,
-          "effect": "Steel output +10.05% when working a Smelting job."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 570,
-          "effect": "Steel output +10.46% when working a Smelting job."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 660,
-          "effect": "Steel output +10.87% when working a Smelting job."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 750,
-          "effect": "Steel output +11.28% when working a Smelting job."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 840,
-          "effect": "Steel output +11.69% when working a Smelting job."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 930,
-          "effect": "Steel output +12.1% when working a Smelting job."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1020,
-          "effect": "Steel output +12.51% when working a Smelting job."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1110,
-          "effect": "Steel output +12.92% when working a Smelting job."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1200,
-          "effect": "Steel output +13.33% when working a Smelting job."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1290,
-          "effect": "Steel output +13.74% when working a Smelting job."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1380,
-          "effect": "Steel output +14.15% when working a Smelting job."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1470,
-          "effect": "Steel output +14.56% when working a Smelting job."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1560,
-          "effect": "Steel output +14.97% when working a Smelting job."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1650,
-          "effect": "Steel output +15.39% when working a Smelting job."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1740,
-          "effect": "Steel output +15.81% when working a Smelting job."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1830,
-          "effect": "Steel output +16.23% when working a Smelting job."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1920,
-          "effect": "Steel output +16.64% when working a Smelting job."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2010,
-          "effect": "Steel output +17.07% when working a Smelting job."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2100,
-          "effect": "Steel output +17.48% when working a Smelting job."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2190,
-          "effect": "Steel output +17.91% when working a Smelting job."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2280,
-          "effect": "Steel output +18.32% when working a Smelting job."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2370,
-          "effect": "Steel output +18.75% when working a Smelting job."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2460,
-          "effect": "Steel output +19.17% when working a Smelting job."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2550,
-          "effect": "Steel output +19.59% when working a Smelting job."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2640,
-          "effect": "Steel output +20% when working a Smelting job."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 210,
+     "effect": "Deals <color=#00A069>81.65%</color> damage to a single enemy."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 300,
+     "effect": "Deals <color=#00A069>82.48%</color> damage to a single enemy."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 390,
+     "effect": "Deals <color=#00A069>83.31%</color> damage to a single enemy."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 480,
+     "effect": "Deals <color=#00A069>84.13%</color> damage to a single enemy."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 570,
+     "effect": "Deals <color=#00A069>84.96%</color> damage to a single enemy."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 660,
+     "effect": "Deals <color=#00A069>85.79%</color> damage to a single enemy."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 750,
+     "effect": "Deals <color=#00A069>86.62%</color> damage to a single enemy."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 840,
+     "effect": "Deals <color=#00A069>87.44%</color> damage to a single enemy."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 930,
+     "effect": "Deals <color=#00A069>88.27%</color> damage to a single enemy."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1020,
+     "effect": "Deals <color=#00A069>89.1%</color> damage to a single enemy."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1110,
+     "effect": "Deals <color=#00A069>89.93%</color> damage to a single enemy."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1200,
+     "effect": "Deals <color=#00A069>90.75%</color> damage to a single enemy."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1290,
+     "effect": "Deals <color=#00A069>91.58%</color> damage to a single enemy."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1380,
+     "effect": "Deals <color=#00A069>92.41%</color> damage to a single enemy."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1470,
+     "effect": "Deals <color=#00A069>93.24%</color> damage to a single enemy."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1560,
+     "effect": "Deals <color=#00A069>94.06%</color> damage to a single enemy."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1650,
+     "effect": "Deals <color=#00A069>94.89%</color> damage to a single enemy."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1740,
+     "effect": "Deals <color=#00A069>95.72%</color> damage to a single enemy."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1830,
+     "effect": "Deals <color=#00A069>96.55%</color> damage to a single enemy."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 1920,
+     "effect": "Deals <color=#00A069>97.37%</color> damage to a single enemy."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2010,
+     "effect": "Deals <color=#00A069>98.2%</color> damage to a single enemy."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2100,
+     "effect": "Deals <color=#00A069>99.03%</color> damage to a single enemy."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2190,
+     "effect": "Deals <color=#00A069>99.86%</color> damage to a single enemy."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2280,
+     "effect": "Deals <color=#00A069>100.68%</color> damage to a single enemy."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2370,
+     "effect": "Deals <color=#00A069>101.51%</color> damage to a single enemy."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2460,
+     "effect": "Deals <color=#00A069>102.34%</color> damage to a single enemy."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2550,
+     "effect": "Deals <color=#00A069>103.17%</color> damage to a single enemy."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1400,
+     "power": 2640,
+     "effect": "Deals <color=#00A069>104%</color> damage to a single enemy."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "133052",
+   "name": "Heating Up",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_2.png",
+   "des": "Gains <color=#00A069>+{0}</color> Attack for <color=#00A069>{1}s</color>.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 50,
+      "animationMs": 2900,
+      "attackIntervalMs": 2900
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 30,
+     "effect": "Gains <color=#00A069>+20%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 120,
+     "effect": "Gains <color=#00A069>+20.69%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 210,
+     "effect": "Gains <color=#00A069>+21.38%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 300,
+     "effect": "Gains <color=#00A069>+22.07%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 390,
+     "effect": "Gains <color=#00A069>+22.76%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 480,
+     "effect": "Gains <color=#00A069>+23.45%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 570,
+     "effect": "Gains <color=#00A069>+24.14%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 660,
+     "effect": "Gains <color=#00A069>+24.83%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 750,
+     "effect": "Gains <color=#00A069>+25.52%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 840,
+     "effect": "Gains <color=#00A069>+26.21%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 930,
+     "effect": "Gains <color=#00A069>+26.9%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1020,
+     "effect": "Gains <color=#00A069>+27.59%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1110,
+     "effect": "Gains <color=#00A069>+28.28%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1200,
+     "effect": "Gains <color=#00A069>+28.97%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1290,
+     "effect": "Gains <color=#00A069>+29.66%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1380,
+     "effect": "Gains <color=#00A069>+30.35%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1470,
+     "effect": "Gains <color=#00A069>+31.04%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1560,
+     "effect": "Gains <color=#00A069>+31.73%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1650,
+     "effect": "Gains <color=#00A069>+32.42%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1740,
+     "effect": "Gains <color=#00A069>+33.11%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1830,
+     "effect": "Gains <color=#00A069>+33.79%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 1920,
+     "effect": "Gains <color=#00A069>+34.49%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 2010,
+     "effect": "Gains <color=#00A069>+35.18%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 2100,
+     "effect": "Gains <color=#00A069>+35.86%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 2190,
+     "effect": "Gains <color=#00A069>+36.56%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 2280,
+     "effect": "Gains <color=#00A069>+37.25%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 2370,
+     "effect": "Gains <color=#00A069>+37.94%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 2460,
+     "effect": "Gains <color=#00A069>+38.63%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 2550,
+     "effect": "Gains <color=#00A069>+39.32%</color> Attack for <color=#00A069>7s</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 2900,
+     "power": 2640,
+     "effect": "Gains <color=#00A069>+40%</color> Attack for <color=#00A069>7s</color>."
+    }
+   ]
+  },
+  {
+   "id": "213053",
+   "name": "Thermal Recycling",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_203205_3.png",
+   "des": "Steel output +{0} when working a Smelting job.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 30,
+     "effect": "Steel output +8% when working a Smelting job."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 120,
+     "effect": "Steel output +8.41% when working a Smelting job."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 210,
+     "effect": "Steel output +8.82% when working a Smelting job."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 300,
+     "effect": "Steel output +9.23% when working a Smelting job."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 390,
+     "effect": "Steel output +9.64% when working a Smelting job."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 480,
+     "effect": "Steel output +10.05% when working a Smelting job."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 570,
+     "effect": "Steel output +10.46% when working a Smelting job."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 660,
+     "effect": "Steel output +10.87% when working a Smelting job."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 750,
+     "effect": "Steel output +11.28% when working a Smelting job."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 840,
+     "effect": "Steel output +11.69% when working a Smelting job."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 930,
+     "effect": "Steel output +12.1% when working a Smelting job."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1020,
+     "effect": "Steel output +12.51% when working a Smelting job."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1110,
+     "effect": "Steel output +12.92% when working a Smelting job."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1200,
+     "effect": "Steel output +13.33% when working a Smelting job."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1290,
+     "effect": "Steel output +13.74% when working a Smelting job."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1380,
+     "effect": "Steel output +14.15% when working a Smelting job."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1470,
+     "effect": "Steel output +14.56% when working a Smelting job."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1560,
+     "effect": "Steel output +14.97% when working a Smelting job."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1650,
+     "effect": "Steel output +15.39% when working a Smelting job."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1740,
+     "effect": "Steel output +15.81% when working a Smelting job."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1830,
+     "effect": "Steel output +16.23% when working a Smelting job."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1920,
+     "effect": "Steel output +16.64% when working a Smelting job."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2010,
+     "effect": "Steel output +17.07% when working a Smelting job."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2100,
+     "effect": "Steel output +17.48% when working a Smelting job."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2190,
+     "effect": "Steel output +17.91% when working a Smelting job."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2280,
+     "effect": "Steel output +18.32% when working a Smelting job."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2370,
+     "effect": "Steel output +18.75% when working a Smelting job."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2460,
+     "effect": "Steel output +19.17% when working a Smelting job."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2550,
+     "effect": "Steel output +19.59% when working a Smelting job."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2640,
+     "effect": "Steel output +20% when working a Smelting job."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

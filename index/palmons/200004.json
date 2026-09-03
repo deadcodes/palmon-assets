@@ -1,29 +1,29 @@
 {
-  "schemaVersion": 1,
-  "id": "200004",
-  "name": "Woozard",
-  "icon": null,
-  "camp": 0,
-  "levelType": 0,
-  "rarity": null,
-  "baseStats": {
-    "attack": 0,
-    "defense": 0,
-    "hp": 0,
-    "power": 0
-  },
-  "remit": 0,
-  "role": "backline",
-  "roleIcon": null,
-  "roleIconReason": "unknown-remit",
-  "forms": {
-    "base": {
-      "name": "Woozard",
-      "portrait": null
-    }
-  },
-  "skills": [],
-  "attackSpeedModifiers": [],
-  "evolutionStages": [],
-  "reason": "unresolved-resource-id"
+ "schemaVersion": 1,
+ "id": "200004",
+ "name": "Woozard",
+ "icon": null,
+ "camp": 0,
+ "levelType": 0,
+ "rarity": null,
+ "baseStats": {
+  "attack": 0,
+  "defense": 0,
+  "hp": 0,
+  "power": 0
+ },
+ "remit": 0,
+ "role": "backline",
+ "roleIcon": null,
+ "roleIconReason": "unknown-remit",
+ "forms": {
+  "base": {
+   "name": "Woozard",
+   "portrait": null
+  }
+ },
+ "skills": [],
+ "attackSpeedModifiers": [],
+ "evolutionStages": [],
+ "reason": "unresolved-resource-id"
 }

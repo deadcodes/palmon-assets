@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "204004",
-  "name": "Snowkami",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_4004.png",
-  "camp": 1,
-  "levelType": 10,
-  "rarity": "SSR",
-  "baseStats": {
-    "attack": 272,
-    "defense": 83,
-    "hp": 10880,
-    "power": 19820
-  },
-  "remit": 2,
-  "role": "backline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
-  "forms": {
-    "base": {
-      "name": "Snowkami",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4004.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "204004",
+ "name": "Snowkami",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_4004.png",
+ "camp": 1,
+ "levelType": 10,
+ "rarity": "SSR",
+ "baseStats": {
+  "attack": 272,
+  "defense": 83,
+  "hp": 10880,
+  "power": 19820
+ },
+ "remit": 2,
+ "role": "backline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+ "forms": {
+  "base": {
+   "name": "Snowkami",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_4004.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "134041",
+   "name": "Frostclaw",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_1.png",
+   "des": "Bites a single enemy multiple times, dealing a total of <color=#00A069>{0}</color> damage.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 1,
+      "animationMs": 1500,
+      "attackIntervalMs": 1500
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "134041",
-      "name": "Frostclaw",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_1.png",
-      "des": "Bites a single enemy multiple times, dealing a total of <color=#00A069>{0}</color> damage.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 1,
-            "animationMs": 1500,
-            "attackIntervalMs": 1500
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 60,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>100%</color> damage."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 240,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>101.03%</color> damage."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 420,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>102.06%</color> damage."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 600,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>103.1%</color> damage."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 780,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>104.13%</color> damage."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 960,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>105.17%</color> damage."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1140,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>106.2%</color> damage."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1320,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>107.24%</color> damage."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1500,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>108.27%</color> damage."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1680,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>109.31%</color> damage."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1860,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>110.34%</color> damage."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2040,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>111.37%</color> damage."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2220,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>112.41%</color> damage."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2400,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>113.44%</color> damage."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2580,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>114.48%</color> damage."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2760,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>115.51%</color> damage."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2940,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>116.55%</color> damage."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3120,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>117.58%</color> damage."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3300,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>118.62%</color> damage."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3480,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>119.65%</color> damage."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3660,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>120.68%</color> damage."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3840,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>121.72%</color> damage."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4020,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>122.75%</color> damage."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4200,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>123.79%</color> damage."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4380,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>124.82%</color> damage."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4560,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>125.86%</color> damage."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4740,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>126.89%</color> damage."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4920,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>127.93%</color> damage."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5100,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>128.96%</color> damage."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5280,
-          "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>130%</color> damage."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 60,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>100%</color> damage."
     },
     {
-      "id": "134042",
-      "name": "Glacial Howl",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_2.png",
-      "des": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>{0}</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 2,
-            "animationMs": 4700,
-            "attackIntervalMs": 4700
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 60,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>360%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 240,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>366.2%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 420,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>372.41%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 600,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>378.62%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 780,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>384.82%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 960,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>391.03%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 1140,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>397.24%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 1320,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>403.44%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 1500,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>409.65%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 1680,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>415.86%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 1860,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>422.06%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 2040,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>428.27%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 2220,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>434.48%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 2400,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>440.68%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 2580,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>446.89%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 2760,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>453.1%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 2940,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>459.31%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 3120,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>465.51%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 3300,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>471.72%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 3480,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>477.93%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 3660,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>484.13%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 3840,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>490.34%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 4020,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>496.55%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 4200,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>502.75%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 4380,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>508.96%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 4560,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>515.16%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 4740,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>521.37%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 4920,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>527.58%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 5100,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>533.79%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 4700,
-          "power": 5280,
-          "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>540%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 240,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>101.03%</color> damage."
     },
     {
-      "id": "134043",
-      "name": "Wolfy Will",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_3.png",
-      "des": "Gains <color=#00A069>+{0}</color> Attack while in combat.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 60,
-          "effect": "Gains <color=#00A069>+5%</color> Attack while in combat."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 240,
-          "effect": "Gains <color=#00A069>+5.26%</color> Attack while in combat."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 420,
-          "effect": "Gains <color=#00A069>+5.52%</color> Attack while in combat."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 600,
-          "effect": "Gains <color=#00A069>+5.78%</color> Attack while in combat."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 780,
-          "effect": "Gains <color=#00A069>+6.04%</color> Attack while in combat."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 960,
-          "effect": "Gains <color=#00A069>+6.3%</color> Attack while in combat."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1140,
-          "effect": "Gains <color=#00A069>+6.56%</color> Attack while in combat."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1320,
-          "effect": "Gains <color=#00A069>+6.82%</color> Attack while in combat."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1500,
-          "effect": "Gains <color=#00A069>+7.07%</color> Attack while in combat."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1680,
-          "effect": "Gains <color=#00A069>+7.33%</color> Attack while in combat."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1860,
-          "effect": "Gains <color=#00A069>+7.59%</color> Attack while in combat."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2040,
-          "effect": "Gains <color=#00A069>+7.85%</color> Attack while in combat."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2220,
-          "effect": "Gains <color=#00A069>+8.11%</color> Attack while in combat."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2400,
-          "effect": "Gains <color=#00A069>+8.36%</color> Attack while in combat."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2580,
-          "effect": "Gains <color=#00A069>+8.63%</color> Attack while in combat."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2760,
-          "effect": "Gains <color=#00A069>+8.88%</color> Attack while in combat."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2940,
-          "effect": "Gains <color=#00A069>+9.14%</color> Attack while in combat."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3120,
-          "effect": "Gains <color=#00A069>+9.4%</color> Attack while in combat."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3300,
-          "effect": "Gains <color=#00A069>+9.66%</color> Attack while in combat."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3480,
-          "effect": "Gains <color=#00A069>+9.92%</color> Attack while in combat."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3660,
-          "effect": "Gains <color=#00A069>+10.18%</color> Attack while in combat."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3840,
-          "effect": "Gains <color=#00A069>+10.44%</color> Attack while in combat."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4020,
-          "effect": "Gains <color=#00A069>+10.69%</color> Attack while in combat."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4200,
-          "effect": "Gains <color=#00A069>+10.95%</color> Attack while in combat."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4380,
-          "effect": "Gains <color=#00A069>+11.21%</color> Attack while in combat."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4560,
-          "effect": "Gains <color=#00A069>+11.47%</color> Attack while in combat."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4740,
-          "effect": "Gains <color=#00A069>+11.73%</color> Attack while in combat."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4920,
-          "effect": "Gains <color=#00A069>+11.99%</color> Attack while in combat."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5100,
-          "effect": "Gains <color=#00A069>+12.25%</color> Attack while in combat."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5280,
-          "effect": "Gains <color=#00A069>+12.5%</color> Attack while in combat."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 420,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>102.06%</color> damage."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 600,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>103.1%</color> damage."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 780,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>104.13%</color> damage."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 960,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>105.17%</color> damage."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1140,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>106.2%</color> damage."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1320,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>107.24%</color> damage."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1500,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>108.27%</color> damage."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1680,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>109.31%</color> damage."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1860,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>110.34%</color> damage."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2040,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>111.37%</color> damage."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2220,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>112.41%</color> damage."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2400,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>113.44%</color> damage."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2580,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>114.48%</color> damage."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2760,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>115.51%</color> damage."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2940,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>116.55%</color> damage."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3120,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>117.58%</color> damage."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3300,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>118.62%</color> damage."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3480,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>119.65%</color> damage."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3660,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>120.68%</color> damage."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3840,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>121.72%</color> damage."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4020,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>122.75%</color> damage."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4200,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>123.79%</color> damage."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4380,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>124.82%</color> damage."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4560,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>125.86%</color> damage."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4740,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>126.89%</color> damage."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4920,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>127.93%</color> damage."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5100,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>128.96%</color> damage."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5280,
+     "effect": "Bites a single enemy multiple times, dealing a total of <color=#00A069>130%</color> damage."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "134042",
+   "name": "Glacial Howl",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_2.png",
+   "des": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>{0}</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 2,
+      "animationMs": 4700,
+      "attackIntervalMs": 4700
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 60,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>360%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 240,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>366.2%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 420,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>372.41%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 600,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>378.62%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 780,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>384.82%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 960,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>391.03%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 1140,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>397.24%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 1320,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>403.44%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 1500,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>409.65%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 1680,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>415.86%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 1860,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>422.06%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 2040,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>428.27%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 2220,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>434.48%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 2400,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>440.68%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 2580,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>446.89%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 2760,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>453.1%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 2940,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>459.31%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 3120,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>465.51%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 3300,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>471.72%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 3480,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>477.93%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 3660,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>484.13%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 3840,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>490.34%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 4020,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>496.55%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 4200,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>502.75%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 4380,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>508.96%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 4560,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>515.16%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 4740,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>521.37%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 4920,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>527.58%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 5100,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>533.79%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 4700,
+     "power": 5280,
+     "effect": "Snowkami unleashes the wrath of winter, dealing <color=#00A069>540%</color> damage to a single enemy. Has a <color=#00A069>70%</color> chance to Freeze the target for <color=#00A069>2.5s</color>."
+    }
+   ]
+  },
+  {
+   "id": "134043",
+   "name": "Wolfy Will",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_3.png",
+   "des": "When fighting non-explorer targets, Attack is increased by <color=#00A069>{0}</color>.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 60,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>5%</color>."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 240,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>5.26%</color>."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 420,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>5.52%</color>."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 600,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>5.78%</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 780,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>6.04%</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 960,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>6.3%</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1140,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>6.56%</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1320,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>6.82%</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1500,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>7.07%</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1680,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>7.33%</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1860,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>7.59%</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2040,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>7.85%</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2220,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>8.11%</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2400,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>8.36%</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2580,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>8.63%</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2760,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>8.88%</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2940,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>9.14%</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3120,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>9.4%</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3300,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>9.66%</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3480,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>9.92%</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3660,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>10.18%</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3840,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>10.44%</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4020,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>10.69%</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4200,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>10.95%</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4380,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>11.21%</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4560,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>11.47%</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4740,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>11.73%</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4920,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>11.99%</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5100,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>12.25%</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5280,
+     "effect": "When fighting non-explorer targets, Attack is increased by <color=#00A069>12.5%</color>."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

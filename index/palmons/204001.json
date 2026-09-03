@@ -1,761 +1,761 @@
 {
-  "schemaVersion": 1,
-  "id": "204001",
-  "name": "Wyvierno",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_4001.png",
-  "camp": 2,
-  "levelType": 10,
-  "rarity": "SSR",
-  "baseStats": {
-    "attack": 281,
-    "defense": 85,
-    "hp": 11240,
-    "power": 19820
-  },
-  "remit": 2,
-  "role": "backline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
-  "forms": {
-    "base": {
-      "name": "Wyvierno",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4001.png"
+ "schemaVersion": 1,
+ "id": "204001",
+ "name": "Wyvierno",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_4001.png",
+ "camp": 2,
+ "levelType": 10,
+ "rarity": "SSR",
+ "baseStats": {
+  "attack": 281,
+  "defense": 85,
+  "hp": 11240,
+  "power": 19820
+ },
+ "remit": 2,
+ "role": "backline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+ "forms": {
+  "base": {
+   "name": "Wyvierno",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_4001.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "134011",
+   "name": "Fireball",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_1.png",
+   "des": "Shoots a fireball at a single enemy, dealing <color=#00A069>{0}</color> damage.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 51,
+      "animationMs": 1500,
+      "attackIntervalMs": 1500
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 60,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>100%</color> damage."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 240,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>101.03%</color> damage."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 420,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>102.06%</color> damage."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 600,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>103.1%</color> damage."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 780,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>104.13%</color> damage."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 960,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>105.17%</color> damage."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1140,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>106.2%</color> damage."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1320,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>107.24%</color> damage."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1500,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>108.27%</color> damage."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1680,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>109.31%</color> damage."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1860,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>110.34%</color> damage."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2040,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>111.37%</color> damage."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2220,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>112.41%</color> damage."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2400,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>113.44%</color> damage."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2580,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>114.48%</color> damage."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2760,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>115.51%</color> damage."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2940,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>116.55%</color> damage."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3120,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>117.58%</color> damage."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3300,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>118.62%</color> damage."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3480,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>119.65%</color> damage."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3660,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>120.68%</color> damage."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3840,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>121.72%</color> damage."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4020,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>122.75%</color> damage."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4200,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>123.79%</color> damage."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4380,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>124.82%</color> damage."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4560,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>125.86%</color> damage."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4740,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>126.89%</color> damage."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4920,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>127.93%</color> damage."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5100,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>128.96%</color> damage."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5280,
+     "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>130%</color> damage."
     }
+   ]
   },
-  "skills": [
+  {
+   "id": "134012",
+   "name": "Scorching Sweep",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_2.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>{1}</color> damage per second for <color=#00A069>{2}s</color>.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 52,
+      "animationMs": 4200,
+      "attackIntervalMs": 4200
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "134011",
-      "name": "Fireball",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_1.png",
-      "des": "Shoots a fireball at a single enemy, dealing <color=#00A069>{0}</color> damage.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 51,
-            "animationMs": 1500,
-            "attackIntervalMs": 1500
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 60,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>100%</color> damage."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 240,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>101.03%</color> damage."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 420,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>102.06%</color> damage."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 600,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>103.1%</color> damage."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 780,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>104.13%</color> damage."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 960,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>105.17%</color> damage."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1140,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>106.2%</color> damage."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1320,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>107.24%</color> damage."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1500,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>108.27%</color> damage."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1680,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>109.31%</color> damage."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1860,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>110.34%</color> damage."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2040,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>111.37%</color> damage."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2220,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>112.41%</color> damage."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2400,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>113.44%</color> damage."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2580,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>114.48%</color> damage."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2760,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>115.51%</color> damage."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2940,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>116.55%</color> damage."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3120,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>117.58%</color> damage."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3300,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>118.62%</color> damage."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3480,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>119.65%</color> damage."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3660,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>120.68%</color> damage."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3840,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>121.72%</color> damage."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4020,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>122.75%</color> damage."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4200,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>123.79%</color> damage."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4380,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>124.82%</color> damage."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4560,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>125.86%</color> damage."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4740,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>126.89%</color> damage."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4920,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>127.93%</color> damage."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5100,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>128.96%</color> damage."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5280,
-          "effect": "Shoots a fireball at a single enemy, dealing <color=#00A069>130%</color> damage."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 60,
+     "effect": "Deals <color=#00A069>308%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
     },
     {
-      "id": "134012",
-      "name": "Scorching Sweep",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_2.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>{1}</color> damage per second for <color=#00A069>{2}s</color>.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 52,
-            "animationMs": 4200,
-            "attackIntervalMs": 4200
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 60,
-          "effect": "Deals <color=#00A069>308%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 240,
-          "effect": "Deals <color=#00A069>313.31%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 420,
-          "effect": "Deals <color=#00A069>318.62%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 600,
-          "effect": "Deals <color=#00A069>323.93%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 780,
-          "effect": "Deals <color=#00A069>329.24%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 960,
-          "effect": "Deals <color=#00A069>334.55%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 1140,
-          "effect": "Deals <color=#00A069>339.86%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 1320,
-          "effect": "Deals <color=#00A069>345.17%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 1500,
-          "effect": "Deals <color=#00A069>350.48%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 1680,
-          "effect": "Deals <color=#00A069>355.79%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 1860,
-          "effect": "Deals <color=#00A069>361.1%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 2040,
-          "effect": "Deals <color=#00A069>366.41%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 2220,
-          "effect": "Deals <color=#00A069>371.72%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 2400,
-          "effect": "Deals <color=#00A069>377.03%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 2580,
-          "effect": "Deals <color=#00A069>382.34%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 2760,
-          "effect": "Deals <color=#00A069>387.65%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 2940,
-          "effect": "Deals <color=#00A069>392.96%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 3120,
-          "effect": "Deals <color=#00A069>398.27%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 3300,
-          "effect": "Deals <color=#00A069>403.58%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 3480,
-          "effect": "Deals <color=#00A069>408.89%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 3660,
-          "effect": "Deals <color=#00A069>414.2%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 3840,
-          "effect": "Deals <color=#00A069>419.51%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 4020,
-          "effect": "Deals <color=#00A069>424.82%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 4200,
-          "effect": "Deals <color=#00A069>430.13%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 4380,
-          "effect": "Deals <color=#00A069>435.44%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 4560,
-          "effect": "Deals <color=#00A069>440.75%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 4740,
-          "effect": "Deals <color=#00A069>446.06%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 4920,
-          "effect": "Deals <color=#00A069>451.37%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 5100,
-          "effect": "Deals <color=#00A069>456.68%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 4200,
-          "power": 5280,
-          "effect": "Deals <color=#00A069>462%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 240,
+     "effect": "Deals <color=#00A069>313.31%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
     },
     {
-      "id": "214013",
-      "name": "Fiery Heart",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_3.png",
-      "des": "Temperite output speed +{0} when working in an Alchemy Lab.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 60,
-          "effect": "Temperite output speed +10% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 240,
-          "effect": "Temperite output speed +10.69% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 420,
-          "effect": "Temperite output speed +11.38% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 600,
-          "effect": "Temperite output speed +12.07% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 780,
-          "effect": "Temperite output speed +12.76% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 960,
-          "effect": "Temperite output speed +13.45% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1140,
-          "effect": "Temperite output speed +14.14% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1320,
-          "effect": "Temperite output speed +14.83% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1500,
-          "effect": "Temperite output speed +15.52% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1680,
-          "effect": "Temperite output speed +16.21% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1860,
-          "effect": "Temperite output speed +16.89% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2040,
-          "effect": "Temperite output speed +17.59% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2220,
-          "effect": "Temperite output speed +18.28% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2400,
-          "effect": "Temperite output speed +18.97% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2580,
-          "effect": "Temperite output speed +19.66% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2760,
-          "effect": "Temperite output speed +20.35% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2940,
-          "effect": "Temperite output speed +21.04% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3120,
-          "effect": "Temperite output speed +21.73% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3300,
-          "effect": "Temperite output speed +22.42% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3480,
-          "effect": "Temperite output speed +23.11% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3660,
-          "effect": "Temperite output speed +23.8% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3840,
-          "effect": "Temperite output speed +24.49% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4020,
-          "effect": "Temperite output speed +25.18% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4200,
-          "effect": "Temperite output speed +25.87% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4380,
-          "effect": "Temperite output speed +26.56% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4560,
-          "effect": "Temperite output speed +27.25% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4740,
-          "effect": "Temperite output speed +27.94% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4920,
-          "effect": "Temperite output speed +28.63% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5100,
-          "effect": "Temperite output speed +29.32% when working in an Alchemy Lab."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5280,
-          "effect": "Temperite output speed +30% when working in an Alchemy Lab."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 420,
+     "effect": "Deals <color=#00A069>318.62%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
     },
     {
-      "id": "214014",
-      "name": "Sturdy",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_common_4.png",
-      "des": "Gains +{0} Total Attack, Defense, and HP.",
-      "kind": "passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 1,
-          "attackCd": 0,
-          "power": 2160,
-          "effect": "Gains +10% Total Attack, Defense, and HP."
-        },
-        {
-          "lv": 1,
-          "maxLevel": 1,
-          "attackCd": 0,
-          "power": 2160,
-          "effect": "Gains +10% Total Attack, Defense, and HP."
-        },
-        {
-          "lv": 1,
-          "maxLevel": 1,
-          "attackCd": 0,
-          "power": 2160,
-          "effect": "Gains +10% Total Attack, Defense, and HP."
-        },
-        {
-          "lv": 1,
-          "maxLevel": 1,
-          "attackCd": 0,
-          "power": 2160,
-          "effect": "Gains +10% Total Attack, Defense, and HP."
-        },
-        {
-          "lv": 1,
-          "maxLevel": 1,
-          "attackCd": 0,
-          "power": 2160,
-          "effect": "Gains +10% Total Attack, Defense, and HP."
-        }
-      ]
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 600,
+     "effect": "Deals <color=#00A069>323.93%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 780,
+     "effect": "Deals <color=#00A069>329.24%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 960,
+     "effect": "Deals <color=#00A069>334.55%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 1140,
+     "effect": "Deals <color=#00A069>339.86%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 1320,
+     "effect": "Deals <color=#00A069>345.17%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 1500,
+     "effect": "Deals <color=#00A069>350.48%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 1680,
+     "effect": "Deals <color=#00A069>355.79%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 1860,
+     "effect": "Deals <color=#00A069>361.1%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 2040,
+     "effect": "Deals <color=#00A069>366.41%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 2220,
+     "effect": "Deals <color=#00A069>371.72%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 2400,
+     "effect": "Deals <color=#00A069>377.03%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 2580,
+     "effect": "Deals <color=#00A069>382.34%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 2760,
+     "effect": "Deals <color=#00A069>387.65%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 2940,
+     "effect": "Deals <color=#00A069>392.96%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 3120,
+     "effect": "Deals <color=#00A069>398.27%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 3300,
+     "effect": "Deals <color=#00A069>403.58%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 3480,
+     "effect": "Deals <color=#00A069>408.89%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 3660,
+     "effect": "Deals <color=#00A069>414.2%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 3840,
+     "effect": "Deals <color=#00A069>419.51%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 4020,
+     "effect": "Deals <color=#00A069>424.82%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 4200,
+     "effect": "Deals <color=#00A069>430.13%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 4380,
+     "effect": "Deals <color=#00A069>435.44%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 4560,
+     "effect": "Deals <color=#00A069>440.75%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 4740,
+     "effect": "Deals <color=#00A069>446.06%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 4920,
+     "effect": "Deals <color=#00A069>451.37%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 5100,
+     "effect": "Deals <color=#00A069>456.68%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 4200,
+     "power": 5280,
+     "effect": "Deals <color=#00A069>462%</color> damage to all enemies in a fan and burns them, dealing <color=#00A069>20%</color> damage per second for <color=#00A069>4s</color>."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "214013",
+   "name": "Fiery Heart",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204001_3.png",
+   "des": "Temperite output speed +{0} when working in an Alchemy Lab.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 60,
+     "effect": "Temperite output speed +10% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 240,
+     "effect": "Temperite output speed +10.69% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 420,
+     "effect": "Temperite output speed +11.38% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 600,
+     "effect": "Temperite output speed +12.07% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 780,
+     "effect": "Temperite output speed +12.76% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 960,
+     "effect": "Temperite output speed +13.45% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1140,
+     "effect": "Temperite output speed +14.14% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1320,
+     "effect": "Temperite output speed +14.83% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1500,
+     "effect": "Temperite output speed +15.52% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1680,
+     "effect": "Temperite output speed +16.21% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1860,
+     "effect": "Temperite output speed +16.89% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2040,
+     "effect": "Temperite output speed +17.59% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2220,
+     "effect": "Temperite output speed +18.28% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2400,
+     "effect": "Temperite output speed +18.97% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2580,
+     "effect": "Temperite output speed +19.66% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2760,
+     "effect": "Temperite output speed +20.35% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2940,
+     "effect": "Temperite output speed +21.04% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3120,
+     "effect": "Temperite output speed +21.73% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3300,
+     "effect": "Temperite output speed +22.42% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3480,
+     "effect": "Temperite output speed +23.11% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3660,
+     "effect": "Temperite output speed +23.8% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3840,
+     "effect": "Temperite output speed +24.49% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4020,
+     "effect": "Temperite output speed +25.18% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4200,
+     "effect": "Temperite output speed +25.87% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4380,
+     "effect": "Temperite output speed +26.56% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4560,
+     "effect": "Temperite output speed +27.25% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4740,
+     "effect": "Temperite output speed +27.94% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4920,
+     "effect": "Temperite output speed +28.63% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5100,
+     "effect": "Temperite output speed +29.32% when working in an Alchemy Lab."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5280,
+     "effect": "Temperite output speed +30% when working in an Alchemy Lab."
+    }
+   ]
+  },
+  {
+   "id": "214014",
+   "name": "Sturdy",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_common_4.png",
+   "des": "Gains +{0} Total Attack, Defense, and HP.",
+   "kind": "passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 1,
+     "attackCd": 0,
+     "power": 2160,
+     "effect": "Gains +10% Total Attack, Defense, and HP."
+    },
+    {
+     "lv": 1,
+     "maxLevel": 1,
+     "attackCd": 0,
+     "power": 2160,
+     "effect": "Gains +10% Total Attack, Defense, and HP."
+    },
+    {
+     "lv": 1,
+     "maxLevel": 1,
+     "attackCd": 0,
+     "power": 2160,
+     "effect": "Gains +10% Total Attack, Defense, and HP."
+    },
+    {
+     "lv": 1,
+     "maxLevel": 1,
+     "attackCd": 0,
+     "power": 2160,
+     "effect": "Gains +10% Total Attack, Defense, and HP."
+    },
+    {
+     "lv": 1,
+     "maxLevel": 1,
+     "attackCd": 0,
+     "power": 2160,
+     "effect": "Gains +10% Total Attack, Defense, and HP."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }
