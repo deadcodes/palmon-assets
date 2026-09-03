@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "204010",
-  "name": "Lendanear",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_4010.png",
-  "camp": 3,
-  "levelType": 10,
-  "rarity": "SSR",
-  "baseStats": {
-    "attack": 215,
-    "defense": 17,
-    "hp": 4730,
-    "power": 19820
-  },
-  "remit": 2,
-  "role": "backline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
-  "forms": {
-    "base": {
-      "name": "Lendanear",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4010.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "204010",
+ "name": "Lendanear",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_4010.png",
+ "camp": 3,
+ "levelType": 10,
+ "rarity": "SSR",
+ "baseStats": {
+  "attack": 215,
+  "defense": 17,
+  "hp": 4730,
+  "power": 19820
+ },
+ "remit": 2,
+ "role": "backline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+ "forms": {
+  "base": {
+   "name": "Lendanear",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_4010.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "134101",
+   "name": "Heart Blitz",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_1.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 15,
+      "animationMs": 1500,
+      "attackIntervalMs": 1500
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "134101",
-      "name": "Heart Blitz",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_1.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 15,
-            "animationMs": 1500,
-            "attackIntervalMs": 1500
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 60,
-          "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 240,
-          "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 420,
-          "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 600,
-          "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 780,
-          "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 960,
-          "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1140,
-          "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1320,
-          "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1500,
-          "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1680,
-          "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1860,
-          "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2040,
-          "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2220,
-          "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2400,
-          "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2580,
-          "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2760,
-          "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2940,
-          "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3120,
-          "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3300,
-          "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3480,
-          "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3660,
-          "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3840,
-          "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4020,
-          "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4200,
-          "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4380,
-          "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4560,
-          "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4740,
-          "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4920,
-          "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5100,
-          "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5280,
-          "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 60,
+     "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
     },
     {
-      "id": "134102",
-      "name": "Rejuvenate",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_2.png",
-      "des": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>{0}</color>.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 16,
-            "animationMs": 3700,
-            "attackIntervalMs": 3700
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 60,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>5%</color>."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 240,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>5.26%</color>."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 420,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>5.52%</color>."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 600,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>5.78%</color>."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 780,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>6.04%</color>."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 960,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>6.3%</color>."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 1140,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>6.56%</color>."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 1320,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>6.82%</color>."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 1500,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>7.07%</color>."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 1680,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>7.33%</color>."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 1860,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>7.59%</color>."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 2040,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>7.85%</color>."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 2220,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>8.11%</color>."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 2400,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>8.36%</color>."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 2580,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>8.63%</color>."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 2760,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>8.88%</color>."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 2940,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>9.14%</color>."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 3120,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>9.4%</color>."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 3300,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>9.66%</color>."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 3480,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>9.92%</color>."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 3660,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>10.18%</color>."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 3840,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>10.44%</color>."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 4020,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>10.69%</color>."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 4200,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>10.95%</color>."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 4380,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>11.21%</color>."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 4560,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>11.47%</color>."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 4740,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>11.73%</color>."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 4920,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>11.99%</color>."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 5100,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>12.25%</color>."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 3700,
-          "power": 5280,
-          "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>12.5%</color>."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 240,
+     "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
     },
     {
-      "id": "214103",
-      "name": "Tender Care",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_3.png",
-      "des": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +{0} when working in a Hospital.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 60,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +5% when working in a Hospital."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 240,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +5.35% when working in a Hospital."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 420,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +5.69% when working in a Hospital."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 600,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +6.04% when working in a Hospital."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 780,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +6.38% when working in a Hospital."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 960,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +6.73% when working in a Hospital."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1140,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +7.07% when working in a Hospital."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1320,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +7.42% when working in a Hospital."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1500,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +7.76% when working in a Hospital."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1680,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +8.11% when working in a Hospital."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1860,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +8.44% when working in a Hospital."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2040,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +8.8% when working in a Hospital."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2220,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +9.14% when working in a Hospital."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2400,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +9.49% when working in a Hospital."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2580,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +9.83% when working in a Hospital."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2760,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +10.18% when working in a Hospital."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2940,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +10.52% when working in a Hospital."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3120,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +10.87% when working in a Hospital."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3300,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +11.21% when working in a Hospital."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3480,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +11.56% when working in a Hospital."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3660,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +11.9% when working in a Hospital."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3840,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +12.25% when working in a Hospital."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4020,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +12.59% when working in a Hospital."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4200,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +12.94% when working in a Hospital."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4380,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +13.28% when working in a Hospital."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4560,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +13.63% when working in a Hospital."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4740,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +13.97% when working in a Hospital."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4920,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +14.32% when working in a Hospital."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5100,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +14.66% when working in a Hospital."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5280,
-          "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +15% when working in a Hospital."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 420,
+     "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 600,
+     "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 780,
+     "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 960,
+     "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1140,
+     "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1320,
+     "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1500,
+     "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1680,
+     "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1860,
+     "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2040,
+     "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2220,
+     "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2400,
+     "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2580,
+     "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2760,
+     "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2940,
+     "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3120,
+     "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3300,
+     "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3480,
+     "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3660,
+     "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3840,
+     "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4020,
+     "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4200,
+     "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4380,
+     "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4560,
+     "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4740,
+     "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4920,
+     "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5100,
+     "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5280,
+     "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "134102",
+   "name": "Rejuvenate",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_2.png",
+   "des": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>{0}</color>.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 16,
+      "animationMs": 3700,
+      "attackIntervalMs": 3700
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 60,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>5%</color>."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 240,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>5.26%</color>."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 420,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>5.52%</color>."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 600,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>5.78%</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 780,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>6.04%</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 960,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>6.3%</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 1140,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>6.56%</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 1320,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>6.82%</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 1500,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>7.07%</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 1680,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>7.33%</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 1860,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>7.59%</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 2040,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>7.85%</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 2220,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>8.11%</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 2400,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>8.36%</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 2580,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>8.63%</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 2760,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>8.88%</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 2940,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>9.14%</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 3120,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>9.4%</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 3300,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>9.66%</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 3480,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>9.92%</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 3660,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>10.18%</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 3840,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>10.44%</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 4020,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>10.69%</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 4200,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>10.95%</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 4380,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>11.21%</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 4560,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>11.47%</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 4740,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>11.73%</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 4920,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>11.99%</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 5100,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>12.25%</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 3700,
+     "power": 5280,
+     "effect": "Grants bonus to 1 random allied Palmon, reducing damage taken by <color=#00A069>12.5%</color>."
+    }
+   ]
+  },
+  {
+   "id": "214103",
+   "name": "Tender Care",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204010_3.png",
+   "des": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +{0} when working in a Hospital.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 60,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +5% when working in a Hospital."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 240,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +5.35% when working in a Hospital."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 420,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +5.69% when working in a Hospital."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 600,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +6.04% when working in a Hospital."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 780,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +6.38% when working in a Hospital."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 960,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +6.73% when working in a Hospital."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1140,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +7.07% when working in a Hospital."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1320,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +7.42% when working in a Hospital."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1500,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +7.76% when working in a Hospital."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1680,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +8.11% when working in a Hospital."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1860,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +8.44% when working in a Hospital."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2040,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +8.8% when working in a Hospital."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2220,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +9.14% when working in a Hospital."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2400,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +9.49% when working in a Hospital."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2580,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +9.83% when working in a Hospital."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2760,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +10.18% when working in a Hospital."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2940,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +10.52% when working in a Hospital."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3120,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +10.87% when working in a Hospital."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3300,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +11.21% when working in a Hospital."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3480,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +11.56% when working in a Hospital."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3660,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +11.9% when working in a Hospital."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3840,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +12.25% when working in a Hospital."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4020,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +12.59% when working in a Hospital."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4200,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +12.94% when working in a Hospital."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4380,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +13.28% when working in a Hospital."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4560,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +13.63% when working in a Hospital."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4740,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +13.97% when working in a Hospital."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4920,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +14.32% when working in a Hospital."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5100,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +14.66% when working in a Hospital."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5280,
+     "effect": "The kind-hearted Lendanear possesses magical healing powers. Healing speed +15% when working in a Hospital."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

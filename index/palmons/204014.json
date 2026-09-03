@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "204014",
-  "name": "Squeezel",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_4014.png",
-  "camp": 1,
-  "levelType": 10,
-  "rarity": "SSR",
-  "baseStats": {
-    "attack": 255,
-    "defense": 23,
-    "hp": 7140,
-    "power": 19820
-  },
-  "remit": 2,
-  "role": "backline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
-  "forms": {
-    "base": {
-      "name": "Squeezel",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4014.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "204014",
+ "name": "Squeezel",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_4014.png",
+ "camp": 1,
+ "levelType": 10,
+ "rarity": "SSR",
+ "baseStats": {
+  "attack": 255,
+  "defense": 23,
+  "hp": 7140,
+  "power": 19820
+ },
+ "remit": 2,
+ "role": "backline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+ "forms": {
+  "base": {
+   "name": "Squeezel",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_4014.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "134141",
+   "name": "Water Spray",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_1.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 31,
+      "animationMs": 1300,
+      "attackIntervalMs": 1300
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "134141",
-      "name": "Water Spray",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_1.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 31,
-            "animationMs": 1300,
-            "attackIntervalMs": 1300
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 60,
-          "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 240,
-          "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 420,
-          "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 600,
-          "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 780,
-          "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 960,
-          "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 1140,
-          "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 1320,
-          "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 1500,
-          "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 1680,
-          "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 1860,
-          "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 2040,
-          "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 2220,
-          "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 2400,
-          "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 2580,
-          "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 2760,
-          "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 2940,
-          "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 3120,
-          "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 3300,
-          "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 3480,
-          "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 3660,
-          "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 3840,
-          "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 4020,
-          "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 4200,
-          "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 4380,
-          "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 4560,
-          "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 4740,
-          "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 4920,
-          "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 5100,
-          "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1300,
-          "power": 5280,
-          "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 60,
+     "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
     },
     {
-      "id": "134142",
-      "name": "Aqua Cannon",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_2.png",
-      "des": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>{0}</color> damage.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 32,
-            "animationMs": 3000,
-            "attackIntervalMs": 3000
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 60,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>136%</color> damage."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 240,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>138.34%</color> damage."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 420,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>140.68%</color> damage."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 600,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>143.03%</color> damage."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 780,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>145.37%</color> damage."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 960,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>147.72%</color> damage."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 1140,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>150.06%</color> damage."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 1320,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>152.41%</color> damage."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 1500,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>154.75%</color> damage."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 1680,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>157.1%</color> damage."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 1860,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>159.44%</color> damage."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 2040,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>161.79%</color> damage."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 2220,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>164.13%</color> damage."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 2400,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>166.48%</color> damage."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 2580,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>168.82%</color> damage."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 2760,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>171.17%</color> damage."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 2940,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>173.51%</color> damage."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 3120,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>175.86%</color> damage."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 3300,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>178.2%</color> damage."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 3480,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>180.55%</color> damage."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 3660,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>182.89%</color> damage."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 3840,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>185.24%</color> damage."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 4020,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>187.58%</color> damage."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 4200,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>189.93%</color> damage."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 4380,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>192.27%</color> damage."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 4560,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>194.62%</color> damage."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 4740,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>196.96%</color> damage."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 4920,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>199.31%</color> damage."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 5100,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>201.65%</color> damage."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 3000,
-          "power": 5280,
-          "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>204%</color> damage."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 240,
+     "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
     },
     {
-      "id": "134143",
-      "name": "Water Surge",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_3.png",
-      "des": "Aqua Cannon Boost: Increases damage by <color=#00A069>{0}</color>.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 60,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>10%</color>."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 240,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>10.68%</color>."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 420,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>11.37%</color>."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 600,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>12.06%</color>."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 780,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>12.75%</color>."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 960,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>13.44%</color>."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1140,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>14.13%</color>."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1320,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>14.82%</color>."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1500,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>15.51%</color>."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1680,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>16.2%</color>."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1860,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>16.89%</color>."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2040,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>17.57%</color>."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2220,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>18.27%</color>."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2400,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>18.96%</color>."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2580,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>19.64%</color>."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2760,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>20.34%</color>."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2940,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>21.03%</color>."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3120,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>21.72%</color>."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3300,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>22.41%</color>."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3480,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>23.1%</color>."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3660,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>23.79%</color>."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3840,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>24.48%</color>."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4020,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>25.17%</color>."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4200,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>25.86%</color>."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4380,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>26.55%</color>."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4560,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>27.24%</color>."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4740,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>27.93%</color>."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4920,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>28.62%</color>."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5100,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>29.31%</color>."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5280,
-          "effect": "Aqua Cannon Boost: Increases damage by <color=#00A069>30%</color>."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 420,
+     "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 600,
+     "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 780,
+     "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 960,
+     "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 1140,
+     "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 1320,
+     "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 1500,
+     "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 1680,
+     "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 1860,
+     "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 2040,
+     "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 2220,
+     "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 2400,
+     "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 2580,
+     "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 2760,
+     "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 2940,
+     "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 3120,
+     "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 3300,
+     "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 3480,
+     "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 3660,
+     "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 3840,
+     "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 4020,
+     "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 4200,
+     "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 4380,
+     "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 4560,
+     "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 4740,
+     "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 4920,
+     "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 5100,
+     "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1300,
+     "power": 5280,
+     "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "134142",
+   "name": "Aqua Cannon",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_2.png",
+   "des": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>{0}</color> damage.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 32,
+      "animationMs": 3000,
+      "attackIntervalMs": 3000
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 60,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>136%</color> damage."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 240,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>138.34%</color> damage."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 420,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>140.68%</color> damage."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 600,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>143.03%</color> damage."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 780,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>145.37%</color> damage."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 960,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>147.72%</color> damage."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 1140,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>150.06%</color> damage."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 1320,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>152.41%</color> damage."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 1500,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>154.75%</color> damage."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 1680,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>157.1%</color> damage."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 1860,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>159.44%</color> damage."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 2040,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>161.79%</color> damage."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 2220,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>164.13%</color> damage."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 2400,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>166.48%</color> damage."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 2580,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>168.82%</color> damage."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 2760,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>171.17%</color> damage."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 2940,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>173.51%</color> damage."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 3120,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>175.86%</color> damage."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 3300,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>178.2%</color> damage."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 3480,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>180.55%</color> damage."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 3660,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>182.89%</color> damage."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 3840,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>185.24%</color> damage."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 4020,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>187.58%</color> damage."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 4200,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>189.93%</color> damage."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 4380,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>192.27%</color> damage."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 4560,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>194.62%</color> damage."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 4740,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>196.96%</color> damage."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 4920,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>199.31%</color> damage."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 5100,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>201.65%</color> damage."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 3000,
+     "power": 5280,
+     "effect": "Attacks a single enemy 3 times in a row, dealing a total of <color=#00A069>204%</color> damage."
+    }
+   ]
+  },
+  {
+   "id": "134143",
+   "name": "Water Surge",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_3.png",
+   "des": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>{0}</color>.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 60,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>10%</color>."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 240,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>10.68%</color>."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 420,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>11.37%</color>."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 600,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>12.06%</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 780,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>12.75%</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 960,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>13.44%</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1140,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>14.13%</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1320,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>14.82%</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1500,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>15.51%</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1680,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>16.2%</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1860,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>16.89%</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2040,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>17.57%</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2220,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>18.27%</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2400,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>18.96%</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2580,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>19.64%</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2760,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>20.34%</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2940,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>21.03%</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3120,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>21.72%</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3300,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>22.41%</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3480,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>23.1%</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3660,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>23.79%</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3840,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>24.48%</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4020,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>25.17%</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4200,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>25.86%</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4380,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>26.55%</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4560,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>27.24%</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4740,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>27.93%</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4920,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>28.62%</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5100,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>29.31%</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5280,
+     "effect": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>30%</color>."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "205036",
-  "name": "Sunplume",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_5036.png",
-  "camp": 2,
-  "levelType": 11,
-  "rarity": "UR",
-  "baseStats": {
-    "attack": 508,
-    "defense": 54,
-    "hp": 12700,
-    "power": 74700
-  },
-  "remit": 2,
-  "role": "backline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
-  "forms": {
-    "base": {
-      "name": "Sunplume",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_5036.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "205036",
+ "name": "Sunplume",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_5036.png",
+ "camp": 2,
+ "levelType": 11,
+ "rarity": "UR",
+ "baseStats": {
+  "attack": 508,
+  "defense": 54,
+  "hp": 12700,
+  "power": 74700
+ },
+ "remit": 2,
+ "role": "backline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit2.png",
+ "forms": {
+  "base": {
+   "name": "Sunplume",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_5036.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "135361",
+   "name": "Solar Flare",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_1.png",
+   "des": "Flaps its wings and hurls a fireball, dealing <color=#00A069>{0}</color> damage to a single enemy target",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 225,
+      "animationMs": 1600,
+      "attackIntervalMs": 1600
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "135361",
-      "name": "Solar Flare",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_1.png",
-      "des": "Flaps its wings and hurls a fireball, dealing <color=#00A069>{0}</color> damage to a single enemy target",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 225,
-            "animationMs": 1600,
-            "attackIntervalMs": 1600
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 100,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>107%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 400,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>108.49%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 700,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>109.97%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 1000,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>111.45%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 1300,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>112.94%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 1600,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>114.42%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 1900,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>115.9%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 2200,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>117.38%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 2500,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>118.87%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 2800,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>120.35%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 3100,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>121.83%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 3400,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>123.32%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 3700,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>124.8%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 4000,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>126.28%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 4300,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>127.76%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 4600,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>129.25%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 4900,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>130.72%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 5200,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>132.21%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 5500,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>133.69%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 5800,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>135.18%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 6100,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>136.66%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 6400,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>138.13%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 6700,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>139.63%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 7000,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>141.11%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 7300,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>142.59%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 7600,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>144.07%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 7900,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>145.56%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 8200,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>147.04%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 8500,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>148.52%</color> damage to a single enemy target"
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1600,
-          "power": 8800,
-          "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>150%</color> damage to a single enemy target"
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 100,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>107%</color> damage to a single enemy target"
     },
     {
-      "id": "135362",
-      "name": "Scorching Rune",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_2.png",
-      "des": "Sunplume calls upon the power of sun runes to deal <color=#00A069>{0}</color> damage to a single enemy",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 226,
-            "animationMs": 2700,
-            "attackIntervalMs": 2700
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 100,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>963%</color> damage to a single enemy"
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 400,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>979.63%</color> damage to a single enemy"
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 700,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>996.25%</color> damage to a single enemy"
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 1000,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1012.87%</color> damage to a single enemy"
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 1300,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1029.49%</color> damage to a single enemy"
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 1600,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1046.1%</color> damage to a single enemy"
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 1900,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1062.73%</color> damage to a single enemy"
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 2200,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1079.34%</color> damage to a single enemy"
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 2500,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1095.97%</color> damage to a single enemy"
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 2800,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1112.58%</color> damage to a single enemy"
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 3100,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1129.21%</color> damage to a single enemy"
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 3400,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1145.83%</color> damage to a single enemy"
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 3700,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1162.45%</color> damage to a single enemy"
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 4000,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1179.07%</color> damage to a single enemy"
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 4300,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1195.69%</color> damage to a single enemy"
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 4600,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1212.32%</color> damage to a single enemy"
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 4900,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1228.94%</color> damage to a single enemy"
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 5200,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1245.56%</color> damage to a single enemy"
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 5500,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1262.18%</color> damage to a single enemy"
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 5800,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1278.8%</color> damage to a single enemy"
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 6100,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1295.42%</color> damage to a single enemy"
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 6400,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1312.04%</color> damage to a single enemy"
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 6700,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1328.66%</color> damage to a single enemy"
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 7000,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1345.28%</color> damage to a single enemy"
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 7300,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1361.9%</color> damage to a single enemy"
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 7600,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1378.52%</color> damage to a single enemy"
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 7900,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1395.14%</color> damage to a single enemy"
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 8200,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1411.76%</color> damage to a single enemy"
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 8500,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1428.38%</color> damage to a single enemy"
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 2700,
-          "power": 8800,
-          "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1445%</color> damage to a single enemy"
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 400,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>108.49%</color> damage to a single enemy target"
     },
     {
-      "id": "215363",
-      "name": "Blazing Motivation",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_3.png",
-      "des": "Palmon Bed XP output +<color=#00A069>{0}</color>",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 100,
-          "effect": "Palmon Bed XP output +<color=#00A069>25%</color>"
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 400,
-          "effect": "Palmon Bed XP output +<color=#00A069>25.87%</color>"
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 700,
-          "effect": "Palmon Bed XP output +<color=#00A069>26.73%</color>"
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1000,
-          "effect": "Palmon Bed XP output +<color=#00A069>27.59%</color>"
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1300,
-          "effect": "Palmon Bed XP output +<color=#00A069>28.45%</color>"
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1600,
-          "effect": "Palmon Bed XP output +<color=#00A069>29.32%</color>"
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1900,
-          "effect": "Palmon Bed XP output +<color=#00A069>30.18%</color>"
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2200,
-          "effect": "Palmon Bed XP output +<color=#00A069>31.04%</color>"
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2500,
-          "effect": "Palmon Bed XP output +<color=#00A069>31.9%</color>"
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2800,
-          "effect": "Palmon Bed XP output +<color=#00A069>32.76%</color>"
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3100,
-          "effect": "Palmon Bed XP output +<color=#00A069>33.63%</color>"
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3400,
-          "effect": "Palmon Bed XP output +<color=#00A069>34.49%</color>"
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3700,
-          "effect": "Palmon Bed XP output +<color=#00A069>35.35%</color>"
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4000,
-          "effect": "Palmon Bed XP output +<color=#00A069>36.21%</color>"
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4300,
-          "effect": "Palmon Bed XP output +<color=#00A069>37.07%</color>"
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4600,
-          "effect": "Palmon Bed XP output +<color=#00A069>37.94%</color>"
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4900,
-          "effect": "Palmon Bed XP output +<color=#00A069>38.79%</color>"
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5200,
-          "effect": "Palmon Bed XP output +<color=#00A069>39.65%</color>"
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5500,
-          "effect": "Palmon Bed XP output +<color=#00A069>40.52%</color>"
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5800,
-          "effect": "Palmon Bed XP output +<color=#00A069>41.38%</color>"
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 6100,
-          "effect": "Palmon Bed XP output +<color=#00A069>42.25%</color>"
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 6400,
-          "effect": "Palmon Bed XP output +<color=#00A069>43.11%</color>"
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 6700,
-          "effect": "Palmon Bed XP output +<color=#00A069>43.97%</color>"
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 7000,
-          "effect": "Palmon Bed XP output +<color=#00A069>44.83%</color>"
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 7300,
-          "effect": "Palmon Bed XP output +<color=#00A069>45.69%</color>"
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 7600,
-          "effect": "Palmon Bed XP output +<color=#00A069>46.56%</color>"
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 7900,
-          "effect": "Palmon Bed XP output +<color=#00A069>47.42%</color>"
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 8200,
-          "effect": "Palmon Bed XP output +<color=#00A069>48.28%</color>"
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 8500,
-          "effect": "Palmon Bed XP output +<color=#00A069>49.14%</color>"
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 8800,
-          "effect": "Palmon Bed XP output +<color=#00A069>50%</color>"
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 700,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>109.97%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 1000,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>111.45%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 1300,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>112.94%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 1600,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>114.42%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 1900,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>115.9%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 2200,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>117.38%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 2500,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>118.87%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 2800,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>120.35%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 3100,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>121.83%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 3400,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>123.32%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 3700,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>124.8%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 4000,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>126.28%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 4300,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>127.76%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 4600,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>129.25%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 4900,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>130.72%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 5200,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>132.21%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 5500,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>133.69%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 5800,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>135.18%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 6100,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>136.66%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 6400,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>138.13%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 6700,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>139.63%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 7000,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>141.11%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 7300,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>142.59%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 7600,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>144.07%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 7900,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>145.56%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 8200,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>147.04%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 8500,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>148.52%</color> damage to a single enemy target"
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1600,
+     "power": 8800,
+     "effect": "Flaps its wings and hurls a fireball, dealing <color=#00A069>150%</color> damage to a single enemy target"
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "135362",
+   "name": "Scorching Rune",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_2.png",
+   "des": "Sunplume calls upon the power of sun runes to deal <color=#00A069>{0}</color> damage to a single enemy",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 226,
+      "animationMs": 2700,
+      "attackIntervalMs": 2700
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 100,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>963%</color> damage to a single enemy"
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 400,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>979.63%</color> damage to a single enemy"
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 700,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>996.25%</color> damage to a single enemy"
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 1000,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1012.87%</color> damage to a single enemy"
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 1300,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1029.49%</color> damage to a single enemy"
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 1600,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1046.1%</color> damage to a single enemy"
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 1900,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1062.73%</color> damage to a single enemy"
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 2200,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1079.34%</color> damage to a single enemy"
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 2500,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1095.97%</color> damage to a single enemy"
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 2800,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1112.58%</color> damage to a single enemy"
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 3100,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1129.21%</color> damage to a single enemy"
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 3400,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1145.83%</color> damage to a single enemy"
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 3700,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1162.45%</color> damage to a single enemy"
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 4000,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1179.07%</color> damage to a single enemy"
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 4300,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1195.69%</color> damage to a single enemy"
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 4600,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1212.32%</color> damage to a single enemy"
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 4900,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1228.94%</color> damage to a single enemy"
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 5200,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1245.56%</color> damage to a single enemy"
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 5500,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1262.18%</color> damage to a single enemy"
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 5800,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1278.8%</color> damage to a single enemy"
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 6100,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1295.42%</color> damage to a single enemy"
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 6400,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1312.04%</color> damage to a single enemy"
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 6700,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1328.66%</color> damage to a single enemy"
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 7000,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1345.28%</color> damage to a single enemy"
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 7300,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1361.9%</color> damage to a single enemy"
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 7600,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1378.52%</color> damage to a single enemy"
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 7900,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1395.14%</color> damage to a single enemy"
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 8200,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1411.76%</color> damage to a single enemy"
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 8500,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1428.38%</color> damage to a single enemy"
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 2700,
+     "power": 8800,
+     "effect": "Sunplume calls upon the power of sun runes to deal <color=#00A069>1445%</color> damage to a single enemy"
+    }
+   ]
+  },
+  {
+   "id": "215363",
+   "name": "Blazing Motivation",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_205036_3.png",
+   "des": "Palmon Bed XP output +<color=#00A069>{0}</color>",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 100,
+     "effect": "Palmon Bed XP output +<color=#00A069>25%</color>"
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 400,
+     "effect": "Palmon Bed XP output +<color=#00A069>25.87%</color>"
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 700,
+     "effect": "Palmon Bed XP output +<color=#00A069>26.73%</color>"
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1000,
+     "effect": "Palmon Bed XP output +<color=#00A069>27.59%</color>"
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1300,
+     "effect": "Palmon Bed XP output +<color=#00A069>28.45%</color>"
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1600,
+     "effect": "Palmon Bed XP output +<color=#00A069>29.32%</color>"
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1900,
+     "effect": "Palmon Bed XP output +<color=#00A069>30.18%</color>"
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2200,
+     "effect": "Palmon Bed XP output +<color=#00A069>31.04%</color>"
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2500,
+     "effect": "Palmon Bed XP output +<color=#00A069>31.9%</color>"
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2800,
+     "effect": "Palmon Bed XP output +<color=#00A069>32.76%</color>"
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3100,
+     "effect": "Palmon Bed XP output +<color=#00A069>33.63%</color>"
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3400,
+     "effect": "Palmon Bed XP output +<color=#00A069>34.49%</color>"
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3700,
+     "effect": "Palmon Bed XP output +<color=#00A069>35.35%</color>"
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4000,
+     "effect": "Palmon Bed XP output +<color=#00A069>36.21%</color>"
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4300,
+     "effect": "Palmon Bed XP output +<color=#00A069>37.07%</color>"
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4600,
+     "effect": "Palmon Bed XP output +<color=#00A069>37.94%</color>"
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4900,
+     "effect": "Palmon Bed XP output +<color=#00A069>38.79%</color>"
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5200,
+     "effect": "Palmon Bed XP output +<color=#00A069>39.65%</color>"
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5500,
+     "effect": "Palmon Bed XP output +<color=#00A069>40.52%</color>"
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5800,
+     "effect": "Palmon Bed XP output +<color=#00A069>41.38%</color>"
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 6100,
+     "effect": "Palmon Bed XP output +<color=#00A069>42.25%</color>"
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 6400,
+     "effect": "Palmon Bed XP output +<color=#00A069>43.11%</color>"
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 6700,
+     "effect": "Palmon Bed XP output +<color=#00A069>43.97%</color>"
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 7000,
+     "effect": "Palmon Bed XP output +<color=#00A069>44.83%</color>"
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 7300,
+     "effect": "Palmon Bed XP output +<color=#00A069>45.69%</color>"
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 7600,
+     "effect": "Palmon Bed XP output +<color=#00A069>46.56%</color>"
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 7900,
+     "effect": "Palmon Bed XP output +<color=#00A069>47.42%</color>"
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 8200,
+     "effect": "Palmon Bed XP output +<color=#00A069>48.28%</color>"
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 8500,
+     "effect": "Palmon Bed XP output +<color=#00A069>49.14%</color>"
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 8800,
+     "effect": "Palmon Bed XP output +<color=#00A069>50%</color>"
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

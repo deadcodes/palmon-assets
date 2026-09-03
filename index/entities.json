@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv431",
+ "generatedFor": "rv432",
  "palmons": {
   "203201": {
    "name": "Graffitty",
@@ -2046,13 +2046,13 @@
    "name": "Bubble Shield",
    "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_2.png",
    "palmon": "204003",
-   "des": "Grants a shield equal to <color=#00A069>{0}</color> of its max HP to the ally with the lowest HP for <color=#00A069>{1}s</color>."
+   "des": "Grants a shield equal to <color=#00A069>{0}</color> of max HP for <color=#00A069>{1}s</color>."
   },
   "134033": {
    "name": "Blunt Sense",
    "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_3.png",
    "palmon": "204003",
-   "des": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-{0}</color> damage."
+   "des": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>{0}</color>."
   },
   "134041": {
    "name": "Frostclaw",
@@ -2070,7 +2070,7 @@
    "name": "Wolfy Will",
    "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204004_3.png",
    "palmon": "204004",
-   "des": "Gains <color=#00A069>+{0}</color> Attack while in combat."
+   "des": "When fighting non-explorer targets, Attack is increased by <color=#00A069>{0}</color>."
   },
   "134051": {
    "name": "Thunderstrike",
@@ -2214,7 +2214,7 @@
    "name": "Water Surge",
    "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204014_3.png",
    "palmon": "204014",
-   "des": "Aqua Cannon Boost: Increases damage by <color=#00A069>{0}</color>."
+   "des": "When attacking non-explorer targets, Aqua Cannon's damage is increased by <color=#00A069>{0}</color>."
   },
   "134151": {
    "name": "Quick Kick",

@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "204006",
-  "name": "Terrastudo",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_4006.png",
-  "camp": 3,
-  "levelType": 10,
-  "rarity": "SSR",
-  "baseStats": {
-    "attack": 215,
-    "defense": 17,
-    "hp": 4730,
-    "power": 19820
-  },
-  "remit": 1,
-  "role": "frontline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
-  "forms": {
-    "base": {
-      "name": "Terrastudo",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4006.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "204006",
+ "name": "Terrastudo",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_4006.png",
+ "camp": 3,
+ "levelType": 10,
+ "rarity": "SSR",
+ "baseStats": {
+  "attack": 215,
+  "defense": 17,
+  "hp": 4730,
+  "power": 19820
+ },
+ "remit": 1,
+ "role": "frontline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
+ "forms": {
+  "base": {
+   "name": "Terrastudo",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_4006.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "134061",
+   "name": "Headbutt",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_1.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 19,
+      "animationMs": 1500,
+      "attackIntervalMs": 1500
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "134061",
-      "name": "Headbutt",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_1.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 19,
-            "animationMs": 1500,
-            "attackIntervalMs": 1500
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 60,
-          "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 240,
-          "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 420,
-          "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 600,
-          "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 780,
-          "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 960,
-          "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1140,
-          "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1320,
-          "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1500,
-          "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1680,
-          "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1860,
-          "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2040,
-          "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2220,
-          "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2400,
-          "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2580,
-          "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2760,
-          "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2940,
-          "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3120,
-          "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3300,
-          "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3480,
-          "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3660,
-          "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3840,
-          "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4020,
-          "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4200,
-          "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4380,
-          "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4560,
-          "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4740,
-          "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4920,
-          "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5100,
-          "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5280,
-          "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 60,
+     "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
     },
     {
-      "id": "134062",
-      "name": "Tectonic Spin",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_2.png",
-      "des": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>{0}</color> damage to all nearby enemy targets.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 20,
-            "animationMs": 3100,
-            "attackIntervalMs": 3100
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 60,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>300%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 240,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>305.17%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 420,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>310.33%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 600,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>315.51%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 780,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>320.68%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 960,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>325.86%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 1140,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>331.03%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 1320,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>336.2%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 1500,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>341.37%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 1680,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>346.55%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 1860,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>351.72%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 2040,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>356.89%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 2220,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>362.06%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 2400,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>367.24%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 2580,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>372.41%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 2760,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>377.58%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 2940,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>382.75%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 3120,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>387.93%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 3300,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>393.1%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 3480,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>398.27%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 3660,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>403.44%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 3840,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>408.62%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 4020,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>413.79%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 4200,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>418.96%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 4380,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>424.13%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 4560,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>429.31%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 4740,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>434.48%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 4920,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>439.65%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 5100,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>444.82%</color> damage to all nearby enemy targets."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 3100,
-          "power": 5280,
-          "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>450%</color> damage to all nearby enemy targets."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 240,
+     "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
     },
     {
-      "id": "214063",
-      "name": "Drill Shell",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_3.png",
-      "des": "Ore output +{0} when working a Mining job.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 60,
-          "effect": "Ore output +10% when working a Mining job."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 240,
-          "effect": "Ore output +10.69% when working a Mining job."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 420,
-          "effect": "Ore output +11.38% when working a Mining job."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 600,
-          "effect": "Ore output +12.07% when working a Mining job."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 780,
-          "effect": "Ore output +12.76% when working a Mining job."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 960,
-          "effect": "Ore output +13.45% when working a Mining job."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1140,
-          "effect": "Ore output +14.14% when working a Mining job."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1320,
-          "effect": "Ore output +14.83% when working a Mining job."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1500,
-          "effect": "Ore output +15.52% when working a Mining job."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1680,
-          "effect": "Ore output +16.21% when working a Mining job."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1860,
-          "effect": "Ore output +16.89% when working a Mining job."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2040,
-          "effect": "Ore output +17.59% when working a Mining job."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2220,
-          "effect": "Ore output +18.28% when working a Mining job."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2400,
-          "effect": "Ore output +18.97% when working a Mining job."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2580,
-          "effect": "Ore output +19.66% when working a Mining job."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2760,
-          "effect": "Ore output +20.35% when working a Mining job."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2940,
-          "effect": "Ore output +21.04% when working a Mining job."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3120,
-          "effect": "Ore output +21.73% when working a Mining job."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3300,
-          "effect": "Ore output +22.42% when working a Mining job."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3480,
-          "effect": "Ore output +23.11% when working a Mining job."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3660,
-          "effect": "Ore output +23.8% when working a Mining job."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3840,
-          "effect": "Ore output +24.49% when working a Mining job."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4020,
-          "effect": "Ore output +25.18% when working a Mining job."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4200,
-          "effect": "Ore output +25.87% when working a Mining job."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4380,
-          "effect": "Ore output +26.56% when working a Mining job."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4560,
-          "effect": "Ore output +27.25% when working a Mining job."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4740,
-          "effect": "Ore output +27.94% when working a Mining job."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4920,
-          "effect": "Ore output +28.63% when working a Mining job."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5100,
-          "effect": "Ore output +29.32% when working a Mining job."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5280,
-          "effect": "Ore output +30% when working a Mining job."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 420,
+     "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 600,
+     "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 780,
+     "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 960,
+     "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1140,
+     "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1320,
+     "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1500,
+     "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1680,
+     "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1860,
+     "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2040,
+     "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2220,
+     "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2400,
+     "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2580,
+     "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2760,
+     "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2940,
+     "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3120,
+     "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3300,
+     "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3480,
+     "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3660,
+     "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3840,
+     "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4020,
+     "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4200,
+     "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4380,
+     "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4560,
+     "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4740,
+     "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4920,
+     "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5100,
+     "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5280,
+     "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "134062",
+   "name": "Tectonic Spin",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_2.png",
+   "des": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>{0}</color> damage to all nearby enemy targets.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 20,
+      "animationMs": 3100,
+      "attackIntervalMs": 3100
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 60,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>300%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 240,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>305.17%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 420,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>310.33%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 600,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>315.51%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 780,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>320.68%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 960,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>325.86%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 1140,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>331.03%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 1320,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>336.2%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 1500,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>341.37%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 1680,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>346.55%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 1860,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>351.72%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 2040,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>356.89%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 2220,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>362.06%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 2400,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>367.24%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 2580,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>372.41%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 2760,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>377.58%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 2940,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>382.75%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 3120,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>387.93%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 3300,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>393.1%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 3480,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>398.27%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 3660,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>403.44%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 3840,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>408.62%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 4020,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>413.79%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 4200,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>418.96%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 4380,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>424.13%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 4560,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>429.31%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 4740,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>434.48%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 4920,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>439.65%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 5100,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>444.82%</color> damage to all nearby enemy targets."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 3100,
+     "power": 5280,
+     "effect": "Turns into a rapidly-spinning pinball of death, dealing <color=#00A069>450%</color> damage to all nearby enemy targets."
+    }
+   ]
+  },
+  {
+   "id": "214063",
+   "name": "Drill Shell",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204006_3.png",
+   "des": "Ore output +{0} when working a Mining job.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 60,
+     "effect": "Ore output +10% when working a Mining job."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 240,
+     "effect": "Ore output +10.69% when working a Mining job."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 420,
+     "effect": "Ore output +11.38% when working a Mining job."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 600,
+     "effect": "Ore output +12.07% when working a Mining job."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 780,
+     "effect": "Ore output +12.76% when working a Mining job."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 960,
+     "effect": "Ore output +13.45% when working a Mining job."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1140,
+     "effect": "Ore output +14.14% when working a Mining job."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1320,
+     "effect": "Ore output +14.83% when working a Mining job."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1500,
+     "effect": "Ore output +15.52% when working a Mining job."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1680,
+     "effect": "Ore output +16.21% when working a Mining job."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1860,
+     "effect": "Ore output +16.89% when working a Mining job."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2040,
+     "effect": "Ore output +17.59% when working a Mining job."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2220,
+     "effect": "Ore output +18.28% when working a Mining job."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2400,
+     "effect": "Ore output +18.97% when working a Mining job."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2580,
+     "effect": "Ore output +19.66% when working a Mining job."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2760,
+     "effect": "Ore output +20.35% when working a Mining job."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2940,
+     "effect": "Ore output +21.04% when working a Mining job."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3120,
+     "effect": "Ore output +21.73% when working a Mining job."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3300,
+     "effect": "Ore output +22.42% when working a Mining job."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3480,
+     "effect": "Ore output +23.11% when working a Mining job."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3660,
+     "effect": "Ore output +23.8% when working a Mining job."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3840,
+     "effect": "Ore output +24.49% when working a Mining job."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4020,
+     "effect": "Ore output +25.18% when working a Mining job."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4200,
+     "effect": "Ore output +25.87% when working a Mining job."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4380,
+     "effect": "Ore output +26.56% when working a Mining job."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4560,
+     "effect": "Ore output +27.25% when working a Mining job."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4740,
+     "effect": "Ore output +27.94% when working a Mining job."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4920,
+     "effect": "Ore output +28.63% when working a Mining job."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5100,
+     "effect": "Ore output +29.32% when working a Mining job."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5280,
+     "effect": "Ore output +30% when working a Mining job."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

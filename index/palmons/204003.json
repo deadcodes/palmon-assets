@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "204003",
-  "name": "Platyputz",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_4003.png",
-  "camp": 1,
-  "levelType": 10,
-  "rarity": "SSR",
-  "baseStats": {
-    "attack": 265,
-    "defense": 81,
-    "hp": 10600,
-    "power": 19820
-  },
-  "remit": 1,
-  "role": "frontline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
-  "forms": {
-    "base": {
-      "name": "Platyputz",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4003.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "204003",
+ "name": "Platyputz",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_4003.png",
+ "camp": 1,
+ "levelType": 10,
+ "rarity": "SSR",
+ "baseStats": {
+  "attack": 265,
+  "defense": 81,
+  "hp": 10600,
+  "power": 19820
+ },
+ "remit": 1,
+ "role": "frontline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
+ "forms": {
+  "base": {
+   "name": "Platyputz",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_4003.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "134031",
+   "name": "I Got Just the Thing",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_1.png",
+   "des": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>{0}</color> damage.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 11,
+      "animationMs": 1500,
+      "attackIntervalMs": 1500
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "134031",
-      "name": "I Got Just the Thing",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_1.png",
-      "des": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>{0}</color> damage.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 11,
-            "animationMs": 1500,
-            "attackIntervalMs": 1500
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 60,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>100%</color> damage."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 240,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>101.03%</color> damage."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 420,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>102.06%</color> damage."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 600,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>103.1%</color> damage."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 780,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>104.13%</color> damage."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 960,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>105.17%</color> damage."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1140,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>106.2%</color> damage."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1320,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>107.24%</color> damage."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1500,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>108.27%</color> damage."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1680,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>109.31%</color> damage."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 1860,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>110.34%</color> damage."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2040,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>111.37%</color> damage."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2220,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>112.41%</color> damage."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2400,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>113.44%</color> damage."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2580,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>114.48%</color> damage."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2760,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>115.51%</color> damage."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 2940,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>116.55%</color> damage."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3120,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>117.58%</color> damage."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3300,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>118.62%</color> damage."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3480,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>119.65%</color> damage."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3660,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>120.68%</color> damage."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 3840,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>121.72%</color> damage."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4020,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>122.75%</color> damage."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4200,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>123.79%</color> damage."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4380,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>124.82%</color> damage."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4560,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>125.86%</color> damage."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4740,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>126.89%</color> damage."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 4920,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>127.93%</color> damage."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5100,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>128.96%</color> damage."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1500,
-          "power": 5280,
-          "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>130%</color> damage."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 60,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>100%</color> damage."
     },
     {
-      "id": "134032",
-      "name": "Bubble Shield",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_2.png",
-      "des": "Grants a shield equal to <color=#00A069>{0}</color> of its max HP to the ally with the lowest HP for <color=#00A069>{1}s</color>.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 12,
-            "animationMs": 3900,
-            "attackIntervalMs": 3900
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 60,
-          "effect": "Grants a shield equal to <color=#00A069>7.5%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 240,
-          "effect": "Grants a shield equal to <color=#00A069>7.76%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 420,
-          "effect": "Grants a shield equal to <color=#00A069>8.02%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 600,
-          "effect": "Grants a shield equal to <color=#00A069>8.27%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 780,
-          "effect": "Grants a shield equal to <color=#00A069>8.53%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 960,
-          "effect": "Grants a shield equal to <color=#00A069>8.8%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 1140,
-          "effect": "Grants a shield equal to <color=#00A069>9.06%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 1320,
-          "effect": "Grants a shield equal to <color=#00A069>9.32%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 1500,
-          "effect": "Grants a shield equal to <color=#00A069>9.57%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 1680,
-          "effect": "Grants a shield equal to <color=#00A069>9.83%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 1860,
-          "effect": "Grants a shield equal to <color=#00A069>10.09%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 2040,
-          "effect": "Grants a shield equal to <color=#00A069>10.35%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 2220,
-          "effect": "Grants a shield equal to <color=#00A069>10.61%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 2400,
-          "effect": "Grants a shield equal to <color=#00A069>10.87%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 2580,
-          "effect": "Grants a shield equal to <color=#00A069>11.13%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 2760,
-          "effect": "Grants a shield equal to <color=#00A069>11.38%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 2940,
-          "effect": "Grants a shield equal to <color=#00A069>11.64%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 3120,
-          "effect": "Grants a shield equal to <color=#00A069>11.9%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 3300,
-          "effect": "Grants a shield equal to <color=#00A069>12.16%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 3480,
-          "effect": "Grants a shield equal to <color=#00A069>12.42%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 3660,
-          "effect": "Grants a shield equal to <color=#00A069>12.68%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 3840,
-          "effect": "Grants a shield equal to <color=#00A069>12.94%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 4020,
-          "effect": "Grants a shield equal to <color=#00A069>13.19%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 4200,
-          "effect": "Grants a shield equal to <color=#00A069>13.45%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 4380,
-          "effect": "Grants a shield equal to <color=#00A069>13.71%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 4560,
-          "effect": "Grants a shield equal to <color=#00A069>13.97%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 4740,
-          "effect": "Grants a shield equal to <color=#00A069>14.23%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 4920,
-          "effect": "Grants a shield equal to <color=#00A069>14.49%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 5100,
-          "effect": "Grants a shield equal to <color=#00A069>14.75%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 3900,
-          "power": 5280,
-          "effect": "Grants a shield equal to <color=#00A069>15%</color> of its max HP to the ally with the lowest HP for <color=#00A069>4s</color>."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 240,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>101.03%</color> damage."
     },
     {
-      "id": "134033",
-      "name": "Blunt Sense",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_3.png",
-      "des": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-{0}</color> damage.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 60,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-5%</color> damage."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 240,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-5.26%</color> damage."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 420,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-5.52%</color> damage."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 600,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-5.78%</color> damage."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 780,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-6.04%</color> damage."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 960,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-6.3%</color> damage."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1140,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-6.56%</color> damage."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1320,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-6.82%</color> damage."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1500,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-7.07%</color> damage."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1680,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-7.33%</color> damage."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1860,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-7.59%</color> damage."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2040,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-7.85%</color> damage."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2220,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-8.11%</color> damage."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2400,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-8.36%</color> damage."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2580,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-8.63%</color> damage."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2760,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-8.88%</color> damage."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2940,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-9.14%</color> damage."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3120,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-9.4%</color> damage."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3300,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-9.66%</color> damage."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3480,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-9.92%</color> damage."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3660,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-10.18%</color> damage."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3840,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-10.44%</color> damage."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4020,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-10.69%</color> damage."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4200,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-10.95%</color> damage."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4380,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-11.21%</color> damage."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4560,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-11.47%</color> damage."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4740,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-11.73%</color> damage."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4920,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-11.99%</color> damage."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5100,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-12.25%</color> damage."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5280,
-          "effect": "Platyputz's dull mind dulls the pain. It takes <color=#00A069>-12.5%</color> damage."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 420,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>102.06%</color> damage."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 600,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>103.1%</color> damage."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 780,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>104.13%</color> damage."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 960,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>105.17%</color> damage."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1140,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>106.2%</color> damage."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1320,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>107.24%</color> damage."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1500,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>108.27%</color> damage."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1680,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>109.31%</color> damage."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 1860,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>110.34%</color> damage."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2040,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>111.37%</color> damage."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2220,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>112.41%</color> damage."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2400,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>113.44%</color> damage."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2580,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>114.48%</color> damage."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2760,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>115.51%</color> damage."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 2940,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>116.55%</color> damage."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3120,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>117.58%</color> damage."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3300,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>118.62%</color> damage."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3480,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>119.65%</color> damage."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3660,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>120.68%</color> damage."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 3840,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>121.72%</color> damage."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4020,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>122.75%</color> damage."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4200,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>123.79%</color> damage."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4380,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>124.82%</color> damage."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4560,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>125.86%</color> damage."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4740,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>126.89%</color> damage."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 4920,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>127.93%</color> damage."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5100,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>128.96%</color> damage."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1500,
+     "power": 5280,
+     "effect": "Platyputz fishes out an assortment of treasures from its pouch and hucks them at a single enemy, dealing a total of <color=#00A069>130%</color> damage."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "134032",
+   "name": "Bubble Shield",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_2.png",
+   "des": "Grants a shield equal to <color=#00A069>{0}</color> of max HP for <color=#00A069>{1}s</color>.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 12,
+      "animationMs": 3900,
+      "attackIntervalMs": 3900
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 60,
+     "effect": "Grants a shield equal to <color=#00A069>7.5%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 240,
+     "effect": "Grants a shield equal to <color=#00A069>7.76%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 420,
+     "effect": "Grants a shield equal to <color=#00A069>8.02%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 600,
+     "effect": "Grants a shield equal to <color=#00A069>8.27%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 780,
+     "effect": "Grants a shield equal to <color=#00A069>8.53%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 960,
+     "effect": "Grants a shield equal to <color=#00A069>8.8%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 1140,
+     "effect": "Grants a shield equal to <color=#00A069>9.06%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 1320,
+     "effect": "Grants a shield equal to <color=#00A069>9.32%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 1500,
+     "effect": "Grants a shield equal to <color=#00A069>9.57%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 1680,
+     "effect": "Grants a shield equal to <color=#00A069>9.83%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 1860,
+     "effect": "Grants a shield equal to <color=#00A069>10.09%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 2040,
+     "effect": "Grants a shield equal to <color=#00A069>10.35%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 2220,
+     "effect": "Grants a shield equal to <color=#00A069>10.61%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 2400,
+     "effect": "Grants a shield equal to <color=#00A069>10.87%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 2580,
+     "effect": "Grants a shield equal to <color=#00A069>11.13%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 2760,
+     "effect": "Grants a shield equal to <color=#00A069>11.38%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 2940,
+     "effect": "Grants a shield equal to <color=#00A069>11.64%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 3120,
+     "effect": "Grants a shield equal to <color=#00A069>11.9%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 3300,
+     "effect": "Grants a shield equal to <color=#00A069>12.16%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 3480,
+     "effect": "Grants a shield equal to <color=#00A069>12.42%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 3660,
+     "effect": "Grants a shield equal to <color=#00A069>12.68%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 3840,
+     "effect": "Grants a shield equal to <color=#00A069>12.94%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 4020,
+     "effect": "Grants a shield equal to <color=#00A069>13.19%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 4200,
+     "effect": "Grants a shield equal to <color=#00A069>13.45%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 4380,
+     "effect": "Grants a shield equal to <color=#00A069>13.71%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 4560,
+     "effect": "Grants a shield equal to <color=#00A069>13.97%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 4740,
+     "effect": "Grants a shield equal to <color=#00A069>14.23%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 4920,
+     "effect": "Grants a shield equal to <color=#00A069>14.49%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 5100,
+     "effect": "Grants a shield equal to <color=#00A069>14.75%</color> of max HP for <color=#00A069>4s</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 3900,
+     "power": 5280,
+     "effect": "Grants a shield equal to <color=#00A069>15%</color> of max HP for <color=#00A069>4s</color>."
+    }
+   ]
+  },
+  {
+   "id": "134033",
+   "name": "Blunt Sense",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204003_3.png",
+   "des": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>{0}</color>.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 60,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>5%</color>."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 240,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>5.26%</color>."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 420,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>5.52%</color>."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 600,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>5.78%</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 780,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>6.04%</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 960,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>6.3%</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1140,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>6.56%</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1320,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>6.82%</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1500,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>7.07%</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1680,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>7.33%</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1860,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>7.59%</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2040,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>7.85%</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2220,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>8.11%</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2400,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>8.36%</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2580,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>8.63%</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2760,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>8.88%</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2940,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>9.14%</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3120,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>9.4%</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3300,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>9.66%</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3480,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>9.92%</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3660,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>10.18%</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3840,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>10.44%</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4020,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>10.69%</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4200,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>10.95%</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4380,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>11.21%</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4560,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>11.47%</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4740,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>11.73%</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4920,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>11.99%</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5100,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>12.25%</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5280,
+     "effect": "Blunt Sense: Damage taken from non-explorer targets is reduced by <color=#00A069>12.5%</color>."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }

@@ -1,714 +1,714 @@
 {
-  "schemaVersion": 1,
-  "id": "204012",
-  "name": "Cerverdant",
-  "icon": "uiv3/texture/uiheroicon/Palmon_head_4012.png",
-  "camp": 3,
-  "levelType": 10,
-  "rarity": "SSR",
-  "baseStats": {
-    "attack": 240,
-    "defense": 21,
-    "hp": 5280,
-    "power": 19820
-  },
-  "remit": 1,
-  "role": "frontline",
-  "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
-  "forms": {
-    "base": {
-      "name": "Cerverdant",
-      "portrait": "uiv3/texture/uiherohalf/Palmon_full_4012.png"
-    }
-  },
-  "skills": [
+ "schemaVersion": 1,
+ "id": "204012",
+ "name": "Cerverdant",
+ "icon": "uiv3/texture/uiheroicon/Palmon_head_4012.png",
+ "camp": 3,
+ "levelType": 10,
+ "rarity": "SSR",
+ "baseStats": {
+  "attack": 240,
+  "defense": 21,
+  "hp": 5280,
+  "power": 19820
+ },
+ "remit": 1,
+ "role": "frontline",
+ "roleIcon": "sprites/A_UICommon/common_pic_remit1.png",
+ "forms": {
+  "base": {
+   "name": "Cerverdant",
+   "portrait": "uiv3/texture/uiherohalf/Palmon_full_4012.png"
+  }
+ },
+ "skills": [
+  {
+   "id": "134121",
+   "name": "Force of Nature",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_1.png",
+   "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
+   "kind": "normal_attack",
+   "rageGain": 20,
+   "rageActivation": 0,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 17,
+      "animationMs": 1200,
+      "attackIntervalMs": 1200
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
     {
-      "id": "134121",
-      "name": "Force of Nature",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_1.png",
-      "des": "Deals <color=#00A069>{0}</color> damage to a single enemy.",
-      "kind": "normal_attack",
-      "rageGain": 20,
-      "rageActivation": 0,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 17,
-            "animationMs": 1200,
-            "attackIntervalMs": 1200
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 60,
-          "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 240,
-          "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 420,
-          "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 600,
-          "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 780,
-          "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 960,
-          "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1140,
-          "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1320,
-          "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1500,
-          "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1680,
-          "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 1860,
-          "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2040,
-          "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2220,
-          "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2400,
-          "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2580,
-          "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2760,
-          "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 2940,
-          "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 3120,
-          "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 3300,
-          "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 3480,
-          "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 3660,
-          "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 3840,
-          "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 4020,
-          "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 4200,
-          "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 4380,
-          "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 4560,
-          "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 4740,
-          "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 4920,
-          "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 5100,
-          "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 1200,
-          "power": 5280,
-          "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
-        }
-      ]
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 60,
+     "effect": "Deals <color=#00A069>100%</color> damage to a single enemy."
     },
     {
-      "id": "134122",
-      "name": "Verdant Grace",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_2.png",
-      "des": "Allied Earth Palmon gain <color=#00A069>+{0}</color> Attack for <color=#00A069>5s</color>.",
-      "kind": "rage",
-      "rageGain": 0,
-      "rageActivation": 100,
-      "timing": {
-        "forms": [
-          {
-            "timelineId": 18,
-            "animationMs": 4300,
-            "attackIntervalMs": 4300
-          },
-          null,
-          null
-        ]
-      },
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 60,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+10%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 240,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+10.35%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 420,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+10.69%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 600,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+11.04%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 780,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+11.38%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 960,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+11.73%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 1140,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+12.07%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 1320,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+12.42%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 1500,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+12.76%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 1680,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+13.11%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 1860,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+13.45%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 2040,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+13.8%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 2220,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+14.14%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 2400,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+14.49%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 2580,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+14.83%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 2760,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+15.18%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 2940,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+15.52%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 3120,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+15.87%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 3300,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+16.21%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 3480,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+16.55%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 3660,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+16.89%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 3840,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+17.25%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 4020,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+17.59%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 4200,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+17.94%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 4380,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+18.28%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 4560,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+18.63%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 4740,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+18.97%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 4920,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+19.32%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 5100,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+19.66%</color> Attack for <color=#00A069>5s</color>."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 4300,
-          "power": 5280,
-          "effect": "Allied Earth Palmon gain <color=#00A069>+20%</color> Attack for <color=#00A069>5s</color>."
-        }
-      ]
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 240,
+     "effect": "Deals <color=#00A069>101.03%</color> damage to a single enemy."
     },
     {
-      "id": "214123",
-      "name": "Verdant Bounty",
-      "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_3.png",
-      "des": "Wood output +{0} when working a Logging job.",
-      "kind": "special_passive",
-      "rageGain": 0,
-      "rageActivation": 0,
-      "timing": null,
-      "tiers": [
-        {
-          "lv": 1,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 60,
-          "effect": "Wood output +10% when working a Logging job."
-        },
-        {
-          "lv": 2,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 240,
-          "effect": "Wood output +10.69% when working a Logging job."
-        },
-        {
-          "lv": 3,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 420,
-          "effect": "Wood output +11.38% when working a Logging job."
-        },
-        {
-          "lv": 4,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 600,
-          "effect": "Wood output +12.07% when working a Logging job."
-        },
-        {
-          "lv": 5,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 780,
-          "effect": "Wood output +12.76% when working a Logging job."
-        },
-        {
-          "lv": 6,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 960,
-          "effect": "Wood output +13.45% when working a Logging job."
-        },
-        {
-          "lv": 7,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1140,
-          "effect": "Wood output +14.14% when working a Logging job."
-        },
-        {
-          "lv": 8,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1320,
-          "effect": "Wood output +14.83% when working a Logging job."
-        },
-        {
-          "lv": 9,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1500,
-          "effect": "Wood output +15.52% when working a Logging job."
-        },
-        {
-          "lv": 10,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1680,
-          "effect": "Wood output +16.21% when working a Logging job."
-        },
-        {
-          "lv": 11,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 1860,
-          "effect": "Wood output +16.89% when working a Logging job."
-        },
-        {
-          "lv": 12,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2040,
-          "effect": "Wood output +17.59% when working a Logging job."
-        },
-        {
-          "lv": 13,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2220,
-          "effect": "Wood output +18.28% when working a Logging job."
-        },
-        {
-          "lv": 14,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2400,
-          "effect": "Wood output +18.97% when working a Logging job."
-        },
-        {
-          "lv": 15,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2580,
-          "effect": "Wood output +19.66% when working a Logging job."
-        },
-        {
-          "lv": 16,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2760,
-          "effect": "Wood output +20.35% when working a Logging job."
-        },
-        {
-          "lv": 17,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 2940,
-          "effect": "Wood output +21.04% when working a Logging job."
-        },
-        {
-          "lv": 18,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3120,
-          "effect": "Wood output +21.73% when working a Logging job."
-        },
-        {
-          "lv": 19,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3300,
-          "effect": "Wood output +22.42% when working a Logging job."
-        },
-        {
-          "lv": 20,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3480,
-          "effect": "Wood output +23.11% when working a Logging job."
-        },
-        {
-          "lv": 21,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3660,
-          "effect": "Wood output +23.8% when working a Logging job."
-        },
-        {
-          "lv": 22,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 3840,
-          "effect": "Wood output +24.49% when working a Logging job."
-        },
-        {
-          "lv": 23,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4020,
-          "effect": "Wood output +25.18% when working a Logging job."
-        },
-        {
-          "lv": 24,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4200,
-          "effect": "Wood output +25.87% when working a Logging job."
-        },
-        {
-          "lv": 25,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4380,
-          "effect": "Wood output +26.56% when working a Logging job."
-        },
-        {
-          "lv": 26,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4560,
-          "effect": "Wood output +27.25% when working a Logging job."
-        },
-        {
-          "lv": 27,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4740,
-          "effect": "Wood output +27.94% when working a Logging job."
-        },
-        {
-          "lv": 28,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 4920,
-          "effect": "Wood output +28.63% when working a Logging job."
-        },
-        {
-          "lv": 29,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5100,
-          "effect": "Wood output +29.32% when working a Logging job."
-        },
-        {
-          "lv": 30,
-          "maxLevel": 30,
-          "attackCd": 0,
-          "power": 5280,
-          "effect": "Wood output +30% when working a Logging job."
-        }
-      ]
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 420,
+     "effect": "Deals <color=#00A069>102.06%</color> damage to a single enemy."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 600,
+     "effect": "Deals <color=#00A069>103.1%</color> damage to a single enemy."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 780,
+     "effect": "Deals <color=#00A069>104.13%</color> damage to a single enemy."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 960,
+     "effect": "Deals <color=#00A069>105.17%</color> damage to a single enemy."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1140,
+     "effect": "Deals <color=#00A069>106.2%</color> damage to a single enemy."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1320,
+     "effect": "Deals <color=#00A069>107.24%</color> damage to a single enemy."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1500,
+     "effect": "Deals <color=#00A069>108.27%</color> damage to a single enemy."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1680,
+     "effect": "Deals <color=#00A069>109.31%</color> damage to a single enemy."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 1860,
+     "effect": "Deals <color=#00A069>110.34%</color> damage to a single enemy."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2040,
+     "effect": "Deals <color=#00A069>111.37%</color> damage to a single enemy."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2220,
+     "effect": "Deals <color=#00A069>112.41%</color> damage to a single enemy."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2400,
+     "effect": "Deals <color=#00A069>113.44%</color> damage to a single enemy."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2580,
+     "effect": "Deals <color=#00A069>114.48%</color> damage to a single enemy."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2760,
+     "effect": "Deals <color=#00A069>115.51%</color> damage to a single enemy."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 2940,
+     "effect": "Deals <color=#00A069>116.55%</color> damage to a single enemy."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 3120,
+     "effect": "Deals <color=#00A069>117.58%</color> damage to a single enemy."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 3300,
+     "effect": "Deals <color=#00A069>118.62%</color> damage to a single enemy."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 3480,
+     "effect": "Deals <color=#00A069>119.65%</color> damage to a single enemy."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 3660,
+     "effect": "Deals <color=#00A069>120.68%</color> damage to a single enemy."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 3840,
+     "effect": "Deals <color=#00A069>121.72%</color> damage to a single enemy."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 4020,
+     "effect": "Deals <color=#00A069>122.75%</color> damage to a single enemy."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 4200,
+     "effect": "Deals <color=#00A069>123.79%</color> damage to a single enemy."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 4380,
+     "effect": "Deals <color=#00A069>124.82%</color> damage to a single enemy."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 4560,
+     "effect": "Deals <color=#00A069>125.86%</color> damage to a single enemy."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 4740,
+     "effect": "Deals <color=#00A069>126.89%</color> damage to a single enemy."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 4920,
+     "effect": "Deals <color=#00A069>127.93%</color> damage to a single enemy."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 5100,
+     "effect": "Deals <color=#00A069>128.96%</color> damage to a single enemy."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 1200,
+     "power": 5280,
+     "effect": "Deals <color=#00A069>130%</color> damage to a single enemy."
     }
-  ],
-  "attackSpeedModifiers": [],
-  "evolutionStages": []
+   ]
+  },
+  {
+   "id": "134122",
+   "name": "Verdant Grace",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_2.png",
+   "des": "Allied Earth Palmon gain <color=#00A069>+{0}</color> Attack for <color=#00A069>5s</color>.",
+   "kind": "rage",
+   "rageGain": 0,
+   "rageActivation": 100,
+   "timing": {
+    "forms": [
+     {
+      "timelineId": 18,
+      "animationMs": 4300,
+      "attackIntervalMs": 4300
+     },
+     null,
+     null
+    ]
+   },
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 60,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+10%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 240,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+10.35%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 420,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+10.69%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 600,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+11.04%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 780,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+11.38%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 960,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+11.73%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 1140,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+12.07%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 1320,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+12.42%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 1500,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+12.76%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 1680,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+13.11%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 1860,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+13.45%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 2040,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+13.8%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 2220,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+14.14%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 2400,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+14.49%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 2580,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+14.83%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 2760,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+15.18%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 2940,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+15.52%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 3120,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+15.87%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 3300,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+16.21%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 3480,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+16.55%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 3660,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+16.89%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 3840,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+17.25%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 4020,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+17.59%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 4200,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+17.94%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 4380,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+18.28%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 4560,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+18.63%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 4740,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+18.97%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 4920,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+19.32%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 5100,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+19.66%</color> Attack for <color=#00A069>5s</color>."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 4300,
+     "power": 5280,
+     "effect": "Allied Earth Palmon gain <color=#00A069>+20%</color> Attack for <color=#00A069>5s</color>."
+    }
+   ]
+  },
+  {
+   "id": "214123",
+   "name": "Verdant Bounty",
+   "icon": "uiv3/texture/uiskillicon_card/HeroSkill_204012_3.png",
+   "des": "Wood output +{0} when working a Logging job.",
+   "kind": "special_passive",
+   "rageGain": 0,
+   "rageActivation": 0,
+   "timing": null,
+   "tiers": [
+    {
+     "lv": 1,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 60,
+     "effect": "Wood output +10% when working a Logging job."
+    },
+    {
+     "lv": 2,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 240,
+     "effect": "Wood output +10.69% when working a Logging job."
+    },
+    {
+     "lv": 3,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 420,
+     "effect": "Wood output +11.38% when working a Logging job."
+    },
+    {
+     "lv": 4,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 600,
+     "effect": "Wood output +12.07% when working a Logging job."
+    },
+    {
+     "lv": 5,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 780,
+     "effect": "Wood output +12.76% when working a Logging job."
+    },
+    {
+     "lv": 6,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 960,
+     "effect": "Wood output +13.45% when working a Logging job."
+    },
+    {
+     "lv": 7,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1140,
+     "effect": "Wood output +14.14% when working a Logging job."
+    },
+    {
+     "lv": 8,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1320,
+     "effect": "Wood output +14.83% when working a Logging job."
+    },
+    {
+     "lv": 9,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1500,
+     "effect": "Wood output +15.52% when working a Logging job."
+    },
+    {
+     "lv": 10,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1680,
+     "effect": "Wood output +16.21% when working a Logging job."
+    },
+    {
+     "lv": 11,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 1860,
+     "effect": "Wood output +16.89% when working a Logging job."
+    },
+    {
+     "lv": 12,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2040,
+     "effect": "Wood output +17.59% when working a Logging job."
+    },
+    {
+     "lv": 13,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2220,
+     "effect": "Wood output +18.28% when working a Logging job."
+    },
+    {
+     "lv": 14,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2400,
+     "effect": "Wood output +18.97% when working a Logging job."
+    },
+    {
+     "lv": 15,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2580,
+     "effect": "Wood output +19.66% when working a Logging job."
+    },
+    {
+     "lv": 16,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2760,
+     "effect": "Wood output +20.35% when working a Logging job."
+    },
+    {
+     "lv": 17,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 2940,
+     "effect": "Wood output +21.04% when working a Logging job."
+    },
+    {
+     "lv": 18,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3120,
+     "effect": "Wood output +21.73% when working a Logging job."
+    },
+    {
+     "lv": 19,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3300,
+     "effect": "Wood output +22.42% when working a Logging job."
+    },
+    {
+     "lv": 20,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3480,
+     "effect": "Wood output +23.11% when working a Logging job."
+    },
+    {
+     "lv": 21,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3660,
+     "effect": "Wood output +23.8% when working a Logging job."
+    },
+    {
+     "lv": 22,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 3840,
+     "effect": "Wood output +24.49% when working a Logging job."
+    },
+    {
+     "lv": 23,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4020,
+     "effect": "Wood output +25.18% when working a Logging job."
+    },
+    {
+     "lv": 24,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4200,
+     "effect": "Wood output +25.87% when working a Logging job."
+    },
+    {
+     "lv": 25,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4380,
+     "effect": "Wood output +26.56% when working a Logging job."
+    },
+    {
+     "lv": 26,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4560,
+     "effect": "Wood output +27.25% when working a Logging job."
+    },
+    {
+     "lv": 27,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4740,
+     "effect": "Wood output +27.94% when working a Logging job."
+    },
+    {
+     "lv": 28,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 4920,
+     "effect": "Wood output +28.63% when working a Logging job."
+    },
+    {
+     "lv": 29,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5100,
+     "effect": "Wood output +29.32% when working a Logging job."
+    },
+    {
+     "lv": 30,
+     "maxLevel": 30,
+     "attackCd": 0,
+     "power": 5280,
+     "effect": "Wood output +30% when working a Logging job."
+    }
+   ]
+  }
+ ],
+ "attackSpeedModifiers": [],
+ "evolutionStages": []
 }
