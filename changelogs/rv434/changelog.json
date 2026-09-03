@@ -1,0 +1,479 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv433",
+  "new": "rv434"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 0,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 8,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 1,
+  "otherRowsExcluded": 2,
+  "assetsNew": 8,
+  "assetsListed": 8,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 8,
+  "assetImageBytes": 3795055,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 8,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 8
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "1 table with 2 changed rows is not shown here. Re-run with --include-other-data for the full audit view. Excluded: gm_users (2).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`uiv3/texture/ui_season_main` (8)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_10",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_10.png",
+           "version": "rv434",
+           "published": true,
+           "sha256": "bcf891fa78914e1dbca121382d91008d02cfa379d7ddfe9e42b95dd98ea08f4f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_11",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_11.png",
+           "version": "rv434",
+           "published": true,
+           "sha256": "23338c684006efaba600fdc174374278c6693ae54746f518f8c1af6ca92343ec"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_12",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_12.png",
+           "version": "rv434",
+           "published": true,
+           "sha256": "1565ee7e73706d0c0633f21c85fbcc780c064a3c1fda110678f9060d2197c355"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_3.png",
+           "version": "rv434",
+           "published": true,
+           "sha256": "8fdfe716e4218e108ebba2cdd678320f54f7ddd849bdfe391a6814e5057b2be1"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_5",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_5.png",
+           "version": "rv434",
+           "published": true,
+           "sha256": "bcf891fa78914e1dbca121382d91008d02cfa379d7ddfe9e42b95dd98ea08f4f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_6",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_6.png",
+           "version": "rv434",
+           "published": true,
+           "sha256": "041e79b846e20168e9cc091b5183fb0b83cc66f335f5d52ea5aaa98ecb0e21be"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_7",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_7.png",
+           "version": "rv434",
+           "published": true,
+           "sha256": "23338c684006efaba600fdc174374278c6693ae54746f518f8c1af6ca92343ec"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "s02_weekly_tasks_reward_weekimage_8",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_8.png",
+           "version": "rv434",
+           "published": true,
+           "sha256": "cbb365ddd499defa9a7fc4b1f512e6776c957d8145da24d9cc8110c765e58c83"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_10",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_10.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_10-b880b07f.png",
+   "sizeBytes": 473373
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_11",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_11.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_11-ba4e4b5e.png",
+   "sizeBytes": 540019
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_12",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_12.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_12-f7472cd4.png",
+   "sizeBytes": 458046
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_3",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_3-6d3cd9aa.png",
+   "sizeBytes": 444803
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_5",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_5.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_5-e89ea0c0.png",
+   "sizeBytes": 473373
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_6",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_6.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_6-4270e69b.png",
+   "sizeBytes": 406220
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_7",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_7.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_7-b4b5e4cc.png",
+   "sizeBytes": 540019
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_8",
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_8.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s02_weekly_tasks_reward_weekimage_8-0be574dd.png",
+   "sizeBytes": 459202
+  }
+ ]
+}

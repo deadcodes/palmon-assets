@@ -9497,6 +9497,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_6.png",
+   "kind": "texture",
+   "firstSeen": "rv434",
+   "lastSeen": "rv434",
+   "history": [
+    {
+     "version": "rv434",
+     "sha256": "041e79b846e20168e9cc091b5183fb0b83cc66f335f5d52ea5aaa98ecb0e21be",
+     "bytes": 406220,
+     "width": 1028,
+     "height": 446
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/ui_season_main/s03_pic_Rule3.png",
    "kind": "texture",
    "firstSeen": "rv417",

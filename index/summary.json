@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv433",
+ "generatedFor": "rv434",
  "totals": {
-  "textures": 5508,
+  "textures": 5516,
   "sprites": 7291,
   "builder": 0
  },
@@ -10,8 +10,8 @@
   {
    "id": "00",
    "file": "index/assets/00.json",
-   "count": 759,
-   "bytes": 283397
+   "count": 760,
+   "bytes": 283762
   },
   {
    "id": "01",
@@ -28,26 +28,26 @@
   {
    "id": "03",
    "file": "index/assets/03.json",
-   "count": 802,
-   "bytes": 299786
+   "count": 804,
+   "bytes": 300515
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
-   "count": 790,
-   "bytes": 293670
+   "count": 791,
+   "bytes": 294034
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
-   "count": 813,
-   "bytes": 304290
+   "count": 814,
+   "bytes": 304654
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
-   "count": 835,
-   "bytes": 309099
+   "count": 836,
+   "bytes": 309463
   },
   {
    "id": "07",
@@ -64,8 +64,8 @@
   {
    "id": "09",
    "file": "index/assets/09.json",
-   "count": 771,
-   "bytes": 286751
+   "count": 773,
+   "bytes": 287480
   },
   {
    "id": "0a",
@@ -1155,7 +1155,7 @@
   },
   {
    "path": "uiv3/texture/ui_season_main",
-   "count": 148
+   "count": 156
   },
   {
    "path": "uiv3/texture/ui_seasontask",

@@ -9204,6 +9204,36 @@
    ]
   },
   {
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_10.png",
+   "kind": "texture",
+   "firstSeen": "rv434",
+   "lastSeen": "rv434",
+   "history": [
+    {
+     "version": "rv434",
+     "sha256": "bcf891fa78914e1dbca121382d91008d02cfa379d7ddfe9e42b95dd98ea08f4f",
+     "bytes": 473373,
+     "width": 1028,
+     "height": 446
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/ui_season_main/s02_weekly_tasks_reward_weekimage_5.png",
+   "kind": "texture",
+   "firstSeen": "rv434",
+   "lastSeen": "rv434",
+   "history": [
+    {
+     "version": "rv434",
+     "sha256": "bcf891fa78914e1dbca121382d91008d02cfa379d7ddfe9e42b95dd98ea08f4f",
+     "bytes": 473373,
+     "width": 1028,
+     "height": 446
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/ui_season_main/season_rule_05.png",
    "kind": "texture",
    "firstSeen": "rv417",

@@ -334,6 +334,24 @@
     "ambiguousSkipped": 0
    },
    "changelog": null
+  },
+  {
+   "label": "rv434",
+   "tag": "rv434",
+   "order": 434,
+   "publishedAtUtc": "2026-09-03T21:21:31.829534+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5516,
+    "sprites": 7291,
+    "builder": 0,
+    "added": 8,
+    "modified": 0,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": null
   }
  ]
 }
