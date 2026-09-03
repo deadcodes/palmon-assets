@@ -12622,6 +12622,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uisearch/cityrace_pic_205009.png",
+   "kind": "texture",
+   "firstSeen": "rv437",
+   "lastSeen": "rv437",
+   "history": [
+    {
+     "version": "rv437",
+     "sha256": "3b2765c16fbfb400ae101a829b8a44fb1fb59dd6728a7df8cba6dfd0623d3d26",
+     "bytes": 145466,
+     "width": 518,
+     "height": 547
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uiseasonreward/Santa_pic_Pangmeng_3.png",
    "kind": "texture",
    "firstSeen": "rv417",
