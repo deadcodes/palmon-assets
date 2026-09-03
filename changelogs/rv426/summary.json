@@ -4,10 +4,15 @@
     "old": "rv425",
     "new": "rv426"
   },
-  "generatedAtUtc": "2026-09-03T10:23:23Z",
+  "generatedAtUtc": "2026-09-03T14:31:23Z",
   "generator": "summarize-changelog skill (Claude)",
-  "title": "No player-facing changes",
-  "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
-  "highlights": [],
+  "title": "Desert Tech and Card Arena button art",
+  "summary": "New interface art appears for the Desert Tech screen and the Card Arena, and three sprite atlases are repacked to hold it. No Palmon, skill, item or text data changed.",
+  "highlights": [
+    "New Desert Tech buttons: Desert_btn_good01 and good02, Desert_btn_icon_good, Desert_btn_icon_time, Desert_btn_plan_01 and the two category buttons.",
+    "New Desert Tech panels: Desert_btn_frame_goodnumber, Desert_frame_tipsbg and Desert_image_sharereward.",
+    "New Card Arena art: main_btn_battleReport_01, main_btn_battleReport_02 and arena_pic_cup.",
+    "The A_UIDesertTech, A_UICardArena and A_UINumberBattle atlases are repacked to fit the new sprites."
+  ],
   "categories": []
 }

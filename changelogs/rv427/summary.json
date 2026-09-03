@@ -4,10 +4,14 @@
     "old": "rv426",
     "new": "rv427"
   },
-  "generatedAtUtc": "2026-09-03T10:23:24Z",
+  "generatedAtUtc": "2026-09-03T14:31:07Z",
   "generator": "summarize-changelog skill (Claude)",
-  "title": "No player-facing changes",
-  "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
-  "highlights": [],
+  "title": "Desert Tech and Card Arena art pulled back out",
+  "summary": "This version reverts the interface art rv426 added: all sixteen new Desert Tech and Card Arena files are removed and the three repacked atlases are restored to their rv425 contents. No Palmon, skill, item or text data changed.",
+  "highlights": [
+    "All Desert Tech buttons added in rv426 are removed again, including Desert_btn_good01, Desert_btn_icon_time and Desert_btn_plan_01.",
+    "Card Arena art main_btn_battleReport_01, main_btn_battleReport_02 and arena_pic_cup are removed.",
+    "The A_UIDesertTech, A_UICardArena and A_UINumberBattle atlases revert to their rv425 pages byte for byte."
+  ],
   "categories": []
 }

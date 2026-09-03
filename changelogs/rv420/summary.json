@@ -4,10 +4,10 @@
     "old": "rv419",
     "new": "rv420"
   },
-  "generatedAtUtc": "2026-09-03T10:23:21Z",
+  "generatedAtUtc": "2026-09-03T14:31:06Z",
   "generator": "summarize-changelog skill (Claude)",
   "title": "No player-facing changes",
-  "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
+  "summary": "A full diff including exported assets records no differences between rv419 and rv420: no config, skill, item or text changes, and no new art in the exported Unity tree.",
   "highlights": [],
   "categories": []
 }
