@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv435",
+    "new": "rv436"
+  },
+  "generatedAtUtc": "2026-09-04T07:26:18Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Shield nerfs, Meowdame's Trial rewards, and a Ruins Challenge tweak",
+  "summary": "This version nerfs Platyputz's Bubble Shield star-up bonus and several \"add shield\" buff effects, adds a new epic treasure-chest item and matching art for Meowdame's Trial, and removes the difficulty-scaling penalty in the Ruins Challenge power-inhibit formula.",
+  "highlights": [
+    "Nerfed Platyputz's Bubble Shield star-up bonus (about 5 percentage points lower at every tier and level) and cut several \"add shield\" buff effects' shield amounts roughly in half at higher levels.",
+    "Added Meowdame's Gift (Basic), a new epic treasure chest reward from Meowdame's Trial, plus matching profile-frame UI art.",
+    "Simplified the Ruins Challenge power-inhibit formula to always return 0 (removing its difficulty-scaling penalty) and widened its threshold range.",
+    "Widened the ranking power range from [100,200] to [100,800].",
+    "Added new buff definitions for Desert Tolerance and Armigo camp-defense mechanics.",
+    "Added new city race and Cross-Server Arena UI art."
+  ],
+  "categories": [
+    {
+      "title": "Palmons",
+      "count": 7
+    },
+    {
+      "title": "Items",
+      "count": 1
+    },
+    {
+      "title": "General",
+      "count": 16
+    },
+    {
+      "title": "Assets",
+      "count": 17
+    }
+  ]
+}

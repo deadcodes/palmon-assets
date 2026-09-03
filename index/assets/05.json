@@ -6915,12 +6915,19 @@
    "path": "sprites/A_UIRuin/model_banner_4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "184bd3c30a3a4990dfc3810fc0afe0098bde91ad8e488e310a3ebcd880eb94eb",
      "bytes": 177098,
+     "width": 1080,
+     "height": 381
+    },
+    {
+     "version": "rv436",
+     "sha256": "088a2b0e3ee8a137cbb4b255a28294eb5e701ce92e487f529ff983224969fdfe",
+     "bytes": 177295,
      "width": 1080,
      "height": 381
     }
@@ -6931,12 +6938,19 @@
    "path": "sprites/A_UIRuin/tower_btn_shop.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "a92ac9ac6921a6babcc976d85913fc11fb05bd50edc7e7aafa79ab3a50a42322",
      "bytes": 15970,
+     "width": 154,
+     "height": 154
+    },
+    {
+     "version": "rv436",
+     "sha256": "64c6a3310be38122bd41fad81086d2db7516c17c3ded54e3652016701a129a40",
+     "bytes": 14985,
      "width": 154,
      "height": 154
     }
@@ -6947,7 +6961,7 @@
    "path": "sprites/A_UIRuin/tower_pic_stubattack.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
@@ -6955,6 +6969,29 @@
      "bytes": 3607,
      "width": 96,
      "height": 93
+    },
+    {
+     "version": "rv436",
+     "sha256": "48ad1ddfa367dea3327e20639b04c46a5adef70fd709dc775f443d098926d68a",
+     "bytes": 3539,
+     "width": 96,
+     "height": 93
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
+   "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_2.png",
+   "kind": "sprite",
+   "firstSeen": "rv436",
+   "lastSeen": "rv436",
+   "history": [
+    {
+     "version": "rv436",
+     "sha256": "6f3efa1243b220776e9189a3c44e3d546e8aab0ccdd40ec9774ff4079ee23362",
+     "bytes": 30993,
+     "width": 125,
+     "height": 125
     }
    ],
    "atlas": "A_UIRuin"
@@ -6963,12 +7000,19 @@
    "path": "sprites/A_UIRuin/trial_pic_3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "33a5fd3c365b1d5469578c766de8f4544104017ad6835e787648d1b94d0cf13e",
      "bytes": 2923,
+     "width": 53,
+     "height": 42
+    },
+    {
+     "version": "rv436",
+     "sha256": "268352a50c00588b74f1e06dfd0d6430185efb0a6d67663c890713441f54a082",
+     "bytes": 2619,
      "width": 53,
      "height": 42
     }

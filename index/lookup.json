@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv435",
+ "generatedFor": "rv436",
  "kinds": {
   "armigo": {
    "10001": {
@@ -1359,6 +1359,9 @@
    },
    "10501": {
     "icon": "uiv3/texture/uiitem/item_icon_bossBox.png"
+   },
+   "10707": {
+    "icon": "uiv3/texture/uiitem/item_icon_Dreambox1.png"
    },
    "20901": {
     "icon": "uiv3/texture/uiitem/TreatingPlague_pic_herb1.png"
@@ -39692,7 +39695,7 @@
  "counts": {
   "armigo": 26,
   "buff": 0,
-  "item": 971,
+  "item": 972,
   "mount": 7,
   "palmon": 69,
   "skill": 10761
