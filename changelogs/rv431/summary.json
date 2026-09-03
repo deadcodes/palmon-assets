@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv430",
+    "new": "rv431"
+  },
+  "generatedAtUtc": "2026-09-03T10:24:27Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Recruit fallback rates and Gold Robber backgrounds",
+  "summary": "The hero recruit table gains fallback rates for six more pools, and two new Gold Robber event background textures are registered. No Palmon, skill or item data changed.",
+  "highlights": [
+    "Hero recruit: no-hero fallback rate of 500 added for pools 1016, 1019, 1020, 2016, 2019 and 2020.",
+    "New background textures goldrobberbg and goldrobberbg9 registered."
+  ],
+  "categories": [
+    {
+      "title": "General",
+      "count": 1
+    },
+    {
+      "title": "Assets",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv422",
+    "new": "rv423"
+  },
+  "generatedAtUtc": "2026-09-03T10:25:06Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Rapheni's Rebirth from Ashes now stacks",
+  "summary": "Rapheni's Rebirth from Ashes buff changes from replacing itself to stacking up to two instances, on both of its rows. A New Year recharge gift table gains a fresh flag, a battle-report type table is introduced, and one soldier alert effect prefab is registered without exported art.",
+  "highlights": [
+    "Rapheni: Rebirth from Ashes (both rows) now stacks with the existing instance, stacking parameter 0 → 2.",
+    "New Year recharge gift: fresh set to [3]; gift contents unchanged.",
+    "New table battlereport_type added (18 rows).",
+    "Effect prefab gfx_uicommon_soldier_alert_01 registered; no art exported for it yet."
+  ],
+  "categories": [
+    {
+      "title": "Palmons",
+      "count": 2
+    },
+    {
+      "title": "General",
+      "count": 2
+    },
+    {
+      "title": "Assets",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv418",
+    "new": "rv419"
+  },
+  "generatedAtUtc": "2026-09-03T10:24:25Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "One new card-bag frame texture",
+  "summary": "A single piece of UI art is registered: a new gacha card frame for the card bag. No gameplay data changed.",
+  "highlights": [
+    "New texture gacha_frame_card2_1_m added under uiv3/texture/uicardbag."
+  ],
+  "categories": [
+    {
+      "title": "Assets",
+      "count": 1
+    }
+  ]
+}

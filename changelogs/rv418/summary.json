@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv417",
+    "new": "rv418"
+  },
+  "generatedAtUtc": "2026-09-03T10:25:05Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Skill rebalance for seven Palmons and Dragonfire Clash text",
+  "summary": "Seven Palmons have their skills retuned, most of them toned down: Gryndarr and Scorphelia lose half of one effect at every level and star, while Abuzzinian, Statchew, Revontulet and Gnashley get new level 11 and 21 buff values. Several resist and thunder buffs are weakened, two new buff effects appear, and 464 text entries arrive for the Dragonfire Clash team event, the Power breakdown screen and a new card pack.",
+  "highlights": [
+    "Gryndarr: Lightning Feather Mark's second value is halved at every level and star (level 1 5%/5% → 5%/2.5%; star-up bonuses [2,2] → [2,1] up to [10,10] → [10,5]).",
+    "Scorphelia: Sandstorm Dance star-up bonuses halved (2/4/6/8/10 → 1/2/3/4/5) and star-up percentages reduced by about 1-5 points per level.",
+    "Abuzzinian: Gathering Storm level 11 500% → 150%, level 21 100% → 300%. Statchew: Strong as Stone level 11 500% → 10%, level 21 100% → 10%.",
+    "Revontulet: Infernotail level 11 10% → 40%, level 21 50% → 30%. Gnashley: Abyssal Surge level 11 buff 270,000 → 1,000, level 21 3,000 → 5,000.",
+    "Zapantis: High-Voltage Speed switches to the new ThunderCampTakeDamageReduceHalo1 buff type; new buff effects ThunderCampTakeDamageReduceHalo2 and SelfByHurtReduce are added.",
+    "Freezing and Vertigo resist buffs drop from 3,000 to 2,000; ThunderHurtAdd 50,000 → 15,000 with its interval 5,000 → 10,000; RemoveFireBuffAndTakeHurt reworked to a 2-second burn.",
+    "New text for the Dragonfire Clash team event (Dragonspire, Molten Front, Molten Altar), the Power breakdown screen, evolution and a 27-card pack; Evolution Essence gets new icons.",
+    "110 new UI assets registered."
+  ],
+  "categories": [
+    {
+      "title": "Palmons",
+      "count": 38
+    },
+    {
+      "title": "Items",
+      "count": 2
+    },
+    {
+      "title": "General",
+      "count": 1
+    },
+    {
+      "title": "Text & Localization",
+      "count": 464
+    },
+    {
+      "title": "Assets",
+      "count": 110
+    }
+  ]
+}

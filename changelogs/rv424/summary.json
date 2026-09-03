@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv423",
+    "new": "rv424"
+  },
+  "generatedAtUtc": "2026-09-03T10:23:22Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "No player-facing changes",
+  "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
+  "highlights": [],
+  "categories": []
+}

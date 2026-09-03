@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv428",
+    "new": "rv429"
+  },
+  "generatedAtUtc": "2026-09-03T10:24:27Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Abuzzinian buffed, Member Club retuned, new summon pack art",
+  "summary": "Abuzzinian's Gathering Storm is buffed sharply at levels 11 and 21 alongside its thunder damage buffs, the Member Club trial is shortened but pays more, a fourth city UR monster refresh tier and three new training task groups appear, mounts are re-sorted, and 38 new season-one summon and city race textures are registered.",
+  "highlights": [
+    "Abuzzinian: Gathering Storm level 11 buff 150% → 480% and level 21 buff 300% → 800%; ThunderHurtAdd 15,000 → 48,000 and ThunderHurtAdd1 5,000 → 6,000 (secondary value 30,000 → 80,000).",
+    "Member Club (Android): duration 30 → 7 days, reward 10,000 → 20,000, times set to 3.",
+    "City UR monster refresh gains a fourth tier of Palmon spawn weights.",
+    "Training tasks gain groups 14-16 (days 1-14, 15-28, 29-42) with new gift rewards.",
+    "Mount sort order changes for Swiftger, Amourphibian and Slackycapy; the 2027 Birthday Card gets a new icon.",
+    "38 new season-one summon pack, use-item and city race hero textures plus two task pictures registered."
+  ],
+  "categories": [
+    {
+      "title": "Palmons",
+      "count": 3
+    },
+    {
+      "title": "Items",
+      "count": 1
+    },
+    {
+      "title": "Mounts",
+      "count": 3
+    },
+    {
+      "title": "General",
+      "count": 6
+    },
+    {
+      "title": "Assets",
+      "count": 40
+    }
+  ]
+}

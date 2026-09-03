@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv420",
+    "new": "rv421"
+  },
+  "generatedAtUtc": "2026-09-03T10:24:26Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Pharohound Oath and Scarvulpine Oath evolution items",
+  "summary": "Two generic Evolution Essence items are renamed into Palmon-specific Oaths, each described as the item that mega evolves its Palmon to Stage 5.",
+  "highlights": [
+    "Pharohound Oath: renamed from Evolution Essence; now described as the item that mega evolves Pharohound to Stage 5.",
+    "Scarvulpine Oath: renamed from Evolution Essence; now described as the item that mega evolves Scarvulpine to Stage 5."
+  ],
+  "categories": [
+    {
+      "title": "Items",
+      "count": 4
+    }
+  ]
+}

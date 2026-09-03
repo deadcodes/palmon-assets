@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv427",
+    "new": "rv428"
+  },
+  "generatedAtUtc": "2026-09-03T10:26:10Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Evolution unlock day 12 on newer servers, Armigo morale buffs",
+  "summary": "Every Palmon's evolution unlock now depends on server age in three bands, with servers 265 and up waiting until day 12, and the same server-265 band is added to recharge gifts, city UR monsters and mount package unlock days. Armigos level 5 to 10 gain a large morale increase, mounts get a new two-part sort order, and 23 new UI textures arrive for city summon packs, a new player frame and a season-two weekly reward.",
+  "highlights": [
+    "Evolution unlock thresholds for all 39 Palmons: servers 1-240 from day 4, servers 241-264 from day 8, servers 265+ from day 12 (previously servers 241+ from day 8).",
+    "Armigo morale up for levels 5-10, player and NPC troops alike: Lvl 5 122 → 138, Lvl 6 130 → 180, Lvl 7 141 → 216, Lvl 8 155 → 238, Lvl 9 186 → 286, Lvl 10 224 → 345.",
+    "Mount sort order becomes a two-value ranking for Narfoal, Swiftger, Amourphibian, Slackycapy, Night Mare, Bunny Runny and Skybound Patrol.",
+    "Mount packages unlock on a server-age schedule (for example package 2 on day 3 for servers 1-264, day 60 for servers 265+); Ruins Challenge loses its open-condition day table.",
+    "Recharge gift hero pools and city UR monster spawns gain a fourth server band (servers 265-999).",
+    "DeathAddBuff4 now shows its super-evolve display flag.",
+    "23 new textures registered: city summon pack and use-item titles, city race heroes, player frame 027, milestone 113 and a season-two weekly task reward image."
+  ],
+  "categories": [
+    {
+      "title": "Palmons",
+      "count": 39
+    },
+    {
+      "title": "Armigos",
+      "count": 10
+    },
+    {
+      "title": "Mounts",
+      "count": 7
+    },
+    {
+      "title": "General",
+      "count": 8
+    },
+    {
+      "title": "Assets",
+      "count": 23
+    }
+  ]
+}
