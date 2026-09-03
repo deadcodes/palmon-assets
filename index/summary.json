@@ -1,107 +1,107 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv435",
+ "generatedFor": "rv436",
  "totals": {
-  "textures": 5524,
-  "sprites": 7318,
+  "textures": 5529,
+  "sprites": 7328,
   "builder": 0
  },
  "shards": [
   {
    "id": "00",
    "file": "index/assets/00.json",
-   "count": 764,
-   "bytes": 291415
+   "count": 765,
+   "bytes": 292677
   },
   {
    "id": "01",
    "file": "index/assets/01.json",
-   "count": 779,
-   "bytes": 301021
+   "count": 781,
+   "bytes": 302618
   },
   {
    "id": "02",
    "file": "index/assets/02.json",
-   "count": 812,
-   "bytes": 311537
+   "count": 813,
+   "bytes": 312081
   },
   {
    "id": "03",
    "file": "index/assets/03.json",
-   "count": 805,
-   "bytes": 307979
+   "count": 806,
+   "bytes": 308705
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
    "count": 793,
-   "bytes": 301164
+   "bytes": 302059
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
-   "count": 817,
-   "bytes": 312794
+   "count": 818,
+   "bytes": 313877
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
    "count": 838,
-   "bytes": 317821
+   "bytes": 318360
   },
   {
    "id": "07",
    "file": "index/assets/07.json",
    "count": 801,
-   "bytes": 303603
+   "bytes": 304317
   },
   {
    "id": "08",
    "file": "index/assets/08.json",
-   "count": 813,
-   "bytes": 311210
+   "count": 814,
+   "bytes": 311925
   },
   {
    "id": "09",
    "file": "index/assets/09.json",
-   "count": 776,
-   "bytes": 293218
+   "count": 779,
+   "bytes": 294622
   },
   {
    "id": "0a",
    "file": "index/assets/0a.json",
    "count": 782,
-   "bytes": 294688
+   "bytes": 295222
   },
   {
    "id": "0b",
    "file": "index/assets/0b.json",
-   "count": 786,
-   "bytes": 297381
+   "count": 787,
+   "bytes": 297920
   },
   {
    "id": "0c",
    "file": "index/assets/0c.json",
-   "count": 831,
-   "bytes": 320455
+   "count": 833,
+   "bytes": 321518
   },
   {
    "id": "0d",
    "file": "index/assets/0d.json",
    "count": 779,
-   "bytes": 293895
+   "bytes": 294611
   },
   {
    "id": "0e",
    "file": "index/assets/0e.json",
-   "count": 834,
-   "bytes": 319534
+   "count": 835,
+   "bytes": 320613
   },
   {
    "id": "0f",
    "file": "index/assets/0f.json",
-   "count": 836,
-   "bytes": 318067
+   "count": 837,
+   "bytes": 318585
   }
  ],
  "categories": [
@@ -683,7 +683,7 @@
   },
   {
    "path": "sprites/A_UIRuin",
-   "count": 48
+   "count": 58
   },
   {
    "path": "sprites/A_UISandwich",
@@ -1383,7 +1383,7 @@
   },
   {
    "path": "uiv3/texture/uisearch",
-   "count": 17
+   "count": 22
   },
   {
    "path": "uiv3/texture/uiseasonreward",

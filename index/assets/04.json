@@ -6294,12 +6294,19 @@
    "path": "sprites/A_UIRuin/model_bg_4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "45a1aca735d3d9ade245600025ecdff831da5590a8c4fd40f121fcd61bdceb30",
      "bytes": 160695,
+     "width": 928,
+     "height": 308
+    },
+    {
+     "version": "rv436",
+     "sha256": "90c6c2137659e5e04cb5266c8eb6b1daec2bf2a359c3b5c0e9d7a25f1edaaa64",
+     "bytes": 160777,
      "width": 928,
      "height": 308
     }
@@ -6310,12 +6317,19 @@
    "path": "sprites/A_UIRuin/model_icon_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "98820009499d88b2d4014ced5507b1e20abaaa26d6c1b723446cbaae86187a9c",
      "bytes": 39040,
+     "width": 206,
+     "height": 216
+    },
+    {
+     "version": "rv436",
+     "sha256": "65a3a2d744bb9c071329eed7d33020c3016b82f89887839901790d1a10e262c7",
+     "bytes": 39016,
      "width": 206,
      "height": 216
     }
@@ -6326,12 +6340,19 @@
    "path": "sprites/A_UIRuin/model_tag_3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "b76b3b7f176a3e6bf39d2a5f22f0fb882f09dceb33a321287de5d5df85eaa488",
      "bytes": 10211,
+     "width": 92,
+     "height": 192
+    },
+    {
+     "version": "rv436",
+     "sha256": "2c579624ff9fb640ecb495a77e548ae8be422b92797110fdf122895b62347817",
+     "bytes": 10230,
      "width": 92,
      "height": 192
     }
@@ -6342,12 +6363,19 @@
    "path": "sprites/A_UIRuin/tower_pic_icon2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "d95159a1a8189faddec2b9cdc4df58c3049119e96646126c949d904ea51b193a",
      "bytes": 16213,
+     "width": 296,
+     "height": 169
+    },
+    {
+     "version": "rv436",
+     "sha256": "ef87c330ba74f1d71ea90662bafd9839f3bb17ef9fc8f272cac664cf737e406b",
+     "bytes": 16852,
      "width": 296,
      "height": 169
     }
@@ -6358,12 +6386,19 @@
    "path": "sprites/A_UIRuin/towerfight_pic_5.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "4dc36289bcdde03fc360f28623146558587b330d0afa1316b2e6388861e81014",
      "bytes": 188,
+     "width": 9,
+     "height": 15
+    },
+    {
+     "version": "rv436",
+     "sha256": "197d7b32fad339c9b841d0cca38747a5cdcc35665383e8444fef70f552761ac0",
+     "bytes": 165,
      "width": 9,
      "height": 15
     }

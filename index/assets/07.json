@@ -6662,12 +6662,19 @@
    "path": "sprites/A_UIRuin/model_icon_3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "14b7b762b57583a216511fd90f23591f662ea617e0ec2d7f9659bf09715f0eb3",
      "bytes": 44454,
+     "width": 206,
+     "height": 212
+    },
+    {
+     "version": "rv436",
+     "sha256": "fad5b0049a66dbe238e2d7fe046cf4695c3f266e89df7e7eb249fdb0002399c6",
+     "bytes": 44674,
      "width": 206,
      "height": 212
     }
@@ -6678,12 +6685,19 @@
    "path": "sprites/A_UIRuin/model_tag_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "65adfafcabe257b53f4c670782dce10ac1d2d5538fc489e415ebccc5b316afe4",
      "bytes": 9664,
+     "width": 92,
+     "height": 192
+    },
+    {
+     "version": "rv436",
+     "sha256": "0abbe03b0a5b35523a1439f90c0a1f91ab45c76b38a17b7faed290c17c28c0f0",
+     "bytes": 9619,
      "width": 92,
      "height": 192
     }
@@ -6694,12 +6708,19 @@
    "path": "sprites/A_UIRuin/tower_pic_floor4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "b10456396618a28ed6c932025b1ef99173fc638637e6c7a889225f36c5e9782c",
      "bytes": 12527,
+     "width": 98,
+     "height": 108
+    },
+    {
+     "version": "rv436",
+     "sha256": "7c256d87bc764eaf06bf0a9e663f5efa4106377d9a46c083c3581554b07115b6",
+     "bytes": 13124,
      "width": 98,
      "height": 108
     }
@@ -6710,12 +6731,19 @@
    "path": "sprites/A_UIRuin/towerfight_pic_4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "47a8b3e1a3a16387b8045f62e2ea915409b3258f17b4d9ada988dfc7918407ef",
      "bytes": 1176,
+     "width": 43,
+     "height": 50
+    },
+    {
+     "version": "rv436",
+     "sha256": "e6179593cb0cbce4e5f8f69a102696d49ed5556cc049e76fbbbfe31e5103e7ba",
+     "bytes": 1137,
      "width": 43,
      "height": 50
     }

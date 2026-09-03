@@ -6601,7 +6601,7 @@
    "path": "sprites/A_UIRuin/model_banner_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
@@ -6609,6 +6609,29 @@
      "bytes": 184735,
      "width": 1080,
      "height": 381
+    },
+    {
+     "version": "rv436",
+     "sha256": "41e470b187b58999170afb6cda5b64ce83a7d4c9d246d4c45f89128eee949e05",
+     "bytes": 184679,
+     "width": 1080,
+     "height": 381
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
+   "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_4.png",
+   "kind": "sprite",
+   "firstSeen": "rv436",
+   "lastSeen": "rv436",
+   "history": [
+    {
+     "version": "rv436",
+     "sha256": "4815a05bf726fe383d5ad2870c6e4965d4b13ab14f7ea87f8999e022dc673682",
+     "bytes": 23247,
+     "width": 125,
+     "height": 125
     }
    ],
    "atlas": "A_UIRuin"
@@ -6617,12 +6640,19 @@
    "path": "sprites/A_UIRuin/trial_pic_5.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "cb17f8af2190aa2f9153d0d6307729cd0170dd565f3fc6c714743be022de37f6",
      "bytes": 2400,
+     "width": 51,
+     "height": 45
+    },
+    {
+     "version": "rv436",
+     "sha256": "dabe3ca12c46e1088da77d44d1eb534ae8299e178f41d8498a28fcdb03eff87a",
+     "bytes": 2351,
      "width": 51,
      "height": 45
     }

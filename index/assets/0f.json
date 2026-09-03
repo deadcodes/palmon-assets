@@ -7021,12 +7021,19 @@
    "path": "sprites/A_UIRuin/trial_pic_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "c11292865110f7f162844e897db4e5d5eceda3f6b31aa068370ae1afd8fb894c",
      "bytes": 2104,
+     "width": 48,
+     "height": 48
+    },
+    {
+     "version": "rv436",
+     "sha256": "bac4e8bcd07944d904190e537aaae8601e0cf39e4bff60cb073b8eee495dce91",
+     "bytes": 2172,
      "width": 48,
      "height": 48
     }
@@ -12884,6 +12891,21 @@
      "version": "rv417",
      "sha256": "ad8d74f8c5897bf6b4b35404b70232dcf56cc160bfb5c843ac9463dc88553b13",
      "bytes": 175435,
+     "width": 518,
+     "height": 547
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uisearch/cityrace_pic_205030.png",
+   "kind": "texture",
+   "firstSeen": "rv436",
+   "lastSeen": "rv436",
+   "history": [
+    {
+     "version": "rv436",
+     "sha256": "cec154b0812ad35402bdd58c9f4a25f2b58af921045925d32370c61ab85537f6",
+     "bytes": 203368,
      "width": 518,
      "height": 547
     }

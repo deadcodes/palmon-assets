@@ -6951,15 +6951,38 @@
    "atlas": "A_UIRoyalWar"
   },
   {
+   "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_3.png",
+   "kind": "sprite",
+   "firstSeen": "rv436",
+   "lastSeen": "rv436",
+   "history": [
+    {
+     "version": "rv436",
+     "sha256": "c218d496bc62c7c1fc96ac56057ee2c6555d06fe7c8574501f69659db1a03ae1",
+     "bytes": 23717,
+     "width": 125,
+     "height": 125
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
    "path": "sprites/A_UIRuin/trial_pic_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "21ea12f6f6fba7bdb826848aad6e9bcf1a72c68be9d9df8778d5c4d0d44a1e9f",
      "bytes": 1511,
+     "width": 40,
+     "height": 43
+    },
+    {
+     "version": "rv436",
+     "sha256": "3d0610193a36cc89f56f63d98bfedb1258ed3e0e31273a2e34ccdfa1b51a7880",
+     "bytes": 1547,
      "width": 40,
      "height": 43
     }

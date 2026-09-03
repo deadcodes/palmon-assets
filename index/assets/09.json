@@ -6231,12 +6231,19 @@
    "path": "sprites/A_UIRuin/tower_pic_footmask.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
      "sha256": "3f7249fc3ed8b74359d6ea4206c3d4ff9c645ad2024d5a32e2c300afd0c913bc",
      "bytes": 3856,
+     "width": 40,
+     "height": 245
+    },
+    {
+     "version": "rv436",
+     "sha256": "8b255e38ba8271ddbea48ff9af9aefe552f230634c970e0ce336be506f8ea526",
+     "bytes": 3733,
      "width": 40,
      "height": 245
     }
@@ -6247,7 +6254,7 @@
    "path": "sprites/A_UIRuin/tower_pic_towercoin.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv436",
    "history": [
     {
      "version": "rv417",
@@ -6255,6 +6262,29 @@
      "bytes": 5821,
      "width": 57,
      "height": 56
+    },
+    {
+     "version": "rv436",
+     "sha256": "9b138254cc841ddd05fcd60fb0f5613fd35233c8f5134f5c174fc328353d9212",
+     "bytes": 5934,
+     "width": 57,
+     "height": 56
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
+   "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_6.png",
+   "kind": "sprite",
+   "firstSeen": "rv436",
+   "lastSeen": "rv436",
+   "history": [
+    {
+     "version": "rv436",
+     "sha256": "0aef5cf4fea64e4ca1d3f851f51eb5886633db664fd4427dc0ebebbf678c7050",
+     "bytes": 27722,
+     "width": 125,
+     "height": 125
     }
    ],
    "atlas": "A_UIRuin"
@@ -11851,6 +11881,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uisearch/cityrace_pic_205018.png",
+   "kind": "texture",
+   "firstSeen": "rv436",
+   "lastSeen": "rv436",
+   "history": [
+    {
+     "version": "rv436",
+     "sha256": "185025c6f565574acc6c6f6ab738ed07e315c08e0b501ed5bad8b9adda48e6ef",
+     "bytes": 155449,
+     "width": 518,
+     "height": 547
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uisearch/cityrace_pic_205021.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -11860,6 +11905,21 @@
      "version": "rv417",
      "sha256": "982b225a96fa2655100c4aa85f83805113f4efe880bc3f10d93894b6aa22a7d3",
      "bytes": 203482,
+     "width": 518,
+     "height": 547
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uisearch/cityrace_pic_205036.png",
+   "kind": "texture",
+   "firstSeen": "rv436",
+   "lastSeen": "rv436",
+   "history": [
+    {
+     "version": "rv436",
+     "sha256": "009bfbe3c74570cd4fc4a5548a4ffdf3d1b965a44e9f06580a58efd31aaead53",
+     "bytes": 221954,
      "width": 518,
      "height": 547
     }
