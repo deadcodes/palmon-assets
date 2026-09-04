@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv436",
+    "new": "rv437"
+  },
+  "generatedAtUtc": "2026-09-04T07:27:20Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Ruins Challenge unlock levels lowered",
+  "summary": "This version lowers the required base level to unlock most Ruins Challenge tiers from 11 to 10 and moves up the second shop rotation's opening day; one new city race image was added.",
+  "highlights": [],
+  "categories": [
+    {
+      "title": "General",
+      "count": 2
+    },
+    {
+      "title": "Assets",
+      "count": 1
+    }
+  ]
+}
