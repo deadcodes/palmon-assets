@@ -4,7 +4,7 @@
     "old": "rv426",
     "new": "rv427"
   },
-  "generatedAtUtc": "2026-09-03T14:31:07Z",
+  "generatedAtUtc": "2026-09-03T16:28:03Z",
   "generator": "summarize-changelog skill (Claude)",
   "title": "Desert Tech and Card Arena art pulled back out",
   "summary": "This version reverts the interface art rv426 added: all sixteen new Desert Tech and Card Arena files are removed and the three repacked atlases are restored to their rv425 contents. No Palmon, skill, item or text data changed.",

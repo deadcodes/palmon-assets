@@ -4,7 +4,7 @@
     "old": "rv425",
     "new": "rv426"
   },
-  "generatedAtUtc": "2026-09-03T14:31:23Z",
+  "generatedAtUtc": "2026-09-03T16:28:01Z",
   "generator": "summarize-changelog skill (Claude)",
   "title": "Desert Tech and Card Arena button art",
   "summary": "New interface art appears for the Desert Tech screen and the Card Arena, and three sprite atlases are repacked to hold it. No Palmon, skill, item or text data changed.",
@@ -14,5 +14,10 @@
     "New Card Arena art: main_btn_battleReport_01, main_btn_battleReport_02 and arena_pic_cup.",
     "The A_UIDesertTech, A_UICardArena and A_UINumberBattle atlases are repacked to fit the new sprites."
   ],
-  "categories": []
+  "categories": [
+    {
+      "title": "Assets",
+      "count": 13
+    }
+  ]
 }
