@@ -1,0 +1,287 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv436",
+  "new": "rv437"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 2,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 3,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 4,
+  "otherRowsExcluded": 81,
+  "assetsNew": 1,
+  "assetsListed": 1,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 1,
+  "assetImageBytes": 145466,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 1,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 1
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "ruins_challenge_new",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the open condition: changed 1 from {\"server_limit\":[1,232],\"base_lv\":{\"1\":11,\"2\":11,\"3\":15,\"4\":11,\"5\":11,\"6\":11},\"open_day\":{\"1\":[0,5],\"2\":[0,5],\"3\":[0,22],\"4\":[0,5],\"5\":[0,5],\"6\":[2,1]}} to {\"server_limit\":[1,232],\"base_lv\":{\"1\":10,\"2\":10,\"3\":15,\"4\":10,\"5\":10,\"6\":10},\"open_day\":{\"1\":[0,5],\"2\":[0,5],\"3\":[0,22],\"4\":[0,5],\"5\":[0,5],\"6\":[2,1]}}, 2 from {\"server_limit\":[233,9999],\"base_lv\":{\"1\":11,\"2\":11,\"3\":15,\"4\":11,\"5\":11,\"6\":11},\"open_day\":{\"1\":[0,5],\"2\":[0,5],\"3\":[0,36],\"4\":[0,5],\"5\":[0,5],\"6\":[2,1]}} to {\"server_limit\":[233,9999],\"base_lv\":{\"1\":10,\"2\":10,\"3\":15,\"4\":10,\"5\":10,\"6\":10},\"open_day\":{\"1\":[0,5],\"2\":[0,5],\"3\":[0,36],\"4\":[0,5],\"5\":[0,5],\"6\":[2,1]}}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "shop",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the shop open date: changed 7 from {\"1\":{\"server_limit\":[1,240],\"server_day\":[0,4]},\"2\":{\"server_limit\":[241,9999],\"server_day\":[0,8]}} to {\"1\":{\"server_limit\":[1,240],\"server_day\":[0,4]},\"2\":{\"server_limit\":[241,9999],\"server_day\":[0,5]}}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "4 tables with 81 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: PanelTitle (1), challenge_management (1), mail (1), recharge (78).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`uiv3/texture/uisearch` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "cityrace_pic_205009",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uisearch/cityrace_pic_205009.png",
+           "version": "rv437",
+           "published": true,
+           "sha256": "3b2765c16fbfb400ae101a829b8a44fb1fb59dd6728a7df8cba6dfd0623d3d26"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "uiv3/texture/uisearch/cityrace_pic_205009",
+   "path": "uiv3/texture/uisearch/cityrace_pic_205009.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cityrace_pic_205009-9ce4014c.png",
+   "sizeBytes": 145466
+  }
+ ]
+}
