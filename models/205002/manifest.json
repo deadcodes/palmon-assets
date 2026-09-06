@@ -411,6 +411,29 @@
           "skillId": 13502301,
           "timelineId": 0
         }
+      ],
+      "skins": [
+        {
+          "id": 20500201,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/base-20500201-showcase.png"
+          }
+        },
+        {
+          "id": 20500202,
+          "label": "Prismatic 2",
+          "textures": {
+            "showcase": "skins/base-20500202-showcase.png"
+          }
+        },
+        {
+          "id": 20500203,
+          "label": "Prismatic 3",
+          "textures": {
+            "showcase": "skins/base-20500203-showcase.png"
+          }
+        }
       ]
     },
     "evolved": {
@@ -861,6 +884,32 @@
           "showType": 3,
           "skillId": 13502301,
           "timelineId": 0
+        }
+      ],
+      "skins": [
+        {
+          "id": 20500201,
+          "label": "Prismatic 1",
+          "textures": {
+            "battle": "skins/evolved-20500201-battle.png",
+            "showcase": "skins/evolved-20500201-showcase.png"
+          }
+        },
+        {
+          "id": 20500202,
+          "label": "Prismatic 2",
+          "textures": {
+            "battle": "skins/evolved-20500202-battle.png",
+            "showcase": "skins/evolved-20500202-showcase.png"
+          }
+        },
+        {
+          "id": 20500203,
+          "label": "Prismatic 3",
+          "textures": {
+            "battle": "skins/evolved-20500203-battle.png",
+            "showcase": "skins/evolved-20500203-showcase.png"
+          }
         }
       ]
     },
@@ -1322,10 +1371,35 @@
           "skillId": 13502301,
           "timelineId": 0
         }
+      ],
+      "skins": [
+        {
+          "id": 20500201,
+          "label": "Prismatic 1",
+          "textures": {
+            "battle": "skins/super-20500201-battle.png",
+            "showcase": "skins/super-20500201-showcase.png"
+          }
+        },
+        {
+          "id": 20500202,
+          "label": "Prismatic 2",
+          "textures": {
+            "battle": "skins/super-20500202-battle.png",
+            "showcase": "skins/super-20500202-showcase.png"
+          }
+        },
+        {
+          "id": 20500203,
+          "label": "Prismatic 3",
+          "textures": {
+            "battle": "skins/super-20500203-battle.png",
+            "showcase": "skins/super-20500203-showcase.png"
+          }
+        }
       ]
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205002,
   "sourceVersion": "v0.5.417_251"
 }

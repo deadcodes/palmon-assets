@@ -310,6 +310,24 @@
           "skillId": 13515301,
           "timelineId": 0
         }
+      ],
+      "skins": [
+        {
+          "id": 20501601,
+          "label": "Prismatic 1",
+          "textures": {
+            "battle": "skins/base-20501601-battle.png",
+            "showcase": "skins/base-20501601-showcase.png"
+          }
+        },
+        {
+          "id": 20501602,
+          "label": "Prismatic 2",
+          "textures": {
+            "battle": "skins/base-20501602-battle.png",
+            "showcase": "skins/base-20501602-showcase.png"
+          }
+        }
       ]
     },
     "evolved": {
@@ -620,10 +638,25 @@
           "skillId": 13515301,
           "timelineId": 0
         }
+      ],
+      "skins": [
+        {
+          "id": 20501601,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/evolved-20501601-showcase.png"
+          }
+        },
+        {
+          "id": 20501602,
+          "label": "Prismatic 2",
+          "textures": {
+            "showcase": "skins/evolved-20501602-showcase.png"
+          }
+        }
       ]
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205016,
   "skippedForms": {
     "super": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)"

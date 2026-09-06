@@ -349,6 +349,16 @@
           "skillId": 13501301,
           "timelineId": 0
         }
+      ],
+      "skins": [
+        {
+          "id": 20500101,
+          "label": "Prismatic 1",
+          "textures": {
+            "battle": "skins/base-20500101-battle.png",
+            "showcase": "skins/base-20500101-showcase.png"
+          }
+        }
       ]
     },
     "evolved": {
@@ -691,6 +701,16 @@
           "showType": 3,
           "skillId": 13501301,
           "timelineId": 0
+        }
+      ],
+      "skins": [
+        {
+          "id": 20500101,
+          "label": "Prismatic 1",
+          "textures": {
+            "battle": "skins/evolved-20500101-battle.png",
+            "showcase": "skins/evolved-20500101-showcase.png"
+          }
         }
       ]
     },
@@ -1139,10 +1159,19 @@
           "skillId": 13501301,
           "timelineId": 0
         }
+      ],
+      "skins": [
+        {
+          "id": 20500101,
+          "label": "Prismatic 1",
+          "textures": {
+            "battle": "skins/super-20500101-battle.png",
+            "showcase": "skins/super-20500101-showcase.png"
+          }
+        }
       ]
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205001,
   "sourceVersion": "v0.5.417_251"
 }

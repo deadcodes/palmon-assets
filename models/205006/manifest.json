@@ -449,7 +449,8 @@
           "skillId": 13506301,
           "timelineId": 0
         }
-      ]
+      ],
+      "skins": []
     },
     "evolved": {
       "battlePrefab": "models/prefabs/p0311_pal_lod1_cd",
@@ -1008,7 +1009,8 @@
           "skillId": 13506301,
           "timelineId": 0
         }
-      ]
+      ],
+      "skins": []
     },
     "super": {
       "battlePrefab": "models/prefabs/p0312_pal_lod1_cd",
@@ -1462,10 +1464,10 @@
           "skillId": 13506301,
           "timelineId": 0
         }
-      ]
+      ],
+      "skins": []
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205006,
   "sourceVersion": "v0.5.417_251"
 }

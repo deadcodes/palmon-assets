@@ -412,7 +412,8 @@
           "skillId": 13513301,
           "timelineId": 0
         }
-      ]
+      ],
+      "skins": []
     },
     "evolved": {
       "battlePrefab": "models/prefabs/p0291_pal_lod1_cd",
@@ -833,10 +834,10 @@
           "skillId": 13513301,
           "timelineId": 0
         }
-      ]
+      ],
+      "skins": []
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205013,
   "skippedForms": {
     "super": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)"

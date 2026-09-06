@@ -436,6 +436,22 @@
           "skillId": 13512201,
           "timelineId": 88
         }
+      ],
+      "skins": [
+        {
+          "id": 20501201,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/base-20501201-showcase.png"
+          }
+        },
+        {
+          "id": 20501202,
+          "label": "Prismatic 2",
+          "textures": {
+            "showcase": "skins/base-20501202-showcase.png"
+          }
+        }
       ]
     },
     "evolved": {
@@ -864,6 +880,22 @@
           "showType": 2,
           "skillId": 13512201,
           "timelineId": 172
+        }
+      ],
+      "skins": [
+        {
+          "id": 20501201,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/evolved-20501201-showcase.png"
+          }
+        },
+        {
+          "id": 20501202,
+          "label": "Prismatic 2",
+          "textures": {
+            "showcase": "skins/evolved-20501202-showcase.png"
+          }
         }
       ]
     },
@@ -1299,10 +1331,27 @@
           "skillId": 13512201,
           "timelineId": 195
         }
+      ],
+      "skins": [
+        {
+          "id": 20501201,
+          "label": "Prismatic 1",
+          "textures": {
+            "battle": "skins/super-20501201-battle.png",
+            "showcase": "skins/super-20501201-showcase.png"
+          }
+        },
+        {
+          "id": 20501202,
+          "label": "Prismatic 2",
+          "textures": {
+            "battle": "skins/super-20501202-battle.png",
+            "showcase": "skins/super-20501202-showcase.png"
+          }
+        }
       ]
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205012,
   "sourceVersion": "v0.5.417_251"
 }

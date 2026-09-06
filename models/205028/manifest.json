@@ -347,6 +347,15 @@
           "skillId": 13528301,
           "timelineId": 0
         }
+      ],
+      "skins": [
+        {
+          "id": 20502801,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/base-20502801-showcase.png"
+          }
+        }
       ]
     },
     "evolved": {
@@ -723,10 +732,18 @@
           "skillId": 13528301,
           "timelineId": 0
         }
+      ],
+      "skins": [
+        {
+          "id": 20502801,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/evolved-20502801-showcase.png"
+          }
+        }
       ]
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205028,
   "skippedForms": {
     "super": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)"
