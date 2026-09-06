@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv438",
+    "new": "rv439"
+  },
+  "generatedAtUtc": "2026-09-06T11:13:14Z",
+  "generator": "summarize-changelog skill (Claude)",
+  "title": "Peak Palosseum text tweaks",
+  "summary": "This version only reworded two Peak Palosseum messages: the tier-promotion confirmation now says entering the higher tier resets your points and rank, and the round-result mail no longer repeats the round number. No palmons, skills, items or systems changed.",
+  "highlights": [
+    "Tier-up prompt reworded: \"Advancing to the higher tier Palosseum\" is now \"Entering the higher tier Palosseum\"; it still warns that points and rank reset.",
+    "Peak Palosseum result mail simplified: the \"(X)\" round marker is dropped and the sentence reads as one line congratulating your rank."
+  ],
+  "categories": [
+    {
+      "title": "Text & Localization",
+      "count": 2
+    }
+  ]
+}
