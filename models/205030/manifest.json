@@ -187,11 +187,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0510_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -199,6 +201,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -208,7 +211,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -229,7 +240,11 @@
                     "prefab": "models/prefabs/gfx_0510_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 178,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0510_pal_lod1_cd_attack_zd",
                   "speed": 10.0
                 }
@@ -237,6 +252,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.7
             },
             {
@@ -244,14 +260,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.7
             }
           ],
+          "damageTimes": [
+            0.9
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Candleflame Orb",
@@ -266,11 +288,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0510_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -278,6 +302,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -287,7 +312,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -308,7 +341,11 @@
                     "prefab": "models/prefabs/gfx_0510_pal_lod1_cd_skill_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 179,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -316,6 +353,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.1
             },
             {
@@ -323,14 +361,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 3.4
             }
           ],
+          "damageTimes": [
+            2.1
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Jack-o'-Smash",
@@ -342,6 +386,7 @@
       "skins": []
     }
   },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205030,
   "skippedForms": {
     "evolved": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)",

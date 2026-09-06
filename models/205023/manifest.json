@@ -170,11 +170,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0550_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -182,11 +184,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0550_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -194,6 +198,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -203,7 +208,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -224,7 +237,11 @@
                     "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 135,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -232,6 +249,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.9
             },
             {
@@ -239,14 +257,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.7
             }
           ],
+          "damageTimes": [
+            0.9
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Icicle Barrage",
@@ -261,11 +285,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0550_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -273,11 +299,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0550_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -285,11 +313,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0550_UISONW",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -297,6 +327,7 @@
               "actionType": 9,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
@@ -323,6 +354,7 @@
                   "scale": 1.0
                 }
               ],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -330,6 +362,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -339,7 +372,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -360,7 +401,11 @@
                     "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 136,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -368,6 +413,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 3.6
             },
             {
@@ -375,14 +421,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.8
             }
           ],
+          "damageTimes": [
+            3.6
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Frostwing Blast",
@@ -392,6 +444,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Dragon's Roar",
@@ -580,11 +634,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0551_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -592,11 +648,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0551_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -604,6 +662,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -613,7 +672,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -634,7 +701,11 @@
                     "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 137,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -642,6 +713,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.7
             },
             {
@@ -649,14 +721,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.7
             }
           ],
+          "damageTimes": [
+            0.7
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Icicle Barrage",
@@ -671,11 +749,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0551_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -683,11 +763,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0551_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -695,11 +777,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0550_UISONW",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -707,6 +791,7 @@
               "actionType": 9,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
@@ -733,6 +818,7 @@
                   "scale": 1.0
                 }
               ],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -740,6 +826,7 @@
               "actionType": 9,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
@@ -766,6 +853,7 @@
                   "scale": 1.0
                 }
               ],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -773,6 +861,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -782,7 +871,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -803,7 +900,11 @@
                     "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 138,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -811,6 +912,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 3.0
             },
             {
@@ -818,14 +920,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.8
             }
           ],
+          "damageTimes": [
+            3.0
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Frostwing Blast",
@@ -835,6 +943,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Dragon's Roar",
@@ -846,6 +956,7 @@
       "skins": []
     }
   },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205023,
   "skippedForms": {
     "super": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)"

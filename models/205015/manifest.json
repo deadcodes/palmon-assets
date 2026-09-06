@@ -186,11 +186,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0410_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -198,11 +200,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0410_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -210,6 +214,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -219,7 +224,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -240,7 +253,11 @@
                     "prefab": "models/prefabs/gfx_0410_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 97,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0410_pal_lod1_cd_attack",
                   "speed": 10.0
                 }
@@ -248,6 +265,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.6
             },
             {
@@ -255,14 +273,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.5
             }
           ],
+          "damageTimes": [
+            0.8
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Fatal Flier",
@@ -277,11 +301,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0410_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -289,11 +315,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0410_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -301,6 +329,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -310,7 +339,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -331,7 +368,11 @@
                     "prefab": "models/prefabs/gfx_0410_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 98,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0410_pal_lod1_cd_attack",
                   "speed": 10.0
                 }
@@ -339,6 +380,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.5
             },
             {
@@ -346,14 +388,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.8
             }
           ],
+          "damageTimes": [
+            1.6
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Blade Vortex",
@@ -363,6 +411,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Predator Instincts",
@@ -573,11 +623,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0411_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -585,11 +637,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0411_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -597,6 +651,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -606,7 +661,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -627,7 +690,11 @@
                     "prefab": "models/prefabs/gfx_0411_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 131,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0411_pal_lod1_cd_attack_zd",
                   "speed": 10.0
                 }
@@ -635,6 +702,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.6
             },
             {
@@ -642,14 +710,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.5
             }
           ],
+          "damageTimes": [
+            0.8
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Fatal Flier",
@@ -664,11 +738,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0411_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -676,11 +752,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0411_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -688,6 +766,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -697,7 +776,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -718,7 +805,11 @@
                     "prefab": "models/prefabs/gfx_0411_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 132,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0411_pal_lod1_cd_attack_zd",
                   "speed": 10.0
                 }
@@ -726,6 +817,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.7
             },
             {
@@ -733,14 +825,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.8
             }
           ],
+          "damageTimes": [
+            1.8
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Blade Vortex",
@@ -750,6 +848,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Predator Instincts",
@@ -778,6 +878,7 @@
       ]
     }
   },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205015,
   "skippedForms": {
     "super": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)"
