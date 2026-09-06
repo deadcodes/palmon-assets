@@ -362,6 +362,15 @@
           "skillId": 13510201,
           "timelineId": 84
         }
+      ],
+      "skins": [
+        {
+          "id": 20501101,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/base-20501101-showcase.png"
+          }
+        }
       ]
     },
     "evolved": {
@@ -719,6 +728,15 @@
           "skillId": 13510201,
           "timelineId": 150
         }
+      ],
+      "skins": [
+        {
+          "id": 20501101,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/evolved-20501101-showcase.png"
+          }
+        }
       ]
     },
     "super": {
@@ -1050,10 +1068,18 @@
           "skillId": 13510201,
           "timelineId": 201
         }
+      ],
+      "skins": [
+        {
+          "id": 20501101,
+          "label": "Prismatic 1",
+          "textures": {
+            "showcase": "skins/super-20501101-showcase.png"
+          }
+        }
       ]
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205011,
   "sourceVersion": "v0.5.417_251"
 }
