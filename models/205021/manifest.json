@@ -941,7 +941,7 @@
         "nodes": 135,
         "triangles": 23236
       },
-      "name": "",
+      "name": "Scarvulpine",
       "persistentEffect": null,
       "prefab": "models/prefabs/p0452_pal",
       "skills": [
@@ -1130,7 +1130,6 @@
       "skins": []
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205021,
   "sourceVersion": "v0.5.417_251"
 }
