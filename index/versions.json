@@ -487,6 +487,27 @@
     "pair": "rv440",
     "path": "changelogs/rv440/changelog.json"
    }
+  },
+  {
+   "label": "rv441",
+   "tag": "rv441",
+   "order": 441,
+   "publishedAtUtc": "2026-09-06T11:09:35.529266+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5530,
+    "sprites": 7328,
+    "builder": 0,
+    "added": 0,
+    "modified": 0,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": {
+    "pair": "rv441",
+    "path": "changelogs/rv441/changelog.json"
+   }
   }
  ]
 }
