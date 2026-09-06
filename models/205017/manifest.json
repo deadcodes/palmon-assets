@@ -180,11 +180,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0400_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -192,11 +194,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0400_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -204,6 +208,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -213,7 +218,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -234,7 +247,11 @@
                     "prefab": "models/prefabs/gfx_0400_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 99,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -242,6 +259,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.2
             },
             {
@@ -249,14 +267,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.3
             }
           ],
+          "damageTimes": [
+            1.2
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Fiery Charge",
@@ -271,11 +295,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0400_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -283,11 +309,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0400_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -295,6 +323,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -304,7 +333,15 @@
                     0.0,
                     -3.0
                   ],
+                  "count": 4,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -325,7 +362,11 @@
                     "prefab": "models/prefabs/gfx_0400_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 100,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0400_pal_lod1_cd_skill_zd",
                   "speed": 10.0
                 }
@@ -333,6 +374,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.1
             },
             {
@@ -340,14 +382,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.1
             }
           ],
+          "damageTimes": [
+            2.8
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Blazing Volley",
@@ -357,6 +405,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Blazing Crescendo",
@@ -557,11 +607,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0401_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -569,11 +621,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0401_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -581,6 +635,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -590,7 +645,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -611,7 +674,11 @@
                     "prefab": "models/prefabs/gfx_0401_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 126,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -619,6 +686,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.2
             },
             {
@@ -626,14 +694,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.3
             }
           ],
+          "damageTimes": [
+            1.2
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Fiery Charge",
@@ -648,11 +722,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0401_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -660,11 +736,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0401_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -672,6 +750,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -681,7 +760,15 @@
                     0.0,
                     -3.0
                   ],
+                  "count": 4,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -702,7 +789,11 @@
                     "prefab": "models/prefabs/gfx_0401_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 127,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0401_pal_lod1_cd_skill_zd",
                   "speed": 10.0
                 }
@@ -710,6 +801,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.8
             },
             {
@@ -717,14 +809,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.1
             }
           ],
+          "damageTimes": [
+            3.5
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Blazing Volley",
@@ -734,6 +832,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Blazing Crescendo",
@@ -931,11 +1031,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0402_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -943,11 +1045,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0402_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -955,6 +1059,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -964,7 +1069,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -985,7 +1098,11 @@
                     "prefab": "models/prefabs/gfx_0402_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 182,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -993,6 +1110,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.1
             },
             {
@@ -1000,14 +1118,18 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.3
             }
           ],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Fiery Charge",
@@ -1022,11 +1144,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0402_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -1034,11 +1158,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0402_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -1046,6 +1172,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -1055,7 +1182,15 @@
                     0.0,
                     -3.0
                   ],
+                  "count": 4,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -1076,7 +1211,11 @@
                     "prefab": "models/prefabs/gfx_0402_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 183,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0402_pal_lod1_cd_skill_zd",
                   "speed": 10.0
                 }
@@ -1084,6 +1223,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.8
             },
             {
@@ -1091,14 +1231,18 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.1
             }
           ],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Blazing Volley",
@@ -1108,6 +1252,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Blazing Crescendo",
@@ -1127,6 +1273,7 @@
       ]
     }
   },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205017,
   "sourceVersion": "v0.5.417_251"
 }

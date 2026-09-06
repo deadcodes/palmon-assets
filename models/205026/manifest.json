@@ -142,11 +142,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0580_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -154,11 +156,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0580_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -166,6 +170,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -175,7 +180,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -196,7 +209,11 @@
                     "prefab": "models/prefabs/gfx_0580_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 151,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -204,6 +221,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.0
             },
             {
@@ -211,14 +229,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.3
             }
           ],
+          "damageTimes": [
+            1.0
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Ember Strike",
@@ -233,11 +257,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0580_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -245,11 +271,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0580_skillA",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -257,11 +285,13 @@
               "actionType": 8,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.7
             },
             {
@@ -269,14 +299,18 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.9
             }
           ],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Inferno Ward",
@@ -286,6 +320,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Roaring Rage",
@@ -457,11 +493,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0581_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -469,11 +507,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0581_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -481,6 +521,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -490,7 +531,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -511,7 +560,11 @@
                     "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 152,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -519,6 +572,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.0
             },
             {
@@ -526,14 +580,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.3
             }
           ],
+          "damageTimes": [
+            1.0
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Ember Strike",
@@ -548,11 +608,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0581_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -560,11 +622,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0581_skillA",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -572,11 +636,13 @@
               "actionType": 8,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.7
             },
             {
@@ -584,14 +650,18 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.9
             }
           ],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Inferno Ward",
@@ -601,6 +671,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Roaring Rage",
@@ -612,6 +684,7 @@
       "skins": []
     }
   },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205026,
   "skippedForms": {
     "super": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)"

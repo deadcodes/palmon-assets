@@ -189,11 +189,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0450_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -201,11 +203,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0450_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -213,6 +217,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -222,7 +227,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": null,
@@ -243,7 +256,11 @@
                     "prefab": "models/prefabs/gfx_0450_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 111,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0450_pal_lod1_cd_zd",
                   "speed": 10.0
                 }
@@ -251,6 +268,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.6
             },
             {
@@ -258,14 +276,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.5
             }
           ],
+          "damageTimes": [
+            0.9
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Foxfire",
@@ -280,11 +304,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0450_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -292,11 +318,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0450_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -304,6 +332,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -313,7 +342,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": null,
@@ -334,7 +371,11 @@
                     "prefab": "models/prefabs/gfx_0450_pal_lod1_cd_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 112,
+                  "interval": 0.2,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0450_pal_lod1_cd_skill1",
                   "speed": 10.0
                 }
@@ -342,6 +383,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.2
             },
             {
@@ -349,14 +391,24 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.0
             }
           ],
+          "damageTimes": [
+            2.5,
+            2.7,
+            2.9,
+            3.1,
+            3.3
+          ],
+          "damageType": 2,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Burning Tails",
@@ -366,6 +418,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Spectral Flames",
@@ -568,11 +622,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0451_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -580,11 +636,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0451_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -592,6 +650,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -601,7 +660,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -622,7 +689,11 @@
                     "prefab": "models/prefabs/gfx_0451_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 166,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0451_pal_lod1_cd_attack_zd",
                   "speed": 10.0
                 }
@@ -630,6 +701,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.8
             },
             {
@@ -637,14 +709,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.5
             }
           ],
+          "damageTimes": [
+            1.0
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Foxfire",
@@ -659,11 +737,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0451_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -671,11 +751,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0451_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -683,6 +765,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -692,7 +775,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -713,7 +804,11 @@
                     "prefab": "models/prefabs/gfx_0451_pal_lod1_cd_skill_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 167,
+                  "interval": 0.2,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -721,6 +816,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.6
             },
             {
@@ -728,14 +824,24 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.0
             }
           ],
+          "damageTimes": [
+            2.6,
+            2.8,
+            3.0,
+            3.2,
+            3.4
+          ],
+          "damageType": 2,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Burning Tails",
@@ -745,6 +851,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Spectral Flames",
@@ -952,11 +1060,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0452_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -964,6 +1074,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -973,7 +1084,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -994,7 +1113,11 @@
                     "prefab": "models/prefabs/gfx_common_hit_fire_red_01_cd",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 242,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0451_pal_lod1_cd_attack_zd",
                   "speed": 10.0
                 }
@@ -1002,6 +1125,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.6
             },
             {
@@ -1009,14 +1133,18 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.5
             }
           ],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Foxfire",
@@ -1031,11 +1159,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0452_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -1043,6 +1173,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -1052,9 +1183,21 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": null,
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 243,
+                  "interval": 0.0,
+                  "moveType": "none",
                   "prefab": null,
                   "speed": 0.0
                 }
@@ -1062,6 +1205,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.1
             },
             {
@@ -1069,6 +1213,7 @@
               "actionType": 5,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
@@ -1095,6 +1240,7 @@
                   "scale": 1.0
                 }
               ],
+              "target": "targets",
               "time": 2.1
             },
             {
@@ -1102,14 +1248,18 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.0
             }
           ],
+          "damageTimes": [],
+          "damageType": 2,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Burning Tails",
@@ -1119,6 +1269,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Spectral Flames",
@@ -1130,6 +1282,7 @@
       "skins": []
     }
   },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205021,
   "sourceVersion": "v0.5.417_251"
 }

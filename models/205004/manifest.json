@@ -175,11 +175,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0320_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -187,11 +189,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0320_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -199,6 +203,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -208,7 +213,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -229,7 +242,11 @@
                     "prefab": "models/prefabs/gfx_common_hit_lightning_02_cd",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 62,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0320_pal_lod1_cd_zd",
                   "speed": 15.0
                 }
@@ -237,6 +254,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.8
             },
             {
@@ -244,14 +262,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.7
             }
           ],
+          "damageTimes": [
+            1.1
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Lightning Bolt",
@@ -266,11 +290,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0320_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -278,11 +304,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0320_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -290,6 +318,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -299,7 +328,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -320,7 +357,11 @@
                     "prefab": "models/prefabs/gfx_common_hit_lightning_02_cd",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 63,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0320_pal_lod1_cd_zd",
                   "speed": 10.0
                 }
@@ -328,6 +369,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.6
             },
             {
@@ -335,6 +377,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 2,
               "audio": null,
               "bullets": [
                 {
@@ -344,7 +387,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -365,7 +416,11 @@
                     "prefab": "models/prefabs/gfx_common_hit_lightning_02_cd",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 63,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0320_pal_lod1_cd_zd",
                   "speed": 10.0
                 }
@@ -373,6 +428,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.9
             },
             {
@@ -380,6 +436,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 3,
               "audio": null,
               "bullets": [
                 {
@@ -389,7 +446,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -410,7 +475,11 @@
                     "prefab": "models/prefabs/gfx_common_hit_lightning_02_cd",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 63,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0320_pal_lod1_cd_zd",
                   "speed": 10.0
                 }
@@ -418,6 +487,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 3.2
             },
             {
@@ -425,14 +495,22 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.5
             }
           ],
+          "damageTimes": [
+            3.1,
+            3.4,
+            3.7
+          ],
+          "damageType": 2,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Electric Burst",
@@ -442,6 +520,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Stinging Spark",
@@ -635,11 +715,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0321_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -647,11 +729,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0321_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -659,6 +743,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -668,7 +753,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -689,7 +782,11 @@
                     "prefab": "models/prefabs/gfx_0321_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 105,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0321_pal_lod1_cd_zd",
                   "speed": 10.0
                 }
@@ -697,6 +794,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.4
             },
             {
@@ -704,14 +802,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.7
             }
           ],
+          "damageTimes": [
+            0.7
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Lightning Bolt",
@@ -726,11 +830,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0321_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -738,11 +844,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0321_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -750,6 +858,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -759,7 +868,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -780,7 +897,11 @@
                     "prefab": "models/prefabs/gfx_0321_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 106,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0321_pal_lod1_cd_zd",
                   "speed": 10.0
                 }
@@ -788,6 +909,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.4
             },
             {
@@ -795,6 +917,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 2,
               "audio": null,
               "bullets": [
                 {
@@ -804,7 +927,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -825,7 +956,11 @@
                     "prefab": "models/prefabs/gfx_0321_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 106,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0321_pal_lod1_cd_zd",
                   "speed": 10.0
                 }
@@ -833,6 +968,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.7
             },
             {
@@ -840,6 +976,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 3,
               "audio": null,
               "bullets": [
                 {
@@ -849,7 +986,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -870,7 +1015,11 @@
                     "prefab": "models/prefabs/gfx_0321_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 106,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0321_pal_lod1_cd_zd",
                   "speed": 10.0
                 }
@@ -878,6 +1027,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.1
             },
             {
@@ -885,14 +1035,22 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 4.5
             }
           ],
+          "damageTimes": [
+            0.9,
+            1.2,
+            1.6
+          ],
+          "damageType": 2,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Electric Burst",
@@ -902,6 +1060,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Stinging Spark",
@@ -1115,11 +1275,13 @@
               "actionType": 2,
               "anim": "attack",
               "animType": 3,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0322_pal_lod_attack",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -1127,11 +1289,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0322_attack",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -1139,6 +1303,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -1148,7 +1313,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 1,
+                  "degree": 0.0,
                   "duration": 2.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -1169,7 +1342,11 @@
                     "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 180,
+                  "interval": 0.0,
+                  "moveType": "linear",
                   "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_attack_zd",
                   "speed": 10.0
                 }
@@ -1177,6 +1354,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.6
             },
             {
@@ -1184,14 +1362,20 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.5
             }
           ],
+          "damageTimes": [
+            0.8
+          ],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Lightning Bolt",
@@ -1206,11 +1390,13 @@
               "actionType": 2,
               "anim": "skillA",
               "animType": 4,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": "a0322_pal_lod_skilla",
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -1218,11 +1404,13 @@
               "actionType": 4,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": "audio/p0322_skill",
               "bullets": [],
               "clip": null,
               "duration": 10.0,
               "effects": [],
+              "target": "self",
               "time": 0.0
             },
             {
@@ -1230,6 +1418,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [
                 {
@@ -1239,7 +1428,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -1260,7 +1457,11 @@
                     "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 181,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_skill_zd",
                   "speed": 10.0
                 }
@@ -1268,6 +1469,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.4
             },
             {
@@ -1275,6 +1477,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 2,
               "audio": null,
               "bullets": [
                 {
@@ -1284,7 +1487,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -1305,7 +1516,11 @@
                     "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 181,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_skill_zd",
                   "speed": 10.0
                 }
@@ -1313,6 +1528,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 0.7
             },
             {
@@ -1320,6 +1536,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 3,
               "audio": null,
               "bullets": [
                 {
@@ -1329,7 +1546,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -1350,7 +1575,11 @@
                     "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 181,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_skill_zd",
                   "speed": 10.0
                 }
@@ -1358,6 +1587,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 1.1
             },
             {
@@ -1365,6 +1595,7 @@
               "actionType": 3,
               "anim": "run",
               "animType": 2,
+              "attackNum": 4,
               "audio": null,
               "bullets": [
                 {
@@ -1374,7 +1605,15 @@
                     0.0,
                     0.0
                   ],
+                  "count": 3,
+                  "degree": 0.0,
                   "duration": 3.0,
+                  "fireType": "linear",
+                  "followOffset": [
+                    0.0,
+                    0.0
+                  ],
+                  "followTarget": "target",
                   "hitEffect": {
                     "audio": null,
                     "bindPoint": "HH_hit",
@@ -1395,7 +1634,11 @@
                     "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_attack_hit",
                     "scale": 1.0
                   },
+                  "hitHeight": 0.0,
+                  "hitType": "lockTarget",
                   "id": 181,
+                  "interval": 0.0,
+                  "moveType": "parabola",
                   "prefab": "models/prefabs/gfx_0322_pal_lod1_cd_skill_zd",
                   "speed": 10.0
                 }
@@ -1403,6 +1646,7 @@
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.0
             },
             {
@@ -1410,14 +1654,23 @@
               "actionType": 6,
               "anim": "run",
               "animType": 2,
+              "attackNum": 1,
               "audio": null,
               "bullets": [],
               "clip": null,
               "duration": 0.0,
               "effects": [],
+              "target": "self",
               "time": 2.8
             }
           ],
+          "damageTimes": [
+            0.9,
+            1.2,
+            1.6,
+            2.5
+          ],
+          "damageType": 2,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Electric Burst",
@@ -1427,6 +1680,8 @@
         },
         {
           "actions": [],
+          "damageTimes": [],
+          "damageType": 1,
           "duration": 0.0,
           "hitEffect": null,
           "name": "Stinging Spark",
@@ -1455,6 +1710,7 @@
       ]
     }
   },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205004,
   "sourceVersion": "v0.5.417_251"
 }
