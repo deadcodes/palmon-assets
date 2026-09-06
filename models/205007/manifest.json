@@ -1,0 +1,1192 @@
+{
+  "coordinateSystem": "glTF right-handed Y-up (converted from Unity)",
+  "forms": {
+    "base": {
+      "battlePrefab": "models/prefabs/p0220_pal_lod1_cd",
+      "battleScale": 1.2,
+      "bindPoints": [
+        "HH_LHand",
+        "HH_RHand",
+        "HH_back",
+        "HH_head",
+        "HH_hit",
+        "HH_muzzle",
+        "HH_root",
+        "HH_sleep"
+      ],
+      "clips": [
+        {
+          "duration": 1.3333,
+          "file": "base.glb",
+          "label": "attack",
+          "lod": true,
+          "loop": false,
+          "name": "a0220_pal_lod_attack",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.6667,
+          "file": "base.glb",
+          "label": "eat",
+          "lod": true,
+          "loop": true,
+          "name": "a0220_pal_lod_eat",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.6,
+          "file": "base.glb",
+          "label": "idle",
+          "lod": true,
+          "loop": true,
+          "name": "a0220_pal_lod_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.0,
+          "file": "base.glb",
+          "label": "power",
+          "lod": true,
+          "loop": false,
+          "name": "a0220_pal_lod_power",
+          "rig": "showcase"
+        },
+        {
+          "duration": 0.6,
+          "file": "base.glb",
+          "label": "run",
+          "lod": true,
+          "loop": true,
+          "name": "a0220_pal_lod_run",
+          "rig": "showcase"
+        },
+        {
+          "duration": 3.6667,
+          "file": "base.glb",
+          "label": "skilla",
+          "lod": true,
+          "loop": false,
+          "name": "a0220_pal_lod_skilla",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.8667,
+          "file": "base.glb",
+          "label": "sleep",
+          "lod": true,
+          "loop": true,
+          "name": "a0220_pal_lod_sleep",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.2667,
+          "file": "base.glb",
+          "label": "walk",
+          "lod": true,
+          "loop": true,
+          "name": "a0220_pal_lod_walk",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.6,
+          "file": "base.glb",
+          "label": "idle",
+          "lod": false,
+          "loop": true,
+          "name": "a0220_pal_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 9.4667,
+          "file": "base.glb",
+          "label": "idlea",
+          "lod": false,
+          "loop": true,
+          "name": "a0220_pal_idlea",
+          "rig": "showcase"
+        }
+      ],
+      "display": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 1.0
+      },
+      "displayPrefab": "models/prefabs/p0220_pal",
+      "effects": {
+        "models/prefabs/gfx_0220_pal_lod1_cd_attack_hit": {
+          "anyLooping": false,
+          "estimatedDuration": 6.35,
+          "file": "effects/gfx_0220_pal_lod1_cd_attack_hit.json",
+          "particleSystems": 8,
+          "prefab": "models/prefabs/gfx_0220_pal_lod1_cd_attack_hit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_300",
+            "et_ani_305",
+            "et_ani_382",
+            "et_ani_408",
+            "et_dilie_326",
+            "et_dilie_331",
+            "et_glow_38",
+            "et_glow_80"
+          ]
+        },
+        "models/prefabs/gfx_0220_pal_lod1_cd_skillhit": {
+          "anyLooping": false,
+          "estimatedDuration": 6.65,
+          "file": "effects/gfx_0220_pal_lod1_cd_skillhit.json",
+          "particleSystems": 10,
+          "prefab": "models/prefabs/gfx_0220_pal_lod1_cd_skillhit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_300",
+            "et_ani_05",
+            "et_ani_303",
+            "et_ani_305",
+            "et_ani_99",
+            "et_dilie_10",
+            "et_dilie_14",
+            "et_dilie_300",
+            "et_glow_300",
+            "et_glow_301",
+            "et_glow_38"
+          ]
+        }
+      },
+      "file": "base.glb",
+      "files": {
+        "showcase": "base.glb"
+      },
+      "mesh": {
+        "joints": 36,
+        "nodes": 49,
+        "triangles": 4752
+      },
+      "name": "Abuzzinian",
+      "persistentEffect": null,
+      "prefab": "models/prefabs/p0220_pal",
+      "skills": [
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "attack",
+              "animType": 3,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0220_pal_lod_attack",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0220_attack",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 2.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 0.8,
+                    "hitHeight": 0.0,
+                    "id": 147,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0220_pal_lod1_cd_attack_hit",
+                    "scale": 1.0
+                  },
+                  "id": 69,
+                  "prefab": null,
+                  "speed": 10.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.5
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 1.3
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Electric Surge",
+          "showType": 1,
+          "skillId": 13507101,
+          "timelineId": 69
+        },
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "skillA",
+              "animType": 4,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0220_pal_lod_skilla",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0220_skill",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 2.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 1.6,
+                    "hitHeight": 0.0,
+                    "id": 63,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0220_pal_lod1_cd_skillhit",
+                    "scale": 1.0
+                  },
+                  "id": 70,
+                  "prefab": null,
+                  "speed": 0.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 2.6
+            },
+            {
+              "action": "Effect",
+              "actionType": 5,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [
+                {
+                  "audio": null,
+                  "bindPoint": "HH_hit",
+                  "bindPoint1": null,
+                  "duration": 1.6,
+                  "hitHeight": 0.0,
+                  "id": 63,
+                  "offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "offset1": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "prefab": "models/prefabs/gfx_0220_pal_lod1_cd_skillhit",
+                  "scale": 1.0
+                }
+              ],
+              "time": 2.6
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 3.7
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Nightstorm",
+          "showType": 2,
+          "skillId": 13507201,
+          "timelineId": 70
+        },
+        {
+          "actions": [],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Phantom Step",
+          "showType": 3,
+          "skillId": 13507301,
+          "timelineId": 0
+        }
+      ]
+    },
+    "evolved": {
+      "battlePrefab": "models/prefabs/p0221_pal_lod1_cd",
+      "battleScale": 1.0,
+      "bindPoints": [
+        "HH_LHand",
+        "HH_RHand",
+        "HH_back",
+        "HH_head",
+        "HH_hit",
+        "HH_mouth",
+        "HH_muzzle",
+        "HH_root",
+        "HH_sleep"
+      ],
+      "clips": [
+        {
+          "duration": 1.3333,
+          "file": "evolved.glb",
+          "label": "attack",
+          "lod": true,
+          "loop": false,
+          "name": "a0221_pal_lod_attack",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.6667,
+          "file": "evolved.glb",
+          "label": "eat",
+          "lod": true,
+          "loop": true,
+          "name": "a0221_pal_lod_eat",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.6,
+          "file": "evolved.glb",
+          "label": "idle",
+          "lod": true,
+          "loop": true,
+          "name": "a0221_pal_lod_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.0,
+          "file": "evolved.glb",
+          "label": "power",
+          "lod": true,
+          "loop": false,
+          "name": "a0221_pal_lod_power",
+          "rig": "showcase"
+        },
+        {
+          "duration": 0.5333,
+          "file": "evolved.glb",
+          "label": "run",
+          "lod": true,
+          "loop": true,
+          "name": "a0221_pal_lod_run",
+          "rig": "showcase"
+        },
+        {
+          "duration": 3.6667,
+          "file": "evolved.glb",
+          "label": "skilla",
+          "lod": true,
+          "loop": false,
+          "name": "a0221_pal_lod_skilla",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.3333,
+          "file": "evolved.glb",
+          "label": "sleep",
+          "lod": true,
+          "loop": true,
+          "name": "a0221_pal_lod_sleep",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.0667,
+          "file": "evolved.glb",
+          "label": "walk",
+          "lod": true,
+          "loop": true,
+          "name": "a0221_pal_lod_walk",
+          "rig": "showcase"
+        },
+        {
+          "duration": 1.6,
+          "file": "evolved.glb",
+          "label": "idle",
+          "lod": false,
+          "loop": true,
+          "name": "a0221_pal_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 4.3333,
+          "file": "evolved.glb",
+          "label": "idlea",
+          "lod": false,
+          "loop": true,
+          "name": "a0221_pal_idlea",
+          "rig": "showcase"
+        }
+      ],
+      "display": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 1.0
+      },
+      "displayPrefab": "models/prefabs/p0221_pal",
+      "effects": {
+        "models/prefabs/gfx_0221_pal_lod1_cd_attack_hit": {
+          "anyLooping": false,
+          "estimatedDuration": 6.35,
+          "file": "effects/gfx_0221_pal_lod1_cd_attack_hit.json",
+          "particleSystems": 11,
+          "prefab": "models/prefabs/gfx_0221_pal_lod1_cd_attack_hit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_300",
+            "et_ani_104",
+            "et_ani_305",
+            "et_ani_307",
+            "et_ani_382",
+            "et_ani_408",
+            "et_ani_72",
+            "et_dilie_326",
+            "et_dilie_331",
+            "et_glow_38",
+            "et_glow_80"
+          ]
+        },
+        "models/prefabs/gfx_0221_pal_lod1_cd_skillhit": {
+          "anyLooping": false,
+          "estimatedDuration": 6.4,
+          "file": "effects/gfx_0221_pal_lod1_cd_skillhit.json",
+          "particleSystems": 10,
+          "prefab": "models/prefabs/gfx_0221_pal_lod1_cd_skillhit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_300",
+            "e_trail_346",
+            "e_wenli_105",
+            "et_ani_305",
+            "et_ani_381",
+            "et_ani_382",
+            "et_dilie_10",
+            "et_dilie_14",
+            "et_dilie_301",
+            "et_dilie_310",
+            "et_glow_301",
+            "et_glow_38",
+            "et_glow_80"
+          ]
+        }
+      },
+      "file": "evolved.glb",
+      "files": {
+        "showcase": "evolved.glb"
+      },
+      "mesh": {
+        "joints": 61,
+        "nodes": 88,
+        "triangles": 7390
+      },
+      "name": "Servolt",
+      "persistentEffect": null,
+      "prefab": "models/prefabs/p0221_pal",
+      "skills": [
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "attack",
+              "animType": 3,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0221_pal_lod_attack",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0221_attack",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 2.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 1.0,
+                    "hitHeight": 0.0,
+                    "id": 148,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0221_pal_lod1_cd_attack_hit",
+                    "scale": 1.0
+                  },
+                  "id": 121,
+                  "prefab": null,
+                  "speed": 10.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.5
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 1.3
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Electric Surge",
+          "showType": 1,
+          "skillId": 13507101,
+          "timelineId": 127
+        },
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "skillA",
+              "animType": 4,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0221_pal_lod_skilla",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0221_skill",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 3.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 1.2,
+                    "hitHeight": 0.0,
+                    "id": 102,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0221_pal_lod1_cd_skillhit",
+                    "scale": 1.0
+                  },
+                  "id": 122,
+                  "prefab": null,
+                  "speed": 0.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 2.3
+            },
+            {
+              "action": "Effect",
+              "actionType": 5,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [
+                {
+                  "audio": null,
+                  "bindPoint": "HH_hit",
+                  "bindPoint1": null,
+                  "duration": 1.2,
+                  "hitHeight": 0.0,
+                  "id": 102,
+                  "offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "offset1": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "prefab": "models/prefabs/gfx_0221_pal_lod1_cd_skillhit",
+                  "scale": 1.0
+                }
+              ],
+              "time": 2.3
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 3.7
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Nightstorm",
+          "showType": 2,
+          "skillId": 13507201,
+          "timelineId": 128
+        },
+        {
+          "actions": [],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Phantom Step",
+          "showType": 3,
+          "skillId": 13507301,
+          "timelineId": 0
+        }
+      ]
+    },
+    "super": {
+      "battlePrefab": "models/prefabs/p0222_pal_lod1_cd",
+      "battleScale": 1.0,
+      "bindPoints": [
+        "HH_LHand",
+        "HH_RHand",
+        "HH_back",
+        "HH_head",
+        "HH_hit",
+        "HH_mouth",
+        "HH_muzzle",
+        "HH_root",
+        "HH_sleep"
+      ],
+      "clips": [
+        {
+          "duration": 1.3333,
+          "file": "super.battle.glb",
+          "label": "attack",
+          "lod": true,
+          "loop": false,
+          "name": "a0222_pal_lod_attack",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.6667,
+          "file": "super.battle.glb",
+          "label": "eat",
+          "lod": true,
+          "loop": true,
+          "name": "a0222_pal_lod_eat",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "super.battle.glb",
+          "label": "idle",
+          "lod": true,
+          "loop": true,
+          "name": "a0222_pal_lod_idle",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.0,
+          "file": "super.battle.glb",
+          "label": "power",
+          "lod": true,
+          "loop": false,
+          "name": "a0222_pal_lod_power",
+          "rig": "battle"
+        },
+        {
+          "duration": 0.5333,
+          "file": "super.battle.glb",
+          "label": "run",
+          "lod": true,
+          "loop": true,
+          "name": "a0222_pal_lod_run",
+          "rig": "battle"
+        },
+        {
+          "duration": 3.6667,
+          "file": "super.battle.glb",
+          "label": "skilla",
+          "lod": true,
+          "loop": false,
+          "name": "a0222_pal_lod_skilla",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "super.battle.glb",
+          "label": "sleep",
+          "lod": true,
+          "loop": true,
+          "name": "a0222_pal_lod_sleep",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.0667,
+          "file": "super.battle.glb",
+          "label": "walk",
+          "lod": true,
+          "loop": true,
+          "name": "a0222_pal_lod_walk",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "super.glb",
+          "label": "idle",
+          "lod": false,
+          "loop": true,
+          "name": "a0222_pal_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 7.8667,
+          "file": "super.glb",
+          "label": "idlea",
+          "lod": false,
+          "loop": true,
+          "name": "a0222_pal_idlea",
+          "rig": "showcase"
+        }
+      ],
+      "display": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 1.0
+      },
+      "displayPrefab": "models/prefabs/p0222_pal",
+      "effects": {
+        "models/prefabs/gfx_0221_pal_lod1_cd_attack_hit": {
+          "anyLooping": false,
+          "estimatedDuration": 6.35,
+          "file": "effects/gfx_0221_pal_lod1_cd_attack_hit.json",
+          "particleSystems": 11,
+          "prefab": "models/prefabs/gfx_0221_pal_lod1_cd_attack_hit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_300",
+            "et_ani_104",
+            "et_ani_305",
+            "et_ani_307",
+            "et_ani_382",
+            "et_ani_408",
+            "et_ani_72",
+            "et_dilie_326",
+            "et_dilie_331",
+            "et_glow_38",
+            "et_glow_80"
+          ]
+        },
+        "models/prefabs/gfx_0222_pal_lod1_cd_skillhit": {
+          "anyLooping": false,
+          "estimatedDuration": 6.15,
+          "file": "effects/gfx_0222_pal_lod1_cd_skillhit.json",
+          "particleSystems": 10,
+          "prefab": "models/prefabs/gfx_0222_pal_lod1_cd_skillhit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_300",
+            "et_ani_381",
+            "et_ani_382",
+            "et_ani_408",
+            "et_ani_58",
+            "et_ani_99",
+            "et_dilie_10",
+            "et_dilie_14",
+            "et_dilie_301",
+            "et_glow_301",
+            "et_glow_38"
+          ]
+        }
+      },
+      "file": "super.glb",
+      "files": {
+        "battle": "super.battle.glb",
+        "showcase": "super.glb"
+      },
+      "mesh": {
+        "joints": 52,
+        "nodes": 66,
+        "triangles": 10936
+      },
+      "name": "Thundermane",
+      "persistentEffect": null,
+      "prefab": "models/prefabs/p0222_pal",
+      "skills": [
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "attack",
+              "animType": 3,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0222_pal_lod_attack",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 2.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 1.0,
+                    "hitHeight": 0.0,
+                    "id": 212,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0221_pal_lod1_cd_attack_hit",
+                    "scale": 1.0
+                  },
+                  "id": 238,
+                  "prefab": null,
+                  "speed": 0.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.5
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 1.3
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Electric Surge",
+          "showType": 1,
+          "skillId": 13507101,
+          "timelineId": 249
+        },
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "skillA",
+              "animType": 4,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0222_pal_lod_skilla",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 3.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 1.2,
+                    "hitHeight": 0.0,
+                    "id": 213,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0222_pal_lod1_cd_skillhit",
+                    "scale": 1.0
+                  },
+                  "id": 239,
+                  "prefab": null,
+                  "speed": 0.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 2.2
+            },
+            {
+              "action": "Effect",
+              "actionType": 5,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [
+                {
+                  "audio": null,
+                  "bindPoint": "HH_hit",
+                  "bindPoint1": null,
+                  "duration": 1.2,
+                  "hitHeight": 0.0,
+                  "id": 213,
+                  "offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "offset1": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "prefab": "models/prefabs/gfx_0222_pal_lod1_cd_skillhit",
+                  "scale": 1.0
+                }
+              ],
+              "time": 2.2
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 3.7
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Nightstorm",
+          "showType": 2,
+          "skillId": 13507201,
+          "timelineId": 250
+        },
+        {
+          "actions": [],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Phantom Step",
+          "showType": 3,
+          "skillId": 13507301,
+          "timelineId": 0
+        }
+      ]
+    }
+  },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
+  "heroId": 205007,
+  "sourceVersion": "v0.5.417_251"
+}
