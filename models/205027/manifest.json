@@ -1038,9 +1038,9 @@
         "showcase": "super.glb"
       },
       "mesh": {
-        "joints": 5,
+        "joints": 123,
         "nodes": 142,
-        "triangles": 552
+        "triangles": 14890
       },
       "name": "Gnashswirl",
       "persistentEffect": null,
@@ -1307,7 +1307,6 @@
       "skins": []
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205027,
   "sourceVersion": "v0.5.417_251"
 }
