@@ -869,7 +869,7 @@
         "nodes": 139,
         "triangles": 15242
       },
-      "name": "",
+      "name": "Pharohound",
       "persistentEffect": null,
       "prefab": "models/prefabs/p0332_pal",
       "skills": [
@@ -1044,7 +1044,6 @@
       "skins": []
     }
   },
-  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
   "heroId": 205008,
   "sourceVersion": "v0.5.417_251"
 }
