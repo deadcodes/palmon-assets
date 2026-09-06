@@ -1494,7 +1494,7 @@
    "path": "sprites/A_UIChat/Fchat_Revision_14.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -1509,6 +1509,13 @@
      "bytes": 1186,
      "width": 69,
      "height": 67
+    },
+    {
+     "version": "rv439",
+     "sha256": "9237399e4edd6f4c8dc40df58a0e3c6dea1b799e1ad5bf9dcdeb0ea2e2cb5f09",
+     "bytes": 1198,
+     "width": 69,
+     "height": 67
     }
    ],
    "atlas": "A_UIChat"
@@ -1517,7 +1524,7 @@
    "path": "sprites/A_UIChat/Fchat_feedback_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -1532,6 +1539,13 @@
      "bytes": 6305,
      "width": 117,
      "height": 104
+    },
+    {
+     "version": "rv439",
+     "sha256": "a8b40e5096393809de342d9640ed69dc7972f27c255f4075507596f159792037",
+     "bytes": 6279,
+     "width": 117,
+     "height": 104
     }
    ],
    "atlas": "A_UIChat"
@@ -1540,7 +1554,7 @@
    "path": "sprites/A_UIChat/Fchat_pic_frame_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -1555,6 +1569,13 @@
      "bytes": 1587,
      "width": 140,
      "height": 180
+    },
+    {
+     "version": "rv439",
+     "sha256": "148bb2d116896e2109dfff0a5bc0ead12706e268430a26f7d94eff21f247e5d4",
+     "bytes": 1632,
+     "width": 140,
+     "height": 180
     }
    ],
    "atlas": "A_UIChat"
@@ -1563,7 +1584,7 @@
    "path": "sprites/A_UIChat/Fchat_tab_xin.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -1578,6 +1599,13 @@
      "bytes": 2235,
      "width": 50,
      "height": 49
+    },
+    {
+     "version": "rv439",
+     "sha256": "418bdde77e2575a45cfc1f223fa91c35058cc61136df84020762d9cd536a5f8f",
+     "bytes": 2151,
+     "width": 50,
+     "height": 49
     }
    ],
    "atlas": "A_UIChat"
@@ -1586,7 +1614,7 @@
    "path": "sprites/A_UIChat/Hero_Btn_switch.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -1599,6 +1627,13 @@
      "version": "rv435",
      "sha256": "c169e03a4a34d517cb1de6cd9dce434c941c06ba6a4c1ef8eb644813450406db",
      "bytes": 4653,
+     "width": 67,
+     "height": 65
+    },
+    {
+     "version": "rv439",
+     "sha256": "2a4201b219d5fd29149b8bc416bc41ea4a9e71f8df18b8d1e23b6dfde5d0bada",
+     "bytes": 4725,
      "width": 67,
      "height": 65
     }
@@ -1632,7 +1667,7 @@
    "path": "sprites/A_UIChat/chat_pic_defeat_es.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -1647,6 +1682,13 @@
      "bytes": 5576,
      "width": 178,
      "height": 39
+    },
+    {
+     "version": "rv439",
+     "sha256": "c1506ca1160e66c6449533c36f1f23d6ce18314b3372fd61e2fd3269f112c997",
+     "bytes": 5477,
+     "width": 178,
+     "height": 39
     }
    ],
    "atlas": "A_UIChat"
@@ -1655,7 +1697,7 @@
    "path": "sprites/A_UIChat/chat_pic_defeat_pl.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -1670,6 +1712,13 @@
      "bytes": 4476,
      "width": 152,
      "height": 37
+    },
+    {
+     "version": "rv439",
+     "sha256": "c6af2377c8f1b5add1099cba8da032c4040c0e7853635ebb5d60c4149b4c7b52",
+     "bytes": 4522,
+     "width": 152,
+     "height": 37
     }
    ],
    "atlas": "A_UIChat"
@@ -1678,7 +1727,7 @@
    "path": "sprites/A_UIChat/chat_tab_channel2_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -1691,6 +1740,13 @@
      "version": "rv435",
      "sha256": "b949e380041159bcaefc5f59315d889eb66a38e0f90ae769faf9442a71530c56",
      "bytes": 5962,
+     "width": 72,
+     "height": 89
+    },
+    {
+     "version": "rv439",
+     "sha256": "c4b6746e4dc02860a7aa684395df362933e68b2b069aa3f9627f1bf493752a33",
+     "bytes": 6350,
      "width": 72,
      "height": 89
     }

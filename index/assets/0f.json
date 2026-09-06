@@ -2113,7 +2113,7 @@
    "path": "sprites/A_UIChat/Fchat_Revision_6.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2128,6 +2128,13 @@
      "bytes": 1460,
      "width": 56,
      "height": 58
+    },
+    {
+     "version": "rv439",
+     "sha256": "f517b584d067fde1bf0a540589301c7d2d18849a84ee301b5714fd52249f129e",
+     "bytes": 1516,
+     "width": 56,
+     "height": 58
     }
    ],
    "atlas": "A_UIChat"
@@ -2136,7 +2143,7 @@
    "path": "sprites/A_UIChat/Fchat_feedback_8.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2151,6 +2158,13 @@
      "bytes": 3897,
      "width": 102,
      "height": 98
+    },
+    {
+     "version": "rv439",
+     "sha256": "e8d2ef49f3b3c793f76bbca59cd54a8ea72a9acad2e7556c889f4312bbf53780",
+     "bytes": 3982,
+     "width": 102,
+     "height": 98
     }
    ],
    "atlas": "A_UIChat"
@@ -2159,7 +2173,7 @@
    "path": "sprites/A_UIChat/Fchat_tab_31.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2172,6 +2186,13 @@
      "version": "rv435",
      "sha256": "9e0d75fd69d29fdc48c829819a4a67e0dcb4cd52a84bb8f72f112372616aeb47",
      "bytes": 1179,
+     "width": 76,
+     "height": 76
+    },
+    {
+     "version": "rv439",
+     "sha256": "70eaa1ddf67ba2520f9399ad3b626653e345a407b7c16ee3846160654f5188b9",
+     "bytes": 1048,
      "width": 76,
      "height": 76
     }
@@ -2205,7 +2226,7 @@
    "path": "sprites/A_UIChat/chat_btn_copy.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2220,6 +2241,13 @@
      "bytes": 340,
      "width": 32,
      "height": 42
+    },
+    {
+     "version": "rv439",
+     "sha256": "fd2660e0ea87ed28d12b3cb017de84b3bf22f5c9b4b950dfae63e67c925cd30b",
+     "bytes": 358,
+     "width": 32,
+     "height": 42
     }
    ],
    "atlas": "A_UIChat"
@@ -2228,7 +2256,7 @@
    "path": "sprites/A_UIChat/chat_btn_horn.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2243,6 +2271,13 @@
      "bytes": 13888,
      "width": 122,
      "height": 122
+    },
+    {
+     "version": "rv439",
+     "sha256": "f549144607426fd95487d20f56a2c8e476bc47c47d1a2c89ff20c82efda21a6d",
+     "bytes": 13953,
+     "width": 122,
+     "height": 122
     }
    ],
    "atlas": "A_UIChat"
@@ -2251,7 +2286,7 @@
    "path": "sprites/A_UIChat/chat_btn_translate2_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2264,6 +2299,13 @@
      "version": "rv435",
      "sha256": "fc31898e1b94f85ee23f2c650c2d6b96ba8d7e84b8536224122867b452a75195",
      "bytes": 3248,
+     "width": 68,
+     "height": 68
+    },
+    {
+     "version": "rv439",
+     "sha256": "489c6c3ef623e407bbecec37675823054e72cdbf55b816a5b559a6d5a2d9fdcb",
+     "bytes": 3231,
      "width": 68,
      "height": 68
     }
@@ -2313,7 +2355,7 @@
    "path": "sprites/A_UIChat/chat_pic_defeat_pt_BR.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2328,6 +2370,13 @@
      "bytes": 5885,
      "width": 180,
      "height": 39
+    },
+    {
+     "version": "rv439",
+     "sha256": "e8f1e5b2483e5d9ca3e1d5178b4d60dea2b0daf8ba43238a7507fba2bffa47e4",
+     "bytes": 5842,
+     "width": 180,
+     "height": 39
     }
    ],
    "atlas": "A_UIChat"
@@ -2336,7 +2385,7 @@
    "path": "sprites/A_UIChat/chat_pic_tipsbg4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2351,6 +2400,13 @@
      "bytes": 123,
      "width": 230,
      "height": 4
+    },
+    {
+     "version": "rv439",
+     "sha256": "75e292d66a0c109267822dc6cf1fe0cb59c0d7d1b4ddf490c73265c179032a93",
+     "bytes": 111,
+     "width": 230,
+     "height": 4
     }
    ],
    "atlas": "A_UIChat"
@@ -2359,7 +2415,7 @@
    "path": "sprites/A_UIChat/chat_pic_victory_zh_CN.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2374,6 +2430,13 @@
      "bytes": 9448,
      "width": 217,
      "height": 40
+    },
+    {
+     "version": "rv439",
+     "sha256": "1b4afb1c0f62e4fb8fee462a4077aa97a45123104b84599659583ecfeda17ef6",
+     "bytes": 9591,
+     "width": 217,
+     "height": 40
     }
    ],
    "atlas": "A_UIChat"
@@ -2382,12 +2445,19 @@
    "path": "sprites/A_UIChat/chat_tab_1exp2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
      "sha256": "5e28fb7a6bb9ef35e6730c73b960a7f5544bb6bae12eb96208f6fb6ddd4ff0d6",
      "bytes": 4956,
+     "width": 69,
+     "height": 77
+    },
+    {
+     "version": "rv439",
+     "sha256": "0d7950fec2d94543fd86992678066fccaa9323583b16fc513bbbb48e994877bf",
+     "bytes": 5219,
      "width": 69,
      "height": 77
     }
@@ -2398,7 +2468,7 @@
    "path": "sprites/A_UIChat/chat_tab_channel3_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2413,6 +2483,13 @@
      "bytes": 6513,
      "width": 72,
      "height": 89
+    },
+    {
+     "version": "rv439",
+     "sha256": "1f28349d781df7e5fafb5ab86ba699c0244d39e9f28e0a2820998335be00d2fe",
+     "bytes": 6022,
+     "width": 72,
+     "height": 89
     }
    ],
    "atlas": "A_UIChat"
@@ -2421,7 +2498,7 @@
    "path": "sprites/A_UIChat/group_chat_btn_add.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2436,6 +2513,13 @@
      "bytes": 687,
      "width": 49,
      "height": 50
+    },
+    {
+     "version": "rv439",
+     "sha256": "479b337c8d734ecb58ce0fcf93feeeb8ca8a40589dd0e2597b678ae215147cb1",
+     "bytes": 873,
+     "width": 49,
+     "height": 50
     }
    ],
    "atlas": "A_UIChat"
@@ -2444,7 +2528,7 @@
    "path": "sprites/A_UIChat/group_chat_btn_more.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv435",
+   "lastSeen": "rv439",
    "history": [
     {
      "version": "rv417",
@@ -2457,6 +2541,13 @@
      "version": "rv435",
      "sha256": "3ac8942fc4b7d5e6014787e758ac7d499a7a486ff6dfabd53ec418a6865459af",
      "bytes": 680,
+     "width": 57,
+     "height": 13
+    },
+    {
+     "version": "rv439",
+     "sha256": "2d6e788c1771e5231f433cf359ced7c4d328224e731ce9a49c8dc4908205cea8",
+     "bytes": 691,
      "width": 57,
      "height": 13
     }
