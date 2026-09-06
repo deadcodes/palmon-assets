@@ -1,0 +1,794 @@
+{
+  "coordinateSystem": "glTF right-handed Y-up (converted from Unity)",
+  "forms": {
+    "base": {
+      "battlePrefab": "models/prefabs/p0620_pal_lod1_cd",
+      "battleScale": 1.0,
+      "bindPoints": [
+        "HH_LHand",
+        "HH_RHand",
+        "HH_back",
+        "HH_head",
+        "HH_hit",
+        "HH_mouth",
+        "HH_muzzle",
+        "HH_root",
+        "HH_sleep"
+      ],
+      "clips": [
+        {
+          "duration": 1.6667,
+          "file": "base.battle.glb",
+          "label": "attack",
+          "lod": true,
+          "loop": false,
+          "name": "a0620_pal_lod_attack",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.1333,
+          "file": "base.battle.glb",
+          "label": "idle",
+          "lod": true,
+          "loop": true,
+          "name": "a0620_pal_lod_idle",
+          "rig": "battle"
+        },
+        {
+          "duration": 0.8,
+          "file": "base.battle.glb",
+          "label": "run",
+          "lod": true,
+          "loop": true,
+          "name": "a0620_pal_lod_run",
+          "rig": "battle"
+        },
+        {
+          "duration": 3.8667,
+          "file": "base.battle.glb",
+          "label": "skilla",
+          "lod": true,
+          "loop": false,
+          "name": "a0620_pal_lod_skilla",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.4667,
+          "file": "base.battle.glb",
+          "label": "sleep",
+          "lod": true,
+          "loop": true,
+          "name": "a0620_pal_lod_sleep",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.2,
+          "file": "base.battle.glb",
+          "label": "walk",
+          "lod": true,
+          "loop": true,
+          "name": "a0620_pal_lod_walk",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "base.glb",
+          "label": "idle",
+          "lod": false,
+          "loop": true,
+          "name": "a0620_pal_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 10.0,
+          "file": "base.glb",
+          "label": "idlea",
+          "lod": false,
+          "loop": true,
+          "name": "a0620_pal_idlea",
+          "rig": "showcase"
+        }
+      ],
+      "display": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 1.0
+      },
+      "displayPrefab": "models/prefabs/p0620_pal",
+      "effects": {
+        "models/prefabs/gfx_0620_pal_lod1_cd_skill_hit": {
+          "anyLooping": false,
+          "estimatedDuration": 5.8,
+          "file": "effects/gfx_0620_pal_lod1_cd_skill_hit.json",
+          "particleSystems": 7,
+          "prefab": "models/prefabs/gfx_0620_pal_lod1_cd_skill_hit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_351",
+            "e_wenli_201",
+            "e_wenli_341",
+            "e_wenli_354",
+            "et_ani_325",
+            "et_ani_386",
+            "et_glow_300",
+            "et_glow_340",
+            "et_mask_36",
+            "et_mask_37",
+            "et_mask_464_g"
+          ]
+        },
+        "models/prefabs/gfx_0621_pal_lod1_cd_skill_zd": {
+          "anyLooping": true,
+          "estimatedDuration": 1.5,
+          "file": "effects/gfx_0621_pal_lod1_cd_skill_zd.json",
+          "particleSystems": 2,
+          "prefab": "models/prefabs/gfx_0621_pal_lod1_cd_skill_zd",
+          "staticMeshes": 2,
+          "textures": [
+            "e_wenli_203",
+            "et_ani_322"
+          ]
+        },
+        "models/prefabs/gfx_common_hit_water_02_cd": {
+          "anyLooping": false,
+          "estimatedDuration": 5.75,
+          "file": "effects/gfx_common_hit_water_02_cd.json",
+          "particleSystems": 6,
+          "prefab": "models/prefabs/gfx_common_hit_water_02_cd",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_333",
+            "e_wenli_76",
+            "et_ani_07",
+            "et_ani_322",
+            "et_ani_345",
+            "et_ani_386",
+            "et_glow_91",
+            "et_mask_204"
+          ]
+        },
+        "models/prefabs/gfx_common_zd_water_01_cd": {
+          "anyLooping": true,
+          "estimatedDuration": 5.0,
+          "file": "effects/gfx_common_zd_water_01_cd.json",
+          "particleSystems": 4,
+          "prefab": "models/prefabs/gfx_common_zd_water_01_cd",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_76",
+            "et_ani_316",
+            "et_ani_345",
+            "et_ani_346",
+            "et_ani_447_h"
+          ]
+        }
+      },
+      "file": "base.glb",
+      "files": {
+        "battle": "base.battle.glb",
+        "showcase": "base.glb"
+      },
+      "mesh": {
+        "joints": 107,
+        "nodes": 123,
+        "triangles": 12582
+      },
+      "name": "Sylphira",
+      "persistentEffect": null,
+      "prefab": "models/prefabs/p0620_pal",
+      "skills": [
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "attack",
+              "animType": 3,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0620_pal_lod_attack",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0620_attack",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": "HH_LHand",
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 2.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 0.75,
+                    "hitHeight": 0.0,
+                    "id": 194,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_common_hit_water_02_cd",
+                    "scale": 1.0
+                  },
+                  "id": 216,
+                  "prefab": "models/prefabs/gfx_common_zd_water_01_cd",
+                  "speed": 10.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.3
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 1.7
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Vortex Impact",
+          "showType": 1,
+          "skillId": 13537101,
+          "timelineId": 227
+        },
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "skillA",
+              "animType": 4,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0620_pal_lod_skilla",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0620_skillA",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": "HH_root",
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 3.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 1.1,
+                    "hitHeight": 0.0,
+                    "id": 195,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0620_pal_lod1_cd_skill_hit",
+                    "scale": 1.0
+                  },
+                  "id": 217,
+                  "prefab": "models/prefabs/gfx_0621_pal_lod1_cd_skill_zd",
+                  "speed": 10.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 2.3
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0620_skillB",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 2.3
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 3.9
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Sylphira's Ebb",
+          "showType": 2,
+          "skillId": 13537201,
+          "timelineId": 228
+        },
+        {
+          "actions": [],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Riptide Rage",
+          "showType": 3,
+          "skillId": 13537301,
+          "timelineId": 0
+        }
+      ]
+    },
+    "evolved": {
+      "battlePrefab": "models/prefabs/p0621_pal_lod1_cd",
+      "battleScale": 1.0,
+      "bindPoints": [
+        "HH_LHand",
+        "HH_RHand",
+        "HH_back",
+        "HH_head",
+        "HH_hit",
+        "HH_mouth",
+        "HH_muzzle",
+        "HH_root",
+        "HH_sleep"
+      ],
+      "clips": [
+        {
+          "duration": 1.6667,
+          "file": "evolved.battle.glb",
+          "label": "attack",
+          "lod": true,
+          "loop": false,
+          "name": "a0621_pal_lod_attack",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "evolved.battle.glb",
+          "label": "idle",
+          "lod": true,
+          "loop": true,
+          "name": "a0621_pal_lod_idle",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.2,
+          "file": "evolved.battle.glb",
+          "label": "run",
+          "lod": true,
+          "loop": true,
+          "name": "a0621_pal_lod_run",
+          "rig": "battle"
+        },
+        {
+          "duration": 3.8667,
+          "file": "evolved.battle.glb",
+          "label": "skilla",
+          "lod": true,
+          "loop": false,
+          "name": "a0621_pal_lod_skilla",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.4667,
+          "file": "evolved.battle.glb",
+          "label": "sleep",
+          "lod": true,
+          "loop": true,
+          "name": "a0621_pal_lod_sleep",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.2,
+          "file": "evolved.battle.glb",
+          "label": "walk",
+          "lod": true,
+          "loop": true,
+          "name": "a0621_pal_lod_walk",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "evolved.glb",
+          "label": "idle",
+          "lod": false,
+          "loop": true,
+          "name": "a0621_pal_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 9.3333,
+          "file": "evolved.glb",
+          "label": "idlea",
+          "lod": false,
+          "loop": true,
+          "name": "a0621_pal_idlea",
+          "rig": "showcase"
+        }
+      ],
+      "display": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 1.0
+      },
+      "displayPrefab": "models/prefabs/p0621_pal",
+      "effects": {
+        "models/prefabs/gfx_0621_pal_lod1_cd_skill_hit": {
+          "anyLooping": false,
+          "estimatedDuration": 10.0,
+          "file": "effects/gfx_0621_pal_lod1_cd_skill_hit.json",
+          "particleSystems": 12,
+          "prefab": "models/prefabs/gfx_0621_pal_lod1_cd_skill_hit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_351",
+            "e_wenli_201",
+            "e_wenli_341",
+            "e_wenli_342",
+            "e_wenli_354",
+            "e_wenli_394_g",
+            "et_ani_322_04",
+            "et_ani_383",
+            "et_ani_386",
+            "et_glow_300",
+            "et_glow_340",
+            "et_mask_207",
+            "et_mask_36",
+            "et_mask_37",
+            "et_mask_464_g",
+            "ui_eff_mask_100"
+          ]
+        },
+        "models/prefabs/gfx_0621_pal_lod1_cd_skill_zd": {
+          "anyLooping": true,
+          "estimatedDuration": 1.5,
+          "file": "effects/gfx_0621_pal_lod1_cd_skill_zd.json",
+          "particleSystems": 2,
+          "prefab": "models/prefabs/gfx_0621_pal_lod1_cd_skill_zd",
+          "staticMeshes": 2,
+          "textures": [
+            "e_wenli_203",
+            "et_ani_322"
+          ]
+        },
+        "models/prefabs/gfx_common_hit_water_02_cd": {
+          "anyLooping": false,
+          "estimatedDuration": 5.75,
+          "file": "effects/gfx_common_hit_water_02_cd.json",
+          "particleSystems": 6,
+          "prefab": "models/prefabs/gfx_common_hit_water_02_cd",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_333",
+            "e_wenli_76",
+            "et_ani_07",
+            "et_ani_322",
+            "et_ani_345",
+            "et_ani_386",
+            "et_glow_91",
+            "et_mask_204"
+          ]
+        },
+        "models/prefabs/gfx_common_zd_water_01_cd": {
+          "anyLooping": true,
+          "estimatedDuration": 5.0,
+          "file": "effects/gfx_common_zd_water_01_cd.json",
+          "particleSystems": 4,
+          "prefab": "models/prefabs/gfx_common_zd_water_01_cd",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_76",
+            "et_ani_316",
+            "et_ani_345",
+            "et_ani_346",
+            "et_ani_447_h"
+          ]
+        }
+      },
+      "file": "evolved.glb",
+      "files": {
+        "battle": "evolved.battle.glb",
+        "showcase": "evolved.glb"
+      },
+      "mesh": {
+        "joints": 127,
+        "nodes": 141,
+        "triangles": 17734
+      },
+      "name": "Abysphira",
+      "persistentEffect": null,
+      "prefab": "models/prefabs/p0621_pal",
+      "skills": [
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "attack",
+              "animType": 3,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0621_pal_lod_attack",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0620_attack",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": "HH_LHand",
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 2.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 0.75,
+                    "hitHeight": 0.0,
+                    "id": 194,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_common_hit_water_02_cd",
+                    "scale": 1.0
+                  },
+                  "id": 218,
+                  "prefab": "models/prefabs/gfx_common_zd_water_01_cd",
+                  "speed": 10.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.7
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 1.7
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Vortex Impact",
+          "showType": 1,
+          "skillId": 13537101,
+          "timelineId": 229
+        },
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "skillA",
+              "animType": 4,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0621_pal_lod_skilla",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0621_skillA",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": "HH_root",
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 3.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 0.82,
+                    "hitHeight": 0.0,
+                    "id": 196,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0621_pal_lod1_cd_skill_hit",
+                    "scale": 1.0
+                  },
+                  "id": 219,
+                  "prefab": "models/prefabs/gfx_0621_pal_lod1_cd_skill_zd",
+                  "speed": 10.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 2.4
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0621_skillB",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 2.4
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 3.9
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Sylphira's Ebb",
+          "showType": 2,
+          "skillId": 13537201,
+          "timelineId": 230
+        },
+        {
+          "actions": [],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Riptide Rage",
+          "showType": 3,
+          "skillId": 13537301,
+          "timelineId": 0
+        }
+      ]
+    }
+  },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
+  "heroId": 205037,
+  "skippedForms": {
+    "super": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)"
+  },
+  "sourceVersion": "v0.5.417_251"
+}

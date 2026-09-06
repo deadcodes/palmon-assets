@@ -1,0 +1,853 @@
+{
+  "coordinateSystem": "glTF right-handed Y-up (converted from Unity)",
+  "forms": {
+    "base": {
+      "battlePrefab": "models/prefabs/p0550_pal_lod1_cd",
+      "battleScale": 1.0,
+      "bindPoints": [
+        "HH_LHand",
+        "HH_RHand",
+        "HH_back",
+        "HH_head",
+        "HH_hit",
+        "HH_mouth",
+        "HH_muzzle",
+        "HH_root",
+        "HH_sleep"
+      ],
+      "clips": [
+        {
+          "duration": 1.7333,
+          "file": "base.battle.glb",
+          "label": "attack",
+          "lod": true,
+          "loop": false,
+          "name": "a0550_pal_lod_attack",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.8667,
+          "file": "base.battle.glb",
+          "label": "eat",
+          "lod": true,
+          "loop": true,
+          "name": "a0550_pal_lod_eat",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0333,
+          "file": "base.battle.glb",
+          "label": "idle",
+          "lod": true,
+          "loop": true,
+          "name": "a0550_pal_lod_idle",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.0,
+          "file": "base.battle.glb",
+          "label": "run",
+          "lod": true,
+          "loop": true,
+          "name": "a0550_pal_lod_run",
+          "rig": "battle"
+        },
+        {
+          "duration": 4.8333,
+          "file": "base.battle.glb",
+          "label": "skilla",
+          "lod": true,
+          "loop": false,
+          "name": "a0550_pal_lod_skilla",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "base.battle.glb",
+          "label": "sleep",
+          "lod": true,
+          "loop": true,
+          "name": "a0550_pal_lod_sleep",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.6667,
+          "file": "base.battle.glb",
+          "label": "walk",
+          "lod": true,
+          "loop": true,
+          "name": "a0550_pal_lod_walk",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0333,
+          "file": "base.glb",
+          "label": "idle",
+          "lod": false,
+          "loop": true,
+          "name": "a0550_pal_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 5.1333,
+          "file": "base.glb",
+          "label": "idlea",
+          "lod": false,
+          "loop": true,
+          "name": "a0550_pal_idlea",
+          "rig": "showcase"
+        }
+      ],
+      "display": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 1.0
+      },
+      "displayPrefab": "models/prefabs/p0550_pal",
+      "effects": {
+        "models/prefabs/gfx_0550_pal_lod1_cd_hit": {
+          "anyLooping": false,
+          "estimatedDuration": 5.2,
+          "file": "effects/gfx_0550_pal_lod1_cd_hit.json",
+          "particleSystems": 7,
+          "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_123",
+            "e_trail_346",
+            "e_wenli_105",
+            "e_wenli_300",
+            "e_wenli_330",
+            "et_ani_361",
+            "et_glow_340",
+            "et_glow_38",
+            "et_glow_91"
+          ]
+        },
+        "models/prefabs/gfx_uimain_snow": {
+          "anyLooping": true,
+          "estimatedDuration": 5.0,
+          "file": "effects/gfx_uimain_snow.json",
+          "particleSystems": 4,
+          "prefab": "models/prefabs/gfx_uimain_snow",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_204",
+            "e_wenli_349",
+            "e_wenli_42",
+            "et_ani_339",
+            "et_mask_23",
+            "et_mask_55"
+          ]
+        }
+      },
+      "file": "base.glb",
+      "files": {
+        "battle": "base.battle.glb",
+        "showcase": "base.glb"
+      },
+      "mesh": {
+        "joints": 88,
+        "nodes": 102,
+        "triangles": 11228
+      },
+      "name": "Glacewing",
+      "persistentEffect": null,
+      "prefab": "models/prefabs/p0550_pal",
+      "skills": [
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "attack",
+              "animType": 3,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0550_pal_lod_attack",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0550_attack",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 2.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 0.5,
+                    "hitHeight": 0.0,
+                    "id": 114,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
+                    "scale": 1.0
+                  },
+                  "id": 135,
+                  "prefab": null,
+                  "speed": 0.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.9
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 1.7
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Icicle Barrage",
+          "showType": 1,
+          "skillId": 13523101,
+          "timelineId": 143
+        },
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "skillA",
+              "animType": 4,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0550_pal_lod_skilla",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0550_skill",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0550_UISONW",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "UIEffect",
+              "actionType": 9,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [
+                {
+                  "audio": null,
+                  "bindPoint": null,
+                  "bindPoint1": null,
+                  "duration": 5.0,
+                  "hitHeight": 0.0,
+                  "id": 116,
+                  "offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "offset1": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "prefab": "models/prefabs/gfx_uimain_snow",
+                  "scale": 1.0
+                }
+              ],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 3.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 0.5,
+                    "hitHeight": 0.0,
+                    "id": 114,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
+                    "scale": 1.0
+                  },
+                  "id": 136,
+                  "prefab": null,
+                  "speed": 0.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 3.6
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 4.8
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Frostwing Blast",
+          "showType": 2,
+          "skillId": 13523201,
+          "timelineId": 144
+        },
+        {
+          "actions": [],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Dragon's Roar",
+          "showType": 3,
+          "skillId": 13523301,
+          "timelineId": 0
+        }
+      ]
+    },
+    "evolved": {
+      "battlePrefab": "models/prefabs/p0551_pal_lod1_cd",
+      "battleScale": 1.0,
+      "bindPoints": [
+        "HH_LHand",
+        "HH_RHand",
+        "HH_back",
+        "HH_head",
+        "HH_hit",
+        "HH_mouth",
+        "HH_muzzle",
+        "HH_root",
+        "HH_sleep"
+      ],
+      "clips": [
+        {
+          "duration": 1.6667,
+          "file": "evolved.battle.glb",
+          "label": "attack",
+          "lod": true,
+          "loop": false,
+          "name": "a0551_pal_lod_attack",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.1333,
+          "file": "evolved.battle.glb",
+          "label": "eat",
+          "lod": true,
+          "loop": true,
+          "name": "a0551_pal_lod_eat",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "evolved.battle.glb",
+          "label": "idle",
+          "lod": true,
+          "loop": true,
+          "name": "a0551_pal_lod_idle",
+          "rig": "battle"
+        },
+        {
+          "duration": 0.8,
+          "file": "evolved.battle.glb",
+          "label": "run",
+          "lod": true,
+          "loop": true,
+          "name": "a0551_pal_lod_run",
+          "rig": "battle"
+        },
+        {
+          "duration": 4.8333,
+          "file": "evolved.battle.glb",
+          "label": "skilla",
+          "lod": true,
+          "loop": false,
+          "name": "a0551_pal_lod_skilla",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "evolved.battle.glb",
+          "label": "sleep",
+          "lod": true,
+          "loop": true,
+          "name": "a0551_pal_lod_sleep",
+          "rig": "battle"
+        },
+        {
+          "duration": 1.0667,
+          "file": "evolved.battle.glb",
+          "label": "walk",
+          "lod": true,
+          "loop": true,
+          "name": "a0551_pal_lod_walk",
+          "rig": "battle"
+        },
+        {
+          "duration": 2.0,
+          "file": "evolved.glb",
+          "label": "idle",
+          "lod": false,
+          "loop": true,
+          "name": "a0551_pal_idle",
+          "rig": "showcase"
+        },
+        {
+          "duration": 6.5,
+          "file": "evolved.glb",
+          "label": "idlea",
+          "lod": false,
+          "loop": true,
+          "name": "a0551_pal_idlea",
+          "rig": "showcase"
+        }
+      ],
+      "display": {
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "scale": 1.0
+      },
+      "displayPrefab": "models/prefabs/p0551_pal",
+      "effects": {
+        "models/prefabs/gfx_0550_pal_lod1_cd_hit": {
+          "anyLooping": false,
+          "estimatedDuration": 5.2,
+          "file": "effects/gfx_0550_pal_lod1_cd_hit.json",
+          "particleSystems": 7,
+          "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_123",
+            "e_trail_346",
+            "e_wenli_105",
+            "e_wenli_300",
+            "e_wenli_330",
+            "et_ani_361",
+            "et_glow_340",
+            "et_glow_38",
+            "et_glow_91"
+          ]
+        },
+        "models/prefabs/gfx_uimain_snow": {
+          "anyLooping": true,
+          "estimatedDuration": 5.0,
+          "file": "effects/gfx_uimain_snow.json",
+          "particleSystems": 4,
+          "prefab": "models/prefabs/gfx_uimain_snow",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_204",
+            "e_wenli_349",
+            "e_wenli_42",
+            "et_ani_339",
+            "et_mask_23",
+            "et_mask_55"
+          ]
+        },
+        "uiv3/uipanel/uicomponent/uimain_iceeffect": {
+          "anyLooping": false,
+          "estimatedDuration": 0.0,
+          "file": "effects/uimain_iceeffect.json",
+          "particleSystems": 0,
+          "prefab": "uiv3/uipanel/uicomponent/uimain_iceeffect",
+          "staticMeshes": 0,
+          "textures": []
+        }
+      },
+      "file": "evolved.glb",
+      "files": {
+        "battle": "evolved.battle.glb",
+        "showcase": "evolved.glb"
+      },
+      "mesh": {
+        "joints": 103,
+        "nodes": 117,
+        "triangles": 11678
+      },
+      "name": "Cryovern",
+      "persistentEffect": null,
+      "prefab": "models/prefabs/p0551_pal",
+      "skills": [
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "attack",
+              "animType": 3,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0551_pal_lod_attack",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0551_attack",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 2.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 0.5,
+                    "hitHeight": 0.0,
+                    "id": 114,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
+                    "scale": 1.0
+                  },
+                  "id": 137,
+                  "prefab": null,
+                  "speed": 0.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.7
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 1.7
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Icicle Barrage",
+          "showType": 1,
+          "skillId": 13523101,
+          "timelineId": 145
+        },
+        {
+          "actions": [
+            {
+              "action": "Animation",
+              "actionType": 2,
+              "anim": "skillA",
+              "animType": 4,
+              "audio": null,
+              "bullets": [],
+              "clip": "a0551_pal_lod_skilla",
+              "duration": 0.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0551_skill",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "Audio",
+              "actionType": 4,
+              "anim": "run",
+              "animType": 2,
+              "audio": "audio/p0550_UISONW",
+              "bullets": [],
+              "clip": null,
+              "duration": 10.0,
+              "effects": [],
+              "time": 0.0
+            },
+            {
+              "action": "UIEffect",
+              "actionType": 9,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [
+                {
+                  "audio": null,
+                  "bindPoint": null,
+                  "bindPoint1": null,
+                  "duration": 5.0,
+                  "hitHeight": 0.0,
+                  "id": 115,
+                  "offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "offset1": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "prefab": "uiv3/uipanel/uicomponent/uimain_iceeffect",
+                  "scale": 1.0
+                }
+              ],
+              "time": 0.0
+            },
+            {
+              "action": "UIEffect",
+              "actionType": 9,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [
+                {
+                  "audio": null,
+                  "bindPoint": null,
+                  "bindPoint1": null,
+                  "duration": 5.0,
+                  "hitHeight": 0.0,
+                  "id": 116,
+                  "offset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "offset1": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "prefab": "models/prefabs/gfx_uimain_snow",
+                  "scale": 1.0
+                }
+              ],
+              "time": 0.0
+            },
+            {
+              "action": "Attack",
+              "actionType": 3,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [
+                {
+                  "bindPoint": null,
+                  "bindPointOffset": [
+                    0.0,
+                    0.0,
+                    0.0
+                  ],
+                  "duration": 3.0,
+                  "hitEffect": {
+                    "audio": null,
+                    "bindPoint": "HH_hit",
+                    "bindPoint1": null,
+                    "duration": 0.5,
+                    "hitHeight": 0.0,
+                    "id": 114,
+                    "offset": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "offset1": [
+                      0.0,
+                      0.0,
+                      0.0
+                    ],
+                    "prefab": "models/prefabs/gfx_0550_pal_lod1_cd_hit",
+                    "scale": 1.0
+                  },
+                  "id": 138,
+                  "prefab": null,
+                  "speed": 0.0
+                }
+              ],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 3.0
+            },
+            {
+              "action": "SkillEnd",
+              "actionType": 6,
+              "anim": "run",
+              "animType": 2,
+              "audio": null,
+              "bullets": [],
+              "clip": null,
+              "duration": 0.0,
+              "effects": [],
+              "time": 4.8
+            }
+          ],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Frostwing Blast",
+          "showType": 2,
+          "skillId": 13523201,
+          "timelineId": 146
+        },
+        {
+          "actions": [],
+          "duration": 0.0,
+          "hitEffect": null,
+          "name": "Dragon's Roar",
+          "showType": 3,
+          "skillId": 13523301,
+          "timelineId": 0
+        }
+      ]
+    }
+  },
+  "generatedBy": "palmon-extractor scripts.game.export_palmon_model",
+  "heroId": 205023,
+  "skippedForms": {
+    "super": "model hash 757602046 is not in Resources.lua (unreleased or sentinel)"
+  },
+  "sourceVersion": "v0.5.417_251"
+}
