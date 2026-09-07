@@ -5,7 +5,6 @@
     "new": "rv440"
   },
   "generatedAtUtc": "2026-09-06T11:13:14Z",
-  "generator": "summarize-changelog skill (Claude)",
   "title": "No player-facing changes",
   "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
   "highlights": [],
