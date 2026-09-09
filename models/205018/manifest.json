@@ -134,7 +134,7 @@
         "models/prefabs/gfx_0420_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.2,
-          "file": "effects/gfx_0420_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0420_pal_lod1_cd_hit.json",
           "particleSystems": 3,
           "prefab": "models/prefabs/gfx_0420_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -147,7 +147,7 @@
         "models/prefabs/gfx_0420_pal_lod1_cd_zd": {
           "anyLooping": true,
           "estimatedDuration": 5.0,
-          "file": "effects/gfx_0420_pal_lod1_cd_zd.json",
+          "file": "_effects/gfx_0420_pal_lod1_cd_zd.json",
           "particleSystems": 5,
           "prefab": "models/prefabs/gfx_0420_pal_lod1_cd_zd",
           "staticMeshes": 0,
@@ -278,6 +278,7 @@
               "time": 1.2
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.7
           ],
@@ -374,6 +375,7 @@
               "time": 2.7
             }
           ],
+          "buffs": [],
           "damageTimes": [
             1.9
           ],
@@ -512,7 +514,7 @@
         "models/prefabs/gfx_0421_pal_lod1_cd_attack_zd": {
           "anyLooping": false,
           "estimatedDuration": 0.5,
-          "file": "effects/gfx_0421_pal_lod1_cd_attack_zd.json",
+          "file": "_effects/gfx_0421_pal_lod1_cd_attack_zd.json",
           "particleSystems": 4,
           "prefab": "models/prefabs/gfx_0421_pal_lod1_cd_attack_zd",
           "staticMeshes": 0,
@@ -524,7 +526,7 @@
         "models/prefabs/gfx_0421_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.3,
-          "file": "effects/gfx_0421_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0421_pal_lod1_cd_hit.json",
           "particleSystems": 4,
           "prefab": "models/prefabs/gfx_0421_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -653,6 +655,7 @@
               "time": 1.2
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.7
           ],
@@ -768,6 +771,7 @@
               "time": 2.6
             }
           ],
+          "buffs": [],
           "damageTimes": [
             2.1
           ],

@@ -104,10 +104,25 @@
       },
       "displayPrefab": "models/prefabs/p0680_pal",
       "effects": {
+        "models/prefabs/gfx_0070_pal_lod1_cd_buff": {
+          "anyLooping": true,
+          "estimatedDuration": 5.0,
+          "file": "_effects/gfx_0070_pal_lod1_cd_buff.json",
+          "particleSystems": 3,
+          "prefab": "models/prefabs/gfx_0070_pal_lod1_cd_buff",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_74",
+            "et_glow_105",
+            "et_glow_331",
+            "et_mask_09",
+            "et_mask_28"
+          ]
+        },
         "models/prefabs/gfx_common_hit_fire_red_01_cd": {
           "anyLooping": false,
           "estimatedDuration": 6.0,
-          "file": "effects/gfx_common_hit_fire_red_01_cd.json",
+          "file": "_effects/gfx_common_hit_fire_red_01_cd.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_common_hit_fire_red_01_cd",
           "staticMeshes": 0,
@@ -240,6 +255,7 @@
               "time": 1.7
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.8
           ],
@@ -369,6 +385,42 @@
               "time": 2.5
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 5.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 10242,
+              "interval": 0.0,
+              "loopEffect": {
+                "audio": "audio/p0070_skill_hit",
+                "bindPoint": "HH_root",
+                "bindPoint1": null,
+                "duration": 10.0,
+                "hitHeight": 0.0,
+                "id": 17,
+                "offset": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "offset1": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "prefab": "models/prefabs/gfx_0070_pal_lod1_cd_buff",
+                "scale": 1.0
+              },
+              "targets": [
+                2
+              ],
+              "type": 7
+            }
+          ],
           "damageTimes": [
             2.0
           ],
@@ -382,6 +434,47 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1023701,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [],
+              "type": 223
+            },
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 2,
+              "id": 10250,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [],
+              "type": 103
+            },
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 10271,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [],
+              "type": 103
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -506,10 +599,25 @@
       },
       "displayPrefab": "models/prefabs/p0681_pal",
       "effects": {
+        "models/prefabs/gfx_0070_pal_lod1_cd_buff": {
+          "anyLooping": true,
+          "estimatedDuration": 5.0,
+          "file": "_effects/gfx_0070_pal_lod1_cd_buff.json",
+          "particleSystems": 3,
+          "prefab": "models/prefabs/gfx_0070_pal_lod1_cd_buff",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_74",
+            "et_glow_105",
+            "et_glow_331",
+            "et_mask_09",
+            "et_mask_28"
+          ]
+        },
         "models/prefabs/gfx_common_hit_fire_red_01_cd": {
           "anyLooping": false,
           "estimatedDuration": 6.0,
-          "file": "effects/gfx_common_hit_fire_red_01_cd.json",
+          "file": "_effects/gfx_common_hit_fire_red_01_cd.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_common_hit_fire_red_01_cd",
           "staticMeshes": 0,
@@ -642,6 +750,7 @@
               "time": 1.7
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.8
           ],
@@ -771,6 +880,42 @@
               "time": 2.5
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 5.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 10242,
+              "interval": 0.0,
+              "loopEffect": {
+                "audio": "audio/p0070_skill_hit",
+                "bindPoint": "HH_root",
+                "bindPoint1": null,
+                "duration": 10.0,
+                "hitHeight": 0.0,
+                "id": 17,
+                "offset": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "offset1": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "prefab": "models/prefabs/gfx_0070_pal_lod1_cd_buff",
+                "scale": 1.0
+              },
+              "targets": [
+                2
+              ],
+              "type": 7
+            }
+          ],
           "damageTimes": [
             2.0
           ],
@@ -784,6 +929,47 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1023701,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [],
+              "type": 223
+            },
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 2,
+              "id": 10250,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [],
+              "type": 103
+            },
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 10271,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [],
+              "type": 103
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,

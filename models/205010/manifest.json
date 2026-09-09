@@ -125,7 +125,7 @@
         "models/prefabs/gfx_0370_pal_lod1_cd_attack_zd": {
           "anyLooping": true,
           "estimatedDuration": 5.0,
-          "file": "effects/gfx_0370_pal_lod1_cd_attack_zd.json",
+          "file": "_effects/gfx_0370_pal_lod1_cd_attack_zd.json",
           "particleSystems": 1,
           "prefab": "models/prefabs/gfx_0370_pal_lod1_cd_attack_zd",
           "staticMeshes": 1,
@@ -137,7 +137,7 @@
         "models/prefabs/gfx_0370_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.2,
-          "file": "effects/gfx_0370_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0370_pal_lod1_cd_hit.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_0370_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -154,7 +154,7 @@
         "models/prefabs/gfx_0370_pal_lod1_cd_skill_zd": {
           "anyLooping": true,
           "estimatedDuration": 5.0,
-          "file": "effects/gfx_0370_pal_lod1_cd_skill_zd.json",
+          "file": "_effects/gfx_0370_pal_lod1_cd_skill_zd.json",
           "particleSystems": 4,
           "prefab": "models/prefabs/gfx_0370_pal_lod1_cd_skill_zd",
           "staticMeshes": 1,
@@ -165,6 +165,18 @@
             "et_glow_300",
             "et_mask_344",
             "et_object_324"
+          ]
+        },
+        "models/prefabs/gfx_0480_xhero_xy": {
+          "anyLooping": true,
+          "estimatedDuration": 2.0,
+          "file": "_effects/gfx_0480_xhero_xy.json",
+          "particleSystems": 2,
+          "prefab": "models/prefabs/gfx_0480_xhero_xy",
+          "staticMeshes": 0,
+          "textures": [
+            "et_ani_94",
+            "et_lizi_50"
           ]
         }
       },
@@ -285,6 +297,7 @@
               "time": 1.0
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.6
           ],
@@ -518,6 +531,42 @@
               "time": 2.0
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 2.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 2,
+              "id": 10039,
+              "interval": 0.0,
+              "loopEffect": {
+                "audio": null,
+                "bindPoint": "HH_head",
+                "bindPoint1": null,
+                "duration": 10.0,
+                "hitHeight": 0.0,
+                "id": 60,
+                "offset": [
+                  0.0,
+                  0.3,
+                  0.0
+                ],
+                "offset1": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "prefab": "models/prefabs/gfx_0480_xhero_xy",
+                "scale": 1.0
+              },
+              "targets": [
+                1
+              ],
+              "type": 51
+            }
+          ],
           "damageTimes": [
             1.1,
             1.3,
@@ -658,7 +707,7 @@
         "models/prefabs/gfx_0371_pal_lod1_cd_attack_zd": {
           "anyLooping": true,
           "estimatedDuration": 5.0,
-          "file": "effects/gfx_0371_pal_lod1_cd_attack_zd.json",
+          "file": "_effects/gfx_0371_pal_lod1_cd_attack_zd.json",
           "particleSystems": 2,
           "prefab": "models/prefabs/gfx_0371_pal_lod1_cd_attack_zd",
           "staticMeshes": 1,
@@ -671,7 +720,7 @@
         "models/prefabs/gfx_0371_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.25,
-          "file": "effects/gfx_0371_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0371_pal_lod1_cd_hit.json",
           "particleSystems": 6,
           "prefab": "models/prefabs/gfx_0371_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -687,7 +736,7 @@
         "models/prefabs/gfx_0371_pal_lod1_cd_skill_zd": {
           "anyLooping": true,
           "estimatedDuration": 5.0,
-          "file": "effects/gfx_0371_pal_lod1_cd_skill_zd.json",
+          "file": "_effects/gfx_0371_pal_lod1_cd_skill_zd.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_0371_pal_lod1_cd_skill_zd",
           "staticMeshes": 1,
@@ -702,6 +751,18 @@
             "et_mask_344",
             "et_object_324",
             "et_object_419"
+          ]
+        },
+        "models/prefabs/gfx_0480_xhero_xy": {
+          "anyLooping": true,
+          "estimatedDuration": 2.0,
+          "file": "_effects/gfx_0480_xhero_xy.json",
+          "particleSystems": 2,
+          "prefab": "models/prefabs/gfx_0480_xhero_xy",
+          "staticMeshes": 0,
+          "textures": [
+            "et_ani_94",
+            "et_lizi_50"
           ]
         }
       },
@@ -809,6 +870,7 @@
               "time": 1.0
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.7
           ],
@@ -1026,6 +1088,42 @@
               "effects": [],
               "target": "self",
               "time": 2.0
+            }
+          ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 2.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 2,
+              "id": 10039,
+              "interval": 0.0,
+              "loopEffect": {
+                "audio": null,
+                "bindPoint": "HH_head",
+                "bindPoint1": null,
+                "duration": 10.0,
+                "hitHeight": 0.0,
+                "id": 60,
+                "offset": [
+                  0.0,
+                  0.3,
+                  0.0
+                ],
+                "offset1": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "prefab": "models/prefabs/gfx_0480_xhero_xy",
+                "scale": 1.0
+              },
+              "targets": [
+                1
+              ],
+              "type": 51
             }
           ],
           "damageTimes": [

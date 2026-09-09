@@ -126,7 +126,7 @@
         "models/prefabs/gfx_0350_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 0.35,
-          "file": "effects/gfx_0350_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0350_pal_lod1_cd_hit.json",
           "particleSystems": 4,
           "prefab": "models/prefabs/gfx_0350_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -140,7 +140,7 @@
         "models/prefabs/gfx_0350_pal_lod1_cd_zd": {
           "anyLooping": true,
           "estimatedDuration": 5.0,
-          "file": "effects/gfx_0350_pal_lod1_cd_zd.json",
+          "file": "_effects/gfx_0350_pal_lod1_cd_zd.json",
           "particleSystems": 3,
           "prefab": "models/prefabs/gfx_0350_pal_lod1_cd_zd",
           "staticMeshes": 0,
@@ -268,6 +268,7 @@
               "time": 0.8
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.4
           ],
@@ -501,6 +502,7 @@
               "time": 3.9
             }
           ],
+          "buffs": [],
           "damageTimes": [
             1.2,
             2.1,
@@ -649,7 +651,7 @@
         "models/prefabs/gfx_0351_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 0.55,
-          "file": "effects/gfx_0351_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0351_pal_lod1_cd_hit.json",
           "particleSystems": 5,
           "prefab": "models/prefabs/gfx_0351_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -664,7 +666,7 @@
         "models/prefabs/gfx_0351_pal_lod1_cd_zd": {
           "anyLooping": true,
           "estimatedDuration": 5.0,
-          "file": "effects/gfx_0351_pal_lod1_cd_zd.json",
+          "file": "_effects/gfx_0351_pal_lod1_cd_zd.json",
           "particleSystems": 3,
           "prefab": "models/prefabs/gfx_0351_pal_lod1_cd_zd",
           "staticMeshes": 0,
@@ -791,6 +793,7 @@
               "time": 0.8
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.3
           ],
@@ -1024,6 +1027,7 @@
               "time": 3.8
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.5,
             1.2,
@@ -1169,7 +1173,7 @@
         "models/prefabs/gfx_0352_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.1,
-          "file": "effects/gfx_0352_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0352_pal_lod1_cd_hit.json",
           "particleSystems": 5,
           "prefab": "models/prefabs/gfx_0352_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -1185,7 +1189,7 @@
         "models/prefabs/gfx_0352_pal_lod1_cd_zd": {
           "anyLooping": true,
           "estimatedDuration": 5.0,
-          "file": "effects/gfx_0352_pal_lod1_cd_zd.json",
+          "file": "_effects/gfx_0352_pal_lod1_cd_zd.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_0352_pal_lod1_cd_zd",
           "staticMeshes": 0,
@@ -1319,6 +1323,7 @@
               "time": 1.2
             }
           ],
+          "buffs": [],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -1550,6 +1555,7 @@
               "time": 4.0
             }
           ],
+          "buffs": [],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,

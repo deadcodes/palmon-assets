@@ -107,7 +107,7 @@
         "models/prefabs/gfx_0670_pal_lod1_cd_attack_hit": {
           "anyLooping": false,
           "estimatedDuration": 10.6,
-          "file": "effects/gfx_0670_pal_lod1_cd_attack_hit.json",
+          "file": "_effects/gfx_0670_pal_lod1_cd_attack_hit.json",
           "particleSystems": 4,
           "prefab": "models/prefabs/gfx_0670_pal_lod1_cd_attack_hit",
           "staticMeshes": 0,
@@ -122,7 +122,7 @@
         "models/prefabs/gfx_0670_pal_lod1_cd_attack_zd": {
           "anyLooping": true,
           "estimatedDuration": 1.5,
-          "file": "effects/gfx_0670_pal_lod1_cd_attack_zd.json",
+          "file": "_effects/gfx_0670_pal_lod1_cd_attack_zd.json",
           "particleSystems": 3,
           "prefab": "models/prefabs/gfx_0670_pal_lod1_cd_attack_zd",
           "staticMeshes": 0,
@@ -135,7 +135,7 @@
         "models/prefabs/gfx_0670_pal_lod1_cd_skill_hit": {
           "anyLooping": false,
           "estimatedDuration": 10.8,
-          "file": "effects/gfx_0670_pal_lod1_cd_skill_hit.json",
+          "file": "_effects/gfx_0670_pal_lod1_cd_skill_hit.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_0670_pal_lod1_cd_skill_hit",
           "staticMeshes": 0,
@@ -268,6 +268,7 @@
               "time": 1.2
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.6
           ],
@@ -399,6 +400,7 @@
               "time": 3.4
             }
           ],
+          "buffs": [],
           "damageTimes": [
             1.5
           ],
@@ -519,7 +521,7 @@
         "models/prefabs/gfx_0671_pal_lod1_cd_attack_hit": {
           "anyLooping": false,
           "estimatedDuration": 10.5,
-          "file": "effects/gfx_0671_pal_lod1_cd_attack_hit.json",
+          "file": "_effects/gfx_0671_pal_lod1_cd_attack_hit.json",
           "particleSystems": 5,
           "prefab": "models/prefabs/gfx_0671_pal_lod1_cd_attack_hit",
           "staticMeshes": 0,
@@ -535,7 +537,7 @@
         "models/prefabs/gfx_0671_pal_lod1_cd_attack_zd": {
           "anyLooping": true,
           "estimatedDuration": 1.5,
-          "file": "effects/gfx_0671_pal_lod1_cd_attack_zd.json",
+          "file": "_effects/gfx_0671_pal_lod1_cd_attack_zd.json",
           "particleSystems": 5,
           "prefab": "models/prefabs/gfx_0671_pal_lod1_cd_attack_zd",
           "staticMeshes": 0,
@@ -551,7 +553,7 @@
         "models/prefabs/gfx_0671_pal_lod1_cd_skill_hit": {
           "anyLooping": false,
           "estimatedDuration": 10.8,
-          "file": "effects/gfx_0671_pal_lod1_cd_skill_hit.json",
+          "file": "_effects/gfx_0671_pal_lod1_cd_skill_hit.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_0671_pal_lod1_cd_skill_hit",
           "staticMeshes": 0,
@@ -685,6 +687,7 @@
               "time": 1.2
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.6
           ],
@@ -816,6 +819,7 @@
               "time": 3.4
             }
           ],
+          "buffs": [],
           "damageTimes": [
             1.6
           ],

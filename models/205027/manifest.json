@@ -116,7 +116,7 @@
         "models/prefabs/gfx_0530_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.75,
-          "file": "effects/gfx_0530_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0530_pal_lod1_cd_hit.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_0530_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -249,6 +249,7 @@
               "time": 1.4
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.4
           ],
@@ -482,6 +483,7 @@
               "time": 3.0
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.4,
             0.8,
@@ -497,6 +499,24 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1012201,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                6,
+                1
+              ],
+              "type": 120
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -624,7 +644,7 @@
         "models/prefabs/gfx_0531_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.75,
-          "file": "effects/gfx_0531_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0531_pal_lod1_cd_hit.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_0531_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -816,6 +836,7 @@
               "time": 1.5
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.3,
             0.7
@@ -1050,6 +1071,7 @@
               "time": 3.2
             }
           ],
+          "buffs": [],
           "damageTimes": [
             0.4,
             0.8,
@@ -1065,6 +1087,24 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1012201,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                6,
+                1
+              ],
+              "type": 120
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -1192,7 +1232,7 @@
         "models/prefabs/gfx_common_hit_water_01_cd": {
           "anyLooping": false,
           "estimatedDuration": 5.8,
-          "file": "effects/gfx_common_hit_water_01_cd.json",
+          "file": "_effects/gfx_common_hit_water_01_cd.json",
           "particleSystems": 6,
           "prefab": "models/prefabs/gfx_common_hit_water_01_cd",
           "staticMeshes": 0,
@@ -1370,6 +1410,7 @@
               "time": 1.5
             }
           ],
+          "buffs": [],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -1528,6 +1569,7 @@
               "time": 1.5
             }
           ],
+          "buffs": [],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -1539,6 +1581,24 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1012201,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                6,
+                1
+              ],
+              "type": 120
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
