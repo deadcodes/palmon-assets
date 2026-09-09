@@ -107,7 +107,7 @@
         "models/prefabs/gfx_0580_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.45,
-          "file": "effects/gfx_0580_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0580_pal_lod1_cd_hit.json",
           "particleSystems": 6,
           "prefab": "models/prefabs/gfx_0580_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -119,6 +119,61 @@
             "et_ani_408",
             "et_glow_339",
             "et_glow_57"
+          ]
+        },
+        "models/prefabs/gfx_0581_pal_lod1_cd_skilla_bao_01": {
+          "anyLooping": false,
+          "estimatedDuration": 7.1,
+          "file": "_effects/gfx_0581_pal_lod1_cd_skilla_bao_01.json",
+          "particleSystems": 17,
+          "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_skilla_bao_01",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_137",
+            "e_wenli_109",
+            "e_wenli_31",
+            "e_wenli_317",
+            "e_wenli_351",
+            "e_wenli_43",
+            "e_wenli_60",
+            "e_wenli_61",
+            "et_ani_316",
+            "et_ani_351",
+            "et_ani_366",
+            "et_ani_369",
+            "et_ani_411",
+            "et_dilie_200",
+            "et_dilie_329",
+            "et_glow_300",
+            "et_glow_35",
+            "et_mask_02",
+            "et_mask_11",
+            "et_mask_388",
+            "et_mask_412",
+            "et_mask_74"
+          ]
+        },
+        "models/prefabs/gfx_0581_pal_lod1_cd_skilla_loop": {
+          "anyLooping": true,
+          "estimatedDuration": 5.0,
+          "file": "_effects/gfx_0581_pal_lod1_cd_skilla_loop.json",
+          "particleSystems": 7,
+          "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_skilla_loop",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_16",
+            "e_wenli_300",
+            "e_wenli_317",
+            "e_wenli_351",
+            "e_wenli_43",
+            "e_wenli_58",
+            "et_ani_369",
+            "et_ani_412",
+            "et_dilie_329",
+            "et_glow_331",
+            "et_mask_02",
+            "et_mask_22",
+            "et_mask_412"
           ]
         }
       },
@@ -239,6 +294,7 @@
               "time": 2.3
             }
           ],
+          "buffs": [],
           "damageTimes": [
             1.0
           ],
@@ -309,6 +365,76 @@
               "time": 1.9
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 5.0,
+              "expireEffect": {
+                "audio": "audio/p0580_skillB",
+                "bindPoint": "HH_hit",
+                "bindPoint1": null,
+                "duration": 2.2,
+                "hitHeight": 0.0,
+                "id": 129,
+                "offset": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "offset1": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_skilla_bao_01",
+                "scale": 1.0
+              },
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1007701,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                2
+              ],
+              "type": 107
+            },
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 5.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1007601,
+              "interval": 0.0,
+              "loopEffect": {
+                "audio": null,
+                "bindPoint": "HH_root",
+                "bindPoint1": null,
+                "duration": 10.0,
+                "hitHeight": 0.0,
+                "id": 128,
+                "offset": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "offset1": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_skilla_loop",
+                "scale": 1.0
+              },
+              "targets": [
+                2
+              ],
+              "type": 70
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -320,6 +446,23 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1007801,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                2
+              ],
+              "type": 108
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -438,7 +581,7 @@
         "models/prefabs/gfx_0581_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.5,
-          "file": "effects/gfx_0581_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0581_pal_lod1_cd_hit.json",
           "particleSystems": 10,
           "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -458,7 +601,7 @@
         "models/prefabs/gfx_0581_pal_lod1_cd_idle": {
           "anyLooping": true,
           "estimatedDuration": 2.0,
-          "file": "effects/gfx_0581_pal_lod1_cd_idle.json",
+          "file": "_effects/gfx_0581_pal_lod1_cd_idle.json",
           "particleSystems": 5,
           "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_idle",
           "staticMeshes": 0,
@@ -469,6 +612,61 @@
             "et_ani_404",
             "et_glow_80",
             "et_mask_02"
+          ]
+        },
+        "models/prefabs/gfx_0581_pal_lod1_cd_skilla_bao_01": {
+          "anyLooping": false,
+          "estimatedDuration": 7.1,
+          "file": "_effects/gfx_0581_pal_lod1_cd_skilla_bao_01.json",
+          "particleSystems": 17,
+          "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_skilla_bao_01",
+          "staticMeshes": 0,
+          "textures": [
+            "e_trail_137",
+            "e_wenli_109",
+            "e_wenli_31",
+            "e_wenli_317",
+            "e_wenli_351",
+            "e_wenli_43",
+            "e_wenli_60",
+            "e_wenli_61",
+            "et_ani_316",
+            "et_ani_351",
+            "et_ani_366",
+            "et_ani_369",
+            "et_ani_411",
+            "et_dilie_200",
+            "et_dilie_329",
+            "et_glow_300",
+            "et_glow_35",
+            "et_mask_02",
+            "et_mask_11",
+            "et_mask_388",
+            "et_mask_412",
+            "et_mask_74"
+          ]
+        },
+        "models/prefabs/gfx_0581_pal_lod1_cd_skilla_loop": {
+          "anyLooping": true,
+          "estimatedDuration": 5.0,
+          "file": "_effects/gfx_0581_pal_lod1_cd_skilla_loop.json",
+          "particleSystems": 7,
+          "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_skilla_loop",
+          "staticMeshes": 0,
+          "textures": [
+            "e_wenli_16",
+            "e_wenli_300",
+            "e_wenli_317",
+            "e_wenli_351",
+            "e_wenli_43",
+            "e_wenli_58",
+            "et_ani_369",
+            "et_ani_412",
+            "et_dilie_329",
+            "et_glow_331",
+            "et_mask_02",
+            "et_mask_22",
+            "et_mask_412"
           ]
         }
       },
@@ -590,6 +788,7 @@
               "time": 2.3
             }
           ],
+          "buffs": [],
           "damageTimes": [
             1.0
           ],
@@ -660,6 +859,76 @@
               "time": 1.9
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 5.0,
+              "expireEffect": {
+                "audio": "audio/p0580_skillB",
+                "bindPoint": "HH_hit",
+                "bindPoint1": null,
+                "duration": 2.2,
+                "hitHeight": 0.0,
+                "id": 129,
+                "offset": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "offset1": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_skilla_bao_01",
+                "scale": 1.0
+              },
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1007701,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                2
+              ],
+              "type": 107
+            },
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 5.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1007601,
+              "interval": 0.0,
+              "loopEffect": {
+                "audio": null,
+                "bindPoint": "HH_root",
+                "bindPoint1": null,
+                "duration": 10.0,
+                "hitHeight": 0.0,
+                "id": 128,
+                "offset": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "offset1": [
+                  0.0,
+                  0.0,
+                  0.0
+                ],
+                "prefab": "models/prefabs/gfx_0581_pal_lod1_cd_skilla_loop",
+                "scale": 1.0
+              },
+              "targets": [
+                2
+              ],
+              "type": 70
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -671,6 +940,23 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 1,
+              "id": 1007801,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                2
+              ],
+              "type": 108
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,

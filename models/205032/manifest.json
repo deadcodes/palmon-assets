@@ -107,7 +107,7 @@
         "models/prefabs/gfx_0640_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.75,
-          "file": "effects/gfx_0640_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0640_pal_lod1_cd_hit.json",
           "particleSystems": 7,
           "prefab": "models/prefabs/gfx_0640_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -124,7 +124,7 @@
         "models/prefabs/gfx_0640_pal_lod1_cd_skill_hit": {
           "anyLooping": false,
           "estimatedDuration": 8.5,
-          "file": "effects/gfx_0640_pal_lod1_cd_skill_hit.json",
+          "file": "_effects/gfx_0640_pal_lod1_cd_skill_hit.json",
           "particleSystems": 9,
           "prefab": "models/prefabs/gfx_0640_pal_lod1_cd_skill_hit",
           "staticMeshes": 0,
@@ -265,6 +265,23 @@
               "time": 1.2
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 2,
+              "id": 10186,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                1
+              ],
+              "type": 191
+            }
+          ],
           "damageTimes": [
             0.5
           ],
@@ -396,6 +413,23 @@
               "time": 4.6
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 2,
+              "id": 10186,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                1
+              ],
+              "type": 191
+            }
+          ],
           "damageTimes": [
             3.6
           ],
@@ -409,6 +443,38 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 0,
+              "id": 1018701,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                2
+              ],
+              "type": 58
+            },
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 0.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 0,
+              "id": 1018801,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                2
+              ],
+              "type": 12
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
@@ -527,7 +593,7 @@
         "models/prefabs/gfx_0641_pal_lod1_cd_hit": {
           "anyLooping": false,
           "estimatedDuration": 5.75,
-          "file": "effects/gfx_0641_pal_lod1_cd_hit.json",
+          "file": "_effects/gfx_0641_pal_lod1_cd_hit.json",
           "particleSystems": 10,
           "prefab": "models/prefabs/gfx_0641_pal_lod1_cd_hit",
           "staticMeshes": 0,
@@ -549,7 +615,7 @@
         "models/prefabs/gfx_0641_pal_lod1_cd_skill_hit": {
           "anyLooping": false,
           "estimatedDuration": 10.0,
-          "file": "effects/gfx_0641_pal_lod1_cd_skill_hit.json",
+          "file": "_effects/gfx_0641_pal_lod1_cd_skill_hit.json",
           "particleSystems": 22,
           "prefab": "models/prefabs/gfx_0641_pal_lod1_cd_skill_hit",
           "staticMeshes": 0,
@@ -703,6 +769,23 @@
               "time": 1.2
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 2,
+              "id": 10186,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                1
+              ],
+              "type": 191
+            }
+          ],
           "damageTimes": [
             0.4
           ],
@@ -834,6 +917,23 @@
               "time": 4.6
             }
           ],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 2,
+              "id": 10186,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                1
+              ],
+              "type": 191
+            }
+          ],
           "damageTimes": [
             3.6
           ],
@@ -847,6 +947,38 @@
         },
         {
           "actions": [],
+          "buffs": [
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 120.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 0,
+              "id": 1018701,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                2
+              ],
+              "type": 58
+            },
+            {
+              "applyEffect": null,
+              "counterEffect": null,
+              "duration": 0.0,
+              "expireEffect": null,
+              "firstTick": 0.0,
+              "gainType": 0,
+              "id": 1018801,
+              "interval": 0.0,
+              "loopEffect": null,
+              "targets": [
+                2
+              ],
+              "type": 12
+            }
+          ],
           "damageTimes": [],
           "damageType": 1,
           "duration": 0.0,
