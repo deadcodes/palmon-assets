@@ -18,57 +18,57 @@
       "clips": [
         {
           "duration": 1.7667,
-          "file": "base.glb",
+          "file": "base.battle.glb",
           "label": "attack",
           "lod": true,
           "loop": false,
           "name": "a0630_pal_lod_attack",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.5333,
-          "file": "base.glb",
+          "file": "base.battle.glb",
           "label": "idle",
           "lod": true,
           "loop": true,
           "name": "a0630_pal_lod_idle",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.1667,
-          "file": "base.glb",
+          "file": "base.battle.glb",
           "label": "run",
           "lod": true,
           "loop": true,
           "name": "a0630_pal_lod_run",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 3.5333,
-          "file": "base.glb",
+          "file": "base.battle.glb",
           "label": "skilla",
           "lod": true,
           "loop": false,
           "name": "a0630_pal_lod_skilla",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.0,
-          "file": "base.glb",
+          "file": "base.battle.glb",
           "label": "sleep",
           "lod": true,
           "loop": true,
           "name": "a0630_pal_lod_sleep",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.2,
-          "file": "base.glb",
+          "file": "base.battle.glb",
           "label": "walk",
           "lod": true,
           "loop": true,
           "name": "a0630_pal_lod_walk",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.0,
@@ -169,6 +169,7 @@
       },
       "file": "base.glb",
       "files": {
+        "battle": "base.battle.glb",
         "showcase": "base.glb"
       },
       "mesh": {

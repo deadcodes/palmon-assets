@@ -585,66 +585,66 @@
       "clips": [
         {
           "duration": 1.5333,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "attack",
           "lod": true,
           "loop": false,
           "name": "a0321_pal_lod_attack",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.0,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "eat",
           "lod": true,
           "loop": true,
           "name": "a0321_pal_lod_eat",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.6667,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "idle",
           "lod": true,
           "loop": true,
           "name": "a0321_pal_lod_idle",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.0,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "run",
           "lod": true,
           "loop": true,
           "name": "a0321_pal_lod_run",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.8333,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "skilla",
           "lod": true,
           "loop": false,
           "name": "a0321_pal_lod_skilla",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.4,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "sleep",
           "lod": true,
           "loop": true,
           "name": "a0321_pal_lod_sleep",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.6,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "walk",
           "lod": true,
           "loop": true,
           "name": "a0321_pal_lod_walk",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.6667,
@@ -716,6 +716,7 @@
       },
       "file": "evolved.glb",
       "files": {
+        "battle": "evolved.battle.glb",
         "showcase": "evolved.glb"
       },
       "mesh": {
@@ -1113,6 +1114,7 @@
           "id": 20500401,
           "label": "Prismatic 1",
           "textures": {
+            "battle": "skins/evolved-20500401-battle.png",
             "showcase": "skins/evolved-20500401-showcase.png"
           }
         },
@@ -1120,6 +1122,7 @@
           "id": 20500402,
           "label": "Prismatic 2",
           "textures": {
+            "battle": "skins/evolved-20500402-battle.png",
             "showcase": "skins/evolved-20500402-showcase.png"
           }
         }

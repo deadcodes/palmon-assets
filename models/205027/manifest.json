@@ -1134,66 +1134,66 @@
       "clips": [
         {
           "duration": 1.5,
-          "file": "super.glb",
+          "file": "super.battle.glb",
           "label": "attack",
           "lod": true,
           "loop": false,
           "name": "a0532_pal_lod_attack",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.0,
-          "file": "super.glb",
+          "file": "super.battle.glb",
           "label": "eat",
           "lod": true,
           "loop": true,
           "name": "a0532_pal_lod_eat",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.0,
-          "file": "super.glb",
+          "file": "super.battle.glb",
           "label": "idle",
           "lod": true,
           "loop": true,
           "name": "a0532_pal_lod_idle",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 0.8,
-          "file": "super.glb",
+          "file": "super.battle.glb",
           "label": "run",
           "lod": true,
           "loop": true,
           "name": "a0532_pal_lod_run",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 3.1667,
-          "file": "super.glb",
+          "file": "super.battle.glb",
           "label": "skilla",
           "lod": true,
           "loop": false,
           "name": "a0532_pal_lod_skilla",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.6667,
-          "file": "super.glb",
+          "file": "super.battle.glb",
           "label": "sleep",
           "lod": true,
           "loop": true,
           "name": "a0532_pal_lod_sleep",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.6,
-          "file": "super.glb",
+          "file": "super.battle.glb",
           "label": "walk",
           "lod": true,
           "loop": true,
           "name": "a0532_pal_lod_walk",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.0,
@@ -1250,6 +1250,7 @@
       },
       "file": "super.glb",
       "files": {
+        "battle": "super.battle.glb",
         "showcase": "super.glb"
       },
       "mesh": {
