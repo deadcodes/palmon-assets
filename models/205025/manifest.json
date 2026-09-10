@@ -553,57 +553,57 @@
       "clips": [
         {
           "duration": 2.0,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "attack",
           "lod": true,
           "loop": false,
           "name": "a0571_pal_lod_attack",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.0,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "idle",
           "lod": true,
           "loop": true,
           "name": "a0571_pal_lod_idle",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 0.6667,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "run",
           "lod": true,
           "loop": true,
           "name": "a0571_pal_lod_run",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 0.3,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "skilla",
           "lod": true,
           "loop": false,
           "name": "a0571_pal_lod_skilla",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.7333,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "sleep",
           "lod": true,
           "loop": true,
           "name": "a0571_pal_lod_sleep",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 1.3333,
-          "file": "evolved.glb",
+          "file": "evolved.battle.glb",
           "label": "walk",
           "lod": true,
           "loop": true,
           "name": "a0571_pal_lod_walk",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 2.0,
@@ -685,6 +685,7 @@
       },
       "file": "evolved.glb",
       "files": {
+        "battle": "evolved.battle.glb",
         "showcase": "evolved.glb"
       },
       "mesh": {

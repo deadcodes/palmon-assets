@@ -53,12 +53,12 @@
         },
         {
           "duration": 0.8,
-          "file": "base.glb",
+          "file": "base.battle.glb",
           "label": "run",
           "lod": true,
           "loop": true,
           "name": "a0280_pal_lod_run",
-          "rig": "showcase"
+          "rig": "battle"
         },
         {
           "duration": 4.1667,
