@@ -1,0 +1,7186 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv441",
+  "new": "rv442"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 0,
+  "noiseSkipped": 0,
+  "languageEntries": 322,
+  "bullets": 322,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 0,
+  "otherRowsExcluded": 0,
+  "assetsNew": 0,
+  "assetsListed": 0,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 0,
+  "assetImageBytes": 0,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 0,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 0
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": [
+    {
+     "title": "Localization by Key Family",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "festival (71)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_50_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Unfurl the moon‑lit scroll to earn surprise rewards!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_50_new_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moonlit Scroll\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_51_new_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moonlit Vista\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_52_new_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moonlit Wander\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_53_new_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Lantern Gathering\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_54_new_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Lantern Illumination\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_55_new_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Mooncake Sharing\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_56_new_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moonlight Seekers\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_57_new_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moonlit Keepsake\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_01_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Race across the pitch - it's time to kick off!\" -> \"The osmanthus fragrance drifts through the air. Let's share a beautiful moonlit night together.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_01_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Football Fiesta\" -> \"Full‑Moon Promise\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_02_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Match Ticket\" -> \"Full‑Moon Treasures\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_03_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Premium Ticket\" -> \"Osmanthus Giftings\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_04_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Cheer Together\" -> \"Moonlit Reunion Feast\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_05_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Check in daily and celebrate the football fever!\" -> \"Meet up every day and share the festive moments together.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_05_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Fan Check-In\" -> \"Moon‑Lantern Bounty\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_06_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Hit the pitch - a new challenge awaits!\" -> \"Make mooncakes together and enjoy a peaceful moonlit reunion.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_06_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Training Camp\" -> \"Moonlit Encounter\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_07_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Hit the pitch and claim exclusive rewards!\" -> \"Complete challenges step by step and make your way to the full‑moon celebration.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_07_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Football Market\" -> \"Lantern Bazaar\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_08_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Energy Supply\" -> \"Moon‑Blossom Boon\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_09_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Energy Supply 1\" -> \"Moon‑Blossom Boon I\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_10_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Energy Supply 2\" -> \"Moon‑Blossom Boon II\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_11_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Hype Horn Conversion\" -> \"Mooncake Ingredients Converted\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_11_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Energy Supply 3\" -> \"Moon‑Blossom Boon III\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_12_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Ahoy, explorer!\nThe Football Fiesta event has ended. All of your unused Hype Horns have been converted into 1 min of Building Speedups. Attached are your rewards.\" -> \"Ahoy, explorer!\nThe Full‑Moon Promise event has ended. Each unused Mooncake Ingredient has been converted to a 1min of Building Speedup. Your rewards are attached.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_12_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Energy Supply 4\" -> \"Moon‑Blossom Boon IV\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_13_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Golden Ball Coin Conversion\" -> \"Moon‑Hare Tokens Converted\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_13_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Energy Supply 5\" -> \"Moon‑Blossom Boon V\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_14_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Ahoy, explorer!\nThe Football Fiesta event has ended. All of your unused Golden Ball Coins have been converted into 1 min of Building Speedups. Attached are your rewards.\" -> \"Ahoy, explorer!\nThe Full‑Moon Promise event has ended. Each of your unused Moon‑Hare Tokens have been converted into a 1min of Building Speedup. Attached are your rewards.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_14_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Energy Supply 6\" -> \"Moon‑Blossom Boon VI\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_15_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"The whistle has blown! Rewards and excitement await! Use to exchange for various rewards at the Football Market.\" -> \"Welcome the cozy moonlit night. Full‑Moon Promise event items can be exchanged for various rewards at the Lantern Bazaar.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_15_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Unclaimed Football Fiesta Rewards\" -> \"Unclaimed Full‑Moon Promise Event Rewards\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_15_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Golden Ball Coin\" -> \"Moon‑Hare Token\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_16_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Attached are your unclaimed rewards from the Football Fiesta event.\" -> \"Attached are your unclaimed rewards from the Full‑Moon Promise event.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_16_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Football Points\" -> \"Moonlight Points\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_17_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"The whistle has blown! Rewards and excitement await! Use to join the Cheer Together or placing bets in Palympics.\" -> \"A Full‑Moon Promise event item required to take part in the Moonlit Reunion Feast.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_17_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Ultimate Fan\" -> \"Autumn Moon Companion\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_17_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Complete Football Fiesta tasks to earn Football Points.\" -> \"Complete Full‑Moon Promise quests to earn Moonlight Points.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_17_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Hype Horn\" -> \"Mooncake Ingredients\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_18_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Cheer xX\" -> \"Bake xX\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_19_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Cheer\" -> \"Bake\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_1_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Hype Horn obtained: X\" -> \"Obtained: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_20_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"1) Each Cheer action adds 1 to the server's total cheer progress. When all explorers on the server reach certain cheer milestones, you can claim tiered cheer rewards!\n2) You can still earn personal participation rewards even after all server-wide cheer milestone rewards have been unlocked.\" -> \"1) Each baking attempt raises the server's total baking progress by 1. When all Explorers across the server collectively reach a certain total baking progress, you may claim tiered baking rewards!\n2) You can still earn personal participation rewards even after all server-wide baking milestone rewards have been unlocked.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_21_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Cheer Together\" -> \"Moonlit Reunion Feast\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_22_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Attached are your unclaimed Cheer Together event rewards.\" -> \"Attached are your unclaimed Moonlit Reunion Feast event rewards.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_23_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Obtain Hype Horn\" -> \"Obtain Mooncake Ingredients\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_24_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Acquired from the Football Fiesta event.\" -> \"Acquired from the Full‑Moon Promise event.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_25_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Acquired from the Training Camp event.\" -> \"Acquired from the Moonlit Encounter event.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_26_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Obtain Golden Ball Coins\" -> \"Obtain Moon‑Hare Tokens\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_27_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Acquired from the Cheer Together event.\" -> \"Acquired from the Moonlit Reunion Feast event.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_28_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Acquired from Energy Supply.\" -> \"Acquired from the Moon‑Blossom Boon event.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_29_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Cheer Rewards\" -> \"Baking Rewards\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_2_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Fan Surprise Box\" -> \"Moon‑Hare Pouch\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_30_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Use the Cheer action to get random rewards.\" -> \"Each baking attempt grants one random reward below.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_31_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Defeat a Bullyboss on the Pallantis Map to earn 10 Hype Horns.\" -> \"Earn 10 Mooncake Ingredients for each Bullyboss you defeat on the World Map.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_32_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Defeat a Meowdame on the Pallantis Map to earn 10 Hype Horns.\" -> \"Earn 10 Mooncake Ingredients for each Meowdame you defeat on the World Map.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_33_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Complete a Treasure Hunt to earn 15 Hype Horns.\" -> \"Complete a Treasure Hunt to earn 15 Mooncake Ingredients.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_34_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Complete an Intel Quest to earn 5 Hype Horns.\" -> \"Complete an Intel Quest to earn 5 Mooncake Ingredients.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_35_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Complete an Airship Trade to earn 20 Hype Horns.\" -> \"Complete an Airship Trade to earn 20 Mooncake Ingredients.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_36_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Defeat a Cataclyzard to earn 30 Hype Horns.\" -> \"Defeat a Cataclyzard to earn 30 Mooncake Ingredients.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_37_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Complete a World Boss challenge to earn 15 Hype Horns.\" -> \"Complete a World Boss challenge to earn 15 Mooncake Ingredients.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_38_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Football Gift\" -> \"Moonlight Tribute\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_39_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Make purchases to get Magic Beans and unlock more tiers of Football Gift rewards.\" -> \"Build up progress to earn exclusive collectibles.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_3_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Open a Fan Surprise Box to receive the Football Fiesta avatar frame: Ultimate Fan, UR Palmon Omni-Tokens, Mount Shoes, and other rare rewards.\" -> \"Open the Moon‑Hare Pouch to receive the Full‑Moon Promise Avatar Frame: Autumn Moon Companion, UR Palmon Omni-Tokens, Mount Shoes, and other rare items.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_4_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Football Fiesta exclusive avatar frame: Ultimate Fan\" -> \"Full‑Moon Promise exclusive Avatar Frame: Autumn Moon Companion.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_5_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Acquired from the Football Fiesta event series.\" -> \"Acquired from the Full‑Moon Promise event series.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_6_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Not enough Golden Ball Coins. Get more from events.\" -> \"Not enough Moon‑Hare Tokens. Get more from events.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_7_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Football Fiesta Free Gift\" -> \"Full‑Moon Promise Freebies\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_8_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Unlock Match Ticket\" -> \"Unlock Full‑Moon Treasures\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "festival_time_to_Mid_Autumn_9_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Unlock Premium Ticket\" -> \"Unlock Osmanthus Giftings\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "ruin (54)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Recommended Power: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_1_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Recommended Upgrades\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Power Insufficient\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_2_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Go >>\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Power Requirement Met\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_4_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"No development info currently available. Please unlock the corresponding development feature.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_blood_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"You're just one step away!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_blood_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Find your breakthrough and get stronger!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_blood_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Complete a core breakthrough before challenging again!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_1_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"This Mount is at a low level. Upgrading it can significantly increase Power. It is recommended to prioritize enhancing it.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_1_1_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Mount Level\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_1_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"While upgrading the Mount's level, you can simultaneously upgrade its skill level to enhance combat benefits.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_1_2_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Mount Skills\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_3_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"This Equipment is at a low level. Enhancing it can significantly increase Power. It is recommended to prioritize enhancing it.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_3_1_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Enhancement\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_3_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"This Equipment is at a low level. Enhancing it can significantly increase Power. It is recommended to prioritize enhancing it.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Unlock Lvl X Armigo to significantly boost Armigo base stats and gain greater Power.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_1_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Armigo Level\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade Building ‑ Squad I to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_2_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Research the Squad 1 ‑ Squad Expansion tech to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_2_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Research the Armigo Boost ‑ Squad Expansion tech to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_3_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade Achievement ‑ Fitness Icons to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_3_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade Achievement - Bipedal Buddies to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_3_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade Achievement ‑ Mythbearer to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_4_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Raise VIP level to 15 or above to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_5_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Enhance Explorer's Gear - Ring to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_5_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Enhance Explorer's Gear - Boots to increase Armigo capacity.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_2_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Armigo Amount\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_1_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Research Armigo tech to increase Armigo Attributes.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_1_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Research Squad 1 tech to increase Armigo Attributes.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_1_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Research Super Armigo tech to increase Armigo Attributes.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_1_4_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Research Armigo Boost tech to increase Armigo Attributes.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_1_5_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Research Armigo Mastery tech to increase Armigo Attributes.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_2_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade Achievement - Fitness Icons to increase Amigo Attributes.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_2_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade Achievement - Bipedal Buddies to increase Armigo Attributes.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_2_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade Achievement - Mythbearer to increase Armigo Attributes.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Raise VIP level to 10 or Higher\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_4_3_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Armigo Bonus\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_5_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"This Equipment is at a low star level. Ascending it can significantly increase Power. It is recommended to prioritize ascending it.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_5_1_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Ascension\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_5_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"This Equipment is at a low level. Enhancing it can significantly increase Power. It is recommended to prioritize enhancing it.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_5_2_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Enhancement\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_6_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Increase the Boss's star level to unlock the level cap and more powerful skills.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_6_1_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Boss Star Level\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_6_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade and unlock Boss skills to gain more powerful combat buffs.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_6_2_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Boss Skills\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_6_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Increase the Boss's level to gain more attribute bonuses.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_model_6_3_titile",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Boss Level\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_power_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Mount Power: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_power_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Tech Power: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_power_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Explorer's Gear Power: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_power_4_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Armigo Power: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_power_5_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Palmon Equipment Power: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ruin_fail_power_6_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Boss Power: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "errorcode (40)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "errorcode_140",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Please defeat the summoned Corrupted Meowdame first.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_15465",
+           "kind": "code"
+          },
+          {
+           "text": ": \"This skill cannot be used in this scenario.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30510",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Event not started yet.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30511",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Not activated. Cannot claim.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30512",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Already activated. Cannot purchase again.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30513",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Today's reward already claimed.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30514",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Today's reward is not yet available.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30515",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Reward configuration error.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30560",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Target type not configured.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30561",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Target type unavailable.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30562",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Select at least 1 target.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30601",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30602",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30603",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30604",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30605",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30607",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30608",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30609",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30610",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30611",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30612",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30613",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30614",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30615",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30616",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30617",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30618",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30619",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30620",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30621",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30622",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30623",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30624",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30625",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30626",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30627",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30628",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30629",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "errorcode_30165",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Coral Reef Rescue grand prize not unlocked.\" -> \"After completing all row and column tasks, you can claim the final grand prize.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "team (35)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_1_remarks1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_1_remarks2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_1_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_1_title1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_1_title2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_remarks1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_remarks2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_remarks3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_remarks4",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_remarks5",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_remarks6",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_remarks7",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_remarks8",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title4",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title5",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title6",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title7",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_2_title8",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_3_remarks1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_3_remarks2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_3_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_3_title1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_info_3_title2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_match_btn_13",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_no_record",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_fraction_name_1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\" -> \"Flame‑Primus\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_fraction_name_2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\" -> \"Azure‑Wing\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_fraction_name_3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\" -> \"Crimson‑Claw\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_goods_rank",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\" -> \"Supplies Rankings\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_rank_mail_remarks",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\" -> \"This round of Dragonfire Clash has ended. Your total Supplies ranked #X. Here are your ranking rewards:\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "team_camp_rank_mail_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\" -> \"Dragonfire Clash Ranking Rewards\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "activity (32)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "activity_calendar_cashback_makeup_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"The event is in the make-up period. Each top-up unlocks and allows you to claim one day's reward.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_calendar_cashback_rules",
+           "kind": "code"
+          },
+          {
+           "text": ": \"1. During the event, top up any amount daily to claim generous rewards!\n2. Daily Meow‑ney Pouch is limited to 1 purchase per day, and you can change the contents of the Daily Meow‑ney Pouch before purchasing.\n3. The last 2 days of the event will be the late sign‑in period. During this time, each top‑up will unlock and allow you to claim one day's reward.\n4. After the event ends, unlocked but unclaimed rewards will be sent through PMail.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_10_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Current Location: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_11_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Not yet enabled.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_12_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto Rally disabled.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_13_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto Rally duration refreshed.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_14_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto Rally enabled.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_15_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Please select at least one Auto Rally target.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_16_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Can be obtained from the Rally, Explorers! event\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Reward refresh time\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_1_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto Rally\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Complete all daily quests to claim the following rewards.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_2_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto-Rallying...\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_3_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Bonus rewards ready to claim.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_3_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Enable Now\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_4_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"All of today's rewards have been claimed.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_5_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Join a guild to enable Auto Rally.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_6_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto Rally is not enabled.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_7_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Multiple types can be selected.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_8_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Rally Participation Reward Count\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_9_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto Rally Duration: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_des",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Threats are erupting across Pallantis. Rally with fellow explorers and earn generous rewards!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_mail_des",
+           "kind": "code"
+          },
+          {
+           "text": ": \"You have unclaimed event rewards that have been reissued. Accept your rewards below!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_mail_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Rally, Explorers! Daily Unclaimed Rewards\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_task_1_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Initiate Rally xX.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_task_2_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Initiate or Join Rally xX.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_gather_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Rally, Explorers!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_paid_signin_word1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Palmon Handbook\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_paid_signin_word2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Purchase at any time during the event to receive all rewards.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_paid_signin_word3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Palmon Handbook Event Unclaimed Rewards\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_paid_signin_word4",
+           "kind": "code"
+          },
+          {
+           "text": ": \"The Palmon Handbook event has ended. Attached are your unclaimed rewards:\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_help_desc_126_1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"1) Complete Rhythm Jam quests to earn Groove Points. Claim free rewards after reaching Groove Point milestones.\n2) Buy Rhythm Prelude or Rhythm Finale to unlock even better rewards.\n3) After reaching max Groove Points, you can exchange your extra Groove Points for Infinite Chests.\" -> \"1) During the Full‑Moon Promise events, complete quests to earn Moonlight Points. Reach certain milestones to claim free rewards.\n2) Purchase Full‑Moon Treasures and Osmanthus Giftings to unlock better rewards.\n3) Once you reach the Moonlight Points cap, any extra points can be exchanged for Infinite Chests.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "purify (14)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_10_button",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Complete\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_11_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Tokens earned during the event: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_12_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Genetek is using mysterious technology to corrupt Palmon. The innocent Meowdame has lost its sanity and become extremely vicious.\nDefeat Genetek's Bullypunks, obtain the map, track down Meowdame, and purify the corrupted power within it!\nSet out! Save Meowdame and make it your companion!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_13_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Please defeat the summoned Corrupted Meowdame first.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_14_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"1. The event lasts for 4 days and is open all day during the event period.\n2. During the event, rally to defeat Bullypunks to obtain Trail Maps. Explorers who participate in rallies also have a chance to obtain a Trail Map. A maximum of 30 Trail Maps can be obtained daily by initiating or participating in rallies.\n3. The Trail Map can be used in the inventory to summon the Corrupted Meowdame. Rally to defeat the Corrupted Meowdame to obtain a Meowdame Token.\n4. Once summoned, the Corrupted Meowdame will remain for 1 hour. Explorers should challenge it promptly.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_1_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Purify Meowdame\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_2_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Trail Map\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_3_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"A mysterious map that records the traces of Meowdame. Use it to summon the Corrupted Meowdame, challenge and defeat it to obtain generous rewards!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_4_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Corrupted Meowdame\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_5_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Target I\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_6_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Launch X rallies against Bullymon and defeat them to earn rewards (X/X).\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_7_title",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Target II\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_8_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Use the Trail Map to summon the Corrupted Meowdame. Defeat it to earn more Meowdame Tokens!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "purify_qimenglu_9_button",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Go\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "decoration (10)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "decoration_decs_66",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Rippling water waves provide a cooling effect.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_decs_67",
+           "kind": "code"
+          },
+          {
+           "text": ": \"The most basic foliage. Place it anywhere to instantly bring vibrant life to your space!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_decs_68",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Butterflies will occasionally land here to rest. This is the perfect spot to swing your bug‑catching net!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_decs_69",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Silent flowing waters, eternal glowing lights.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_decs_70",
+           "kind": "code"
+          },
+          {
+           "text": ": \"No magic required. This half‑moon hanging above the buildings hangs forever in the sky, turning every night into a joyous full‑moon celebration.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_name_66",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Pathway 5\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_name_67",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Fence\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_name_68",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Hedge\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_name_69",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moonlit Spring\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "decoration_name_70",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moonveil Palace\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "island (10)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "island_233_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Huzzahed your Dream Isle\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_234_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Visited your Dream Isle\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_235_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Furnishings\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_236_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Log\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_237_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Huzzah Log\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_238_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Visitor Log\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_239_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"No interaction messages yet\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_plot_18",
+           "kind": "code"
+          },
+          {
+           "text": ": \"The Logging Guild seeks nearby trees to cut. Adjust your cabin placement to change the direction of expansion!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_81_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Universal Decor Shard (Legendary)\" -> \"Universal Decor Shard\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "island_82_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"X Universal Decor Shards can be exchanged for 1 Legendary Furnishing.\" -> \"When upgrading Furnishings, spend shards based on Furnishing Rarity to obtain 1 corresponding Lv.1 Furnishing (usable in Dream Isle).\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "news (9)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "news_center_attack_multi",
+           "kind": "code"
+          },
+          {
+           "text": ": \"X swept through like a crushing force, defeating X's X defending troops in one decisive blow!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "news_center_attack_single",
+           "kind": "code"
+          },
+          {
+           "text": ": \"X proved invincible, defeating a large number of X's amigos!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "news_center_battle_generic",
+           "kind": "code"
+          },
+          {
+           "text": ": \"X and X engaged in an intense battle!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "news_center_defend_rally",
+           "kind": "code"
+          },
+          {
+           "text": ": \"X easily crushed X's massive rally attack. Numbers mean nothing!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "news_center_defend_single",
+           "kind": "code"
+          },
+          {
+           "text": ": \"X easily repelled X's overambitious attack!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "news_dyy1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Battle Erupts\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "news_dyy2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"View Coordinates\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "news_dyy3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Hide red dot notifications on World page\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "news_dyy4",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Server News\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "recharge (8)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "recharge_paid_calendar_word1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Meow‑ney Blessings\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "recharge_paid_calendar_word10",
+           "kind": "code"
+          },
+          {
+           "text": ": \"The Meow‑ney Blessings event has ended. Attached are your unclaimed rewards:\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "recharge_paid_calendar_word2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Top up daily to receive generous rewards from Meow‑ney Blessings.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "recharge_paid_calendar_word3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Daily Meow‑ney Pouch\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "recharge_paid_calendar_word4",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Makeup Period: X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "recharge_paid_calendar_word7",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Total amount recharged\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "recharge_paid_calendar_word8",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Massive discounts! Super low prices! Choose what you want!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "recharge_paid_calendar_word9",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Meow‑ney Blessings Event Unclaimed Rewards\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "ERR (7)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "ERR_CONF_WRONG",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Reward claim error. Please contact customer support.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ERR_PAID_SIGNIN_FREE_ALREADY_CLAIMED",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Reward already claimed.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ERR_PAID_SIGNIN_NOTHING_TO_CLAIM",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Reward already claimed.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ERR_PAID_SIGNIN_NOT_BUY",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Available after purchase.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ERR_PAID_SIGNIN_NOT_OPEN",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Event error. Please contact customer support.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ERR_PARAM_INVALID",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Order pending activation.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "ERR_RECHARGE_ALREADY_PENDING",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Please go to your PMail to activate the order first.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "alliance (7)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "alliance_boss_87_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Offline Participation\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "alliance_boss_88_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"When checked, your squad will Auto-Join rally teams initiated by guildmates against Flapnir in waiting order.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "alliance_boss_89_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Flapnir Hunter\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "alliance_boss_90_new_desc",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Increases damage dealt by 20% when you actively initiate or manually join a rally against Flapnir.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "alliance_boss_will_end",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Your rally would exceed Flapnir's remaining duration, so it cannot be initiated.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "alliance_tech_1_remarks",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Allows offline guildmates to automatically dispatch a squad to rallies.\" -> \"Increases damage when initiating or joining a guild rally against non-explorer targets.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "alliance_tech_buff_1_remarks",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto Rally\" -> \"Rally DMG against Non-explorers Bonus\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "castle (6)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "castle_skin_35_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moon Palace Reverie\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "castle_skin_36_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Journey With the Moon\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "castle_skin_item_35_des",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Use to permanently acquire the Moon Palace Reverie skin.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "castle_skin_item_35_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Moon Palace Reverie (Permanent)\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "castle_skin_item_36_des",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Use to permanently unlock the Journey With the Moon march skin.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "castle_skin_item_36_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Journey With the Moon (Permanent)\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "crossserver (2)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "crossserver_mine_tip96",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Tap to Go\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "crossserver_mine_des",
+           "kind": "code"
+          },
+          {
+           "text": ": \"1. Dojo Challenges are available from Monday to Sunday.\n2. Each week at opening time, explorers will be assigned to a zone based on their Camp level. The higher the zone level, the greater its Dojo Prestige rewards.\n3. You can only be assigned to one competition stage each week.\n4. Dojos are located within 4 elemental zones. Occupy a Dojo to collect its corresponding elemental energy. Each zone contains 1 Champion Dojo, 8 Elite Dojos, and more Regular Dojos. Higher-level Dojos produce more elemental energy.\n5. Collect from an unchallenged Dojo that's 100% occupied to trigger a special event and receive bonus rewards. There's also a chance to trigger a special event when challenging an 100% occupied Dojo.\n6. You can challenge a Dojo occupied by another player. A successful challenge will transfer the Dojo to you. Your first challenge each day is free; subsequent challenges have a 10-minute cooldown and cost Pallite.\n7. You can challenge Dojos occupied by other players up to 6 times per day. Challenging Dojos with more resources will yield greater rewards.\" -> \"1. Dojo Challenges are available from Monday to Sunday.\n2. Each week at opening time, explorers will be assigned to a zone based on their Camp level. The higher the zone level, the greater its Dojo output.\n3. You can only be assigned to one competition stage each week.\n4. Dojos are located within 4 elemental zones. Occupy a Dojo to collect its corresponding elemental energy. Each zone contains 1 Champion Dojo, 8 Elite Dojos, and more Common Dojos. Higher-tier Dojos grant more Output.\n5. Collect from an unchallenged Dojo that has reached 100% occupation to trigger a special event and receive bonus rewards. There's also a chance to trigger a special event when plundering a Dojo with full resources.\n6. You can challenge a Dojo occupied by another player. A successful challenge will transfer the Dojo to you. Your first challenge each day is free; subsequent challenges have a 10-minute cooldown and cost Pallite.\n7. You can challenge Dojos occupied by other players up to 6 times per day. Challenging Dojos with more resources will yield greater rewards.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "desert (2)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "desert_tech02_des",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Desert XP Bonus per Desert Building Unlocked\" -> \"Increases Desert XP gained each time you unlock a Desert building. (Higher building levels improve the effect!)\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "desert_tech03_des",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Every 200 resources (Gold, Steel, Wood) harvested in the desert are converted into Desert XP.\" -> \"Every 200 resources (Gold, Steel, Wood) harvested in the Desert Wonderland are converted into Desert XP.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "gem (2)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "gem_ty_23",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Lvl X\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gem_descty1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"1. Palmite Level refers to the total level of all Palmites socketed in the current Aura\n2. The higher the Palmite Level, the stronger the effects that can be activated\n3. Palmite active skills only take effect in World Map battles.\" -> \"1. Palmite Level refers to the total level of all Palmites socketed in the current Aura.\n2. The higher the Palmite Level, the stronger the effects that can be activated.\n3. Palmite active skills only take effect in PVP battles on the World Map.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "item (2)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "item_recycle_1128_tip",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Recycling this item will grant you X xX. Confirm?\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "item_remarks_1128",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Used to spin the Wheel of Fortune. Potential rewards include UR Palmon Tokens. This item is kept after each event ends.\" -> \"Used to spin the Wheel of Fortune. Potential rewards include UR Palmon Tokens. Note: No new rounds of this event will be launched after September 14, 2026. Items can be converted into 5 min Universal Speedups at a ratio of 1:5.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "second (2)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "second_paid_word1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"More Gifts Unclaimed Rewards\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "second_paid_word2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"The More Gifts event has ended. Attached are your unclaimed rewards:\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "Boss (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Boss_training_introduction_5",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Ophidillain doesn't need to be deployed. It grants bonus stats in every Camp defense battle (World Map, Sandstorm Scuffle, Frostbite Valley).\" -> \"Ophidillain doesn't need to be deployed. It grants bonus stats in every Camp defense battle (World Map, Sandstorm Scuffle, Arctic Showdown).\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "daily (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "daily_package_16_name",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Refinement Scroll Bundle\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "limit (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "limit_activity_name_277",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "milestone (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "milestone_87_des_3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"As the sandstorm fades, a lost wonder rises from the dust of history. The ancient desert throne awaits a new ruler. Bring your Palmon and embark on a journey to discover lost power and ancient miracles!\" -> \"The sands parted, showing a lost wonder. A throne awaits a master. Seek power and miracles with your Palmon!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "monster (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "monster_help_429_3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"1) You can initiate rally attacks. It costs 20 AP to initiate a rally, but no AP for Explorers to join the rally. Upon victory, the initiator will receive initiator rewards and participants will receive participation rewards. (Trail Map drops stop after reaching the daily cap.)\n2) You need at least two explorers in a rally to attack.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "new (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "new_alliance_tech_name_1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Auto Rally\" -> \"Rally Assault\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "palmon (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "palmon_games_sd",
+           "kind": "code"
+          },
+          {
+           "text": ": \"#N/A\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "tech (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "tech_reward_18_tips",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Palmon Defense +X%\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "union (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "union_brilliant_task_1005_text",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Upgrade guild tech: Auto Rally\" -> \"Upgrade guild tech: Rally Assault\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": []
+  }
+ ],
+ "newAssets": []
+}

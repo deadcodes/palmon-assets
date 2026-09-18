@@ -508,6 +508,28 @@
     "pair": "rv441",
     "path": "changelogs/rv441/changelog.json"
    }
+  },
+  {
+   "label": "rv442",
+   "tag": "rv442",
+   "order": 442,
+   "publishedAtUtc": "2026-09-18T16:30:12.878111+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5530,
+    "sprites": 7328,
+    "builder": 0,
+    "added": 0,
+    "modified": 0,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": {
+    "pair": "rv442",
+    "path": "changelogs/rv442/changelog.json"
+   },
+   "appVersion": "0.5.417"
   }
  ]
 }
