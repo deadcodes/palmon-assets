@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv451",
+    "new": "rv452"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:23Z",
+  "title": "Chat tab fix for private message channels",
+  "summary": "No game data changed in this version. One client fix: the chat panel now hides its activity tab by collapsing it instead of deactivating it, so private message channels no longer pick up the wrong tab index.",
+  "highlights": [
+    "Chat: the activity tab is hidden by scaling it to zero rather than being deactivated, which kept private chat from landing on the wrong channel index."
+  ],
+  "categories": []
+}
