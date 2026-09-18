@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv444",
+    "new": "rv445"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:15Z",
+  "title": "Full-Moon Promise arrives with Mid-Autumn items, art and festival config",
+  "summary": "The Mid-Autumn Full-Moon Promise event lands. Ten new items appear, including Dragonfire march and hospital speedups, the Trail Map used to summon the Corrupted Meowdame, and Moonlight Points. Three Valentine's items are rebranded as Moon-Hare Pouch, Moon-Hare Token and Mooncake Ingredients, and 59 new Mid-Autumn sprites plus the festival's own config are registered.",
+  "highlights": [
+    "New items: Pep-Pep Step and Pep Step cut Dragonfire march time by 50% and 25%, joined by four Dragonfire Clash hospital queue reducers.",
+    "Trail Map (#11601) records the traces of Meowdame and is used to summon the Corrupted Meowdame for rewards.",
+    "Moonlight Points (#100047) are earned by completing Full-Moon Promise quests.",
+    "Three Valentine's items are reskinned: Soundwave Gift becomes Moon-Hare Pouch, Cupid Shard becomes Moon-Hare Token, and Cupid's Surprise becomes Mooncake Ingredients, each with a new icon and description.",
+    "Festival config is populated: festival_action_1 and festival_action_item wire up the Mid-Autumn box, mail and exchange panels, and festival_action_5 gains a twelve-key egg-hunt configuration.",
+    "59 new Mid-Autumn sprites are registered across the event's two panels, covering gift boxes, point icons, level backgrounds and the shop frame.",
+    "Other new art includes two island prefabs, a base skin and troop skin icon set, and a new avatar frame."
+  ],
+  "categories": [
+    {
+      "title": "Items",
+      "count": 20
+    },
+    {
+      "title": "General",
+      "count": 4
+    },
+    {
+      "title": "Assets",
+      "count": 91
+    }
+  ]
+}
