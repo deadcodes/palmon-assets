@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv442",
+ "generatedFor": "rv443",
  "totals": {
-  "textures": 5530,
+  "textures": 5531,
   "sprites": 7328,
   "builder": 0
  },
@@ -28,8 +28,8 @@
   {
    "id": "03",
    "file": "index/assets/03.json",
-   "count": 807,
-   "bytes": 310644
+   "count": 808,
+   "bytes": 311016
   },
   {
    "id": "04",
@@ -1063,7 +1063,7 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uipayactivity",
-   "count": 47
+   "count": 48
   },
   {
    "path": "uiv3/texture/_static_uipanel/uipaycontinuityrecharge",
@@ -1660,6 +1660,7 @@
   "rv439",
   "rv440",
   "rv441",
-  "rv442"
+  "rv442",
+  "rv443"
  ]
 }

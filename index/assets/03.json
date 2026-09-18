@@ -9173,6 +9173,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uipayactivity/PiggyBank_ArtFont_break_zh_CN.png",
+   "kind": "texture",
+   "firstSeen": "rv443",
+   "lastSeen": "rv443",
+   "history": [
+    {
+     "version": "rv443",
+     "sha256": "7a202e54eda4c7e07b65ae854c5f7602f6a3d24d0b0d99284ab18862b7a704b6",
+     "bytes": 46542,
+     "width": 1080,
+     "height": 160
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uiruin/ruin_4_3.png",
    "kind": "texture",
    "firstSeen": "rv417",
