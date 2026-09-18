@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv445",
+    "new": "rv446"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:16Z",
+  "title": "Ace Trial expands to 300 stages with rebalanced power and rewards",
+  "summary": "The Ace Trial is reworked. Ladders 1, 2, 4 and 5 gain new stages up to id 300, first-clear rewards rise about 1.75x across every ladder, and required enemy power falls sharply on most stages while enemy stats, skills and models are reshuffled. Auto Rally gains a full target and reward configuration, and 59 new sprites arrive for the Trial, News Center, paid check-in cashback and Treasure Hunt screens.",
+  "highlights": [
+    "Ace Trial adds new stages: 50 each to ladders 1, 2 and 5 and 100 to ladder 4, all reaching id 300.",
+    "First-clear rewards increase about 1.747x across every Ace Trial ladder.",
+    "Required stage power falls steeply on ladders 1, 2, 4, 5 and 6, down to as little as 0.003x the previous value; ladder 3 moves in both directions.",
+    "1,750 new trial enemies are added, and existing enemies' attack, defense and HP are rescaled, mostly downward, with ladder 5 moving both ways.",
+    "ruins_challenge_new replaces its flat power-inhibit function with an exponential one driven by the enemy-to-player power ratio.",
+    "Auto Rally is configured with per-target types, rewards and unlock days, adds monster 232 as a target, and gains a rally gift, its mail, and 8-hour and 3-day windows.",
+    "A new buff (#2100) increases damage when initiating or joining a guild rally against non-explorer targets.",
+    "Player emblem level caps are restructured, raising every tier's maximum to 42 on servers 233 and up."
+  ],
+  "categories": [
+    {
+      "title": "Items",
+      "count": 4
+    },
+    {
+      "title": "General",
+      "count": 107
+    },
+    {
+      "title": "Assets",
+      "count": 86
+    }
+  ]
+}
