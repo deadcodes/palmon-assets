@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv449",
+    "new": "rv450"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:21Z",
+  "title": "Shortcut table re-pointed across 226 entries",
+  "summary": "Nothing visible to a player changed in this version's palmons, skills, items, systems, text or art. The only data change is the internal goto table, the where-do-I-get-this shortcuts: 226 entries are re-pointed to different descriptions, icons and destinations, and three are removed.",
+  "highlights": [
+    "226 goto shortcut entries change their description, icon or jump target, for example Dojo Challenge, VIP Shop, Black Friday Madness and Mariner's Hoard.",
+    "Three goto entries are removed: Desert Mastery, Daily Quests and Purchase Bundles."
+  ],
+  "categories": []
+}
