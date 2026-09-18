@@ -3990,12 +3990,19 @@
    "path": "sprites/A_UIGoto/Easter_icon_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "9de8277be6a083d50d8d32887f16fc9543d674d5852735a2507c85859e8797bc",
      "bytes": 40695,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "b9e607efe369686371c099aadf20b617f8bcc2bb436595079905c7fd4dc1b3b7",
+     "bytes": 40712,
      "width": 180,
      "height": 180
     }
@@ -4006,12 +4013,19 @@
    "path": "sprites/A_UIGoto/bigworldcatch3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "a08505052d01b48e95b7e298780b9c855663a43f3ff5bd804dbe08b373721cfd",
      "bytes": 43055,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "5ca560910a2cfb664f231a3014c9caf9e38529f3f5efb0e4bc45b3be2278facc",
+     "bytes": 42976,
      "width": 180,
      "height": 180
     }
@@ -4054,12 +4068,19 @@
    "path": "sprites/A_UIGoto/goto_icon_season_upgrade_stove.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "1f9cca2c278fe23353cbb8cf433328bab05623e55d61cbe429a7d12a0bdecf9d",
      "bytes": 46375,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "13520508458b8a971fca8190fdf5ec637a9bcd83b44c68c779270ecbbe5af41a",
+     "bytes": 45632,
      "width": 180,
      "height": 180
     }
@@ -4070,12 +4091,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp13.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "73ba6e882880feaa6183a85d9a6e7fbb60306390d8343fec19b3c447121e508b",
      "bytes": 43815,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "831a0a2e79e5cbca8ae76079de1f84f992dc54061b0d7f4dcb26333861483b8a",
+     "bytes": 44933,
      "width": 180,
      "height": 180
     }
@@ -4086,12 +4114,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp8.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "f5b76fd48170180181184e0bb39c255eadcf1c4ef7304d8ba84ea3f2b8469133",
      "bytes": 43084,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "ffd24ef90ce6211dc969ab28c36171c7582ef118d20e45877334d74b6ee763f3",
+     "bytes": 43491,
      "width": 180,
      "height": 180
     }
@@ -4102,12 +4137,19 @@
    "path": "sprites/A_UIGoto/task_icon_rongyushop.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "177c2dd5e78bbd96429b203bfdcfbc62b54e0ecaf00469e82ed31e71472d720f",
      "bytes": 44069,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "7c407d1af9c115505751223b6dd5cb72c00edd97a4b306f071ab988a75dea4fc",
+     "bytes": 44075,
      "width": 180,
      "height": 180
     }
@@ -4118,12 +4160,19 @@
    "path": "sprites/A_UIGoto/task_icon_shengwang.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "9cad2348dc0a66ed33e8a44be9711d1ac07531caf9e39a9144504630c1791451",
      "bytes": 41943,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "a8c874f48f3d52e0054d4af4544a6e069684d037aa09660898e2e3b9629a4099",
+     "bytes": 42144,
      "width": 180,
      "height": 180
     }
@@ -4134,12 +4183,35 @@
    "path": "sprites/A_UIGoto/task_icon_sjst.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "088ffbe1df965fe2dade6ec383c7a3a0c5482bb295eb331fdd2d053c36740737",
      "bytes": 44230,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "27b776ec5f208634c15262ee83664af308823a3f1ac7fdb74377adf3dd201297",
+     "bytes": 45148,
+     "width": 180,
+     "height": 180
+    }
+   ],
+   "atlas": "A_UIGoto"
+  },
+  {
+   "path": "sprites/A_UIGoto/zhongqiujie_02.png",
+   "kind": "sprite",
+   "firstSeen": "rv448",
+   "lastSeen": "rv448",
+   "history": [
+    {
+     "version": "rv448",
+     "sha256": "3057276cfbcefd1746f108f13c741175dc89ae4ae177ef153f8059f33e0e1d99",
+     "bytes": 44782,
      "width": 180,
      "height": 180
     }
@@ -4292,7 +4364,7 @@
    "path": "sprites/A_UIHUD/Shortcut_icon_Expressionsmall.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv429",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
@@ -4305,6 +4377,13 @@
      "version": "rv429",
      "sha256": "b6438e93684cfdc963830c2ddf97672dc6d8b25ea3859bc4c32102f3dac8469a",
      "bytes": 10946,
+     "width": 91,
+     "height": 95
+    },
+    {
+     "version": "rv448",
+     "sha256": "c474b3ccade41bb49471c760d4d81769cb2e3040d686b1234119b919f1df8fab",
+     "bytes": 10899,
      "width": 91,
      "height": 95
     }

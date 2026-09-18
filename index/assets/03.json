@@ -3924,12 +3924,19 @@
    "path": "sprites/A_UIGoto/goto_icon_season_bp.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "8a7d1517b6050dd7971bc1f5f56f02dcbd733489ff7c115dd3468864481343f0",
      "bytes": 46377,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "f3e59e7a269ba9a279be5ec0a8b59444de6724008e7994b91e24099f15741ddf",
+     "bytes": 46089,
      "width": 180,
      "height": 180
     }
@@ -3940,12 +3947,19 @@
    "path": "sprites/A_UIGoto/goto_icon_season_weekcard.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "cf56a82d7f18e30e45c321cc39f1023dc75ec1105b670e2cafb954dd8c955cc0",
      "bytes": 43716,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "04def34664521ab5ce353edcecf9d59e8ce68e64822040dad8d377cda70bafd6",
+     "bytes": 42693,
      "width": 180,
      "height": 180
     }
@@ -3956,12 +3970,19 @@
    "path": "sprites/A_UIGoto/shijiebei4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "ee16bda548af0f7eb46b377c9c97980e6b3dc71b4d7a72603ae7ec213c9ddb6d",
      "bytes": 38465,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "56d53349146075906d86fe08ba84b52854e4970d724dc9ef8bd1e9d0dc468d66",
+     "bytes": 37767,
      "width": 180,
      "height": 180
     }
@@ -3972,12 +3993,19 @@
    "path": "sprites/A_UIGoto/task_icon_dojo.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "610683202c3b0947d1d948df707e94e7374cf65892827e02608f3f6292551ba2",
      "bytes": 44596,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "4561564c176ff2eb4f831321fcb58472a0a9c63edde88c6639da50c465e3a554",
+     "bytes": 44868,
      "width": 180,
      "height": 180
     }
@@ -3988,12 +4016,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "d5ab52ce244ae0d4e23a968a30a75b63f29c8f3023fb8f689baa3895a3ea9059",
      "bytes": 40645,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "babb75e95fd5e781e6f6680963c54b45c7096304a7c3b24d07c1d4ad6e5d568e",
+     "bytes": 41594,
      "width": 180,
      "height": 180
     }
@@ -4004,12 +4039,19 @@
    "path": "sprites/A_UIGoto/task_icon_herochoujiang.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "f6749b0d0deb9ea4033a36df99d97173e03a5800ed0402681b4441f2d2bb916b",
      "bytes": 35040,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "2a42721b544389b523e34ea67fa39edfc9b6510c58be20d8f73a6817fd702140",
+     "bytes": 33925,
      "width": 180,
      "height": 180
     }
@@ -4020,12 +4062,19 @@
    "path": "sprites/A_UIGoto/task_icon_shilianshop.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "f6c8e8b811481ab657937ca0ffe31ba6ab76ac31eb2c5d73d2e7d7b3a7465261",
      "bytes": 40977,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "d7ae5ccdb1e20fabe982a07384567cf7396f1739330a3e4f319d70b1dc98eb19",
+     "bytes": 41185,
      "width": 180,
      "height": 180
     }
@@ -4036,12 +4085,19 @@
    "path": "sprites/A_UIGoto/task_icon_shouchong.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "6e5d0dc6a8f58d6d5b0a4dd19dbce469e04db2a09d3ff5659dae2291602fd1f5",
      "bytes": 40725,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "1ef78952e658a28cc5d6a7698be01e5053ac0c42675e275d8ff04d779c01d012",
+     "bytes": 40367,
      "width": 180,
      "height": 180
     }
@@ -4052,12 +4108,19 @@
    "path": "sprites/A_UIGoto/task_icon_vipshop001.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "11f14282be1df0c79567b15985f78f431b98a2d0d46bf1e3632690b4d1f824c1",
      "bytes": 42267,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "fcf3804662c35d005e2f36121cfd954d3843f7e432e27e8a7c5cc489b946d00a",
+     "bytes": 42009,
      "width": 180,
      "height": 180
     }

@@ -3869,12 +3869,19 @@
    "path": "sprites/A_UIGoto/Easter_icon_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "0cd0a335e154d5d1b4df7c4b0fa8bedbc82823c0dc5bd90310fe4872c9553611",
      "bytes": 43447,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "3b60378c1ad13c73f40bc11682684698a955b59cdb5646faca5b4b6414e6a47b",
+     "bytes": 42631,
      "width": 180,
      "height": 180
     }
@@ -3885,12 +3892,19 @@
    "path": "sprites/A_UIGoto/blackfriday_bp.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "4f2105875a63dbec9ba381f0f6bb3d48ee7f45138fb2414fb49e2f15c77ed0af",
      "bytes": 38599,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "a6625a4ee1b2e31f23bc60cf33353f72e971d4ed47b6a36f7232201433650ab0",
+     "bytes": 37092,
      "width": 180,
      "height": 180
     }
@@ -3933,12 +3947,19 @@
    "path": "sprites/A_UIGoto/goto_icon_season_bp_217_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "b487aa7b886cb99ed8098f41fbcd87c08160fa6aaf752c9c800ce6a33b8861fe",
      "bytes": 42558,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "b2554b9e643a6667b46abfbf55f13c1500a84f60006ccb22657fae871f4a0c39",
+     "bytes": 42473,
      "width": 180,
      "height": 180
     }
@@ -3949,12 +3970,19 @@
    "path": "sprites/A_UIGoto/ruin_new.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "4a3bbfe8856b2056f8dcfdaa5c41f17bddf840aa09d8db8bd681644cb88f45c3",
      "bytes": 49309,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "6d1fabff5aecfc4785de0d1dbf23cf477fef72a4696727fdaa6f8d07f5fbaca5",
+     "bytes": 49308,
      "width": 180,
      "height": 180
     }
@@ -3997,12 +4025,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp29.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "24977ec3b82bd0ac72c266bd9715d284e46ab143b1d8ee79b2f1519136bccde4",
      "bytes": 42537,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "59164809be0f811414067d803f5ead0290e218965f6bba73815e94e004d07bfc",
+     "bytes": 43208,
      "width": 180,
      "height": 180
     }
@@ -4013,12 +4048,19 @@
    "path": "sprites/A_UIGoto/task_icon_jijie.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "92fecd618d775613bf70013124e389d0f8bee47ba94275a75a2c965b586feb39",
      "bytes": 36961,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "da43841437c932453e64fda26d38a30f188b2c02d8c0cf7c8e62aeff0642990b",
+     "bytes": 37119,
      "width": 180,
      "height": 180
     }
@@ -4029,12 +4071,19 @@
    "path": "sprites/A_UIGoto/task_icon_vday_4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "3ef1d2c69e6ec32388ff0e26a996d72788b0735589459d27f233e3b3072d2274",
      "bytes": 45624,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "68ba3091e8f5ffed787be14bafe24828faea3c0ce146be8ae38c9c8e770b0135",
+     "bytes": 45452,
      "width": 180,
      "height": 180
     }
@@ -4045,12 +4094,35 @@
    "path": "sprites/A_UIGoto/task_icon_zhongdi.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "b47fbe939762107a31e3ba9ab78431eee787cad4b36f660c04f0b2563289efe5",
      "bytes": 48201,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "b3004f64c277266bde08c8a0ad6f9e927dc0c94bd7cfd0e480bd4b7f16703219",
+     "bytes": 49141,
+     "width": 180,
+     "height": 180
+    }
+   ],
+   "atlas": "A_UIGoto"
+  },
+  {
+   "path": "sprites/A_UIGoto/zhongqiujie_01.png",
+   "kind": "sprite",
+   "firstSeen": "rv448",
+   "lastSeen": "rv448",
+   "history": [
+    {
+     "version": "rv448",
+     "sha256": "8e5b96e125af02cc49c18f989091f7d4b50d047364804b7547a03e105ab1f33c",
+     "bytes": 47239,
      "width": 180,
      "height": 180
     }

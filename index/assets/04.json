@@ -742,12 +742,19 @@
    "path": "sprites/A_UIActivity_EventCalendar/entranceicon_28.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "9c5d0b2f9dc2cd40334146f6d29be1a2e38f00e5f2530b4fd90e1c8f2ffe748f",
      "bytes": 7431,
+     "width": 73,
+     "height": 87
+    },
+    {
+     "version": "rv448",
+     "sha256": "f1a939503ca9db6ce719550654ddc54d6695128d894336428df355c0b5909de0",
+     "bytes": 7467,
      "width": 73,
      "height": 87
     }
@@ -3200,12 +3207,19 @@
    "path": "sprites/A_UIGoto/bigworldcatch2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "430b4720ff90f3aa81ad01ae570d3adde503270b2fd9e64cdd514f46544096f1",
      "bytes": 43233,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "566ce2dff160644ad68ef98e58c845d22de1311be3eba30afc784e80ddf4bfaf",
+     "bytes": 42553,
      "width": 180,
      "height": 180
     }
@@ -3248,12 +3262,19 @@
    "path": "sprites/A_UIGoto/task_icon_buypack.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "4f6e2a3a7d72a046b5467075c9ec41a57bcb5f856feea84ec7d1220421473c39",
      "bytes": 39134,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "3dc8a0b92d600e537ea11703ef0b9fb9ad69145b05dd4a7a6907fe6cf4f90770",
+     "bytes": 40094,
      "width": 180,
      "height": 180
     }
@@ -3264,12 +3285,19 @@
    "path": "sprites/A_UIGoto/task_icon_cardchampion.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "94ed96cf53b34603f2230f3fd5fa8a59f45d8a05a983af86b24c68423ebae486",
      "bytes": 44713,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "8c05fe726a991880dd76f03f270ea3495ee676c439bb7e9fe92a23d7e147f2f0",
+     "bytes": 44544,
      "width": 180,
      "height": 180
     }
@@ -3280,12 +3308,19 @@
    "path": "sprites/A_UIGoto/task_icon_gonghuishop.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "8ded356d4c426a0e7ca3e539ecc0ba8836d38843f32034e48bddfabb03a1177c",
      "bytes": 41481,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "5a5025aa5bad3b728887e33a83bd6e68c5a2793a2931493306755493037146d7",
+     "bytes": 40982,
      "width": 180,
      "height": 180
     }
@@ -3296,12 +3331,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp12.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "89be62a1360b078af1980d6218c209984d5a7370711bf3807d1eeda141b82f4d",
      "bytes": 42992,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "4f4e27d03bfda1061fc2b26b76e45b6160331058ba2a185aa5593ff241112fd8",
+     "bytes": 43642,
      "width": 180,
      "height": 180
     }
@@ -3312,12 +3354,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp9.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "f6bd0d16f91fb4bf54f24c5413141e23dd73ae4b9186b7b847a2bfcfef9d18d6",
      "bytes": 44231,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "e51c9efe0e85fd3f18781961c6b79643a62e053bc49cb8837bd69b960cc6f800",
+     "bytes": 44659,
      "width": 180,
      "height": 180
     }
@@ -3328,12 +3377,19 @@
    "path": "sprites/A_UIGoto/task_icon_maoxianzhejingsai.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "7e0ddbe3726b81588452b01881b4ce553c579563bb8881eec6cf882031307594",
      "bytes": 45128,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "30a2802805985f1a14632f02e07ac8eee41e6d4e7e7cd6302222098eb08b0288",
+     "bytes": 44839,
      "width": 180,
      "height": 180
     }
@@ -3344,12 +3400,19 @@
    "path": "sprites/A_UIGoto/task_icon_strongest.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "d8c9b654404692300fd33fd3d275bee9ae92831c668f35a5ac820bb5e745dcd1",
      "bytes": 42016,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "3476489ca8f7fef8be74658be0541bb61b22f8e9d03fdcca9dd7ae3b89ab9794",
+     "bytes": 43225,
      "width": 180,
      "height": 180
     }
@@ -3360,12 +3423,19 @@
    "path": "sprites/A_UIGoto/task_icon_tishengkeji.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "aacc9a44fda389cbf1ee6a16bb34b41163d82a464166575fd6b833f624f4d900",
      "bytes": 37920,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "774e84e14ef9acdb69ecc10e2aa254c3ed74b63b64a982a1420637ee31a4040e",
+     "bytes": 38215,
      "width": 180,
      "height": 180
     }
@@ -3376,12 +3446,35 @@
    "path": "sprites/A_UIGoto/task_icon_tishengshangdian.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "b605243bc78252fc760233129104f6939185f51ac6bb592dd80fcbb8f34986ea",
      "bytes": 41748,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "2dd9d686c94467d4a2e3ab887b67a85fe3d01f35bed38dbb6f8950acbc92a161",
+     "bytes": 42606,
+     "width": 180,
+     "height": 180
+    }
+   ],
+   "atlas": "A_UIGoto"
+  },
+  {
+   "path": "sprites/A_UIGoto/zhongqiujie_03.png",
+   "kind": "sprite",
+   "firstSeen": "rv448",
+   "lastSeen": "rv448",
+   "history": [
+    {
+     "version": "rv448",
+     "sha256": "715727b3bcab023c7ecbf9c2f6053d316aace20c510ae583fd2aab897be6b9fb",
+     "bytes": 41564,
      "width": 180,
      "height": 180
     }
@@ -3534,12 +3627,19 @@
    "path": "sprites/A_UIHUD/PTitle_006.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "6fd8c70105663591f34dc120d917af1a7ce5fd60761bf080365d3fced39f9321",
      "bytes": 58659,
+     "width": 485,
+     "height": 156
+    },
+    {
+     "version": "rv448",
+     "sha256": "41f9d25cab7de0e115d6310e1262097e1379e2b5decdc1f1f44110ab086d662b",
+     "bytes": 58611,
      "width": 485,
      "height": 156
     }

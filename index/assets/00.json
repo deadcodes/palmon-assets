@@ -3641,12 +3641,19 @@
    "path": "sprites/A_UIGoto/get_resource.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "be4cbbbc47d5ba568699e4712090498baaf2850bc310ad680c019ca145be8075",
      "bytes": 31661,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "d39d4ddd745d21b4e26cc7b87091ca5284d7fa269c4f75a87cad0d75190289d7",
+     "bytes": 32329,
      "width": 180,
      "height": 180
     }
@@ -3657,12 +3664,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp27.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "15f57a146e69382073a603e5042fce8060d9254a8cb9c2ebf48c41edd88aec11",
      "bytes": 45018,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "33ac40348b3d367c618740fbbaf42239309c7d1e84b7708941b141d3eebe3bfd",
+     "bytes": 45206,
      "width": 180,
      "height": 180
     }
@@ -11697,6 +11711,21 @@
      "version": "rv417",
      "sha256": "c70e3ec1f4a2ba81d344cef210dae84351cddd3a072f71e28c4358dcecc25952",
      "bytes": 25898,
+     "width": 160,
+     "height": 160
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiitem/item_icon_lohamap.png",
+   "kind": "texture",
+   "firstSeen": "rv448",
+   "lastSeen": "rv448",
+   "history": [
+    {
+     "version": "rv448",
+     "sha256": "1c434ca5ee48f2870ebf163f02c854440975c9f9f782cebc9ab3797e9c1438a6",
+     "bytes": 30548,
      "width": 160,
      "height": 160
     }

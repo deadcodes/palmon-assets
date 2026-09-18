@@ -3564,12 +3564,19 @@
    "path": "sprites/A_UIGoto/bigworldcatch1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "ef39ec9c3e1385801453c74386b50d79113c18fcb17e626d78a2b762129ff0d9",
      "bytes": 39803,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "4e4342345bb7c92065d1a41aca8d5686102979a26307044e4275bfc98fde3b80",
+     "bytes": 39597,
      "width": 180,
      "height": 180
     }
@@ -3580,12 +3587,19 @@
    "path": "sprites/A_UIGoto/item_icon_happy.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "b777a83a2e71b25fce92236b9bdb7627f10c950488d40070a36a58c36838888a",
      "bytes": 29465,
+     "width": 155,
+     "height": 155
+    },
+    {
+     "version": "rv448",
+     "sha256": "d8a70d90c4e1ed4938845ad2594ee834b6355a8069cb94de074176776b38faa9",
+     "bytes": 29345,
      "width": 155,
      "height": 155
     }
@@ -3612,12 +3626,19 @@
    "path": "sprites/A_UIGoto/task_btn_event_unionpk.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "aefee8a250c64000a08721d0b9378608d1b0a6560d171452d2028bbcde9d288b",
      "bytes": 14726,
+     "width": 118,
+     "height": 120
+    },
+    {
+     "version": "rv448",
+     "sha256": "6031b57b93d4dfab6289b474f1d80fd4c70f105a9df2acc504961ba902a2e97f",
+     "bytes": 14588,
      "width": 118,
      "height": 120
     }
@@ -3628,12 +3649,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp28.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "8bfc2a4e1329f0818db86a678fe98a655623227bde8fd0127fc1d3260112237e",
      "bytes": 43491,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "2a109bd904b1f5779fecf5ea1e07dee915fc2e2f1ceccadaeaf40f7554f26917",
+     "bytes": 43660,
      "width": 180,
      "height": 180
     }
@@ -3708,12 +3736,19 @@
    "path": "sprites/A_UIHUD/PTitle_005.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "b1abe70755dad2b49463e33e84d49479ad34c1be7be48b90236fff7a33b0bbd7",
      "bytes": 66600,
+     "width": 492,
+     "height": 154
+    },
+    {
+     "version": "rv448",
+     "sha256": "04ce3d1fdc3d577687278f9a2dfafb2567d1cca9487af6e3e5f9ea22ebfd81d0",
+     "bytes": 66638,
      "width": 492,
      "height": 154
     }

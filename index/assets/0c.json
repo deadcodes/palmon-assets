@@ -4029,12 +4029,19 @@
    "path": "sprites/A_UIGoto/Halloween_goto_3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "3c108ce0a626c009c366db5cfaaa906777e48e436fe5dc1341c0bf553932dc5c",
      "bytes": 40624,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "f8057196f9643c0555b96ce9476fb4c91545716fadf27a9af61cd8ec609548ee",
+     "bytes": 40341,
      "width": 180,
      "height": 180
     }
@@ -4045,12 +4052,19 @@
    "path": "sprites/A_UIGoto/bigworldcatch.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "ef9086d6665aeeb92acb1dcd3c56f2d1f5505f6464df16f2d5eaec6e97e39cf1",
      "bytes": 39548,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "dc79337ede331cdb9dcdaae63fd5a39d14fc96dbf78a0fbb677d376e5d9dc963",
+     "bytes": 39533,
      "width": 180,
      "height": 180
     }
@@ -4061,12 +4075,19 @@
    "path": "sprites/A_UIGoto/item_icon_icebox1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "32944829c0436cc14ff3bd3b3e0d8da36f6d2751f32b4bee87f6551d6ab92c6f",
      "bytes": 35922,
+     "width": 156,
+     "height": 160
+    },
+    {
+     "version": "rv448",
+     "sha256": "588aa3f3ffeeef115efb7ad0dbf69c3525d39d074b81cdf02e35deb2557c35a7",
+     "bytes": 36230,
      "width": 156,
      "height": 160
     }
@@ -4109,12 +4130,19 @@
    "path": "sprites/A_UIGoto/task_icon_caikuang.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "2fd50f22defa5f73404ccf1950274803db9d7043e11c70852263e76239e6607d",
      "bytes": 40112,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "6bc4c22bc25215764ab76d2092f8531d03295ede74034f120c49180c4b0c158c",
+     "bytes": 40067,
      "width": 180,
      "height": 180
     }
@@ -4125,12 +4153,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "124e7f1f902017c13d9eaa446b9b8b882cccc0c661a1b5e372eb94304f0246d9",
      "bytes": 46264,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "ec0dcb8f0b5a44ee46888a15a08d838afbe686021966c80819826cf5d763c0e4",
+     "bytes": 45338,
      "width": 180,
      "height": 180
     }
@@ -4157,12 +4192,19 @@
    "path": "sprites/A_UIGoto/task_icon_jianzhushengji.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "a4b66744a83cd1b8a7687caefd56741900eb912ab3e9806f06cb32a667f1c727",
      "bytes": 38818,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "880d6e057b9b254d566a8c9619aef32518d6443422cb4c3cb3629050ef357f27",
+     "bytes": 39293,
      "width": 180,
      "height": 180
     }
@@ -4189,12 +4231,19 @@
    "path": "sprites/A_UIGoto/task_icon_treasure.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "f492e08e1d7bab266ddf722da4d1b5d777ee9524f9747550ccad7868c513def9",
      "bytes": 45726,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "b0a5914e1c28eb7d9bd65a8e775ea9db46bdf5b656498df02b7ea8e3b355db6b",
+     "bytes": 45007,
      "width": 180,
      "height": 180
     }
@@ -4205,12 +4254,19 @@
    "path": "sprites/A_UIGoto/task_icon_zhumengzhishu.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "2fe96e1d161bb07b62247c8a1aa5a3896b95e78fb639eece25534454b6f834c6",
      "bytes": 50704,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "f9c9e51efab6b8aa1d72070e3d3d991a161e08365da6f9efa473abb377aefb84",
+     "bytes": 52076,
      "width": 180,
      "height": 180
     }

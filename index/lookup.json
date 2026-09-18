@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv447",
+ "generatedFor": "rv448",
  "kinds": {
   "armigo": {
    "10001": {
@@ -1382,7 +1382,7 @@
     "icon": "uiv3/texture/uiitem/item_icon_Dreambox1.png"
    },
    "11601": {
-    "icon": "uiv3/texture/uiitem/Gacha_icon_progress.png"
+    "icon": "uiv3/texture/uiitem/item_icon_lohamap.png"
    },
    "20901": {
     "icon": "uiv3/texture/uiitem/TreatingPlague_pic_herb1.png"

@@ -3979,12 +3979,19 @@
    "path": "sprites/A_UIGoto/happycc_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "55330cd4f66ca4ac51f2136cc4ab5f8479dbf4c4562ed06880f1b55486d25fbf",
      "bytes": 49664,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "a82009509c5245dd98632d4e7f4d666ec62ff99aee4bb9ac12f649140e471287",
+     "bytes": 50613,
      "width": 180,
      "height": 180
     }
@@ -3995,12 +4002,19 @@
    "path": "sprites/A_UIGoto/task_icon_activity.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "0034e0d219df4f635744c13405ad41461f6906c0ecf432bead9aa34bbbc93e9c",
      "bytes": 44822,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "e7247483f9e6a1c155156d286d4b40324fa0f0106ed7580e1b15e7368c18bab0",
+     "bytes": 44690,
      "width": 180,
      "height": 180
     }
@@ -4011,12 +4025,19 @@
    "path": "sprites/A_UIGoto/task_icon_camp.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "bb736ede7ad3d08d7f5c0d64759cc2ec0a64cf436750fbc70e904b317bb9401f",
      "bytes": 33902,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "00e37a5b3b7892d987d38c763470f23e85f71170649d7ef0541533576c1c3c3a",
+     "bytes": 34118,
      "width": 180,
      "height": 180
     }
@@ -4027,12 +4048,19 @@
    "path": "sprites/A_UIGoto/task_icon_guild_boss.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "cf19883473e34bb40c529a3923f3da13ac6cad40e1062f6f528ae64e877c2999",
      "bytes": 41705,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "3c517aa309110d59adbdf0f807e457e9628ebd3059aa8572f16aa13979daccb1",
+     "bytes": 41417,
      "width": 180,
      "height": 180
     }
@@ -4043,12 +4071,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp16.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "c63fe2fbe7528ef3c7a20d2f6c19415f144e31babefd456bf776a3863f85eaeb",
      "bytes": 40300,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "3d9ca4a395bab9b048bb785dc82d814806588099288dcae4eec755203ba4c004",
+     "bytes": 40397,
      "width": 180,
      "height": 180
     }
@@ -4059,12 +4094,19 @@
    "path": "sprites/A_UIGoto/task_icon_heroup.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "d704ba3f4b83a0706bef9c6d1cd80952839869107638ac56227c2f82117a8916",
      "bytes": 37488,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "8fa109a99057a58b4d402854c62cedb0db48c88a11e045188cac581836dce020",
+     "bytes": 37483,
      "width": 180,
      "height": 180
     }
@@ -4075,12 +4117,19 @@
    "path": "sprites/A_UIGoto/task_icon_jijie_s2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "9afc846ae1d6eb10dbd3c36f2c6078814885ad4588f54ecd97910dfd72c0593e",
      "bytes": 39661,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "304ef07571f744f97c3f7ef1b4f405a37f4cf873ef556a581878d36c88797b42",
+     "bytes": 39664,
      "width": 180,
      "height": 180
     }
@@ -4091,12 +4140,19 @@
    "path": "sprites/A_UIGoto/task_icon_meirirenwu.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "a3d4cc81cb1fb06f4109778abb12b274a134f075c336400662085b38c16b0fd1",
      "bytes": 36883,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "d4df03217788328976f84b40b54911af20c9fd41ce2dde48e863247c90f037b5",
+     "bytes": 36979,
      "width": 180,
      "height": 180
     }
@@ -4107,12 +4163,19 @@
    "path": "sprites/A_UIGoto/task_icon_smkj.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "63be7ecd01c120eb1ef601c833f3a7b22fd72f5a2193d3a8a2465e1b65f7b3af",
      "bytes": 45441,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "90b4de39f3cee954c75d125a67b3f5294873b6b3d1e869546bfcf37d80c140bd",
+     "bytes": 45690,
      "width": 180,
      "height": 180
     }
@@ -4123,12 +4186,19 @@
    "path": "sprites/A_UIGoto/task_icon_spring.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "ea096163e9baacc56b41e4c4961956dd64192d8bbf07594a52d09932b70975e3",
      "bytes": 43899,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "f102733fc5db1938450f5b703f326ce13a8e289fb398e5d0b567a1aa85023e17",
+     "bytes": 43854,
      "width": 180,
      "height": 180
     }
@@ -4139,12 +4209,19 @@
    "path": "sprites/A_UIGoto/task_icon_vday_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "671c4269764f9513f8cdde40c4fa1d339513c9dedf4b907b3ba14d7da51dee79",
      "bytes": 33647,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "e8e5cc745217c7ee94495aba62d20e69686cb05da3666cecc290275fb61e1c62",
+     "bytes": 34675,
      "width": 180,
      "height": 180
     }

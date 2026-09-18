@@ -3822,12 +3822,19 @@
    "path": "sprites/A_UIGoto/item_icon_communityBox.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "aa2dc349cd799a706d83f59a7bfeee640ab68ddf8635a9df86b8358bc13da658",
      "bytes": 30597,
+     "width": 156,
+     "height": 142
+    },
+    {
+     "version": "rv448",
+     "sha256": "846cc703164bb32966e220558f3a9519503ba41d37d9c018195a29db1c0e1a39",
+     "bytes": 31634,
      "width": 156,
      "height": 142
     }
@@ -3838,12 +3845,19 @@
    "path": "sprites/A_UIGoto/task_icon_diaoxiang.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "376ff2f154f09f3f6b21ae3bb99affcc0acba553d7adcee8fa793e4cc185e327",
      "bytes": 41454,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "6b83d1787cf7b4ad2ed056eb092959f655b227786c5953e60f371567f402fef8",
+     "bytes": 41723,
      "width": 180,
      "height": 180
     }
@@ -3854,12 +3868,19 @@
    "path": "sprites/A_UIGoto/task_icon_herobp6.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
      "sha256": "9c833d0cc85335e1b89655b4d04ee38b444cc62521c7d6dcca2c612cfe090184",
      "bytes": 39859,
+     "width": 180,
+     "height": 180
+    },
+    {
+     "version": "rv448",
+     "sha256": "5237a530832fab2406eca3e15851a9c4ca9aa831c8e5568451848b03ae66b5d3",
+     "bytes": 39010,
      "width": 180,
      "height": 180
     }
@@ -3980,7 +4001,7 @@
    "path": "sprites/A_UIHUD/Shortcut_icon_choose.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv429",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
@@ -3993,6 +4014,13 @@
      "version": "rv429",
      "sha256": "3407574b2379900ad674f8f26209f6fe0009269e7c06fa89ecbaa7fd978d68c7",
      "bytes": 10000,
+     "width": 91,
+     "height": 95
+    },
+    {
+     "version": "rv448",
+     "sha256": "6768dc5fe572df221dea39b990626e36770abc2b6b2a7d5ee85bd67a15adf7aa",
+     "bytes": 9988,
      "width": 91,
      "height": 95
     }
@@ -4072,7 +4100,7 @@
    "path": "sprites/A_UIHUD/city_Palmon_head_5002.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv429",
+   "lastSeen": "rv448",
    "history": [
     {
      "version": "rv417",
@@ -4085,6 +4113,13 @@
      "version": "rv429",
      "sha256": "033d676baf9a073905164176bb7b96b27338db973ad691f18f440571b047c7ae",
      "bytes": 31668,
+     "width": 154,
+     "height": 142
+    },
+    {
+     "version": "rv448",
+     "sha256": "0e241aed62e747dd9b9aa3d2663d49d59c19bdd5c34d3d6efa3cc59a41836301",
+     "bytes": 31745,
      "width": 154,
      "height": 142
     }

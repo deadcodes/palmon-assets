@@ -1,0 +1,576 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv447",
+  "new": "rv448"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 9,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 13,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 12,
+  "otherRowsExcluded": 45,
+  "assetsNew": 4,
+  "assetsListed": 4,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 4,
+  "assetImageBytes": 194681,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 1,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 3,
+  "assetsNonRenderable": 23,
+  "assetsOutsideResourceTree": 20,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 5
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Stat Curves",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Trail Map",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the icon from 1,999,104,388 to -1,637,526,399.",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_lohamap.png",
+         "version": "rv448",
+         "published": true,
+         "sha256": "1c434ca5ee48f2870ebf163f02c854440975c9f9f782cebc9ab3797e9c1438a6"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Equipment Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "ruins_challenge_new",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the hero goto taskguild: changed 4 from {\"1\":[[0,1,9,6046],[2,999,10,6046]],\"2\":{\"1\":[9,1,4005],\"2\":[410805,1440405,6044],\"3\":[1012006,1017006,1027006,6047],\"4\":[17,2302],\"5\":[5030,6042,6045]},\"3\":{\"1\":[11,4,9,14,17,6044],\"2\":[1012006,1017006,1027006,6047],\"3\":[10,2302]}} to {\"1\":[[0,1,9,6046],[2,999,10,6046]],\"2\":{\"1\":[9,1,4005],\"2\":[410805,1440405,6044],\"3\":[1012006,1017006,1027006,6047],\"4\":[17,2302],\"5\":[5030,6042,6045]},\"3\":{\"1\":[11,4,9,14,17,6044],\"2\":[1012006,1017006,1027006,6047]}}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Ace Trial Stages & Enemies",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Increased the npc power from 8,000 to 10,000. (#1)",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "up"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Increased the npc power from 16,000 to 30,000. (#2)",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "up"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Increased the npc power from 31,000 to 50,000. (#3)",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "up"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Increased the npc power from 63,000 to 100,000. (#4)",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "up"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Increased the npc power from 125,000 to 200,000. (#5)",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "up"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Increased the npc power from 250,000 to 400,000. (#6)",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "up"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Increased the npc power from 500,000 to 700,000. (#7)",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "up"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "12 tables with 45 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: PanelTitle (1), activity_award_gather (2), cardchampion_server (8), drop (8), global_options (1), mail (2), main_btn_show (1), monster (1), recharge (10), recharge_gift_heroequip (2), redpoint (1), task_guide (8).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`sprites/A_UIGoto` (3)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "zhongqiujie_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIGoto/zhongqiujie_01.png",
+           "version": "rv448",
+           "published": false,
+           "sha256": "8e5b96e125af02cc49c18f989091f7d4b50d047364804b7547a03e105ab1f33c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "zhongqiujie_02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIGoto/zhongqiujie_02.png",
+           "version": "rv448",
+           "published": false,
+           "sha256": "3057276cfbcefd1746f108f13c741175dc89ae4ae177ef153f8059f33e0e1d99"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "zhongqiujie_03",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIGoto/zhongqiujie_03.png",
+           "version": "rv448",
+           "published": false,
+           "sha256": "715727b3bcab023c7ecbf9c2f6053d316aace20c510ae583fd2aab897be6b9fb"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiitem` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "item_icon_lohamap",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/item_icon_lohamap.png",
+           "version": "rv448",
+           "published": true,
+           "sha256": "1c434ca5ee48f2870ebf163f02c854440975c9f9f782cebc9ab3797e9c1438a6"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "23 non-renderable file(s) (Unity sprite metadata sidecars) were excluded from this list. 20 added file(s) outside works/resources/ with no resource path were excluded from this list.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "sprites/a_uigoto/zhongqiujie_01",
+   "path": "sprites/A_UIGoto/zhongqiujie_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-zhongqiujie_01-2ae16c0c.png",
+   "sizeBytes": 47239
+  },
+  {
+   "canonical": "sprites/a_uigoto/zhongqiujie_02",
+   "path": "sprites/A_UIGoto/zhongqiujie_02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-zhongqiujie_02-99ee7f4b.png",
+   "sizeBytes": 44782
+  },
+  {
+   "canonical": "sprites/a_uigoto/zhongqiujie_03",
+   "path": "sprites/A_UIGoto/zhongqiujie_03.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-zhongqiujie_03-3c92455c.png",
+   "sizeBytes": 41564
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/item_icon_lohamap",
+   "path": "uiv3/texture/uiitem/item_icon_lohamap.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-item_icon_lohamap-b3e2562a.png",
+   "sizeBytes": 30548
+  }
+ ]
+}

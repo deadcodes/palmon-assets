@@ -640,6 +640,28 @@
     "path": "changelogs/rv447/changelog.json"
    },
    "appVersion": "0.5.417"
+  },
+  {
+   "label": "rv448",
+   "tag": "rv448",
+   "order": 448,
+   "publishedAtUtc": "2026-09-18T18:23:05.714731+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5574,
+    "sprites": 7444,
+    "builder": 0,
+    "added": 4,
+    "modified": 136,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": {
+    "pair": "rv448",
+    "path": "changelogs/rv448/changelog.json"
+   },
+   "appVersion": "0.5.417"
   }
  ]
 }
