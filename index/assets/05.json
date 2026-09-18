@@ -9618,6 +9618,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uimainacticon/main_btn_cashback.png",
+   "kind": "texture",
+   "firstSeen": "rv449",
+   "lastSeen": "rv449",
+   "history": [
+    {
+     "version": "rv449",
+     "sha256": "ae5638da52e024e700996ed0682802c7c9e72c01ecbee43c35d2955fc3fdb2a7",
+     "bytes": 34535,
+     "width": 150,
+     "height": 150
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uimainacticon/main_btn_desertrace.png",
    "kind": "texture",
    "firstSeen": "rv417",

@@ -8811,6 +8811,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uidailypack/Daily_Discount_Tab_Cashback.png",
+   "kind": "texture",
+   "firstSeen": "rv449",
+   "lastSeen": "rv449",
+   "history": [
+    {
+     "version": "rv449",
+     "sha256": "7b688cf2964e4ed7991bff5fabd06756dd9724257bbedb74eeba82c33b9b501e",
+     "bytes": 75914,
+     "width": 360,
+     "height": 230
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uidailypack/daily_discount_bgtime02.png",
    "kind": "texture",
    "firstSeen": "rv417",

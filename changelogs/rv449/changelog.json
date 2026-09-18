@@ -1,0 +1,294 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv448",
+  "new": "rv449"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 0,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 2,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 0,
+  "otherRowsExcluded": 0,
+  "assetsNew": 2,
+  "assetsListed": 2,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 2,
+  "assetImageBytes": 110449,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 2,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 2
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Stat Curves",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Equipment Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Ace Trial Stages & Enemies",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`uiv3/texture/_static_uipanel/uidailypack` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "daily_discount_tab_cashback",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uidailypack/Daily_Discount_Tab_Cashback.png",
+           "version": "rv449",
+           "published": true,
+           "sha256": "7b688cf2964e4ed7991bff5fabd06756dd9724257bbedb74eeba82c33b9b501e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/_static_uipanel/uimainacticon` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "main_btn_cashback",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uimainacticon/main_btn_cashback.png",
+           "version": "rv449",
+           "published": true,
+           "sha256": "ae5638da52e024e700996ed0682802c7c9e72c01ecbee43c35d2955fc3fdb2a7"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uidailypack/daily_discount_tab_cashback",
+   "path": "uiv3/texture/_static_uipanel/uidailypack/Daily_Discount_Tab_Cashback.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-daily_discount_tab_cashback-958cfde5.png",
+   "sizeBytes": 75914
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uimainacticon/main_btn_cashback",
+   "path": "uiv3/texture/_static_uipanel/uimainacticon/main_btn_cashback.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-main_btn_cashback-08eedc1b.png",
+   "sizeBytes": 34535
+  }
+ ]
+}

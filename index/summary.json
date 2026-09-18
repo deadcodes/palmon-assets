@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv448",
+ "generatedFor": "rv449",
  "totals": {
-  "textures": 5574,
+  "textures": 5576,
   "sprites": 7444,
   "builder": 0
  },
@@ -40,8 +40,8 @@
   {
    "id": "05",
    "file": "index/assets/05.json",
-   "count": 827,
-   "bytes": 330781
+   "count": 828,
+   "bytes": 331140
   },
   {
    "id": "06",
@@ -70,8 +70,8 @@
   {
    "id": "0a",
    "file": "index/assets/0a.json",
-   "count": 790,
-   "bytes": 309838
+   "count": 791,
+   "bytes": 310205
   },
   {
    "id": "0b",
@@ -991,7 +991,7 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uidailypack",
-   "count": 42
+   "count": 43
   },
   {
    "path": "uiv3/texture/_static_uipanel/uidesertofficer",
@@ -1051,7 +1051,7 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uimainacticon",
-   "count": 253
+   "count": 254
   },
   {
    "path": "uiv3/texture/_static_uipanel/uiminigame_community",
@@ -1701,6 +1701,7 @@
   "rv445",
   "rv446",
   "rv447",
-  "rv448"
+  "rv448",
+  "rv449"
  ]
 }
