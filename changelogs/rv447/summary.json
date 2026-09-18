@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv446",
+    "new": "rv447"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:17Z",
+  "title": "Ace Trial power requirements cut again; auto-gather targets expand",
+  "summary": "Ace Trial power requirements drop again across every ladder, in places to a small fraction of the previous figure, and ladder 4's entire 300-row power curve is rescaled. Auto-gather adds a new target, the ruins power inhibit threshold doubles, and two X Spark Cards plus Dojo and auto-gather art are registered.",
+  "highlights": [
+    "Ace Trial: the first seven stages of every ladder fall in required power, for example 150,000 to 9,000 and 1,050,000 to 600,000.",
+    "ruins_new_stage_4's power curve is rescaled across all 300 rows, 260 up and 7 down, at 0.064x to 1.067x the previous value.",
+    "ruins_challenge_new raises its power inhibit threshold from [-0.99,5] to [-0.99,10] and adds four entries to the amigo attribute bonus list, now 12.",
+    "Auto-gather adds target type 232, with a matching reward entry.",
+    "Two new X Spark Card items (#900282 and #900283) are registered.",
+    "New art: three Dojo speech bubbles, plus fourteen auto-gather panel backgrounds, monster portraits and reward frames."
+  ],
+  "categories": [
+    {
+      "title": "Items",
+      "count": 2
+    },
+    {
+      "title": "General",
+      "count": 41
+    },
+    {
+      "title": "Assets",
+      "count": 17
+    }
+  ]
+}
