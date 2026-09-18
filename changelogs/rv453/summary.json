@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv452",
+    "new": "rv453"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:24Z",
+  "title": "Castle skin use button re-enabled",
+  "summary": "No game data changed in this version. One client fix: the castle skin list re-enables its use button, greying it out only for a skin that is already applied and cannot be recycled.",
+  "highlights": [
+    "Castle skins: the use button's greyed-out state is computed again, based on whether the skin is already in use and has no recycle value."
+  ],
+  "categories": []
+}
