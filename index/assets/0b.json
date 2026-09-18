@@ -2976,7 +2976,7 @@
    "path": "sprites/A_UIDojo/Dojo_tab_04.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -2989,6 +2989,13 @@
      "version": "rv446",
      "sha256": "0bedf277b662bfce838ae631f2079984343aa0111bfbf29c168c6d2e79bfb8e1",
      "bytes": 11508,
+     "width": 322,
+     "height": 106
+    },
+    {
+     "version": "rv447",
+     "sha256": "96df8e960cbcc5042de9256c704590177f4d24f5a2c7910e40ff10dd2125fb93",
+     "bytes": 11467,
      "width": 322,
      "height": 106
     }
@@ -8126,6 +8133,36 @@
      "bytes": 487061,
      "width": 982,
      "height": 982
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_3.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "8bc6d309cea4be7b2e42e7e4f5f5980d57888be263cc177c726ee653852c774d",
+     "bytes": 373557,
+     "width": 452,
+     "height": 1145
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_0.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "ae411d0fddacdd479da2ba2b018601e2a8a49f0619afaa8ac7a85a15530ed0da",
+     "bytes": 216983,
+     "width": 1008,
+     "height": 382
     }
    ]
   },

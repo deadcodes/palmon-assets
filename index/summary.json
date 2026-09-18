@@ -1,107 +1,107 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv446",
+ "generatedFor": "rv447",
  "totals": {
-  "textures": 5555,
-  "sprites": 7438,
+  "textures": 5573,
+  "sprites": 7441,
   "builder": 0
  },
  "shards": [
   {
    "id": "00",
    "file": "index/assets/00.json",
-   "count": 772,
-   "bytes": 305932
+   "count": 773,
+   "bytes": 306838
   },
   {
    "id": "01",
    "file": "index/assets/01.json",
-   "count": 789,
-   "bytes": 318828
+   "count": 791,
+   "bytes": 320093
   },
   {
    "id": "02",
    "file": "index/assets/02.json",
    "count": 823,
-   "bytes": 326596
+   "bytes": 326953
   },
   {
    "id": "03",
    "file": "index/assets/03.json",
    "count": 814,
-   "bytes": 323563
+   "bytes": 324280
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
-   "count": 802,
-   "bytes": 316029
+   "count": 803,
+   "bytes": 316570
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
    "count": 827,
-   "bytes": 328265
+   "bytes": 328981
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
    "count": 848,
-   "bytes": 332151
+   "bytes": 332868
   },
   {
    "id": "07",
    "file": "index/assets/07.json",
-   "count": 812,
-   "bytes": 320710
+   "count": 813,
+   "bytes": 321608
   },
   {
    "id": "08",
    "file": "index/assets/08.json",
-   "count": 828,
-   "bytes": 330365
+   "count": 830,
+   "bytes": 331454
   },
   {
    "id": "09",
    "file": "index/assets/09.json",
-   "count": 788,
-   "bytes": 307401
+   "count": 789,
+   "bytes": 308302
   },
   {
    "id": "0a",
    "file": "index/assets/0a.json",
-   "count": 788,
-   "bytes": 307144
+   "count": 789,
+   "bytes": 308045
   },
   {
    "id": "0b",
    "file": "index/assets/0b.json",
-   "count": 801,
-   "bytes": 313974
+   "count": 803,
+   "bytes": 314886
   },
   {
    "id": "0c",
    "file": "index/assets/0c.json",
    "count": 847,
-   "bytes": 339089
+   "bytes": 339800
   },
   {
    "id": "0d",
    "file": "index/assets/0d.json",
-   "count": 786,
-   "bytes": 306840
+   "count": 787,
+   "bytes": 307558
   },
   {
    "id": "0e",
    "file": "index/assets/0e.json",
-   "count": 847,
-   "bytes": 336129
+   "count": 849,
+   "bytes": 337040
   },
   {
    "id": "0f",
    "file": "index/assets/0f.json",
    "count": 842,
-   "bytes": 332354
+   "bytes": 333064
   }
  ],
  "categories": [
@@ -419,7 +419,7 @@
   },
   {
    "path": "sprites/A_UIDojo",
-   "count": 38
+   "count": 41
   },
   {
    "path": "sprites/A_UIEaster",
@@ -882,6 +882,10 @@
    "count": 7
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather",
+   "count": 14
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uiactivityhalloween",
    "count": 1
   },
@@ -927,7 +931,7 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uibackground",
-   "count": 453
+   "count": 457
   },
   {
    "path": "uiv3/texture/_static_uipanel/uiballoonadventure",
@@ -1695,6 +1699,7 @@
   "rv443",
   "rv444",
   "rv445",
-  "rv446"
+  "rv446",
+  "rv447"
  ]
 }

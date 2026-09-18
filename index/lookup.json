@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv446",
+ "generatedFor": "rv447",
  "kinds": {
   "armigo": {
    "10001": {
@@ -2663,6 +2663,12 @@
     "icon": "uiv3/texture/uiitem/item_icon_vip.png"
    },
    "900281": {
+    "icon": "uiv3/texture/uiitem/item_icon_vip.png"
+   },
+   "900282": {
+    "icon": "uiv3/texture/uiitem/item_icon_vip.png"
+   },
+   "900283": {
     "icon": "uiv3/texture/uiitem/item_icon_vip.png"
    },
    "900301": {
@@ -39725,7 +39731,7 @@
  "counts": {
   "armigo": 26,
   "buff": 0,
-  "item": 982,
+  "item": 984,
   "mount": 7,
   "palmon": 69,
   "skill": 10761

@@ -3190,7 +3190,7 @@
    "path": "sprites/A_UIDojo/Dojo_btn_pageTurning.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3205,6 +3205,13 @@
      "bytes": 11008,
      "width": 122,
      "height": 256
+    },
+    {
+     "version": "rv447",
+     "sha256": "8bb00e5dbabb7e4050e77d31b045e28f93075501a479621d4bf5d68abf4aa65e",
+     "bytes": 10997,
+     "width": 122,
+     "height": 256
     }
    ],
    "atlas": "A_UIDojo"
@@ -3213,7 +3220,7 @@
    "path": "sprites/A_UIDojo/arena_btn_lineup.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3226,6 +3233,13 @@
      "version": "rv446",
      "sha256": "afa8fe3a1ca067a54da3d5198f0cc95271c28ce815e14a354b615c1a9f5b1918",
      "bytes": 16032,
+     "width": 117,
+     "height": 119
+    },
+    {
+     "version": "rv447",
+     "sha256": "cd4786ade8045629ca6df1316872dc6c8c4482f771707be0b0ec54d873313769",
+     "bytes": 16450,
      "width": 117,
      "height": 119
     }
@@ -7898,6 +7912,21 @@
    "atlas": "A_UIWorldHUD"
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_231.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "a8e304b1f2c73dbe9dc92112f22eea9f22ea9b1577cc325f9f0de956485d7693",
+     "bytes": 371860,
+     "width": 452,
+     "height": 1145
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uiairshiptrade/Airship_pic_shipBg03.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -8036,7 +8065,7 @@
    "path": "uiv3/texture/_static_uipanel/uibackground/Dojo_pic_bg03.png",
    "kind": "texture",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -8048,6 +8077,13 @@
     {
      "version": "rv446",
      "status": "removed"
+    },
+    {
+     "version": "rv447",
+     "sha256": "d184ed32949f8680fa76ac61a8362ecb50fb904f089b5859d4935f2ad52576be",
+     "bytes": 1525526,
+     "width": 878,
+     "height": 2048
     }
    ]
   },

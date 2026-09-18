@@ -3544,7 +3544,7 @@
    "path": "sprites/A_UIDojo/Airship_pic_darkStripe2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3559,6 +3559,13 @@
      "bytes": 1116,
      "width": 195,
      "height": 46
+    },
+    {
+     "version": "rv447",
+     "sha256": "81001bae02b4873bea0377ac5d6817d454d423475d489fa753e64f17c037ae5a",
+     "bytes": 1114,
+     "width": 195,
+     "height": 46
     }
    ],
    "atlas": "A_UIDojo"
@@ -3567,7 +3574,7 @@
    "path": "sprites/A_UIDojo/Dojo_btn_jumpto.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3582,6 +3589,13 @@
      "bytes": 10087,
      "width": 102,
      "height": 108
+    },
+    {
+     "version": "rv447",
+     "sha256": "f43fa08717a3a35c60f629d363e4ca5c816584e599f15f9a44724f19cc5db312",
+     "bytes": 9857,
+     "width": 102,
+     "height": 108
     }
    ],
    "atlas": "A_UIDojo"
@@ -3590,7 +3604,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_bubble01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3602,6 +3616,13 @@
     {
      "version": "rv446",
      "status": "removed"
+    },
+    {
+     "version": "rv447",
+     "sha256": "35081df5840544afbf1661d859307c6875b32308b551fb81c78dce81fe3159ff",
+     "bytes": 13125,
+     "width": 250,
+     "height": 115
     }
    ],
    "atlas": "A_UIDojo"
@@ -8608,6 +8629,21 @@
      "bytes": 18010,
      "width": 253,
      "height": 347
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_0.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "400d1ed43ecb94f206e257667dd5b9534c27a8c934ea3638c017e7195685e5a3",
+     "bytes": 1464967,
+     "width": 876,
+     "height": 2048
     }
    ]
   },

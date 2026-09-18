@@ -3531,7 +3531,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_qiyu.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3546,6 +3546,13 @@
      "bytes": 43220,
      "width": 210,
      "height": 210
+    },
+    {
+     "version": "rv447",
+     "sha256": "020af5d27a678898fd15d00ad0372ad9e051a9c6be468e2cf6783d1ce1e093ca",
+     "bytes": 43200,
+     "width": 210,
+     "height": 210
     }
    ],
    "atlas": "A_UIDojo"
@@ -3554,7 +3561,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_ticket2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3567,6 +3574,13 @@
      "version": "rv446",
      "sha256": "714ded1685c245a2b64c3089216ea0d1f44d42a4d7875c7bad8a3273400458a7",
      "bytes": 6153,
+     "width": 65,
+     "height": 66
+    },
+    {
+     "version": "rv447",
+     "sha256": "ac411222a9fc9fea44419df4e2b6658492f6fc9b4afe606ea9d64a05c15c4b2c",
+     "bytes": 6227,
      "width": 65,
      "height": 66
     }

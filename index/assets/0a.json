@@ -3494,7 +3494,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_bubble02.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3506,6 +3506,13 @@
     {
      "version": "rv446",
      "status": "removed"
+    },
+    {
+     "version": "rv447",
+     "sha256": "306713ef7c842cb81a7d6d8ea095ffc50b25b383df0bc6a4179a4c124860d043",
+     "bytes": 13643,
+     "width": 250,
+     "height": 115
     }
    ],
    "atlas": "A_UIDojo"
@@ -3514,7 +3521,7 @@
    "path": "sprites/A_UIDojo/Dojo_tab_03.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3529,6 +3536,13 @@
      "bytes": 13014,
      "width": 322,
      "height": 106
+    },
+    {
+     "version": "rv447",
+     "sha256": "5cd091359ca1effbbe2c2677247760ece198bd8dee7f4efc61cf25445892f283",
+     "bytes": 12968,
+     "width": 322,
+     "height": 106
     }
    ],
    "atlas": "A_UIDojo"
@@ -3537,7 +3551,7 @@
    "path": "sprites/A_UIDojo/Treasure_pic_emojiBg.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3550,6 +3564,13 @@
      "version": "rv446",
      "sha256": "e29bee1cf963d584f45ef6058166bc72bf8888de6f9ac9927786cbdccdd34d43",
      "bytes": 10115,
+     "width": 198,
+     "height": 174
+    },
+    {
+     "version": "rv447",
+     "sha256": "794166151243459f895f9db54308a9d9e0c2326fe1208adb9d7973faae82d9b6",
+     "bytes": 10137,
      "width": 198,
      "height": 174
     }
@@ -8217,6 +8238,21 @@
      "version": "rv417",
      "sha256": "74964b20d6bb46fd7ca6d62f2200ddefbbbf790e63d8d9d71b171420be983d24",
      "bytes": 1624151,
+     "width": 878,
+     "height": 2048
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_3.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "5e8956566608836acbcd942b3e523daafcc785b00722110cb96d14fcc8222356",
+     "bytes": 1617248,
      "width": 878,
      "height": 2048
     }

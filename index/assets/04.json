@@ -2683,7 +2683,7 @@
    "path": "sprites/A_UIDojo/Dojo_tab_01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -2696,6 +2696,13 @@
      "version": "rv446",
      "sha256": "7b5e98cb219da919bd54e99c04ff66d8e3a3cf4a0f2f64a179cb2e141784e3de",
      "bytes": 11208,
+     "width": 322,
+     "height": 106
+    },
+    {
+     "version": "rv447",
+     "sha256": "a51e89c5719e50eb544daab043d7a4f22c3e8b070de69515012049a35572fe7f",
+     "bytes": 11202,
      "width": 322,
      "height": 106
     }
@@ -8212,6 +8219,21 @@
      "bytes": 1589503,
      "width": 1080,
      "height": 1289
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_1.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "c5c6eb891346e1e504cfd0e9406e69b03bc0ad6d01af54ad698b0cf6234654df",
+     "bytes": 1514405,
+     "width": 878,
+     "height": 2048
     }
    ]
   },

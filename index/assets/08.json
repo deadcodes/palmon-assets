@@ -3498,7 +3498,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_GrowUp.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3513,6 +3513,13 @@
      "bytes": 5714,
      "width": 66,
      "height": 86
+    },
+    {
+     "version": "rv447",
+     "sha256": "f1e9a5bf4dd0741246c079459e2f6bdbf293468c60a543d6c1792268e69a16b4",
+     "bytes": 5658,
+     "width": 66,
+     "height": 86
     }
    ],
    "atlas": "A_UIDojo"
@@ -3521,7 +3528,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_bubble04.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3534,6 +3541,13 @@
      "version": "rv446",
      "sha256": "506db58ed8a7bbd53512bcfefcd0d529ffc176df96f285674fc64747acc8aee8",
      "bytes": 9094,
+     "width": 250,
+     "height": 115
+    },
+    {
+     "version": "rv447",
+     "sha256": "fe5b5abfe1d9cc8a700cc661f60691d127468ae51e85c5d72935b16405a2ade6",
+     "bytes": 13593,
      "width": 250,
      "height": 115
     }
@@ -9379,6 +9393,36 @@
      "bytes": 1671990,
      "width": 878,
      "height": 2048
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_2.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "93add049ef035b1e5a9f2cd2f1d3161466f6e386d5e7082d4ef46d38d0bc1742",
+     "bytes": 340259,
+     "width": 452,
+     "height": 1145
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_1.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "0399ccecdb4e1435e76ff4de5ba457760d2e00a2a2c70af705ddbb2189ce490d",
+     "bytes": 279884,
+     "width": 1008,
+     "height": 382
     }
    ]
   },

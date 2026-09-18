@@ -3459,7 +3459,7 @@
    "path": "sprites/A_UIDojo/Dojo_btn_QuickSearch.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3474,6 +3474,13 @@
      "bytes": 15608,
      "width": 128,
      "height": 128
+    },
+    {
+     "version": "rv447",
+     "sha256": "8c0d5a2059251a781b7969aea1df8c679ac6cf4370ef76b53c60dc2291931884",
+     "bytes": 15793,
+     "width": 128,
+     "height": 128
     }
    ],
    "atlas": "A_UIDojo"
@@ -3482,7 +3489,7 @@
    "path": "sprites/A_UIDojo/Dojo_icon_honorPoint.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3497,6 +3504,13 @@
      "bytes": 6629,
      "width": 90,
      "height": 92
+    },
+    {
+     "version": "rv447",
+     "sha256": "3482b2421e09cd4bf88e5bdfc6d5e70733091dfac232361419f5f6bfaeb779b3",
+     "bytes": 6623,
+     "width": 90,
+     "height": 92
     }
    ],
    "atlas": "A_UIDojo"
@@ -3505,7 +3519,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_plundered.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3518,6 +3532,13 @@
      "version": "rv446",
      "sha256": "3f95ee0442ded2aaa15ea9d0acba159471c49ec77440e58e5c961987474269ca",
      "bytes": 2579,
+     "width": 60,
+     "height": 60
+    },
+    {
+     "version": "rv447",
+     "sha256": "bb2032e99f067c37c6b381086dd7f355ce078f7fa8e4967ab6cf0a265e257347",
+     "bytes": 2470,
      "width": 60,
      "height": 60
     }
@@ -8634,7 +8655,7 @@
    "path": "uiv3/texture/_static_uipanel/uibackground/Dojo_pic_bg02.png",
    "kind": "texture",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -8646,6 +8667,13 @@
     {
      "version": "rv446",
      "status": "removed"
+    },
+    {
+     "version": "rv447",
+     "sha256": "8722fc645a4d44ad3000eea8ccf32b9110ab5923b7c5327e6c2468784718b9c7",
+     "bytes": 1719611,
+     "width": 878,
+     "height": 2048
     }
    ]
   },

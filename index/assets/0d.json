@@ -3027,7 +3027,7 @@
    "path": "sprites/A_UIDojo/Airship_pic_rob.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3042,6 +3042,13 @@
      "bytes": 5034,
      "width": 64,
      "height": 64
+    },
+    {
+     "version": "rv447",
+     "sha256": "046c6fda42d50ac7624618086b591a7b71c5e9e79a41ccd50894e7f67d7d6d20",
+     "bytes": 4994,
+     "width": 64,
+     "height": 64
     }
    ],
    "atlas": "A_UIDojo"
@@ -3050,7 +3057,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_bubble03.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3062,6 +3069,13 @@
     {
      "version": "rv446",
      "status": "removed"
+    },
+    {
+     "version": "rv447",
+     "sha256": "59ae15c760f5b442eaa63dfa160eebf6cb3d52136a925577f89c724aaa1c7d3d",
+     "bytes": 13625,
+     "width": 250,
+     "height": 115
     }
    ],
    "atlas": "A_UIDojo"
@@ -7889,6 +7903,21 @@
      "bytes": 103245,
      "width": 320,
      "height": 315
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_2.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "4caeb7df29e7def01fd0946cf85930affb27e4ae5c066f840d3d86f98252b7f5",
+     "bytes": 1287841,
+     "width": 878,
+     "height": 2048
     }
    ]
   },

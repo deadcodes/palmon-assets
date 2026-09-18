@@ -3373,7 +3373,7 @@
    "path": "sprites/A_UIDojo/Dojo_btn_shore.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3388,6 +3388,13 @@
      "bytes": 7595,
      "width": 120,
      "height": 120
+    },
+    {
+     "version": "rv447",
+     "sha256": "668e4494c2dc7a4f64c37237f45564009ba7a591d0d6c98e16d891b85aa21132",
+     "bytes": 7880,
+     "width": 120,
+     "height": 120
     }
    ],
    "atlas": "A_UIDojo"
@@ -3396,7 +3403,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_emoji09.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3411,6 +3418,13 @@
      "bytes": 23366,
      "width": 144,
      "height": 115
+    },
+    {
+     "version": "rv447",
+     "sha256": "3a3455d3a1fccaffc68e4a2dce8027e04cda10a61890ed1976ec72c60317d44e",
+     "bytes": 22617,
+     "width": 144,
+     "height": 115
     }
    ],
    "atlas": "A_UIDojo"
@@ -3419,7 +3433,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_possessor.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3432,6 +3446,13 @@
      "version": "rv446",
      "sha256": "ca78ed4e8eccde59d170821cf96f10ece3e3f7bf633c4641c30717e0a39a0fc3",
      "bytes": 5539,
+     "width": 272,
+     "height": 128
+    },
+    {
+     "version": "rv447",
+     "sha256": "9effccf4c7becd40fdad6125ca86af7447bfe8bfef294081357c213beb73cb6c",
+     "bytes": 5541,
      "width": 272,
      "height": 128
     }
@@ -7818,6 +7839,21 @@
     }
    ],
    "atlas": "A_UIWorldHUD"
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_232.png",
+   "kind": "texture",
+   "firstSeen": "rv447",
+   "lastSeen": "rv447",
+   "history": [
+    {
+     "version": "rv447",
+     "sha256": "8b7a6a03a68d47c04b88430a03bfeb7bb2242883db011aa4537009dcac1e2235",
+     "bytes": 396484,
+     "width": 452,
+     "height": 1145
+    }
+   ]
   },
   {
    "path": "uiv3/texture/_static_uipanel/uiairshiptrade/Airship_pic_rewardbg5.png",

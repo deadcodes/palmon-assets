@@ -3601,7 +3601,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_full.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3616,6 +3616,13 @@
      "bytes": 1255,
      "width": 34,
      "height": 45
+    },
+    {
+     "version": "rv447",
+     "sha256": "0100c6b53deef769a9132bb272b887316a15d582be936fcb38b0da6ee3cb326b",
+     "bytes": 1379,
+     "width": 34,
+     "height": 45
     }
    ],
    "atlas": "A_UIDojo"
@@ -3624,7 +3631,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_safe.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3639,6 +3646,13 @@
      "bytes": 3465,
      "width": 58,
      "height": 64
+    },
+    {
+     "version": "rv447",
+     "sha256": "d06ae5c10599ed61b43ec34ad9ba59267455a00115ec843622b2386dcdb11117",
+     "bytes": 3212,
+     "width": 58,
+     "height": 64
     }
    ],
    "atlas": "A_UIDojo"
@@ -3647,7 +3661,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_ticket1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3662,6 +3676,13 @@
      "bytes": 5748,
      "width": 65,
      "height": 66
+    },
+    {
+     "version": "rv447",
+     "sha256": "3aa69e0a7590f0f483d2fba9aa921cfa31ca3f3d523896fbfe8624e88382c0c2",
+     "bytes": 5511,
+     "width": 65,
+     "height": 66
     }
    ],
    "atlas": "A_UIDojo"
@@ -3670,7 +3691,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_zhaungtai.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3683,6 +3704,13 @@
      "version": "rv446",
      "sha256": "15826c14dcdac782d2135ba1c8ac1a80092787b0c62eb38373e3f7dc78f81f43",
      "bytes": 6323,
+     "width": 168,
+     "height": 157
+    },
+    {
+     "version": "rv447",
+     "sha256": "1fa049ae524f931888913de905c618ce2d813246f45d4cb3e450372fdc65eecd",
+     "bytes": 6357,
      "width": 168,
      "height": 157
     }

@@ -1,0 +1,1864 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv446",
+  "new": "rv447"
+ },
+ "counters": {
+  "added": 2,
+  "removed": 0,
+  "changed": 307,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 60,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 19,
+  "otherRowsExcluded": 1289,
+  "assetsNew": 17,
+  "assetsListed": 17,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 17,
+  "assetImageBytes": 9046142,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 14,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 3,
+  "assetsNonRenderable": 5,
+  "assetsOutsideResourceTree": 4,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 19
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Stat Curves",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "X Spark Card",
+         "kind": "bold"
+        },
+        {
+         "text": " (#900282): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_vip.png",
+         "version": "rv447",
+         "published": true,
+         "sha256": "5e60a82a3eb0fb7300ca47fb0fddabdf2b041b43b1763a68e359c20f92b1ab8d"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: orange (legendary)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 900",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Use to activate X. Please activate it in time before the reward expires. Once claimed, it cannot be refunded or exchanged.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "X Spark Card",
+         "kind": "bold"
+        },
+        {
+         "text": " (#900283): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_vip.png",
+         "version": "rv447",
+         "published": true,
+         "sha256": "5e60a82a3eb0fb7300ca47fb0fddabdf2b041b43b1763a68e359c20f92b1ab8d"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: orange (legendary)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 900",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Use to activate X. Please activate it in time before the reward expires. Once claimed, it cannot be refunded or exchanged.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Equipment Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "jijie",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the autogather target: reshaped from a map of 2 keys, each a nested map of 5 key(s) to a map of 2 keys, each a nested map of 7 key(s).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": {
+          "old": "{\n  \"1\": {\n    \"targettype\": {\n      \"203\": 0,\n      \"231\": 9,\n      \"232\": 0\n    },\n    \"Autogather_target_reward\": {\n      \"203\": [\n        [\n          0,\n          2,\n          51134\n        ],\n        [\n          3,\n          99,\n          51135\n        ]\n      ],\n      \"231\": [\n        [\n          0,\n          99,\n          51136\n        ]\n      ],\n      \"232\": [\n        [\n          0,\n          99,\n          51137\n        ]\n      ]\n    },\n    \"Autogather_target_day\": {\n      \"203\": 0,\n      \"231\": 0,\n      \"232\": 4\n    },\n    \"Autogather_time\": 28800,\n    \"auto_open\": false\n  },\n  \"2\": {\n    \"targettype\": {\n      \"427\": 0\n    },\n    \"Autogather_target_reward\": {\n      \"427\": []\n    },\n    \"Autogather_target_day\": {\n      \"427\": 0\n    },\n    \"Autogather_time\": 259200,\n    \"auto_open\": true\n  }\n}",
+          "new": "{\n  \"1\": {\n    \"targettype\": {\n      \"203\": 0,\n      \"231\": 9,\n      \"232\": 0\n    },\n    \"Autogather_target_reward\": {\n      \"203\": [\n        [\n          0,\n          2,\n          51134\n        ],\n        [\n          3,\n          99,\n          51135\n        ]\n      ],\n      \"231\": [\n        [\n          0,\n          99,\n          51136\n        ]\n      ],\n      \"232\": [\n        [\n          0,\n          99,\n          51137\n        ]\n      ]\n    },\n    \"Autogather_target_day\": {\n      \"203\": 0,\n      \"231\": 0,\n      \"232\": 4\n    },\n    \"Autogather_target_server\": {\n      \"203\": [\n        1,\n        9999\n      ],\n      \"231\": [\n        1,\n        9999\n      ],\n      \"232\": [\n        277,\n        9999\n      ]\n    },\n    \"Autogather_target_season\": {\n      \"203\": [\n        0,\n        99\n      ],\n      \"231\": [\n        0,\n        99\n      ],\n      \"232\": [\n        0,\n        0\n      ]\n    },\n    \"Autogather_time\": 28800,\n    \"auto_open\": false\n  },\n  \"2\": {\n    \"targettype\": {\n      \"427\": 0\n    },\n    \"Autogather_target_reward\": {\n      \"427\": []\n    },\n    \"Autogather_target_day\": {\n      \"427\": 0\n    },\n    \"Autogather_target_server\": {\n      \"427\": [\n        1,\n        9999\n      ]\n    },\n    \"Autogather_target_season\": {\n      \"427\": [\n        0,\n        99\n      ]\n    },\n    \"Autogather_time\": 259200,\n    \"auto_open\": true\n  }\n}"
+         }
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the target type: added 232 = 1.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "questionnaire",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the default (a map of 3 keys): 0 key(s) added, 0 removed, 3 unchanged.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": {
+          "old": "{\n  \"questionnaire_url\": \"https://q.lilithglobal.com\",\n  \"questionnaire_mail\": {\n    \"1002\": [\n      20066,\n      \"790jfk5s86\",\n      1\n    ],\n    \"1008\": [\n      20066,\n      \"jdh40iepkp\",\n      1\n    ]\n  },\n  \"questionnaire_reward\": {\n    \"790jfk5s86\": [\n      20067,\n      1050511\n    ],\n    \"jdh40iepkp\": [\n      20067,\n      1050512\n    ],\n    \"3reb92fksw\": [\n      20067,\n      1050511\n    ],\n    \"uvk2xgs8z8\": [\n      20067,\n      1050512\n    ],\n    \"lbhnur6nv5\": [\n      20067,\n      1050511\n    ],\n    \"oolk5whh7s\": [\n      20067,\n      1050513\n    ],\n    \"ru5ryjgy6s\": [\n      20067,\n      1050513\n    ],\n    \"precthfpgf\": [\n      20067,\n      1050513\n    ],\n    \"t1ptcinznc\": [\n      20067,\n      1050513\n    ],\n    \"jx9zjgkjcr\": [\n      20067,\n      1050513\n    ],\n    \"kixnrx8zf2\": [\n      20067,\n      1050513\n    ],\n    \"pqa7qru02r\": [\n      20067,\n      1050514\n    ],\n    \"rld1cyhbzc\": [\n      20067,\n      1050513\n    ],\n    \"b1zj5avhyf\": [\n      20067,\n      1050515\n    ],\n    \"7gancwzkfx\": [\n      20067,\n      1050515\n    ],\n    \"we0x6egx9q\": [\n      20067,\n      1050515\n    ],\n    \"bwej4hoq5e\": [\n      20067,\n      1050515\n    ],\n    \"2ynoyeg6y4\": [\n      20067,\n      1050515\n    ],\n    \"b2rx4ri5j6\": [\n      20067,\n      1050515\n    ],\n    \"uuk8c4022j\": [\n      20067,\n      1050515\n    ],\n    \"gwwrslmsb7\": [\n      20067,\n      1050515\n    ]\n  }\n}",
+          "new": "{\n  \"questionnaire_url\": \"https://q.lilithglobal.com\",\n  \"questionnaire_mail\": {\n    \"1002\": [\n      20066,\n      \"790jfk5s86\",\n      1\n    ],\n    \"1008\": [\n      20066,\n      \"jdh40iepkp\",\n      1\n    ]\n  },\n  \"questionnaire_reward\": {\n    \"790jfk5s86\": [\n      20067,\n      1050511\n    ],\n    \"jdh40iepkp\": [\n      20067,\n      1050512\n    ],\n    \"3reb92fksw\": [\n      20067,\n      1050511\n    ],\n    \"uvk2xgs8z8\": [\n      20067,\n      1050512\n    ],\n    \"lbhnur6nv5\": [\n      20067,\n      1050511\n    ],\n    \"oolk5whh7s\": [\n      20067,\n      1050513\n    ],\n    \"ru5ryjgy6s\": [\n      20067,\n      1050513\n    ],\n    \"precthfpgf\": [\n      20067,\n      1050513\n    ],\n    \"t1ptcinznc\": [\n      20067,\n      1050513\n    ],\n    \"jx9zjgkjcr\": [\n      20067,\n      1050513\n    ],\n    \"kixnrx8zf2\": [\n      20067,\n      1050513\n    ],\n    \"pqa7qru02r\": [\n      20067,\n      1050514\n    ],\n    \"rld1cyhbzc\": [\n      20067,\n      1050513\n    ],\n    \"b1zj5avhyf\": [\n      20067,\n      1050515\n    ],\n    \"7gancwzkfx\": [\n      20067,\n      1050515\n    ],\n    \"we0x6egx9q\": [\n      20067,\n      1050515\n    ],\n    \"bwej4hoq5e\": [\n      20067,\n      1050515\n    ],\n    \"2ynoyeg6y4\": [\n      20067,\n      1050515\n    ],\n    \"b2rx4ri5j6\": [\n      20067,\n      1050515\n    ],\n    \"uuk8c4022j\": [\n      20067,\n      1050515\n    ],\n    \"gwwrslmsb7\": [\n      20067,\n      1050515\n    ],\n    \"aux3l8qwzn\": [\n      20067,\n      1050515\n    ],\n    \"3flckabu7f\": [\n      20067,\n      1050515\n    ],\n    \"aq9e88rikp\": [\n      20067,\n      1050515\n    ]\n  }\n}"
+         }
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "ruins_challenge_new",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Added 5,307, 5,350, 5,351, 5,352 to the amigo add attribute (now 12 entries).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the power inhibit threshold from [-0.99,5] to [-0.99,10].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Ace Trial Stages & Enemies",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 150,000 to 9,000. (#1)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 300,000 to 19,000. (#2)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 450,000 to 38,000. (#3)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 600,000 to 75,000. (#4)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 750,000 to 150,000. (#5)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 900,000 to 300,000. (#6)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 1,050,000 to 600,000. (#7)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 70,000 to 4,000. (#1)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 140,000 to 9,000. (#2)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 210,000 to 18,000. (#3)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 280,000 to 35,000. (#4)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 350,000 to 70,000. (#5)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 420,000 to 140,000. (#6)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 490,000 to 280,000. (#7)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 250,000 to 16,000. (#1)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 500,000 to 31,000. (#2)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 750,000 to 63,000. (#3)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 1,000,000 to 125,000. (#4)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 1,250,000 to 250,000. (#5)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 1,500,000 to 500,000. (#6)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 1,750,000 to 1,000,000. (#7)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4.npc_power",
+         "kind": "bold"
+        },
+        {
+         "text": ": 260 rows increased, 7 rows decreased, x0.064-1.067 of the previous value (ids 1-300).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 90,000 to 6,000. (#1)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 180,000 to 11,000. (#2)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 270,000 to 23,000. (#3)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 360,000 to 45,000. (#4)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 450,000 to 90,000. (#5)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 540,000 to 180,000. (#6)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 630,000 to 360,000. (#7)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 225,000 to 14,000. (#1)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 450,000 to 28,000. (#2)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 675,000 to 56,000. (#3)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 900,000 to 113,000. (#4)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 1,125,000 to 225,000. (#5)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 1,350,000 to 450,000. (#6)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Reduced the npc power from 1,575,000 to 900,000. (#7)",
+         "kind": "text"
+        },
+        {
+         "text": " ↓",
+         "kind": "down"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "19 tables with 1289 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: PanelTitle (1), activity_award_gather (5), affiliate_gifts_behavioral_rewards (2), challenge_management (1), cross_server_mine (828), drop (50), gift (21), global_options (1), goto (229), limit_activity (3), main_activity_icon (1), main_btn_show (1), monster (1), monster_npc (1), recharge (2), recharge_gift_heroequip (2), season_cross_server_team (20), season_open (110), task_guide (10).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`sprites/A_UIDojo` (3)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Dojo_pic_bubble01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIDojo/Dojo_pic_bubble01.png",
+           "version": "rv447",
+           "published": false,
+           "sha256": "35081df5840544afbf1661d859307c6875b32308b551fb81c78dce81fe3159ff"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Dojo_pic_bubble02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIDojo/Dojo_pic_bubble02.png",
+           "version": "rv447",
+           "published": false,
+           "sha256": "306713ef7c842cb81a7d6d8ea095ffc50b25b383df0bc6a4179a4c124860d043"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Dojo_pic_bubble03",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIDojo/Dojo_pic_bubble03.png",
+           "version": "rv447",
+           "published": false,
+           "sha256": "59ae15c760f5b442eaa63dfa160eebf6cb3d52136a925577f89c724aaa1c7d3d"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/_static_uipanel/uiactivitygather` (14)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "auto_pic_bg_0",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_0.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "400d1ed43ecb94f206e257667dd5b9534c27a8c934ea3638c017e7195685e5a3"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_bg_1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_1.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "c5c6eb891346e1e504cfd0e9406e69b03bc0ad6d01af54ad698b0cf6234654df"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_bg_2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_2.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "4caeb7df29e7def01fd0946cf85930affb27e4ae5c066f840d3d86f98252b7f5"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_bg_3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_3.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "5e8956566608836acbcd942b3e523daafcc785b00722110cb96d14fcc8222356"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_mon_203_0",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_0.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "57ffacea1ddf637147d9fb46ec9ba496b17c7c078e6aa0df73d211c35c265ac0"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_mon_203_1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_1.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "72101d3f793204a65e0d981758f8285d5f5e3f54954c66d72bd233faaa03ddaa"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_mon_203_2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_2.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "93add049ef035b1e5a9f2cd2f1d3161466f6e386d5e7082d4ef46d38d0bc1742"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_mon_203_3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_3.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "8bc6d309cea4be7b2e42e7e4f5f5980d57888be263cc177c726ee653852c774d"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_mon_231",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_231.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "a8e304b1f2c73dbe9dc92112f22eea9f22ea9b1577cc325f9f0de956485d7693"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_mon_232",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_232.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "8b7a6a03a68d47c04b88430a03bfeb7bb2242883db011aa4537009dcac1e2235"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_reward_bg_0",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_0.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "ae411d0fddacdd479da2ba2b018601e2a8a49f0619afaa8ac7a85a15530ed0da"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_reward_bg_1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_1.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "0399ccecdb4e1435e76ff4de5ba457760d2e00a2a2c70af705ddbb2189ce490d"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_reward_bg_2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_2.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "f4c248aa17c4e55d1acbed922410642726831a72c727d0b00371864371d4054d"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "auto_pic_reward_bg_3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_3.png",
+           "version": "rv447",
+           "published": true,
+           "sha256": "4502b60dae69ca79d29ff1c9e9249651510fcb389558eb49b2ee1cda4680b0cc"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "5 non-renderable file(s) (Unity sprite metadata sidecars) were excluded from this list. 4 added file(s) outside works/resources/ with no resource path were excluded from this list.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "sprites/a_uidojo/dojo_pic_bubble01",
+   "path": "sprites/A_UIDojo/Dojo_pic_bubble01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-dojo_pic_bubble01-61d2ff2a.png",
+   "sizeBytes": 13125
+  },
+  {
+   "canonical": "sprites/a_uidojo/dojo_pic_bubble02",
+   "path": "sprites/A_UIDojo/Dojo_pic_bubble02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-dojo_pic_bubble02-13f5c931.png",
+   "sizeBytes": 13643
+  },
+  {
+   "canonical": "sprites/a_uidojo/dojo_pic_bubble03",
+   "path": "sprites/A_UIDojo/Dojo_pic_bubble03.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-dojo_pic_bubble03-bbfa5e91.png",
+   "sizeBytes": 13625
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_bg_0",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_0.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_bg_0-c0f6354c.png",
+   "sizeBytes": 1464967
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_bg_1",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_1.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_bg_1-f7ab8ebd.png",
+   "sizeBytes": 1514405
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_bg_2",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_2.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_bg_2-cee5fe49.png",
+   "sizeBytes": 1287841
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_bg_3",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_bg_3-6b7d5f3b.png",
+   "sizeBytes": 1617248
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_mon_203_0",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_0.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_mon_203_0-5f014695.png",
+   "sizeBytes": 320913
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_mon_203_1",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_1.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_mon_203_1-310fc36b.png",
+   "sizeBytes": 284299
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_mon_203_2",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_2.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_mon_203_2-20696116.png",
+   "sizeBytes": 340259
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_mon_203_3",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_203_3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_mon_203_3-1d10855f.png",
+   "sizeBytes": 373557
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_mon_231",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_231.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_mon_231-978ac3c3.png",
+   "sizeBytes": 371860
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_mon_232",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_mon_232.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_mon_232-b4f647fc.png",
+   "sizeBytes": 396484
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_reward_bg_0",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_0.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_reward_bg_0-284d003d.png",
+   "sizeBytes": 216983
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_reward_bg_1",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_1.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_reward_bg_1-0499e10d.png",
+   "sizeBytes": 279884
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_reward_bg_2",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_2.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_reward_bg_2-00d3e7e8.png",
+   "sizeBytes": 221987
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitygather/auto_pic_reward_bg_3",
+   "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_reward_bg_3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_reward_bg_3-031bd378.png",
+   "sizeBytes": 268514
+  }
+ ]
+}

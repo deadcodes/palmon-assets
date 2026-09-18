@@ -3437,7 +3437,7 @@
    "path": "sprites/A_UIDojo/Dojo_icon_attack.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3452,6 +3452,13 @@
      "bytes": 6815,
      "width": 85,
      "height": 92
+    },
+    {
+     "version": "rv447",
+     "sha256": "f9f0370282ff9401aea3b8302147bab72b8fe235025d2494388b2ed52a6acb28",
+     "bytes": 6535,
+     "width": 85,
+     "height": 92
     }
    ],
    "atlas": "A_UIDojo"
@@ -3460,7 +3467,7 @@
    "path": "sprites/A_UIDojo/Dojo_icon_timeleft.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3475,6 +3482,13 @@
      "bytes": 5143,
      "width": 87,
      "height": 98
+    },
+    {
+     "version": "rv447",
+     "sha256": "30abbfed090d31083cdb2b275890defe7343228d03e483e0754f96eff35b8402",
+     "bytes": 5149,
+     "width": 87,
+     "height": 98
     }
    ],
    "atlas": "A_UIDojo"
@@ -3483,7 +3497,7 @@
    "path": "sprites/A_UIDojo/Dojo_pic_helpList.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv446",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -3496,6 +3510,13 @@
      "version": "rv446",
      "sha256": "7788212c1a77b566d03cbdc681fe61984d216344bab1aed5a5ffdaae0e9e0a52",
      "bytes": 2561,
+     "width": 187,
+     "height": 220
+    },
+    {
+     "version": "rv447",
+     "sha256": "2f2953fbb0c7a1e851c7601c2498b554248f1164e8b87a7b0e1b51dfc8ace825",
+     "bytes": 2560,
      "width": 187,
      "height": 220
     }
@@ -8784,7 +8805,7 @@
    "path": "uiv3/texture/_static_uipanel/uibackground/Dojo_pic_bg04.png",
    "kind": "texture",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv447",
    "history": [
     {
      "version": "rv417",
@@ -8796,6 +8817,13 @@
     {
      "version": "rv446",
      "status": "removed"
+    },
+    {
+     "version": "rv447",
+     "sha256": "c49ee08f7f46d56b34900f345844e27154bbce3ec0b0e160a3856cbc8b8d7ba8",
+     "bytes": 1757893,
+     "width": 878,
+     "height": 2048
     }
    ]
   },
