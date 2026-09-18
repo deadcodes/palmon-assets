@@ -6976,6 +6976,70 @@
    "atlas": "A_UIPlayerCareer"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_Plaid.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "795eb2b037a28f61df44d68b858246875910433aa0e44f578a10f1404de80a07",
+     "bytes": 6151,
+     "width": 140,
+     "height": 140
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_framebg_selected.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "8774bebd55c8d5eeb6b189f23c2f3ba7e3ae152ab4917d7ae2a2cc0d04b2d6e5",
+     "bytes": 6626,
+     "width": 192,
+     "height": 192
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened6.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "350da4849b6676ada129746c74077713817a3ab3c50cc19802e691a0a1e4f120",
+     "bytes": 17323,
+     "width": 189,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open19.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "02582c0171509c290c350a26e1b779305043cb23b778f39cf11cb7fba1af2a6d",
+     "bytes": 62974,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/pyramid_war_btn_occupy_01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -7560,6 +7624,38 @@
     }
    ],
    "atlas": "A_UISportMeeting_FIFA"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv01.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "bcddd1b3f25abf500bfbfd8af297efe2ab90f47fda89c82aa310de13cc949501",
+     "bytes": 16087,
+     "width": 117,
+     "height": 112
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_01.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "e28da6b0f39ab81146100e2fb53b44460db1cd5264349b4c6dde54c26875cd7a",
+     "bytes": 14399,
+     "width": 123,
+     "height": 98
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_bg_store.png",
@@ -9715,6 +9811,10 @@
      "bytes": 189607,
      "width": 462,
      "height": 462
+    },
+    {
+     "version": "rv445",
+     "status": "removed"
     }
    ]
   },
@@ -11859,6 +11959,21 @@
      "bytes": 15023,
      "width": 150,
      "height": 150
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiitem/MidAutumnFestival_Icon_Dough.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "237d281d7dd6c7f101d502b709432ff64aa7e2ba652e7a77bf5c922941513fdd",
+     "bytes": 28196,
+     "width": 160,
+     "height": 160
     }
    ]
   },

@@ -6029,6 +6029,22 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened1.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "3ab9c31cc2e55f36c37570ea60f1084dc2ace015021599eee62826b6cb32ecf2",
+     "bytes": 14822,
+     "width": 189,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/pyramid_war_btn_desertking_01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -6556,6 +6572,54 @@
     }
    ],
    "atlas": "A_UISportMeeting_FIFA"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_FrameTask_01.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "76a3083700f5972b01dc938c553604e0dfd545f217178c0f1257da79e472d4ad",
+     "bytes": 48663,
+     "width": 1025,
+     "height": 220
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_icon_shop.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "155fbe2c1b519d6959e64e6ba997dc29337a9c3724c899c072d68cc41967d552",
+     "bytes": 38708,
+     "width": 160,
+     "height": 160
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_02.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "9a1f3f9e8181503a92ebf7b1a447a6b0a69d2492441543b792f5b796d1c35d42",
+     "bytes": 63401,
+     "width": 890,
+     "height": 218
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_bggift_02.png",

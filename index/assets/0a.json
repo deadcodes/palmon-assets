@@ -6866,6 +6866,22 @@
    "atlas": "A_UISnowstorm_s02"
   },
   {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_03.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "9d65bf5fe7153e27c8d62a36d19d5d2286ab02fdd65e5e65106e3f7a40d8e59a",
+     "bytes": 74672,
+     "width": 890,
+     "height": 218
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UISpringFestival/SpringFestival_image_03.png",
    "kind": "sprite",
    "firstSeen": "rv417",

@@ -1,0 +1,4628 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv444",
+  "new": "rv445"
+ },
+ "counters": {
+  "added": 10,
+  "removed": 0,
+  "changed": 14,
+  "noiseSkipped": 971,
+  "languageEntries": 0,
+  "bullets": 115,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 25,
+  "otherRowsExcluded": 15801,
+  "assetsNew": 90,
+  "assetsListed": 90,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 78,
+  "assetImageBytes": 32279052,
+  "assetsWithoutArt": 12,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 12,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 31,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 59,
+  "assetsNonRenderable": 30,
+  "assetsOutsideResourceTree": 35,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 1049
+ },
+ "warnings": [
+  "New assets: 12 are registered but had no art exported."
+ ],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Stat Curves",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Pep-Pep Step (Dragonfire)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#10701): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed7_storm.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "2cd147fe0ac5154cd07a7752928155be040d43556ace8c80b049500d51bd3ce3"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: orange (legendary)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 40",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Reduces march time by 50%. (Dragonfire only)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Pep Step (Dragonfire)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#10702): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed7_storm.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "2cd147fe0ac5154cd07a7752928155be040d43556ace8c80b049500d51bd3ce3"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: purple (epic)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 40",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Reduces march time by 25%. (Dragonfire only)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "team_camp_march_item_3",
+         "kind": "bold"
+        },
+        {
+         "text": " (#10703): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed4_storm.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "0d090a24fbc2c664b6316a73785e6c6b77f44968c0a9ed72657504430c82c97c"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: green (uncommon)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 224",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Reduces Hospital queue by X in Dragonfire Clash.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "team_camp_march_item_3",
+         "kind": "bold"
+        },
+        {
+         "text": " (#10704): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed4_storm.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "0d090a24fbc2c664b6316a73785e6c6b77f44968c0a9ed72657504430c82c97c"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: blue (rare)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 224",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Reduces Hospital queue by X in Dragonfire Clash.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "team_camp_march_item_3",
+         "kind": "bold"
+        },
+        {
+         "text": " (#10705): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed4_storm.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "0d090a24fbc2c664b6316a73785e6c6b77f44968c0a9ed72657504430c82c97c"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: purple (epic)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 224",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Reduces Hospital queue by X in Dragonfire Clash.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "team_camp_march_item_3",
+         "kind": "bold"
+        },
+        {
+         "text": " (#10706): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed4_storm.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "0d090a24fbc2c664b6316a73785e6c6b77f44968c0a9ed72657504430c82c97c"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: purple (epic)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 224",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Reduces Hospital queue by X in Dragonfire Clash.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Trail Map",
+         "kind": "bold"
+        },
+        {
+         "text": " (#11601): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/Gacha_icon_progress.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "0220cffae30349329c8d1c154d34a67c0145419cd92bd87042d8340fcd910ec3"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: purple (epic)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 116",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: A mysterious map that records the traces of Meowdame. Use it to summon the Corrupted Meowdame, challenge and defeat it to obtain generous rewards!",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Moonlight Points",
+         "kind": "bold"
+        },
+        {
+         "text": " (#100047): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/MidAutumnFestival_Points_01.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "ef0f755fa80c4f13b4dab4d52095192b96eb351aedb402692f98dc399ee871a9"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: orange (legendary)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: functional item, cannot be used from the bag/inventory",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Complete Full‑Moon Promise quests to earn Moonlight Points.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "X Spark Card",
+         "kind": "bold"
+        },
+        {
+         "text": " (#900280): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_vip.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "5e60a82a3eb0fb7300ca47fb0fddabdf2b041b43b1763a68e359c20f92b1ab8d"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: orange (legendary)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 900",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Use to activate X. Please activate it in time before the reward expires. Once claimed, it cannot be refunded or exchanged.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "X Spark Card",
+         "kind": "bold"
+        },
+        {
+         "text": " (#900281): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_vip.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "5e60a82a3eb0fb7300ca47fb0fddabdf2b041b43b1763a68e359c20f92b1ab8d"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: orange (legendary)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: 900",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Use to activate X. Please activate it in time before the reward expires. Once claimed, it cannot be refunded or exchanged.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Moon‑Hare Pouch",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the icon from -608,060,785 to -1,060,829,364.",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/MidAutumnFestival_Icon_01.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "b3d8fbfcf97eb375219356e3e157330534155baf42dda86d08866ffdf1915a40"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Moon‑Hare Pouch",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"Soundwave Gift\" to \"Moon‑Hare Pouch\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Moon‑Hare Pouch",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the description from \"Open to receive the Retro Jam Avatar Frame, UR Palmon Omni-Tokens, Mount Shoes, and other rare items.\" to \"Open the Moon‑Hare Pouch to receive the Full‑Moon Promise Avatar Frame: Autumn Moon Companion, UR Palmon Omni-Tokens, Mount Shoes, and other rare items.\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Moon‑Hare Token",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the icon from -1,190,920,785 to -621,510,064.",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/MidAutumnFestival_icon_shop.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "f26df8339a462a8c2125d2e3c479a501d10d746aec08baff32b656eee3547d0b"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Moon‑Hare Token",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"Cupid Shard\" to \"Moon‑Hare Token\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Moon‑Hare Token",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the description from \"A rare crystal during the love season. Can be exchanged for rewards in the Cupid's Counter.\" to \"Welcome the cozy moonlit night. Full‑Moon Promise event items can be exchanged for various rewards at the Lantern Bazaar.\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Mooncake Ingredients",
+         "kind": "bold"
+        },
+        {
+         "text": ": Changed the icon from 1,973,277,112 to 560,218,266.",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/MidAutumnFestival_Icon_Dough.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "237d281d7dd6c7f101d502b709432ff64aa7e2ba652e7a77bf5c922941513fdd"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Mooncake Ingredients",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"Cupid's Surprise\" to \"Mooncake Ingredients\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Mooncake Ingredients",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the description from \"A Lovebound Season item for the Valentine's Day event series.\" to \"A Full‑Moon Promise event item required to take part in the Moonlit Reunion Feast.\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Fortune Token",
+         "kind": "bold"
+        },
+        {
+         "text": ": Set the recycle to [3,102,5].",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_1128.png",
+         "version": "rv445",
+         "published": true,
+         "sha256": "d39e8ad7b45a0ec58ee3df89b15a8a314a7d9199de2b44928b4ad77aca387d80"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": "968 rows had internal placeholder churn (absent <-> empty list) with no gameplay meaning.",
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Equipment Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "festival_action_1",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Set the 1640010 to {\"festival_mail_item\":998,\"festival_max_num\":500,\"tfestival_number_id\":[1,1061262],\"festival_mail_id\":21291,\"box_item_id\":996,\"festival_mail_item_2\":[935,9998],\"tfestival_number_id_2\":[[1,1061262],[1,1061262]],\"festival_mail_id_2\":[21272,21272],\"box_panel_name\":\"UISportMeeting_MidAutumnDay_box\",\"parent_enter_panel_name\":\"UISportMeeting_MidAutumnDay_Enter\"}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "festival_action_2",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Set the 360011 to {\"festival_free_gift\":2091349}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "festival_action_5",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the 1680009: reshaped from null to a map of 12 keys.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": {
+          "old": "null",
+          "new": "{\n  \"Easter_egg_item\": 998,\n  \"Easter_egg_level\": {\n    \"1\": 3000,\n    \"2\": 5000,\n    \"3\": 15000,\n    \"4\": 30000,\n    \"5\": 50000\n  },\n  \"Easter_egg_gift\": {\n    \"1\": 2091291,\n    \"2\": 2091292,\n    \"3\": 2091293,\n    \"4\": 2091294,\n    \"5\": 2091295\n  },\n  \"Easter_egg_lvevl\": {\n    \"1\": 2,\n    \"2\": 3,\n    \"3\": 4,\n    \"4\": 5,\n    \"5\": 5,\n    \"6\": 5,\n    \"7\": 5,\n    \"8\": 5\n  },\n  \"Easter_egg_cost\": 10,\n  \"Easter_egg_box_id\": 16235,\n  \"Easter_egg_interval\": {\n    \"4\": [\n      2,\n      600,\n      27\n    ],\n    \"5\": [\n      3,\n      600,\n      34\n    ],\n    \"6\": [\n      4,\n      600,\n      51\n    ],\n    \"7\": [\n      5,\n      600,\n      65\n    ]\n  },\n  \"festival_mail_id\": 21290,\n  \"festival_add_times\": 410,\n  \"Easter_shop_item\": 997,\n  \"Easter_shop_mail\": 21292,\n  \"Easter_shop_item_recover\": [\n    1,\n    1061262\n  ]\n}"
+         }
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "festival_action_item",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Set the 996 to {\"festival_box_item\":1640010,\"festival_box_prize_draw\":[1,5],\"festival_big_reward_times\":[47]}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Ace Trial Stages & Enemies",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "25 tables with 15801 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: MoneyPanel (1), activity_award_dig (9), activity_award_ggj (20), activity_award_springfestival_box (16), activity_award_springfestival_new (6), activity_battlepass_base (1), activity_battlepass_gift (30), castle_skin (2), decoration (32), drop (3380), gift (12041), goto (175), goto_type (4), limit_activity (9), mail (10), main_activity_icon (1), model (4), player_headframe (1), recharge (7), recharge_gift_festival (10), recommendation_exchange (17), redpoint (16), role_model (4), special_activity (4), tech_reward (1).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`models/prefabs` (12)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "gfx_0017_soldier_idlea",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_0017_soldier_idlea.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_0017_soldier_lod3_lw_hit",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_0017_soldier_lod3_lw_hit.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_0017_soldier_lod3_lw_run",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_0017_soldier_lod3_lw_run.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_0017_soldier_lod3_lw_zd",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_0017_soldier_lod3_lw_zd.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_0030_building_idlea",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_0030_building_idlea.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_ui_common_receive_box_01",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_ui_common_receive_box_01.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0017_soldier_lod3_lw_baker",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0017_soldier_lod3_lw_baker.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0017_soldier_lw_baker",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0017_soldier_lw_baker.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0030_building_baker",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0030_building_baker.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0030_building_hm_baker",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0030_building_hm_baker.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0062_island",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0062_island.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0063_island",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0063_island.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UIProtectingCoral_MidAutumnDay` (35)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_frame_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "0968c16413fbc46b60bebc3b8249d14f0476c1ac5ff1126e2022dc45d1e4b6ca"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_frame_gift",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_gift.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "6adcf3c64604b485f765f712c897c62e83009818949ad4f441e0c1cb266bdf51"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_frame_Plaid",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_Plaid.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "795eb2b037a28f61df44d68b858246875910433aa0e44f578a10f1404de80a07"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_framebg_selected",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_framebg_selected.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "8774bebd55c8d5eeb6b189f23c2f3ba7e3ae152ab4917d7ae2a2cc0d04b2d6e5"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_box1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box1.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "830f4f375b6489415d61afa5fedd76f4613014b1644e0df27ef4efe6da22ffa0"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_box2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box2.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "b28ebdf509d4e9020e24156c06f2b63cb560b3528f5dbc576a5a958963936811"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_box3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box3.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "15c67a7b50e0f269981ac2db92cc1996df5cba9323179781f5f94a6b844765fe"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_box4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box4.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "dc2f2727bc96e92e5211c163929ff1cb4cf03d9ea1a8e71634f633ac670d1dfd"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_Notopened1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened1.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "3ab9c31cc2e55f36c37570ea60f1084dc2ace015021599eee62826b6cb32ecf2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_Notopened2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened2.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "6565ffa865fa253f8f7e270d318d459a6c27cd9267d1d4a6f942e4caef3ec0ee"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_Notopened3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened3.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "5b45de246200a2b98dba103c2590a79a48b51d2098261ea19dcfac644aeca20a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_Notopened4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened4.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "82a627e2ea543a510f29fa0c5b925b0ed19e399b626677f71e7866c68ea9dd68"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_Notopened5",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened5.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "4c4c3eba1cc1f8d5062e745c4b90070b5228f08488a8c51ae071deede7abc4d1"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_Notopened6",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened6.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "350da4849b6676ada129746c74077713817a3ab3c50cc19802e691a0a1e4f120"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_Notopened7",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened7.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "f9808009a2897d368d4e1aa2ce1e7dc78cdac0f30948f3b313ad35fc8e89aa9c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open1.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "5ae9f1e44ef0a88a08da6026cd25998fdb0849873c6556d47b106cd0885a5f8c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open10",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open10.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "a74a2be2369453662f24ebc45ebb4c56e9ee6be36608ad298193dad6a8003f95"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open11",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open11.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "ef65035a07af58ada1d1a7865458ec2111805434b2193692bfccc6a6c421cdc2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open12",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open12.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "af763e31476382c1fde30831297cf95ae65867e742c0ea5c3f80498b487b5832"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open13",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open13.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "8ad91c626624bfbdcde675acc35963a5cc88e7d63d6dbfc34c283615333eff07"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open14",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open14.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "8fae4b100ea2cf5c1560907fae73f8c5c688382c36d9e906a5ecffa9cf772cfc"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open15",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open15.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "5eddc426950a2d9ca2b4f6e142150079d8b33d51aca182335cebad6b020cc0e4"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open16",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open16.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "ba940edbaa6c0dbf9fef74408094480eb26e7ebdaa52588684e5ee1de8d54b8e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open17",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open17.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "0157f0d7b1c368a8cc429ec8c4d18626144ae26342d9c853b20a79ca42b3a80a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open18",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open18.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "8cf63964f5f0f9e9eeb3a304e271d8343e724ab2b33a175ce9df93a5249b4c09"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open19",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open19.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "02582c0171509c290c350a26e1b779305043cb23b778f39cf11cb7fba1af2a6d"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open2.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "241376f4fb4d86fcd96ae89f76c07cbb2aabc6231261f6a103df30fe94e8eb17"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open20",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open20.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "7dd380cddcc7a112b17c01dce069b50b7a87a307d43d755f141b211f52524ef7"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open3.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "ee9e2fca39e202eb0257dd7aaec544568f377bbd4057eb85f49aa85dae19c8c3"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open4.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "ada4b6d2ae5bf3cf7421e7ed13e804ab3c75e37c5b058739f48ed9aac0be0396"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open5",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open5.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "7dfd28173882402fd2958e01d2f3eed0296aab18b26bca4e2a6529fa6cca5304"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open6",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open6.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "438a318691f41c823dc022d038fbab91476b25d8f20ea3775cb5cb5248c7ab02"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open7",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open7.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "5b62fd6161e46f96aff0ac7ca4e0af2678f5094001dea1790db820cfc02b422d"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open8",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open8.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "b425bd22c18b090bc8eae0445d2977e27cf4b842708ba731397757ef5d321eb8"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_open9",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open9.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "93180ae5df493e36b74c3cac4870926f417368188d60639913acafd81b229d50"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UISportMeeting_MidAutumnDay` (24)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Bg_Lv01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Bg_Lv01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "53273cf44177219f4585513372610b00d67b9cc28c0a05a84453c5024783f282"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_frame_shop",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_shop.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "d5252359bcdfda4a3fa9f5b7a91e38f93962b1a34a09f77f98b9cecf2b575bdc"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_frame_Topup1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_Topup1.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "2a3b50fd77cf1f354b6167bb897c03f55e111e75476823e25b2ea4425055f32a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_frame_Topup2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_Topup2.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "35a4c93497abfac04e57da58b6256e5a3b4fd89aaadd2a00315d96f0fc45f353"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_frame_Topup5",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_Topup5.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "3c075b3f8cbae9fc6f5a290fd43afd57112ba5a038e2f62b6e61136657e16a06"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_FrameTask_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_FrameTask_01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "76a3083700f5972b01dc938c553604e0dfd545f217178c0f1257da79e472d4ad"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Icon_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "69e64092e73076573d4a5b8d230222dc5c94b87cb78ffc7bc8dbc753629b1026"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Icon_02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_02.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "8440277ff77db9f54d78aad44af5b2fc9680b36771507f5946d256489824f0b6"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Icon_Dough",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Dough.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "8fbc53da25fe52b65e58d5199eb8120390c2b22c52f907f42d1eed2023f6f3b2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Icon_Lv01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "bcddd1b3f25abf500bfbfd8af297efe2ab90f47fda89c82aa310de13cc949501"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Icon_Lv02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv02.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "837b09903ea7e8585c2f0c78587533f2006e3c4173445aa7f818fd9152df516f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Icon_Lv03",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv03.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "132ac6e1b02ba7be92634df60e0d7136a1032ca853e4a87153c813d27a07b049"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Icon_Lv04",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv04.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "19d260334b6b6c96a493c24e9530c18407199ed8a897daa5d2dae99cbde43126"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Icon_Lv05",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv05.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "4e703ab6c3d07ca142741e44651f49329d8a4cb837cb3a92cd8af64655e8a37b"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_icon_shop",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_icon_shop.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "155fbe2c1b519d6959e64e6ba997dc29337a9c3724c899c072d68cc41967d552"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_ImageReward_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_ImageReward_01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "13bfdce403ade94f6bc18f536afd8c390b397aca1c69070f4ff1d3d66fb33f1c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Points_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "e28da6b0f39ab81146100e2fb53b44460db1cd5264349b4c6dde54c26875cd7a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Points_02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_02.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "9d74343ea6c7df8fa544be42c1c941341861001251db024ea0376f5ffd7e3314"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Points_03",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_03.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "a4a7674e70765b40bc4eeddb7913e99259fabf73c7c7484b0a959aaec1b09bf5"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Reward_03",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Reward_03.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "7f0135eaf34cbd9f84b0b0c4be4aae7eb364ae7a96aa3ea046b6ba675904076e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "MidAutumnFestival_Slider_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Slider_01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "dec7c3873f0600471b44201dc3c6e36b5f75c40608687b40dfcdc66ab7960f15"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "SportMeeting_rewardbg_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_01.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "34efa4815fbcaeb969d63cae777856b5dc3af06f1a146478c8655033ef5f916a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "SportMeeting_rewardbg_02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_02.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "9a1f3f9e8181503a92ebf7b1a447a6b0a69d2492441543b792f5b796d1c35d42"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "SportMeeting_rewardbg_03",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_03.png",
+           "version": "rv445",
+           "published": false,
+           "sha256": "9d65bf5fe7153e27c8d62a36d19d5d2286ab02fdd65e5e65106e3f7a40d8e59a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/_static_uipanel/uispringfestival` (9)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "midautumnfestival_icon_giftbox1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox1.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "084e45379623d2554bf9cf8b6e75c98239d9b2daa865faa621b2f856397d4b2c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "midautumnfestival_icon_giftbox2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox2.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "c2fae4e6de282704dbc6191d2cc99f526d34473910b3e10355f7c6b87086bd84"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "midautumnfestival_icon_giftbox3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox3.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "f3e04bda6cb330436c3b7fb9b1b6c4b2c79c92aefb08c4e02402b63814333ee4"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "midautumnfestival_icon_giftbox4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox4.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "cde0adb643f948e1bf7df0eb512c073044cb3ae90da30b488757c1cac7ea9def"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "5 removed entries: ",
+           "kind": "text"
+          },
+          {
+           "text": "rock_and_roll_giftpack1_02, rock_and_roll_giftpack1_03, rock_and_roll_giftpack1_04, rock_and_roll_giftpack1_05, rock_and_roll_giftpack1_06",
+           "kind": "code"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uibuildingbigicon` (3)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "baseskin_0029",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uibuildingbigicon/Baseskin_0029.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "210ca4ccecb9899fdfc857cfc53c1f1e19292c5444c8d16d5a761b0c55425937"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "troop_base_029",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uibuildingbigicon/troop_base_029.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "ad0d9484fb469256e3482ddc8a9b019730dc86e3a635ad38cbb156df556f1829"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "troopskin_0013",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uibuildingbigicon/Troopskin_0013.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "520ab6b7214af4aecadd3f86924a501bb161fb8859d9b1740ac13e65258c4c98"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uibuildingicon` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "baseskin_0029_s",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uibuildingicon/Baseskin_0029_S.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "857993bf1cd4c6b3b89e8baa92fedb4becf59dd6078ec711b69305da0e3c9b80"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiislandhome` (4)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "p0062_island",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0062_island.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "638b1cc1c80b6ab37ada453ef3a053aaa30187a87cd965e711e949aeed8a09c4"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0062_island_s",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0062_island_s.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "b542babe91f11af07e7e3a34c7c6084abdd4ebaf0ba06db5b1f93fdd2eb51b4e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0063_island",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0063_island.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "dee2e9c8214c3dfe96f52e19829f9d6356f0d2e18eda6b5da26dae352a7d5a16"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0063_island_s",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0063_island_s.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "73c5df87ec063ed4db1fb6d90a44cc4f32e74f48deaf7212c52e7d56f429c01f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiitem` (6)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "item_icon_baseskin29",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/item_icon_baseskin29.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "7fc472a0218852b8aedfabad6e102774831fa090cca900712998f5b64c823fa5"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "item_icon_troopskin13",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/item_icon_troopskin13.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "5ccf9de52f0cb1d5e2ccad85ba1cd99636ec6996352f6e985d3c58764dd7d654"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "midautumnfestival_icon_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/MidAutumnFestival_Icon_01.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "b3d8fbfcf97eb375219356e3e157330534155baf42dda86d08866ffdf1915a40"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "midautumnfestival_icon_dough",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/MidAutumnFestival_Icon_Dough.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "237d281d7dd6c7f101d502b709432ff64aa7e2ba652e7a77bf5c922941513fdd"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "midautumnfestival_icon_shop",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/MidAutumnFestival_icon_shop.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "f26df8339a462a8c2125d2e3c479a501d10d746aec08baff32b656eee3547d0b"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "midautumnfestival_points_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/MidAutumnFestival_Points_01.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "ef0f755fa80c4f13b4dab4d52095192b96eb351aedb402692f98dc399ee871a9"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiplayerheadframe` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "pframe_028",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiplayerheadframe/PFrame_028.png",
+           "version": "rv445",
+           "published": true,
+           "sha256": "333e68b98e70295615b5be506a4d1322612680e262188514f1a391ab337bc980"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "12 of 90 new assets have no image: 12 registered but with no art exported at their path (config ahead of art, a normal state in this game's data). 30 non-renderable file(s) (Unity sprite metadata sidecars) were excluded from this list. 35 added file(s) outside works/resources/ with no resource path were excluded from this list.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "models/prefabs/gfx_0017_soldier_idlea",
+   "path": "models/prefabs/gfx_0017_soldier_idlea",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_0017_soldier_idlea.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_0017_soldier_lod3_lw_hit",
+   "path": "models/prefabs/gfx_0017_soldier_lod3_lw_hit",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_0017_soldier_lod3_lw_hit.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_0017_soldier_lod3_lw_run",
+   "path": "models/prefabs/gfx_0017_soldier_lod3_lw_run",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_0017_soldier_lod3_lw_run.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_0017_soldier_lod3_lw_zd",
+   "path": "models/prefabs/gfx_0017_soldier_lod3_lw_zd",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_0017_soldier_lod3_lw_zd.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_0030_building_idlea",
+   "path": "models/prefabs/gfx_0030_building_idlea",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_0030_building_idlea.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_ui_common_receive_box_01",
+   "path": "models/prefabs/gfx_ui_common_receive_box_01",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_ui_common_receive_box_01.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0017_soldier_lod3_lw_baker",
+   "path": "models/prefabs/p0017_soldier_lod3_lw_baker",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0017_soldier_lod3_lw_baker.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0017_soldier_lw_baker",
+   "path": "models/prefabs/p0017_soldier_lw_baker",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0017_soldier_lw_baker.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0030_building_baker",
+   "path": "models/prefabs/p0030_building_baker",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0030_building_baker.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0030_building_hm_baker",
+   "path": "models/prefabs/p0030_building_hm_baker",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0030_building_hm_baker.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0062_island",
+   "path": "models/prefabs/p0062_island",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0062_island.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0063_island",
+   "path": "models/prefabs/p0063_island",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0063_island.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_frame_01",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_frame_01-cab0c7fb.png",
+   "sizeBytes": 736
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_frame_gift",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_gift.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_frame_gift-84f229bb.png",
+   "sizeBytes": 5781
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_frame_plaid",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_Plaid.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_frame_plaid-44665874.png",
+   "sizeBytes": 6151
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_framebg_selected",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_framebg_selected.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_framebg_selected-73edd969.png",
+   "sizeBytes": 6626
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_box1",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_box1-8de08dda.png",
+   "sizeBytes": 26131
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_box2",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_box2-3ab18687.png",
+   "sizeBytes": 27347
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_box3",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box3.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_box3-14757b22.png",
+   "sizeBytes": 27048
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_box4",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box4.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_box4-a2523b2d.png",
+   "sizeBytes": 26259
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_notopened1",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_notopened1-f34d14b3.png",
+   "sizeBytes": 14822
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_notopened2",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_notopened2-46aef63c.png",
+   "sizeBytes": 13246
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_notopened3",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened3.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_notopened3-304a13fe.png",
+   "sizeBytes": 16702
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_notopened4",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened4.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_notopened4-a45b5aac.png",
+   "sizeBytes": 19342
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_notopened5",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened5.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_notopened5-9f0d00e9.png",
+   "sizeBytes": 11880
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_notopened6",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened6.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_notopened6-1afbea27.png",
+   "sizeBytes": 17323
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_notopened7",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened7.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_notopened7-58a27396.png",
+   "sizeBytes": 17315
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open1",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open1-25976f57.png",
+   "sizeBytes": 48418
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open10",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open10.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open10-6f942dda.png",
+   "sizeBytes": 45796
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open11",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open11.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open11-ba12b09e.png",
+   "sizeBytes": 53661
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open12",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open12.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open12-3e8fba72.png",
+   "sizeBytes": 47447
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open13",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open13.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open13-4e201ddd.png",
+   "sizeBytes": 58822
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open14",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open14.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open14-1196352c.png",
+   "sizeBytes": 60032
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open15",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open15.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open15-60bbfa24.png",
+   "sizeBytes": 69003
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open16",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open16.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open16-6598c8de.png",
+   "sizeBytes": 47858
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open17",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open17.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open17-9a2d06a9.png",
+   "sizeBytes": 64102
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open18",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open18.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open18-090ddb9f.png",
+   "sizeBytes": 56479
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open19",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open19.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open19-8cedabca.png",
+   "sizeBytes": 62974
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open2",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open2-21baa994.png",
+   "sizeBytes": 50003
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open20",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open20.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open20-cefd3c63.png",
+   "sizeBytes": 74573
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open3",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open3.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open3-0e6cb5d4.png",
+   "sizeBytes": 63098
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open4",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open4.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open4-fb44ebbb.png",
+   "sizeBytes": 42876
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open5",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open5.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open5-05d956d2.png",
+   "sizeBytes": 51588
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open6",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open6.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open6-cb17ee0b.png",
+   "sizeBytes": 49687
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open7",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open7.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open7-fefb26f4.png",
+   "sizeBytes": 37699
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open8",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open8.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open8-093bb075.png",
+   "sizeBytes": 32025
+  },
+  {
+   "canonical": "sprites/a_uiprotectingcoral_midautumnday/midautumnfestival_icon_open9",
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open9.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_open9-c400401e.png",
+   "sizeBytes": 51738
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_bg_lv01",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Bg_Lv01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_bg_lv01-0ecd784f.png",
+   "sizeBytes": 10339
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_frame_shop",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_shop.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_frame_shop-8ae1cfa2.png",
+   "sizeBytes": 9855
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_frame_topup1",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_Topup1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_frame_topup1-52167c79.png",
+   "sizeBytes": 17630
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_frame_topup2",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_Topup2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_frame_topup2-6178bf09.png",
+   "sizeBytes": 2516
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_frame_topup5",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_Topup5.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_frame_topup5-fd63c679.png",
+   "sizeBytes": 16894
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_frametask_01",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_FrameTask_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_frametask_01-7968db24.png",
+   "sizeBytes": 48663
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_01",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_01-0906d78b.png",
+   "sizeBytes": 77683
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_02",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_02-74304594.png",
+   "sizeBytes": 6357
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_dough",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Dough.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_dough-84282908.png",
+   "sizeBytes": 27145
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_lv01",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_lv01-6aeae05e.png",
+   "sizeBytes": 16087
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_lv02",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_lv02-c21005d9.png",
+   "sizeBytes": 22749
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_lv03",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv03.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_lv03-32863059.png",
+   "sizeBytes": 32697
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_lv04",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv04.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_lv04-bf0bbd6c.png",
+   "sizeBytes": 40653
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_lv05",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv05.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_lv05-e8d34bbe.png",
+   "sizeBytes": 51779
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_icon_shop",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_icon_shop.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_shop-556d20e5.png",
+   "sizeBytes": 38708
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_imagereward_01",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_ImageReward_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_imagereward_01-cf098604.png",
+   "sizeBytes": 45480
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_points_01",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_points_01-5bc609ea.png",
+   "sizeBytes": 14399
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_points_02",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_points_02-20375b8b.png",
+   "sizeBytes": 8886
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_points_03",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_03.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_points_03-9ef31d3d.png",
+   "sizeBytes": 11793
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_reward_03",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Reward_03.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_reward_03-af1e96a7.png",
+   "sizeBytes": 12870
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/midautumnfestival_slider_01",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Slider_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_slider_01-7dc34dc4.png",
+   "sizeBytes": 1278
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/sportmeeting_rewardbg_01",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-sportmeeting_rewardbg_01-25596f6a.png",
+   "sizeBytes": 62183
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/sportmeeting_rewardbg_02",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-sportmeeting_rewardbg_02-ecd188af.png",
+   "sizeBytes": 63401
+  },
+  {
+   "canonical": "sprites/a_uisportmeeting_midautumnday/sportmeeting_rewardbg_03",
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_03.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-sportmeeting_rewardbg_03-f39a2502.png",
+   "sizeBytes": 74672
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uispringfestival/midautumnfestival_icon_giftbox1",
+   "path": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox1.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_giftbox1-44897ea1.png",
+   "sizeBytes": 166844
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uispringfestival/midautumnfestival_icon_giftbox2",
+   "path": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox2.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_giftbox2-a262bad6.png",
+   "sizeBytes": 190884
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uispringfestival/midautumnfestival_icon_giftbox3",
+   "path": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_giftbox3-8fd51a1b.png",
+   "sizeBytes": 195186
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uispringfestival/midautumnfestival_icon_giftbox4",
+   "path": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_giftbox4-3c6c573d.png",
+   "sizeBytes": 209534
+  },
+  {
+   "canonical": "uiv3/texture/uibuildingbigicon/baseskin_0029",
+   "path": "uiv3/texture/uibuildingbigicon/Baseskin_0029.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-baseskin_0029-2265c440.png",
+   "sizeBytes": 465985
+  },
+  {
+   "canonical": "uiv3/texture/uibuildingbigicon/troop_base_029",
+   "path": "uiv3/texture/uibuildingbigicon/troop_base_029.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-troop_base_029-90122e6c.png",
+   "sizeBytes": 64068
+  },
+  {
+   "canonical": "uiv3/texture/uibuildingbigicon/troopskin_0013",
+   "path": "uiv3/texture/uibuildingbigicon/Troopskin_0013.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-troopskin_0013-41202a26.png",
+   "sizeBytes": 242626
+  },
+  {
+   "canonical": "uiv3/texture/uibuildingicon/baseskin_0029_s",
+   "path": "uiv3/texture/uibuildingicon/Baseskin_0029_S.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-baseskin_0029_s-294df58d.png",
+   "sizeBytes": 56618
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0062_island",
+   "path": "uiv3/texture/uiislandhome/p0062_island.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0062_island-7d80e81f.png",
+   "sizeBytes": 702879
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0062_island_s",
+   "path": "uiv3/texture/uiislandhome/p0062_island_s.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0062_island_s-908cd11f.png",
+   "sizeBytes": 80119
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0063_island",
+   "path": "uiv3/texture/uiislandhome/p0063_island.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0063_island-91ae7d51.png",
+   "sizeBytes": 603651
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0063_island_s",
+   "path": "uiv3/texture/uiislandhome/p0063_island_s.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0063_island_s-f7435e51.png",
+   "sizeBytes": 72005
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/item_icon_baseskin29",
+   "path": "uiv3/texture/uiitem/item_icon_baseskin29.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-item_icon_baseskin29-a7015b2d.png",
+   "sizeBytes": 43437
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/item_icon_troopskin13",
+   "path": "uiv3/texture/uiitem/item_icon_troopskin13.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-item_icon_troopskin13-2e1aca92.png",
+   "sizeBytes": 27574
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/midautumnfestival_icon_01",
+   "path": "uiv3/texture/uiitem/MidAutumnFestival_Icon_01.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_01-27ea7126.png",
+   "sizeBytes": 81074
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/midautumnfestival_icon_dough",
+   "path": "uiv3/texture/uiitem/MidAutumnFestival_Icon_Dough.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_dough-51984ce7.png",
+   "sizeBytes": 28196
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/midautumnfestival_icon_shop",
+   "path": "uiv3/texture/uiitem/MidAutumnFestival_icon_shop.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_icon_shop-f0f94b59.png",
+   "sizeBytes": 39178
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/midautumnfestival_points_01",
+   "path": "uiv3/texture/uiitem/MidAutumnFestival_Points_01.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-midautumnfestival_points_01-62c8d816.png",
+   "sizeBytes": 14935
+  },
+  {
+   "canonical": "uiv3/texture/uiplayerheadframe/pframe_028",
+   "path": "uiv3/texture/uiplayerheadframe/PFrame_028.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-pframe_028-b5593439.png",
+   "sizeBytes": 121141
+  }
+ ]
+}

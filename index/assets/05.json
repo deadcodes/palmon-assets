@@ -6769,6 +6769,38 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open16.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "ba940edbaa6c0dbf9fef74408094480eb26e7ebdaa52588684e5ee1de8d54b8e",
+     "bytes": 47858,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open3.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "ee9e2fca39e202eb0257dd7aaec544568f377bbd4057eb85f49aa85dae19c8c3",
+     "bytes": 63098,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/pyramid_war_btn_04.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -9509,6 +9541,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox4.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "cde0adb643f948e1bf7df0eb512c073044cb3ae90da30b488757c1cac7ea9def",
+     "bytes": 209534,
+     "width": 496,
+     "height": 336
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uispringfestival/WorldCup_icon_03.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -11642,6 +11689,21 @@
      "bytes": 568903,
      "width": 1024,
      "height": 1024
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiislandhome/p0062_island_s.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "b542babe91f11af07e7e3a34c7c6084abdd4ebaf0ba06db5b1f93fdd2eb51b4e",
+     "bytes": 80119,
+     "width": 256,
+     "height": 256
     }
    ]
   },

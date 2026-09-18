@@ -6935,6 +6935,54 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box2.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "b28ebdf509d4e9020e24156c06f2b63cb560b3528f5dbc576a5a958963936811",
+     "bytes": 27347,
+     "width": 131,
+     "height": 136
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open1.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "5ae9f1e44ef0a88a08da6026cd25998fdb0849873c6556d47b106cd0885a5f8c",
+     "bytes": 48418,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open14.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "8fae4b100ea2cf5c1560907fae73f8c5c688382c36d9e906a5ecffa9cf772cfc",
+     "bytes": 60032,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/pyramid_war_btn_collective_01.png",
    "kind": "sprite",
    "firstSeen": "rv417",

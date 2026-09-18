@@ -6922,6 +6922,22 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened5.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "4c4c3eba1cc1f8d5062e745c4b90070b5228f08488a8c51ae071deede7abc4d1",
+     "bytes": 11880,
+     "width": 189,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/pyramid_war_btn_seasondata_02.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -7506,6 +7522,54 @@
     }
    ],
    "atlas": "A_UISportMeeting_FIFA"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv02.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "837b09903ea7e8585c2f0c78587533f2006e3c4173445aa7f818fd9152df516f",
+     "bytes": 22749,
+     "width": 153,
+     "height": 132
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_02.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "9d74343ea6c7df8fa544be42c1c941341861001251db024ea0376f5ffd7e3314",
+     "bytes": 8886,
+     "width": 83,
+     "height": 64
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_shop.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "d5252359bcdfda4a3fa9f5b7a91e38f93962b1a34a09f77f98b9cecf2b575bdc",
+     "bytes": 9855,
+     "width": 290,
+     "height": 397
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_icon_boxlotterybtn.png",
@@ -9366,6 +9430,10 @@
      "bytes": 175155,
      "width": 462,
      "height": 462
+    },
+    {
+     "version": "rv445",
+     "status": "removed"
     }
    ]
   },

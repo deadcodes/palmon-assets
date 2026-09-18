@@ -6854,6 +6854,54 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box1.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "830f4f375b6489415d61afa5fedd76f4613014b1644e0df27ef4efe6da22ffa0",
+     "bytes": 26131,
+     "width": 136,
+     "height": 133
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open17.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "0157f0d7b1c368a8cc429ec8c4d18626144ae26342d9c853b20a79ca42b3a80a",
+     "bytes": 64102,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open2.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "241376f4fb4d86fcd96ae89f76c07cbb2aabc6231261f6a103df30fe94e8eb17",
+     "bytes": 50003,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/pyramid_war_btn_05.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -10203,6 +10251,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uibuildingicon/Baseskin_0029_S.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "857993bf1cd4c6b3b89e8baa92fedb4becf59dd6078ec711b69305da0e3c9b80",
+     "bytes": 56618,
+     "width": 256,
+     "height": 256
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uibuildingicon/BuildIcon_0170_S.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -11579,6 +11642,21 @@
      "bytes": 66321,
      "width": 256,
      "height": 256
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiislandhome/p0063_island.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "dee2e9c8214c3dfe96f52e19829f9d6356f0d2e18eda6b5da26dae352a7d5a16",
+     "bytes": 603651,
+     "width": 1024,
+     "height": 1024
     }
    ]
   },

@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv444",
+ "generatedFor": "rv445",
  "kinds": {
   "armigo": {
    "10001": {
@@ -1108,13 +1108,13 @@
     "icon": "uiv3/texture/uiitem/item_icon_evolveBox4.png"
    },
    "996": {
-    "icon": "uiv3/texture/uiitem/rock_and_roll_box.png"
+    "icon": "uiv3/texture/uiitem/MidAutumnFestival_Icon_01.png"
    },
    "997": {
-    "icon": "uiv3/texture/uiitem/ValentinesDay_icon_Points.png"
+    "icon": "uiv3/texture/uiitem/MidAutumnFestival_icon_shop.png"
    },
    "998": {
-    "icon": "uiv3/texture/uiitem/ValentinesDay_2.png"
+    "icon": "uiv3/texture/uiitem/MidAutumnFestival_Icon_Dough.png"
    },
    "1001": {
     "icon": "uiv3/texture/uiitem/item_icon_HeartCoin.png"
@@ -1360,8 +1360,29 @@
    "10501": {
     "icon": "uiv3/texture/uiitem/item_icon_bossBox.png"
    },
+   "10701": {
+    "icon": "uiv3/texture/uiitem/item_icon_speed7_storm.png"
+   },
+   "10702": {
+    "icon": "uiv3/texture/uiitem/item_icon_speed7_storm.png"
+   },
+   "10703": {
+    "icon": "uiv3/texture/uiitem/item_icon_speed4_storm.png"
+   },
+   "10704": {
+    "icon": "uiv3/texture/uiitem/item_icon_speed4_storm.png"
+   },
+   "10705": {
+    "icon": "uiv3/texture/uiitem/item_icon_speed4_storm.png"
+   },
+   "10706": {
+    "icon": "uiv3/texture/uiitem/item_icon_speed4_storm.png"
+   },
    "10707": {
     "icon": "uiv3/texture/uiitem/item_icon_Dreambox1.png"
+   },
+   "11601": {
+    "icon": "uiv3/texture/uiitem/Gacha_icon_progress.png"
    },
    "20901": {
     "icon": "uiv3/texture/uiitem/TreatingPlague_pic_herb1.png"
@@ -1563,6 +1584,9 @@
    },
    "100046": {
     "icon": "uiv3/texture/uiitem/Showdown_icon1_bp.png"
+   },
+   "100047": {
+    "icon": "uiv3/texture/uiitem/MidAutumnFestival_Points_01.png"
    },
    "103201": {
     "icon": "uiv3/texture/uiitem/Palmon_chip_3201.png"
@@ -2633,6 +2657,12 @@
     "icon": "uiv3/texture/uiitem/item_icon_vip.png"
    },
    "900279": {
+    "icon": "uiv3/texture/uiitem/item_icon_vip.png"
+   },
+   "900280": {
+    "icon": "uiv3/texture/uiitem/item_icon_vip.png"
+   },
+   "900281": {
     "icon": "uiv3/texture/uiitem/item_icon_vip.png"
    },
    "900301": {
@@ -39695,7 +39725,7 @@
  "counts": {
   "armigo": 26,
   "buff": 0,
-  "item": 972,
+  "item": 982,
   "mount": 7,
   "palmon": 69,
   "skill": 10761

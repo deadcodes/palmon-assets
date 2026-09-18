@@ -5966,6 +5966,38 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened7.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "f9808009a2897d368d4e1aa2ce1e7dc78cdac0f30948f3b313ad35fc8e89aa9c",
+     "bytes": 17315,
+     "width": 189,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open18.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "8cf63964f5f0f9e9eeb3a304e271d8343e724ab2b33a175ce9df93a5249b4c09",
+     "bytes": 56479,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/battle_icon_Takedamage.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -6376,6 +6408,22 @@
     }
    ],
    "atlas": "A_UISpecialPack"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_02.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "8440277ff77db9f54d78aad44af5b2fc9680b36771507f5946d256489824f0b6",
+     "bytes": 6357,
+     "width": 110,
+     "height": 110
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_iconbeast_01.png",
@@ -7641,6 +7689,21 @@
      "bytes": 487061,
      "width": 982,
      "height": 982
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivityhalloween/Halloween_reward_01.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "e4b7a192e19b756c560a751f85cf2b1976a11df51109b8a0e3a06c6c1dd18296",
+     "bytes": 71522,
+     "width": 1080,
+     "height": 1520
     }
    ]
   },
@@ -11117,6 +11180,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uiitem/MidAutumnFestival_icon_shop.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "f26df8339a462a8c2125d2e3c479a501d10d746aec08baff32b656eee3547d0b",
+     "bytes": 39178,
+     "width": 160,
+     "height": 160
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uiitem/Palmon_chip_3201.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -12073,6 +12151,21 @@
      "bytes": 65195,
      "width": 256,
      "height": 256
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiplayerheadframe/PFrame_028.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "333e68b98e70295615b5be506a4d1322612680e262188514f1a391ab337bc980",
+     "bytes": 121141,
+     "width": 320,
+     "height": 320
     }
    ]
   },

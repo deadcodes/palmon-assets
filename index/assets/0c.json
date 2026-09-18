@@ -7164,6 +7164,54 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_box3.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "15c67a7b50e0f269981ac2db92cc1996df5cba9323179781f5f94a6b844765fe",
+     "bytes": 27048,
+     "width": 136,
+     "height": 130
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open15.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "5eddc426950a2d9ca2b4f6e142150079d8b33d51aca182335cebad6b020cc0e4",
+     "bytes": 69003,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open20.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "7dd380cddcc7a112b17c01dce069b50b7a87a307d43d755f141b211f52524ef7",
+     "bytes": 74573,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/Activity_CampSupplyStation_pic_BOX1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -7716,6 +7764,22 @@
     }
    ],
    "atlas": "A_UISportMeeting_FIFA"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_Topup5.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "3c075b3f8cbae9fc6f5a290fd43afd57112ba5a038e2f62b6e61136657e16a06",
+     "bytes": 16894,
+     "width": 372,
+     "height": 128
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_framegift_03.png",
@@ -10412,6 +10476,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uibuildingbigicon/Troopskin_0013.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "520ab6b7214af4aecadd3f86924a501bb161fb8859d9b1740ac13e65258c4c98",
+     "bytes": 242626,
+     "width": 1024,
+     "height": 1024
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uibuildingbigicon/s01_0032_outside.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -11983,6 +12062,21 @@
      "bytes": 15482,
      "width": 150,
      "height": 150
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiitem/MidAutumnFestival_Icon_01.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "b3d8fbfcf97eb375219356e3e157330534155baf42dda86d08866ffdf1915a40",
+     "bytes": 81074,
+     "width": 256,
+     "height": 256
     }
    ]
   },

@@ -6633,6 +6633,38 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened3.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "5b45de246200a2b98dba103c2590a79a48b51d2098261ea19dcfac644aeca20a",
+     "bytes": 16702,
+     "width": 189,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open9.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "93180ae5df493e36b74c3cac4870926f417368188d60639913acafd81b229d50",
+     "bytes": 51738,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/Camp_pic_Selected1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -7114,6 +7146,38 @@
     }
    ],
    "atlas": "A_UISportMeeting_FIFA"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv04.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "19d260334b6b6c96a493c24e9530c18407199ed8a897daa5d2dae99cbde43126",
+     "bytes": 40653,
+     "width": 173,
+     "height": 171
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_ImageReward_01.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "13bfdce403ade94f6bc18f536afd8c390b397aca1c69070f4ff1d3d66fb33f1c",
+     "bytes": 45480,
+     "width": 262,
+     "height": 362
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_image_lion02.png",
@@ -9096,6 +9160,10 @@
      "bytes": 168454,
      "width": 462,
      "height": 462
+    },
+    {
+     "version": "rv445",
+     "status": "removed"
     }
    ]
   },
@@ -11282,6 +11350,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/uiislandhome/p0062_island.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "638b1cc1c80b6ab37ada453ef3a053aaa30187a87cd965e711e949aeed8a09c4",
+     "bytes": 702879,
+     "width": 1024,
+     "height": 1024
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/uiitem/Gemstone_Skills_Icon_Blue_04.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -11613,6 +11696,21 @@
      "version": "rv417",
      "sha256": "28e24a80cb71b257e0a70ad285cb3bfcf3bb9d4ac14104d646701f1a341523ba",
      "bytes": 37943,
+     "width": 160,
+     "height": 160
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiitem/item_icon_baseskin29.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "7fc472a0218852b8aedfabad6e102774831fa090cca900712998f5b64c823fa5",
+     "bytes": 43437,
      "width": 160,
      "height": 160
     }

@@ -7154,6 +7154,38 @@
    "atlas": "A_UIPlayerCareer"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_gift.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "6adcf3c64604b485f765f712c897c62e83009818949ad4f441e0c1cb266bdf51",
+     "bytes": 5781,
+     "width": 190,
+     "height": 129
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened4.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "82a627e2ea543a510f29fa0c5b925b0ed19e399b626677f71e7866c68ea9dd68",
+     "bytes": 19342,
+     "width": 189,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/pyramid_war_icon_pyramid_01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -7729,6 +7761,54 @@
     }
    ],
    "atlas": "A_UISnowstorm"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_01.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "69e64092e73076573d4a5b8d230222dc5c94b87cb78ffc7bc8dbc753629b1026",
+     "bytes": 77683,
+     "width": 239,
+     "height": 210
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv03.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "132ac6e1b02ba7be92634df60e0d7136a1032ca853e4a87153c813d27a07b049",
+     "bytes": 32697,
+     "width": 165,
+     "height": 147
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Points_03.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "a4a7674e70765b40bc4eeddb7913e99259fabf73c7c7484b0a959aaec1b09bf5",
+     "bytes": 11793,
+     "width": 107,
+     "height": 71
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_image_title05.png",
@@ -10037,6 +10117,10 @@
      "bytes": 166429,
      "width": 462,
      "height": 462
+    },
+    {
+     "version": "rv445",
+     "status": "removed"
     }
    ]
   },
@@ -12369,6 +12453,21 @@
      "bytes": 9785,
      "width": 150,
      "height": 150
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiitem/MidAutumnFestival_Points_01.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "ef0f755fa80c4f13b4dab4d52095192b96eb351aedb402692f98dc399ee871a9",
+     "bytes": 14935,
+     "width": 140,
+     "height": 140
     }
    ]
   },

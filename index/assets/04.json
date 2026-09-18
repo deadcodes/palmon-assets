@@ -6283,6 +6283,38 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_Notopened2.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "6565ffa865fa253f8f7e270d318d459a6c27cd9267d1d4a6f942e4caef3ec0ee",
+     "bytes": 13246,
+     "width": 189,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open8.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "b425bd22c18b090bc8eae0445d2977e27cf4b842708ba731397757ef5d321eb8",
+     "bytes": 32025,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIRampageSheep/rampage_sheep_btn_participate01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -6860,6 +6892,38 @@
     }
    ],
    "atlas": "A_UISportMeeting_FIFA"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_Icon_Lv05.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "4e703ab6c3d07ca142741e44651f49329d8a4cb837cb3a92cd8af64655e8a37b",
+     "bytes": 51779,
+     "width": 207,
+     "height": 194
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/SportMeeting_rewardbg_01.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "34efa4815fbcaeb969d63cae777856b5dc3af06f1a146478c8655033ef5f916a",
+     "bytes": 62183,
+     "width": 890,
+     "height": 218
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_frame_01.png",
@@ -8884,6 +8948,10 @@
      "bytes": 148104,
      "width": 462,
      "height": 462
+    },
+    {
+     "version": "rv445",
+     "status": "removed"
     }
    ]
   },
@@ -9467,6 +9535,21 @@
      "version": "rv417",
      "sha256": "eef5cd7f6e8ae216627774ac4137a22d211ff95f0a33078c97e431ee3b526fd8",
      "bytes": 520937,
+     "width": 1024,
+     "height": 1024
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uibuildingbigicon/Baseskin_0029.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "210ca4ccecb9899fdfc857cfc53c1f1e19292c5444c8d16d5a761b0c55425937",
+     "bytes": 465985,
      "width": 1024,
      "height": 1024
     }

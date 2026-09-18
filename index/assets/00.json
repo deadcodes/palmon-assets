@@ -5901,6 +5901,38 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open11.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "ef65035a07af58ada1d1a7865458ec2111805434b2193692bfccc6a6c421cdc2",
+     "bytes": 53661,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open4.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "ada4b6d2ae5bf3cf7421e7ed13e804ab3c75e37c5b058739f48ed9aac0be0396",
+     "bytes": 42876,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/battle_icon_output.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -6675,6 +6707,22 @@
     }
    ],
    "atlas": "A_UISportMeeting_FIFA"
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay/MidAutumnFestival_frame_Topup1.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "2a3b50fd77cf1f354b6167bb897c03f55e111e75476823e25b2ea4425055f32a",
+     "bytes": 17630,
+     "width": 317,
+     "height": 115
+    }
+   ],
+   "atlas": "A_UISportMeeting_MidAutumnDay"
   },
   {
    "path": "sprites/A_UISpringFestival/SpringFestival_icongift_03.png",
@@ -8676,6 +8724,21 @@
    ]
   },
   {
+   "path": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox3.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "f3e04bda6cb330436c3b7fb9b1b6c4b2c79c92aefb08c4e02402b63814333ee4",
+     "bytes": 195186,
+     "width": 496,
+     "height": 336
+    }
+   ]
+  },
+  {
    "path": "uiv3/texture/_static_uipanel/uispringfestival/UISportMeeting_Pet_ic_2.png",
    "kind": "texture",
    "firstSeen": "rv417",
@@ -9420,6 +9483,21 @@
      "version": "rv417",
      "sha256": "8e773812ac484ab960928c39bdd96ecd0f9f1a6e5faab72f7b19c159f859753d",
      "bytes": 79298,
+     "width": 218,
+     "height": 230
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uibuildingbigicon/troop_base_029.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "ad0d9484fb469256e3482ddc8a9b019730dc86e3a635ad38cbb156df556f1829",
+     "bytes": 64068,
      "width": 218,
      "height": 230
     }
@@ -10892,6 +10970,21 @@
      "bytes": 513683,
      "width": 1024,
      "height": 1024
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/uiislandhome/p0063_island_s.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "73c5df87ec063ed4db1fb6d90a44cc4f32e74f48deaf7212c52e7d56f429c01f",
+     "bytes": 72005,
+     "width": 256,
+     "height": 256
     }
    ]
   },

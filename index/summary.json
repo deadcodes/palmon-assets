@@ -1,107 +1,107 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv444",
+ "generatedFor": "rv445",
  "totals": {
-  "textures": 5531,
-  "sprites": 7328,
+  "textures": 5548,
+  "sprites": 7387,
   "builder": 0
  },
  "shards": [
   {
    "id": "00",
    "file": "index/assets/00.json",
-   "count": 765,
-   "bytes": 294451
+   "count": 771,
+   "bytes": 296753
   },
   {
    "id": "01",
    "file": "index/assets/01.json",
-   "count": 781,
-   "bytes": 305276
+   "count": 785,
+   "bytes": 306980
   },
   {
    "id": "02",
    "file": "index/assets/02.json",
-   "count": 813,
-   "bytes": 314036
+   "count": 818,
+   "bytes": 315963
   },
   {
    "id": "03",
    "file": "index/assets/03.json",
-   "count": 808,
-   "bytes": 311016
+   "count": 813,
+   "bytes": 313003
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
-   "count": 793,
-   "bytes": 303481
+   "count": 798,
+   "bytes": 305538
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
-   "count": 818,
-   "bytes": 315479
+   "count": 822,
+   "bytes": 317026
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
-   "count": 838,
-   "bytes": 319962
+   "count": 845,
+   "bytes": 322798
   },
   {
    "id": "07",
    "file": "index/assets/07.json",
-   "count": 801,
-   "bytes": 306269
+   "count": 807,
+   "bytes": 308667
   },
   {
    "id": "08",
    "file": "index/assets/08.json",
-   "count": 814,
-   "bytes": 313876
+   "count": 821,
+   "bytes": 316772
   },
   {
    "id": "09",
    "file": "index/assets/09.json",
-   "count": 779,
-   "bytes": 296222
+   "count": 785,
+   "bytes": 298600
   },
   {
    "id": "0a",
    "file": "index/assets/0a.json",
-   "count": 782,
-   "bytes": 297171
+   "count": 783,
+   "bytes": 297576
   },
   {
    "id": "0b",
    "file": "index/assets/0b.json",
-   "count": 787,
-   "bytes": 299697
+   "count": 793,
+   "bytes": 301994
   },
   {
    "id": "0c",
    "file": "index/assets/0c.json",
-   "count": 833,
-   "bytes": 323112
+   "count": 839,
+   "bytes": 325460
   },
   {
    "id": "0d",
    "file": "index/assets/0d.json",
-   "count": 779,
-   "bytes": 296036
+   "count": 783,
+   "bytes": 297681
   },
   {
    "id": "0e",
    "file": "index/assets/0e.json",
-   "count": 835,
-   "bytes": 322032
+   "count": 841,
+   "bytes": 324496
   },
   {
    "id": "0f",
    "file": "index/assets/0f.json",
-   "count": 837,
-   "bytes": 320888
+   "count": 840,
+   "bytes": 322133
   }
  ],
  "categories": [
@@ -650,6 +650,10 @@
    "count": 37
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay",
+   "count": 35
+  },
+  {
    "path": "sprites/A_UIPyramidBattle",
    "count": 37
   },
@@ -752,6 +756,10 @@
   {
    "path": "sprites/A_UISportMeeting_FIFA",
    "count": 31
+  },
+  {
+   "path": "sprites/A_UISportMeeting_MidAutumnDay",
+   "count": 24
   },
   {
    "path": "sprites/A_UISpringFestival",
@@ -868,6 +876,10 @@
   {
    "path": "uiv3/texture/_static_uipanel/uiactivity_newyear",
    "count": 7
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiactivityhalloween",
+   "count": 1
   },
   {
    "path": "uiv3/texture/_static_uipanel/uiactivitymeteorshower",
@@ -1103,11 +1115,15 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uisportmeeting_fifa",
+   "count": 2
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uisportmeeting_midautumnday",
    "count": 1
   },
   {
    "path": "uiv3/texture/_static_uipanel/uispringfestival",
-   "count": 49
+   "count": 48
   },
   {
    "path": "uiv3/texture/_static_uipanel/uiunion",
@@ -1223,11 +1239,11 @@
   },
   {
    "path": "uiv3/texture/uibuildingbigicon",
-   "count": 163
+   "count": 166
   },
   {
    "path": "uiv3/texture/uibuildingicon",
-   "count": 135
+   "count": 136
   },
   {
    "path": "uiv3/texture/uibuildingiconsmall",
@@ -1319,11 +1335,11 @@
   },
   {
    "path": "uiv3/texture/uiislandhome",
-   "count": 149
+   "count": 153
   },
   {
    "path": "uiv3/texture/uiitem",
-   "count": 524
+   "count": 530
   },
   {
    "path": "uiv3/texture/uimilestone",
@@ -1363,7 +1379,7 @@
   },
   {
    "path": "uiv3/texture/uiplayerheadframe",
-   "count": 27
+   "count": 28
   },
   {
    "path": "uiv3/texture/uiplayericon",
@@ -1587,6 +1603,7 @@
   "A_UIPlayer",
   "A_UIPlayerCareer",
   "A_UIPlayerEmblem",
+  "A_UIProtectingCoral_MidAutumnDay",
   "A_UIPyramidBattle",
   "A_UIRampageSheep",
   "A_UIRateLoot",
@@ -1613,6 +1630,7 @@
   "A_UISnowstorm_s02",
   "A_UISpecialPack",
   "A_UISportMeeting_FIFA",
+  "A_UISportMeeting_MidAutumnDay",
   "A_UISpringFestival",
   "A_UIStrongestPlayer",
   "A_UITask",
@@ -1662,6 +1680,7 @@
   "rv441",
   "rv442",
   "rv443",
-  "rv444"
+  "rv444",
+  "rv445"
  ]
 }

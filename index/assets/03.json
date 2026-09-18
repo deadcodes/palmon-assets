@@ -6505,6 +6505,54 @@
    "atlas": "A_UIPlayerEmblem"
   },
   {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_frame_01.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "0968c16413fbc46b60bebc3b8249d14f0476c1ac5ff1126e2022dc45d1e4b6ca",
+     "bytes": 736,
+     "width": 30,
+     "height": 27
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open10.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "a74a2be2369453662f24ebc45ebb4c56e9ee6be36608ad298193dad6a8003f95",
+     "bytes": 45796,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
+   "path": "sprites/A_UIProtectingCoral_MidAutumnDay/MidAutumnFestival_icon_open5.png",
+   "kind": "sprite",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "7dfd28173882402fd2958e01d2f3eed0296aab18b26bca4e2a6529fa6cca5304",
+     "bytes": 51588,
+     "width": 191,
+     "height": 189
+    }
+   ],
+   "atlas": "A_UIProtectingCoral_MidAutumnDay"
+  },
+  {
    "path": "sprites/A_UIPyramidBattle/Activity_CampSupplyStation_pic_BOX.png",
    "kind": "sprite",
    "firstSeen": "rv417",
@@ -9199,6 +9247,36 @@
      "bytes": 434119,
      "width": 1080,
      "height": 840
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uisportmeeting_fifa/WorldCup_bg_Light_01.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "5f4308192e7dc001c960200c6a96d0be537a7fe3bc33960f6b4869ec952e7813",
+     "bytes": 345461,
+     "width": 1080,
+     "height": 740
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uispringfestival/MidAutumnFestival_icon_giftbox2.png",
+   "kind": "texture",
+   "firstSeen": "rv445",
+   "lastSeen": "rv445",
+   "history": [
+    {
+     "version": "rv445",
+     "sha256": "c2fae4e6de282704dbc6191d2cc99f526d34473910b3e10355f7c6b87086bd84",
+     "bytes": 190884,
+     "width": 496,
+     "height": 336
     }
    ]
   },
