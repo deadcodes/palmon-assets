@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv442",
+    "new": "rv443"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:13Z",
+  "title": "Guild notice images and the Strongest Player kill preview switch on",
+  "summary": "A quiet version. Guild notice image sending now unlocks on server day 7, the Strongest Player kill preview is enabled, and one piggy bank art font is registered. Nothing else a player sees changed.",
+  "highlights": [
+    "Chat: sending an image in the guild notice now unlocks on server day 7.",
+    "Strongest Player: the kill preview is enabled.",
+    "One new asset is registered, a piggy bank break art font for the pay activity panel."
+  ],
+  "categories": [
+    {
+      "title": "General",
+      "count": 2
+    },
+    {
+      "title": "Assets",
+      "count": 1
+    }
+  ]
+}
