@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv448",
+    "new": "rv449"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:20Z",
+  "title": "Cashback entry art, plus news and target dialog fixes",
+  "summary": "Very little player-facing data changed. Two new assets register the cashback event's entry button and its daily-pack tab. Client screens refine the News Center battle bars, rework how unread server news is restored, and give the LoHa target dialog its own countdown node.",
+  "highlights": [
+    "Two new assets: a cashback tab on the daily pack panel and a cashback button among the main activity icons.",
+    "News Center battle reports now size each side's bar by that side's own surviving troops, using a new pre-battle troop total.",
+    "Unread server news is now restored from the chat channel on login instead of from local player preferences.",
+    "The LoHa target dialog uses a dedicated countdown node rather than reusing the Gold Heist layout."
+  ],
+  "categories": [
+    {
+      "title": "Assets",
+      "count": 2
+    }
+  ]
+}
