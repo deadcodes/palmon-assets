@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv443",
+    "new": "rv444"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:14Z",
+  "title": "Cross-Server Arena locks its challenge buttons until opponents load",
+  "summary": "No text, art or player-facing config changed in this version. The only changes are to client screens: the Cross-Server Arena challenge list now locks its buttons until the newest opponent list has arrived, and an opponent's displayed power is read from a different source.",
+  "highlights": [
+    "Cross-Server Arena: the challenge, detail and refresh buttons stay greyed out until the latest opponent list comes back, so a stale opponent can no longer be entered.",
+    "Cross-Server Arena: an opponent's displayed power now comes from their base info rather than their ranking record."
+  ],
+  "categories": []
+}
