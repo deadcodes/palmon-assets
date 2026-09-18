@@ -1,0 +1,5774 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv445",
+  "new": "rv446"
+ },
+ "counters": {
+  "added": 2001,
+  "removed": 0,
+  "changed": 10616,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 197,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 38,
+  "otherRowsExcluded": 103939,
+  "assetsNew": 86,
+  "assetsListed": 86,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 70,
+  "assetImageBytes": 4801799,
+  "assetsWithoutArt": 16,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 16,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 27,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 59,
+  "assetsNonRenderable": 30,
+  "assetsOutsideResourceTree": 63,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 74
+ },
+ "warnings": [
+  "New assets: 16 are registered but had no art exported.",
+  "Table `activity_award_gather` is entirely added in this diff (10 rows).",
+  "Table `activity_paid_calendar_base` is entirely added in this diff (62 rows).",
+  "Table `activity_paid_signin_base` is entirely added in this diff (2 rows).",
+  "Table `recharge_paid_calendar_gift` is entirely added in this diff (62 rows).",
+  "Table `recharge_signin_gift` is entirely added in this diff (60 rows)."
+ ],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Stat Curves",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "X Healing Speedup (Dragonfire)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"team_camp_march_item_3\" to \"X Healing Speedup (Dragonfire)\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed4_storm.png",
+         "version": "rv446",
+         "published": true,
+         "sha256": "0d090a24fbc2c664b6316a73785e6c6b77f44968c0a9ed72657504430c82c97c"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "X Healing Speedup (Dragonfire)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"team_camp_march_item_3\" to \"X Healing Speedup (Dragonfire)\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed4_storm.png",
+         "version": "rv446",
+         "published": true,
+         "sha256": "0d090a24fbc2c664b6316a73785e6c6b77f44968c0a9ed72657504430c82c97c"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "X Healing Speedup (Dragonfire)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"team_camp_march_item_3\" to \"X Healing Speedup (Dragonfire)\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed4_storm.png",
+         "version": "rv446",
+         "published": true,
+         "sha256": "0d090a24fbc2c664b6316a73785e6c6b77f44968c0a9ed72657504430c82c97c"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "X Healing Speedup (Dragonfire)",
+         "kind": "bold"
+        },
+        {
+         "text": ": Updated the name from \"team_camp_march_item_3\" to \"X Healing Speedup (Dragonfire)\".",
+         "kind": "text"
+        }
+       ],
+       "icons": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_speed4_storm.png",
+         "version": "rv446",
+         "published": true,
+         "sha256": "0d090a24fbc2c664b6316a73785e6c6b77f44968c0a9ed72657504430c82c97c"
+        }
+       ],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Equipment Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Increases damage when initiating or joining a guild rally against non-explorer targets.",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2100): New buff definition.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Description: Increases damage when initiating or joining a guild rally against non-explorer targets.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "alliance",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Set the rally point presentation parameter to [3,300].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "alliance_tech",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Reduced the unlock autorally techid from 1,001 to 0.",
+           "kind": "text"
+          },
+          {
+           "text": " ↓",
+           "kind": "down"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "battle",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the injury coe: reshaped from a map of 50 keys, each a nested map of varying key(s) to a map of 51 keys, each a nested map of varying key(s).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": {
+          "old": "{\n  \"101\": {\n    \"-1\": [\n      0,\n      4000,\n      6000\n    ],\n    \"424\": [\n      0,\n      10000,\n      0\n    ],\n    \"429\": [\n      0,\n      8500,\n      500\n    ]\n  },\n  \"106\": {\n    \"-1\": [\n      0,\n      3000,\n      7000\n    ]\n  },\n  \"150\": {\n    \"-1\": [\n      0,\n      5000,\n      3000\n    ],\n    \"227\": [\n      0,\n      10000,\n      0\n    ]\n  },\n  \"160\": {\n    \"-1\": [\n      0,\n      3000,\n      7000\n    ]\n  },\n  \"162\": {\n    \"-1\": [\n      0,\n      5000,\n      3000\n    ]\n  },\n  \"177\": {\n    \"-1\": [\n      0,\n      3000,\n      7000\n    ]\n  },\n  \"201\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"202\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"203\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"204\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"222\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"231\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"205\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"206\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"207\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"208\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"209\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"210\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"211\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"428\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"217\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"218\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"219\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"167\": {\n    \"-1\": [\n      0,\n      5000,\n      3000\n    ]\n  },\n  \"168\": {\n    \"-1\": [\n      0,\n      5000,\n      3000\n    ]\n  },\n  \"169\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"427\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"155\": {\n    \"-1\": [\n      0,\n      3000,\n      5000\n    ]\n  },\n  \"401\": {\n    \"101\": [\n      0,\n      2000,\n      6000\n    ],\n    \"106\": [\n      0,\n      2000,\n      4000\n    ],\n    \"167\": [\n      0,\n      5000,\n      3000\n    ],\n    \"168\": [\n      0,\n      5000,\n      3000\n    ],\n    \"169\": [\n      0,\n      5000,\n      3000\n    ],\n    \"401\": [\n      0,\n      6000,\n      4000\n    ],\n    \"441\": [\n      0,\n      9500,\n      500\n    ],\n    \"150\": [\n      0,\n      5000,\n      3000\n    ],\n    \"162\": [\n      0,\n      5000,\n      3000\n    ],\n    \"155\": [\n      0,\n      5000,\n      3000\n    ],\n    \"201\": [\n      0,\n      8500,\n      500\n    ],\n    \"202\": [\n      0,\n      8500,\n      500\n    ],\n    \"205\": [\n      0,\n      8500,\n      500\n    ],\n    \"206\": [\n      0,\n      8500,\n      500\n    ],\n    \"207\": [\n      0,\n      8500,\n      500\n    ],\n    \"209\": [\n      0,\n      8500,\n      500\n    ],\n    \"210\": [\n      0,\n      8500,\n      500\n    ],\n    \"427\": [\n      0,\n      10000,\n      0\n    ],\n    \"217\": [\n      0,\n      8500,\n      500\n    ],\n    \"218\": [\n      0,\n      8500,\n      500\n    ],\n    \"219\": [\n      0,\n      8500,\n      500\n    ],\n    \"423\": [\n      0,\n      8500,\n      500\n    ],\n    \"434\": [\n      0,\n      9500,\n      500\n    ],\n    \"223\": [\n      0,\n      9500,\n      500\n    ],\n    \"227\": [\n      0,\n      10000,\n      0\n    ],\n    \"182\": [\n      0,\n      2000,\n      6000\n    ],\n    \"230\": [\n      0,\n      8000,\n      1000\n    ],\n    \"-1\": [\n      0,\n      2000,\n      8000\n    ]\n  },\n  \"421\": {\n    \"150\": [\n      0,\n      5000,\n      3000\n    ],\n    \"156\": [\n      0,\n      5000,\n      3000\n    ],\n    \"162\": [\n      0,\n      5000,\n      3000\n    ],\n    \"160\": [\n      0,\n      5000,\n      3000\n    ],\n    \"101\": [\n      0,\n      2000,\n      6000\n    ],\n    \"106\": [\n      0,\n      2000,\n      6000\n    ],\n    \"203\": [\n      0,\n      8500,\n      500\n    ],\n    \"204\": [\n      0,\n      8500,\n      500\n    ],\n    \"222\": [\n      0,\n      8500,\n      500\n    ],\n    \"208\": [\n      0,\n      9500,\n      500\n    ],\n    \"211\": [\n      0,\n      8500,\n      500\n    ],\n    \"428\": [\n      0,\n      8500,\n      500\n    ],\n    \"167\": [\n      0,\n      5000,\n      3000\n    ],\n    \"168\": [\n      0,\n      5000,\n      3000\n    ],\n    \"169\": [\n      0,\n      5000,\n      3000\n    ],\n    \"427\": [\n      0,\n      10000,\n      0\n    ],\n    \"155\": [\n      0,\n      5000,\n      3000\n    ],\n    \"429\": [\n      0,\n      8500,\n      500\n    ],\n    \"435\": [\n      0,\n      8500,\n      500\n    ],\n    \"225\": [\n      0,\n      8500,\n      500\n    ],\n    \"-1\": [\n      0,\n      3000,\n      7000\n    ]\n  },\n  \"422\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"423\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"424\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"441\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"442\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"425\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"426\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"429\": {\n    \"-1\": [\n      0,\n      9500,\n      500\n    ]\n  },\n  \"434\": {\n    \"-1\": [\n      0,\n      9500,\n      500\n    ]\n  },\n  \"223\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"224\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"225\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"226\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"435\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"227\": {\n    \"-1\": [\n      0,\n      10000,\n      0\n    ]\n  },\n  \"447\": {\n    \"-1\": [\n      0,\n      7000,\n      3000\n    ]\n  },\n  \"449\": {\n    \"-1\": [\n      0,\n      2000,\n      6000\n    ]\n  },\n  \"450\": {\n    \"-1\": [\n      0,\n      2000,\n      6000\n    ]\n  },\n  \"182\": {\n    \"-1\": [\n      0,\n      2000,\n      6000\n    ]\n  },\n  \"230\": {\n    \"-1\": [\n      0,\n      8500,\n      500\n    ]\n  }\n}",
+          "new": "{\n  \"101\": {\n    \"-1\": [\n      0,\n      4000,\n      6000\n    ],\n    \"424\": [\n      0,\n      10000,\n      0\n    ],\n    \"429\": [\n      0,\n      8500,\n      500\n    ]\n  },\n  \"106\": {\n    \"-1\": [\n      0,\n      3000,\n      7000\n    ]\n  },\n  \"150\": {\n    \"-1\": [\n      0,\n      5000,\n      3000\n    ],\n    \"227\": [\n      0,\n      10000,\n      0\n    ]\n  },\n  \"160\": {\n    \"-1\": [\n      0,\n      3000,\n      7000\n    ]\n  },\n  \"162\": {\n    \"-1\": [\n      0,\n      5000,\n      3000\n    ]\n  },\n  \"177\": {\n    \"-1\": [\n      0,\n      3000,\n      7000\n    ]\n  },\n  \"201\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"202\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"203\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"204\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"222\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"231\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"205\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"206\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"207\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"208\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"209\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"210\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"211\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"428\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"217\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"218\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"219\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"167\": {\n    \"-1\": [\n      0,\n      5000,\n      3000\n    ]\n  },\n  \"168\": {\n    \"-1\": [\n      0,\n      5000,\n      3000\n    ]\n  },\n  \"169\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"427\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"155\": {\n    \"-1\": [\n      0,\n      3000,\n      5000\n    ]\n  },\n  \"401\": {\n    \"101\": [\n      0,\n      2000,\n      6000\n    ],\n    \"106\": [\n      0,\n      2000,\n      4000\n    ],\n    \"167\": [\n      0,\n      5000,\n      3000\n    ],\n    \"168\": [\n      0,\n      5000,\n      3000\n    ],\n    \"169\": [\n      0,\n      5000,\n      3000\n    ],\n    \"401\": [\n      0,\n      6000,\n      4000\n    ],\n    \"441\": [\n      0,\n      9500,\n      500\n    ],\n    \"150\": [\n      0,\n      5000,\n      3000\n    ],\n    \"162\": [\n      0,\n      5000,\n      3000\n    ],\n    \"155\": [\n      0,\n      5000,\n      3000\n    ],\n    \"201\": [\n      0,\n      8500,\n      500\n    ],\n    \"202\": [\n      0,\n      8500,\n      500\n    ],\n    \"205\": [\n      0,\n      8500,\n      500\n    ],\n    \"206\": [\n      0,\n      8500,\n      500\n    ],\n    \"207\": [\n      0,\n      8500,\n      500\n    ],\n    \"209\": [\n      0,\n      8500,\n      500\n    ],\n    \"210\": [\n      0,\n      8500,\n      500\n    ],\n    \"427\": [\n      0,\n      10000,\n      0\n    ],\n    \"217\": [\n      0,\n      8500,\n      500\n    ],\n    \"218\": [\n      0,\n      8500,\n      500\n    ],\n    \"219\": [\n      0,\n      8500,\n      500\n    ],\n    \"423\": [\n      0,\n      8500,\n      500\n    ],\n    \"434\": [\n      0,\n      9500,\n      500\n    ],\n    \"223\": [\n      0,\n      9500,\n      500\n    ],\n    \"227\": [\n      0,\n      10000,\n      0\n    ],\n    \"182\": [\n      0,\n      2000,\n      6000\n    ],\n    \"230\": [\n      0,\n      8000,\n      1000\n    ],\n    \"-1\": [\n      0,\n      2000,\n      8000\n    ]\n  },\n  \"421\": {\n    \"150\": [\n      0,\n      5000,\n      3000\n    ],\n    \"156\": [\n      0,\n      5000,\n      3000\n    ],\n    \"162\": [\n      0,\n      5000,\n      3000\n    ],\n    \"160\": [\n      0,\n      5000,\n      3000\n    ],\n    \"101\": [\n      0,\n      2000,\n      6000\n    ],\n    \"106\": [\n      0,\n      2000,\n      6000\n    ],\n    \"203\": [\n      0,\n      8500,\n      500\n    ],\n    \"204\": [\n      0,\n      8500,\n      500\n    ],\n    \"222\": [\n      0,\n      8500,\n      500\n    ],\n    \"208\": [\n      0,\n      9500,\n      500\n    ],\n    \"211\": [\n      0,\n      8500,\n      500\n    ],\n    \"428\": [\n      0,\n      8500,\n      500\n    ],\n    \"167\": [\n      0,\n      5000,\n      3000\n    ],\n    \"168\": [\n      0,\n      5000,\n      3000\n    ],\n    \"169\": [\n      0,\n      5000,\n      3000\n    ],\n    \"427\": [\n      0,\n      10000,\n      0\n    ],\n    \"155\": [\n      0,\n      5000,\n      3000\n    ],\n    \"429\": [\n      0,\n      8500,\n      500\n    ],\n    \"435\": [\n      0,\n      8500,\n      500\n    ],\n    \"225\": [\n      0,\n      8500,\n      500\n    ],\n    \"-1\": [\n      0,\n      3000,\n      7000\n    ]\n  },\n  \"422\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"423\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"424\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"441\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"442\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"425\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"426\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"429\": {\n    \"-1\": [\n      0,\n      9500,\n      500\n    ]\n  },\n  \"434\": {\n    \"-1\": [\n      0,\n      9500,\n      500\n    ]\n  },\n  \"223\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"224\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"225\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"226\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"435\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  },\n  \"227\": {\n    \"-1\": [\n      0,\n      10000,\n      0\n    ]\n  },\n  \"447\": {\n    \"-1\": [\n      0,\n      7000,\n      3000\n    ]\n  },\n  \"449\": {\n    \"-1\": [\n      0,\n      2000,\n      6000\n    ]\n  },\n  \"450\": {\n    \"-1\": [\n      0,\n      2000,\n      6000\n    ]\n  },\n  \"182\": {\n    \"-1\": [\n      0,\n      2000,\n      6000\n    ]\n  },\n  \"230\": {\n    \"-1\": [\n      0,\n      8500,\n      500\n    ]\n  },\n  \"232\": {\n    \"-1\": [\n      0,\n      0,\n      0\n    ]\n  }\n}"
+         }
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "chat",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Set the casualty trigger ratio to [1,4].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Set the news popup cooldown to 600.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "jijie",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Set the autogather gift to {\"1\":{\"1\":[1,11,560842],\"2\":[12,999,560842]}}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Set the autogather gift mail to 30,030.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the autogather reward: added 232 = 20.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the autogather start day from {\"427\":20} to [].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the autogather target from [203,204,208,222,231,427] to {\"1\":{\"targettype\":{\"203\":0,\"231\":9,\"232\":0},\"Autogather_target_reward\":{\"203\":[[0,2,51134],[3,99,51135]],\"231\":[[0,99,51136]],\"232\":[[0,99,51137]]},\"Autogather_target_day\":{\"203\":0,\"231\":0,\"232\":4},\"Autogather_time\":28800,\"auto_open\":false},\"2\":{\"targettype\":{\"427\":0},\"Autogather_target_reward\":{\"427\":[]},\"Autogather_target_day\":{\"427\":0},\"Autogather_time\":259200,\"auto_open\":true}}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Removed the autogather time (was 259,200).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "player_emblem",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the base level from [[1,232,15],[233,9999,15]] to [[1,232,15],[233,276,15],[277,9999,15]].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the level limit: changed 2 from {\"server_limit\":[233,9999],\"max_lv\":{\"0\":6,\"1\":14,\"2\":26,\"3\":42}} to {\"server_limit\":[233,999],\"max_lv\":{\"0\":42,\"1\":42,\"2\":42,\"3\":42}}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the server day from [[1,232,22],[233,9999,36]] to [[1,232,0,22],[233,276,0,36],[277,9999,1,1]].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "ruins_challenge_new",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Removed the hero goto (was {\"1\":[447,446],\"2\":[918,889],\"3\":[921,94],\"4\":[920,889],\"5\":[919,450],\"6\":[447,446,889,450],\"7\":[447,446,889,450]}).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Set the hero goto taskguild to {\"1\":{\"1\":6041,\"2\":6041},\"2\":{\"1\":6044},\"3\":{\"1\":6045,\"2\":6045},\"4\":{\"1\":[[0,1,9,6046],[2,999,10,6046]],\"2\":{\"1\":[9,1,4005],\"2\":[410805,1440405,6044],\"3\":[1012006,1017006,1027006,6047],\"4\":[17,2302],\"5\":[5030,6042,6045]},\"3\":{\"1\":[11,4,9,14,17,6044],\"2\":[1012006,1017006,1027006,6047],\"3\":[10,2302]}},\"5\":{\"1\":968,\"2\":968},\"6\":{\"1\":3184,\"2\":3185,\"3\":3186}}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the open condition: reshaped from a map of 2 keys, each a nested map of 3 key(s) to a map of 3 keys, each a nested map of 3 key(s).",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": {
+          "old": "{\n  \"1\": {\n    \"server_limit\": [\n      1,\n      232\n    ],\n    \"base_lv\": {\n      \"1\": 10,\n      \"2\": 10,\n      \"3\": 15,\n      \"4\": 10,\n      \"5\": 10,\n      \"6\": 10\n    },\n    \"open_day\": {\n      \"1\": [\n        0,\n        5\n      ],\n      \"2\": [\n        0,\n        5\n      ],\n      \"3\": [\n        0,\n        22\n      ],\n      \"4\": [\n        0,\n        5\n      ],\n      \"5\": [\n        0,\n        5\n      ],\n      \"6\": [\n        2,\n        1\n      ]\n    }\n  },\n  \"2\": {\n    \"server_limit\": [\n      233,\n      9999\n    ],\n    \"base_lv\": {\n      \"1\": 10,\n      \"2\": 10,\n      \"3\": 15,\n      \"4\": 10,\n      \"5\": 10,\n      \"6\": 10\n    },\n    \"open_day\": {\n      \"1\": [\n        0,\n        5\n      ],\n      \"2\": [\n        0,\n        5\n      ],\n      \"3\": [\n        0,\n        36\n      ],\n      \"4\": [\n        0,\n        5\n      ],\n      \"5\": [\n        0,\n        5\n      ],\n      \"6\": [\n        2,\n        1\n      ]\n    }\n  }\n}",
+          "new": "{\n  \"1\": {\n    \"server_limit\": [\n      1,\n      232\n    ],\n    \"base_lv\": {\n      \"1\": 10,\n      \"2\": 10,\n      \"3\": 15,\n      \"4\": 10,\n      \"5\": 10,\n      \"6\": 10\n    },\n    \"open_day\": {\n      \"1\": [\n        0,\n        5\n      ],\n      \"2\": [\n        0,\n        5\n      ],\n      \"3\": [\n        0,\n        22\n      ],\n      \"4\": [\n        0,\n        5\n      ],\n      \"5\": [\n        0,\n        5\n      ],\n      \"6\": [\n        2,\n        1\n      ]\n    }\n  },\n  \"2\": {\n    \"server_limit\": [\n      233,\n      276\n    ],\n    \"base_lv\": {\n      \"1\": 10,\n      \"2\": 10,\n      \"3\": 15,\n      \"4\": 10,\n      \"5\": 10,\n      \"6\": 10\n    },\n    \"open_day\": {\n      \"1\": [\n        0,\n        5\n      ],\n      \"2\": [\n        0,\n        5\n      ],\n      \"3\": [\n        0,\n        36\n      ],\n      \"4\": [\n        0,\n        5\n      ],\n      \"5\": [\n        0,\n        5\n      ],\n      \"6\": [\n        2,\n        1\n      ]\n    }\n  },\n  \"3\": {\n    \"server_limit\": [\n      277,\n      9999\n    ],\n    \"base_lv\": {\n      \"1\": 10,\n      \"2\": 10,\n      \"3\": 15,\n      \"4\": 10,\n      \"5\": 10,\n      \"6\": 10\n    },\n    \"open_day\": {\n      \"1\": [\n        0,\n        5\n      ],\n      \"2\": [\n        0,\n        5\n      ],\n      \"3\": [\n        1,\n        1\n      ],\n      \"4\": [\n        0,\n        5\n      ],\n      \"5\": [\n        0,\n        5\n      ],\n      \"6\": [\n        2,\n        1\n      ]\n    }\n  }\n}"
+         }
+        },
+        {
+         "runs": [
+          {
+           "text": "Updated the power inhibit function from \"function(power, npcpower)\n            return  0\n        end\" to \"function(power, npcpower)\n            return  2 ^ (((npcpower / power) - 1) / 0.05) - 1\n        end\".",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "week_theme_activity",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Changed the w pack: added 2286001 = {\"festival_free_gift\":26011413}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Changed the w shop: added 2276001 = {\"shop_item\":966}.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Ace Trial Stages & Enemies",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1",
+         "kind": "bold"
+        },
+        {
+         "text": ": 50 trial stages added (ids 151-200).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1.first_reward",
+         "kind": "bold"
+        },
+        {
+         "text": ": 150 rows increased, x1.747 of the previous value (ids 1-150).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1.npc_power",
+         "kind": "bold"
+        },
+        {
+         "text": ": 150 rows decreased, x0.005-0.357 of the previous value (ids 1-150).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc",
+         "kind": "bold"
+        },
+        {
+         "text": ": 350 trial enemies added (ids 101511-102007).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.atk",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1050 rows decreased, x0.520-0.808 of the previous value (ids 100011-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.atk_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 12 rows increased, 17 rows decreased, x0.778-4.000 of the previous value (ids 101027-101506).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.boxcollider",
+         "kind": "bold"
+        },
+        {
+         "text": ": 52 rows changed (ids 101001-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.collision_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 9 rows increased, 29 rows decreased, x0.769-1.077 of the previous value (ids 101001-101506).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.common_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 52 rows changed (ids 101001-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.def",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1050 rows decreased, x0.520-0.808 of the previous value (ids 100011-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.fury_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 52 rows changed (ids 101001-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.hp",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1050 rows decreased, x0.520-0.808 of the previous value (ids 100011-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.icon",
+         "kind": "bold"
+        },
+        {
+         "text": ": 52 rows changed (ids 101001-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.image_1",
+         "kind": "bold"
+        },
+        {
+         "text": ": 52 rows changed (ids 101001-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_1_npc.model",
+         "kind": "bold"
+        },
+        {
+         "text": ": 52 rows changed (ids 101001-101507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2",
+         "kind": "bold"
+        },
+        {
+         "text": ": 50 trial stages added (ids 251-300).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2.first_reward",
+         "kind": "bold"
+        },
+        {
+         "text": ": 250 rows increased, x1.747 of the previous value (ids 1-250).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2.npc_power",
+         "kind": "bold"
+        },
+        {
+         "text": ": 250 rows decreased, x0.003-0.525 of the previous value (ids 1-250).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc",
+         "kind": "bold"
+        },
+        {
+         "text": ": 350 trial enemies added (ids 202511-203007).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.atk",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1750 rows decreased, x0.518-0.962 of the previous value (ids 200011-202507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.atk_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 36 rows increased, 42 rows decreased, x0.778-4.000 of the previous value (ids 201002-202464).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.boxcollider",
+         "kind": "bold"
+        },
+        {
+         "text": ": 158 rows changed (ids 201002-202502).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.collision_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 40 rows increased, 78 rows decreased, x0.769-1.077 of the previous value (ids 201002-202502).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.common_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 158 rows changed (ids 201002-202502).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.def",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1750 rows decreased, x0.518-0.962 of the previous value (ids 200011-202507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.fury_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 158 rows changed (ids 201002-202502).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.hp",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1750 rows decreased, x0.518-0.962 of the previous value (ids 200011-202507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.icon",
+         "kind": "bold"
+        },
+        {
+         "text": ": 158 rows changed (ids 201002-202502).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.image_1",
+         "kind": "bold"
+        },
+        {
+         "text": ": 158 rows changed (ids 201002-202502).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_2_npc.model",
+         "kind": "bold"
+        },
+        {
+         "text": ": 158 rows changed (ids 201002-202502).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3.first_reward",
+         "kind": "bold"
+        },
+        {
+         "text": ": 300 rows increased, x1.747 of the previous value (ids 1-300).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3.npc_power",
+         "kind": "bold"
+        },
+        {
+         "text": ": 155 rows increased, 145 rows decreased, x0.009-1.970 of the previous value (ids 1-300).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.atk",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1995 rows decreased, x0.659-1.000 of the previous value (ids 300151-302997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.atk_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 56 rows increased, 46 rows decreased, x0.778-4.000 of the previous value (ids 301011-302986).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.boxcollider",
+         "kind": "bold"
+        },
+        {
+         "text": ": 195 rows changed (ids 301011-303005).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.collision_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 45 rows increased, 102 rows decreased, x0.769-1.077 of the previous value (ids 301011-303003).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.common_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 195 rows changed (ids 301011-303005).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.def",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1995 rows decreased, x0.659-1.000 of the previous value (ids 300151-302997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.fury_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 195 rows changed (ids 301011-303005).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.hp",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1995 rows decreased, x0.659-1.000 of the previous value (ids 300151-302997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.icon",
+         "kind": "bold"
+        },
+        {
+         "text": ": 195 rows changed (ids 301011-303005).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.image_1",
+         "kind": "bold"
+        },
+        {
+         "text": ": 195 rows changed (ids 301011-303005).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_3_npc.model",
+         "kind": "bold"
+        },
+        {
+         "text": ": 195 rows changed (ids 301011-303005).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4",
+         "kind": "bold"
+        },
+        {
+         "text": ": 100 trial stages added (ids 201-300).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4.first_reward",
+         "kind": "bold"
+        },
+        {
+         "text": ": 200 rows increased, x1.747 of the previous value (ids 1-200).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4.npc_power",
+         "kind": "bold"
+        },
+        {
+         "text": ": 200 rows decreased, x0.005-0.500 of the previous value (ids 1-200).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc",
+         "kind": "bold"
+        },
+        {
+         "text": ": 700 trial enemies added (ids 402011-403007).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.atk",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1400 rows decreased, x0.608-0.945 of the previous value (ids 400011-402007).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.atk_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 23 rows increased, 27 rows decreased, x0.778-4.000 of the previous value (ids 401011-401994).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.boxcollider",
+         "kind": "bold"
+        },
+        {
+         "text": ": 91 rows changed (ids 401011-402006).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.collision_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 18 rows increased, 50 rows decreased, x0.769-1.077 of the previous value (ids 401011-401994).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.common_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 91 rows changed (ids 401011-402006).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.def",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1400 rows decreased, x0.608-0.945 of the previous value (ids 400011-402007).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.fury_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 91 rows changed (ids 401011-402006).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.hp",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1400 rows decreased, x0.608-0.945 of the previous value (ids 400011-402007).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.icon",
+         "kind": "bold"
+        },
+        {
+         "text": ": 91 rows changed (ids 401011-402006).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.image_1",
+         "kind": "bold"
+        },
+        {
+         "text": ": 91 rows changed (ids 401011-402006).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_4_npc.model",
+         "kind": "bold"
+        },
+        {
+         "text": ": 91 rows changed (ids 401011-402006).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5",
+         "kind": "bold"
+        },
+        {
+         "text": ": 50 trial stages added (ids 251-300).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5.first_reward",
+         "kind": "bold"
+        },
+        {
+         "text": ": 250 rows increased, x1.747 of the previous value (ids 1-250).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5.npc_power",
+         "kind": "bold"
+        },
+        {
+         "text": ": 250 rows decreased, x0.003-0.484 of the previous value (ids 1-250).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc",
+         "kind": "bold"
+        },
+        {
+         "text": ": 350 trial enemies added (ids 502511-503007).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.atk",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1099 rows increased, 651 rows decreased, x0.761-1.480 of the previous value (ids 500011-502507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.atk_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 39 rows increased, 33 rows decreased, x0.778-4.000 of the previous value (ids 501024-502503).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.boxcollider",
+         "kind": "bold"
+        },
+        {
+         "text": ": 141 rows changed (ids 501002-502503).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.collision_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 37 rows increased, 72 rows decreased, x0.769-1.077 of the previous value (ids 501002-502503).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.common_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 141 rows changed (ids 501002-502503).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.def",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1099 rows increased, 651 rows decreased, x0.761-1.480 of the previous value (ids 500011-502507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.fury_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 141 rows changed (ids 501002-502503).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.hp",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1099 rows increased, 651 rows decreased, x0.761-1.480 of the previous value (ids 500011-502507).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.icon",
+         "kind": "bold"
+        },
+        {
+         "text": ": 141 rows changed (ids 501002-502503).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.image_1",
+         "kind": "bold"
+        },
+        {
+         "text": ": 141 rows changed (ids 501002-502503).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_5_npc.model",
+         "kind": "bold"
+        },
+        {
+         "text": ": 141 rows changed (ids 501002-502503).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6.first_reward",
+         "kind": "bold"
+        },
+        {
+         "text": ": 200 rows increased, x1.747 of the previous value (ids 1-200).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6.npc_power",
+         "kind": "bold"
+        },
+        {
+         "text": ": 200 rows decreased, x0.003-0.328 of the previous value (ids 1-200).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.atk",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1295 rows decreased, x0.798-0.997 of the previous value (ids 600151-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.atk_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 23 rows increased, 24 rows decreased, x0.778-4.000 of the previous value (ids 601007-601995).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.boxcollider",
+         "kind": "bold"
+        },
+        {
+         "text": ": 98 rows changed (ids 601007-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.collision_radius",
+         "kind": "bold"
+        },
+        {
+         "text": ": 25 rows increased, 47 rows decreased, x0.769-1.077 of the previous value (ids 601007-601995).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.common_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 98 rows changed (ids 601007-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.def",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1295 rows decreased, x0.798-0.997 of the previous value (ids 600151-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.fury_skill_id",
+         "kind": "bold"
+        },
+        {
+         "text": ": 98 rows changed (ids 601007-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.hp",
+         "kind": "bold"
+        },
+        {
+         "text": ": 1295 rows decreased, x0.798-0.997 of the previous value (ids 600151-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.icon",
+         "kind": "bold"
+        },
+        {
+         "text": ": 98 rows changed (ids 601007-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.image_1",
+         "kind": "bold"
+        },
+        {
+         "text": ": 98 rows changed (ids 601007-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "ruins_new_stage_6_npc.model",
+         "kind": "bold"
+        },
+        {
+         "text": ": 98 rows changed (ids 601007-601997).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "38 tables with 103939 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: PanelTitle (2), activity_award_dig (63), activity_award_gather (5), activity_battlepass_base (11), activity_battlepass_gift (330), activity_paid_calendar_base (31), activity_paid_signin_base (1), alliance_tech (1), castle_skin (11), challenge_management (1), cross_server_mine (828), decoration (53), decoration_shop (2), drop (50), gift (101646), global_options (1), goto (2), limit_activity (254), main_activity_icon (1), main_btn_show (1), model (3), monster (1), monster_npc (1), plot_dialogue (1), recharge (46), recharge_gift (8), recharge_gift_heroequip (134), recharge_paid_calendar_gift (31), recharge_signin_gift (30), redpoint (11), role_model (1), season_cross_server_team (241), season_open (114), shop (4), special_activity (11), system_level (1), task_guide (6), worldmap_type (1).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`models/prefabs` (16)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "gfx_uiactivitycalendarcashback",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiactivitycalendarcashback.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiitem5_yellow",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiitem5_yellow.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_fence_corner",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0000_fence_corner.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_fence_cross",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0000_fence_cross.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_fence_end",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0000_fence_end.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_fence_isolated",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0000_fence_isolated.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_fence_straight",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0000_fence_straight.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_fence_tjunction",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0000_fence_tjunction.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_road_04",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0000_road_04.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0001_fence_corner",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0001_fence_corner.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0001_fence_cross",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0001_fence_cross.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0001_fence_end",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0001_fence_end.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0001_fence_isolated",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0001_fence_isolated.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0001_fence_straight",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0001_fence_straight.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0001_fence_tjunction",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0001_fence_tjunction.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0011_monster_lod3_lw_baker",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/p0011_monster_lod3_lw_baker.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_ActivityAdventurer` (4)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "competition_btn_calendar",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_ActivityAdventurer/competition_btn_calendar.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "f91562cec5c6ccc02178c1fa3a87e2ff18676d248aed7eb4a32820e67f28b6ba"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "competition_btn_rank",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_ActivityAdventurer/competition_btn_rank.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "d9e20dcf888797cab20d697827a369bd927e3f80840d0d3d5ab31fea0c18d81b"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "competition_pic_rank",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_ActivityAdventurer/competition_pic_rank.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "a6b34198293d30fafac9f704f3887521080c2a79e7f24ac1dea2e4a5978d3067"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Season1_btn_change",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_ActivityAdventurer/Season1_btn_change.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "580365cdb6aaff69c4e52e500bf987b90cf2502ebd37b73832af23015527ac56"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_ActivityCommon` (3)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Auto_btn_task",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_ActivityCommon/Auto_btn_task.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "baf168142d7c43d2aecb0bd757495d3b7f0eee4f00b1e1c512dce79a8e15e660"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Auto_pic_5",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_ActivityCommon/Auto_pic_5.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "e0330050f5ecbdfa24f904d6605968609a880c11a4fdc4259cfd7e159aec34d0"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Auto_pic_6",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_ActivityCommon/Auto_pic_6.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "9c1c835b9d1990bfb592b8370a724770c20a82c9823d8aa809d7a4be78d3d1ba"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UIActivityPaidCheckIn` (15)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "1Benefit_Image_Good",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/1Benefit_Image_Good.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "cc3e0324e0945c8b0c7107e7dea5d7bc563bf0707230f32347823c6d2acb70f8"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Airship_btn_refresh2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Airship_btn_refresh2.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "6ad2dff4ba276ec4df986c1a462b5c9aed8329581e935e96a05456bb42dc10cf"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Cashback_Bg_02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Cashback_Bg_02.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "0f1e466ab0044d50af5cbc246b4f06d9714a487ba136fa3e1ef8f5bd8de46d8a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Cashback_Bg_ItemReward",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Cashback_Bg_ItemReward.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "0fbe4c6a391161f1288d7d005f03f1c81397854d9651dc15794ae4768c6d2ac9"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Cashback_Bg_Reward",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Cashback_Bg_Reward.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "b28fa735f8c2a2a2f2cfe50716292a1e2e20364d23ca2ce38794f884df9de5a2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Cashback_Btn_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Cashback_Btn_01.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "a76cd420e0e119cbba804f02611d5f3560fe6edb3be689089d21c3a93e02a90f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Cashback_Gift_BgDaily",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Cashback_Gift_BgDaily.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "e25b5a9147ba6c7f9e0a8bca8c1cef4f6d2bd76f1577e0e96e7e91cd0c966457"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Cashback_Gift_Btn_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Cashback_Gift_Btn_01.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "df7519e9333682ba4e6d5be1bc3f502a9af1c36c0550a1a1141cc3599b9649d4"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Cashback_Image_Cat_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Cashback_Image_Cat_01.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "209acc579d65a9c8de6d5b825281c52170c242d65f66b15d793e51ec9b3b2199"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Cashback_Image_Check_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Cashback_Image_Check_01.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "ba8d2d4c9ed1ed957401d355a8aa1d43431b0713933154a49d35a8be604f0a4a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "mask",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/mask.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "06131565bfb17e177d217ffffebda37f6fadfd06aeb6fb8c1dab54d3912f637a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Paidcheckin_Bg_02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Paidcheckin_Bg_02.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "91f2ede5cd9d7e2fde94ffd9a8453cef89f89061825370f25464bf7f66497eb2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Paidcheckin_Bg_Paper",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Paidcheckin_Bg_Paper.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "0d2966d0ba05ace4a3730ff162af817f31241755003b712fd6d65002bc651e2b"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Paidcheckin_Bg_Reward",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Paidcheckin_Bg_Reward.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "80eed9783dd518d4f2d950f7c9439f39d8c28e60667244596ee406ad64556830"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Paidcheckin_Image_02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIActivityPaidCheckIn/Paidcheckin_Image_02.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "2c3da7df44400005563de9258c6f9eaf5bfd8672e1af09b36c67b981ab521a4e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UIChat` (6)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Loha_image_Chat",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIChat/Loha_image_Chat.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "348ae2b69fa463e5f0c7e5c32fae456694d6c49d2feafe3af20963666e6727d0"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "NewsCenter_icon_army",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIChat/NewsCenter_icon_army.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "b688b0eb1004043daf11467a405ed18179748bbb7e001c1986b9a3d1651cd2e3"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "NewsCenter_icon_army2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIChat/NewsCenter_icon_army2.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "dd322af23be8fcd2a63c7d1b74a305ac275168994f060a6ad721dc1567397f4f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "NewsCenter_icon_army3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIChat/NewsCenter_icon_army3.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "9fa1858b15b5f2471c0dd4563de2807f668122899b4ecf85fbbf1defc13d0c6a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "NewsCenter_icon_new",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIChat/NewsCenter_icon_new.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "d4e8959d35729b576968dfaf05eb2e245ba68417580c5c6399a5b862271bf70c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "NewsCenter_iconbg_choose",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIChat/NewsCenter_iconbg_choose.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "1b54439526237130cdffe55774523bf97109e59e4a5df1ea21fb3e4190b62b28"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UIIslandHomeWarehouse` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Treasure_btn_share01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIIslandHomeWarehouse/Treasure_btn_share01.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "8b474d84c9d615bdd333d35d73adf0beb72f6ef2357d5257aac108162862cd66"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UIIslandHome_Main` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "UISportMeeting_btn_Record",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIIslandHome_Main/UISportMeeting_btn_Record.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "530a60f343e7dea92ce99d5aaafd093585b3fefa6336fa888e86b60ed2eb54e2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UIMain` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "main_btn_NewsCenter",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIMain/main_btn_NewsCenter.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "390983e2ed60dd871ac6b6ea166554d50f41b5afd945957414c1aea1ea8de0ac"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UINumberBattle` (23)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Island_bg_ItemExplanation",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Island_bg_ItemExplanation.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "d8059d99171c035dde3c26e27a2ee814403855473e0e685f506bd2e357f0bfcb"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_bg_power1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_bg_power1.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "b2ca066afbb83c6cb6aea5b3ac19c1662cc851c21a99b37c08349311c920573c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_bg_power2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_bg_power2.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "20425131d0f48d9804e231881117a225118a5ee47f230fe44d212ad856c7dc64"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_bg_progress1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_bg_progress1.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "6b2a2120720174f9fd6625329d602e7c4cad9bb56f39fc6d9318503251d126bb"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_bg_progress1_1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_bg_progress1_1.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "e3a7a2bcf225ef350eb303f4ec9c3eb3a0b77e9adda02f21ae2c88e0bbf1b095"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "trial_btn_rewardinfo",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/trial_btn_rewardinfo.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "348a69577e1d1c6523f03e132403eaa88d5dc2adf044796ff4281f737692e172"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_cardbg_up1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_cardbg_up1.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "79ca722b0cb11233b690dbe4707f8370b86c04327ecda3aee10ac588c21e361c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_cardbg_up2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_cardbg_up2.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "d345100e69a484e746817da4062c789ea96e62d6f2e795d3668deb4cad109085"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_cardbg_up3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_cardbg_up3.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "e6e86439dfb6678ab839943ee8f52fe328e9a8af362bdc2de335fe6e0b6d0625"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_icon_army",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_icon_army.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "9e2c81d83ea6aba8f555fed69f14d9c55a1f4e3b1078ce67fab25bfcfdeeb814"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_icon_prggress1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_icon_prggress1.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "0c9fcece48ca67d0cea94b24a5563da6e3ffc122b6f0213e4ba0595c781a42e8"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_icon_prggress2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_icon_prggress2.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "329de7416752991c7a35821649ccd11e2a73d04da6b7733a155497c0e1dc3bba"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_icon_prggress3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_icon_prggress3.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "dbc04a2ecb8a917b1edefb3fdfebb2a7f0f514c9258a8d731edb9c827eb80d25"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_icon_prggress4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_icon_prggress4.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "de2518c4e928304a4a03cb5cfe07d2c010051e5ddbf7c4ef6e446a8aa05403b4"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_icon_prggress5",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_icon_prggress5.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "e0c5825d197e8c56d5d3fd7f15f936bfeebe130894f6056f036d16c56f99da7c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_icon_prggress6",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_icon_prggress6.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "c8665582ca57058fe62468f4315eb2695f47400fa084297c362d3a7a41c28789"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Trial_icon_title",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/Trial_icon_title.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "0658328774680fe193c84ce5ec9e7ece97574a5099252aa8c28353f706043e85"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "trial_pic_1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/trial_pic_1.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "6a69300d6e8878c986ea4cb9457b017429e028c70102b04a2566b1c69f01f95d"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "trial_pic_2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/trial_pic_2.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "649ea8e174abc0165e1f9e7c6427c25924f2378b82894e33c3a52b14f8c172e1"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "trial_pic_3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/trial_pic_3.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "529aaabe22f4605b52f2897696f7cdf540274a5d91e08615da674d8550cc4a46"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "trial_pic_4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/trial_pic_4.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "62dfa1d7a9e3c3f59b9ff54d6e60b855546448c0a0f3860d8033d50fedd45667"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "trial_pic_5",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/trial_pic_5.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "8c5975eb521bc62123abedd71957706ba0850ef39b928a0adf1da5aafdc50b08"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "trial_pic_6",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UINumberBattle/trial_pic_6.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "1f8d95c5c2227275249c672acd09ea0ddcf6bf4cd5500c819a91db381a30f46b"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UITreasureHunt` (5)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "bg_Purple",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UITreasureHunt/bg_Purple.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "ea3447b642388cb4496f0a8f44a5d6573218f5caa8a8958e216b62b97d85b74d"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Treasure_Image_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UITreasureHunt/Treasure_Image_01.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "ef291404dd3b346462171d3deee3b50ec78fba96f5061dd15dbb295542fce26e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Treasure_Title_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UITreasureHunt/Treasure_Title_01.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "ff0697d4fb45486c989b47e80ae0be28da7a7277a2be347fd48b742dd2e7f4f9"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Treasure_Title_02",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UITreasureHunt/Treasure_Title_02.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "a85d162855e90f7f10ac91a54ef03f14c0a07aa5e3146daff66deb0feb4ffd50"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Treasure_Title_03",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UITreasureHunt/Treasure_Title_03.png",
+           "version": "rv446",
+           "published": false,
+           "sha256": "7c2ae3b8665066a2bc48d681eb5fb855d0253c5d8de4d2bdc7d1f4a2c5be91b2"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/_static_uipanel/uiactivitypaidcheckin` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "cashback_image_reward_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiactivitypaidcheckin/Cashback_Image_Reward_01.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "cdd1effb16187bf22aad43007e547fc31b56225bd55ab4cfd1f2c8fbb5d4278b"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/_static_uipanel/uibackground` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "dojo_pic_bg",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uibackground/Dojo_pic_bg.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "daa33ca3718cf29b07224333f9ed3768ae82d7e6c4417ba34038debba53d5ea6"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/ui_season_main` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "s01_season_equip_entry",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/ui_season_main/s01_season_equip_entry.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "357fa817f454eacfe21031bac2a3c2d244c5eea9c433c3e066b3a41d0a732456"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiactivitypaidcheckin` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "paidcheckin_bg_01",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiactivitypaidcheckin/Paidcheckin_Bg_01.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "f408df50f9aad9e6154c0913505908a7896e56ddd4674f3f2cb229825bb8f964"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiislandhome` (6)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "p0000_fence",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0000_fence.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "0624b06a93f1d42105c0096cdd12a5015000af8dfbf857b8a6b70c3982a19991"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_fence_s",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0000_fence_s.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "58f2b94316284243713517f66f9c46f63fbe20b39f9d732fd81fc8733c864f8a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_road_04",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0000_road_04.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "ae5a1b82e0938233faba84fb6ed537a8455d69deba026bd2e74f26624803285f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0000_road_04_s",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0000_road_04_s.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "0947f6eeba299b416f2136b3925215a7ff79d7fbea52856030317d7cdff0e789"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0001_fence",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0001_fence.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "c6aac12d196bc8dbd601224ca7dbae8372381e245d48bdc7843ca3c469c4db92"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "p0001_fence_s",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiislandhome/p0001_fence_s.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "3f7d0b1a8eaafccac02e710dd41a852c963917c10f055278ffa7cad33dae38a7"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uimonstericon` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "search222",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uimonstericon/search222.png",
+           "version": "rv446",
+           "published": true,
+           "sha256": "fb6cf2bfb9ecaf855a5ef9d3f7a17ead823e110f2d747132d4be11aed78937ce"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "16 of 86 new assets have no image: 16 registered but with no art exported at their path (config ahead of art, a normal state in this game's data). 30 non-renderable file(s) (Unity sprite metadata sidecars) were excluded from this list. 63 added file(s) outside works/resources/ with no resource path were excluded from this list.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "models/prefabs/gfx_uiactivitycalendarcashback",
+   "path": "models/prefabs/gfx_uiactivitycalendarcashback",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiactivitycalendarcashback.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiitem5_yellow",
+   "path": "models/prefabs/gfx_uiitem5_yellow",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiitem5_yellow.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0000_fence_corner",
+   "path": "models/prefabs/p0000_fence_corner",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0000_fence_corner.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0000_fence_cross",
+   "path": "models/prefabs/p0000_fence_cross",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0000_fence_cross.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0000_fence_end",
+   "path": "models/prefabs/p0000_fence_end",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0000_fence_end.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0000_fence_isolated",
+   "path": "models/prefabs/p0000_fence_isolated",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0000_fence_isolated.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0000_fence_straight",
+   "path": "models/prefabs/p0000_fence_straight",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0000_fence_straight.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0000_fence_tjunction",
+   "path": "models/prefabs/p0000_fence_tjunction",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0000_fence_tjunction.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0000_road_04",
+   "path": "models/prefabs/p0000_road_04",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0000_road_04.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0001_fence_corner",
+   "path": "models/prefabs/p0001_fence_corner",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0001_fence_corner.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0001_fence_cross",
+   "path": "models/prefabs/p0001_fence_cross",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0001_fence_cross.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0001_fence_end",
+   "path": "models/prefabs/p0001_fence_end",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0001_fence_end.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0001_fence_isolated",
+   "path": "models/prefabs/p0001_fence_isolated",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0001_fence_isolated.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0001_fence_straight",
+   "path": "models/prefabs/p0001_fence_straight",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0001_fence_straight.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0001_fence_tjunction",
+   "path": "models/prefabs/p0001_fence_tjunction",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0001_fence_tjunction.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/p0011_monster_lod3_lw_baker",
+   "path": "models/prefabs/p0011_monster_lod3_lw_baker",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/p0011_monster_lod3_lw_baker.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "sprites/a_activityadventurer/competition_btn_calendar",
+   "path": "sprites/A_ActivityAdventurer/competition_btn_calendar.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-competition_btn_calendar-3cc75d6f.png",
+   "sizeBytes": 1411
+  },
+  {
+   "canonical": "sprites/a_activityadventurer/competition_btn_rank",
+   "path": "sprites/A_ActivityAdventurer/competition_btn_rank.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-competition_btn_rank-9f919543.png",
+   "sizeBytes": 14179
+  },
+  {
+   "canonical": "sprites/a_activityadventurer/competition_pic_rank",
+   "path": "sprites/A_ActivityAdventurer/competition_pic_rank.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-competition_pic_rank-27b71ad7.png",
+   "sizeBytes": 7955
+  },
+  {
+   "canonical": "sprites/a_activityadventurer/season1_btn_change",
+   "path": "sprites/A_ActivityAdventurer/Season1_btn_change.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-season1_btn_change-5096439b.png",
+   "sizeBytes": 1283
+  },
+  {
+   "canonical": "sprites/a_activitycommon/auto_btn_task",
+   "path": "sprites/A_ActivityCommon/Auto_btn_task.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_btn_task-0ba1a5b6.png",
+   "sizeBytes": 11770
+  },
+  {
+   "canonical": "sprites/a_activitycommon/auto_pic_5",
+   "path": "sprites/A_ActivityCommon/Auto_pic_5.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_5-41a19c6e.png",
+   "sizeBytes": 6526
+  },
+  {
+   "canonical": "sprites/a_activitycommon/auto_pic_6",
+   "path": "sprites/A_ActivityCommon/Auto_pic_6.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-auto_pic_6-dca61a87.png",
+   "sizeBytes": 5594
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/1benefit_image_good",
+   "path": "sprites/A_UIActivityPaidCheckIn/1Benefit_Image_Good.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-1benefit_image_good-24c721e9.png",
+   "sizeBytes": 3751
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/airship_btn_refresh2",
+   "path": "sprites/A_UIActivityPaidCheckIn/Airship_btn_refresh2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-airship_btn_refresh2-8e6466ac.png",
+   "sizeBytes": 9915
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/cashback_bg_02",
+   "path": "sprites/A_UIActivityPaidCheckIn/Cashback_Bg_02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_bg_02-48161ab5.png",
+   "sizeBytes": 3959
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/cashback_bg_itemreward",
+   "path": "sprites/A_UIActivityPaidCheckIn/Cashback_Bg_ItemReward.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_bg_itemreward-c04628e6.png",
+   "sizeBytes": 1271
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/cashback_bg_reward",
+   "path": "sprites/A_UIActivityPaidCheckIn/Cashback_Bg_Reward.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_bg_reward-9c01209c.png",
+   "sizeBytes": 19213
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/cashback_btn_01",
+   "path": "sprites/A_UIActivityPaidCheckIn/Cashback_Btn_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_btn_01-35aed81b.png",
+   "sizeBytes": 4073
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/cashback_gift_bgdaily",
+   "path": "sprites/A_UIActivityPaidCheckIn/Cashback_Gift_BgDaily.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_gift_bgdaily-f8fc9dc0.png",
+   "sizeBytes": 9856
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/cashback_gift_btn_01",
+   "path": "sprites/A_UIActivityPaidCheckIn/Cashback_Gift_Btn_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_gift_btn_01-7e96dddd.png",
+   "sizeBytes": 30316
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/cashback_image_cat_01",
+   "path": "sprites/A_UIActivityPaidCheckIn/Cashback_Image_Cat_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_image_cat_01-d2df9857.png",
+   "sizeBytes": 14151
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/cashback_image_check_01",
+   "path": "sprites/A_UIActivityPaidCheckIn/Cashback_Image_Check_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_image_check_01-0b5aad68.png",
+   "sizeBytes": 6321
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/mask",
+   "path": "sprites/A_UIActivityPaidCheckIn/mask.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-mask-f2be63dd.png",
+   "sizeBytes": 732
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/paidcheckin_bg_02",
+   "path": "sprites/A_UIActivityPaidCheckIn/Paidcheckin_Bg_02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-paidcheckin_bg_02-779d87e8.png",
+   "sizeBytes": 2705
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/paidcheckin_bg_paper",
+   "path": "sprites/A_UIActivityPaidCheckIn/Paidcheckin_Bg_Paper.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-paidcheckin_bg_paper-1fa6c704.png",
+   "sizeBytes": 2714
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/paidcheckin_bg_reward",
+   "path": "sprites/A_UIActivityPaidCheckIn/Paidcheckin_Bg_Reward.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-paidcheckin_bg_reward-e1c19760.png",
+   "sizeBytes": 20456
+  },
+  {
+   "canonical": "sprites/a_uiactivitypaidcheckin/paidcheckin_image_02",
+   "path": "sprites/A_UIActivityPaidCheckIn/Paidcheckin_Image_02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-paidcheckin_image_02-52ff4400.png",
+   "sizeBytes": 16884
+  },
+  {
+   "canonical": "sprites/a_uichat/loha_image_chat",
+   "path": "sprites/A_UIChat/Loha_image_Chat.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-loha_image_chat-bf9bd501.png",
+   "sizeBytes": 27321
+  },
+  {
+   "canonical": "sprites/a_uichat/newscenter_icon_army",
+   "path": "sprites/A_UIChat/NewsCenter_icon_army.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-newscenter_icon_army-c900aaa5.png",
+   "sizeBytes": 5812
+  },
+  {
+   "canonical": "sprites/a_uichat/newscenter_icon_army2",
+   "path": "sprites/A_UIChat/NewsCenter_icon_army2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-newscenter_icon_army2-1388e5e3.png",
+   "sizeBytes": 3795
+  },
+  {
+   "canonical": "sprites/a_uichat/newscenter_icon_army3",
+   "path": "sprites/A_UIChat/NewsCenter_icon_army3.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-newscenter_icon_army3-773fe5df.png",
+   "sizeBytes": 3876
+  },
+  {
+   "canonical": "sprites/a_uichat/newscenter_icon_new",
+   "path": "sprites/A_UIChat/NewsCenter_icon_new.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-newscenter_icon_new-d8c09a41.png",
+   "sizeBytes": 2096
+  },
+  {
+   "canonical": "sprites/a_uichat/newscenter_iconbg_choose",
+   "path": "sprites/A_UIChat/NewsCenter_iconbg_choose.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-newscenter_iconbg_choose-94778da7.png",
+   "sizeBytes": 1227
+  },
+  {
+   "canonical": "sprites/a_uiislandhome_main/uisportmeeting_btn_record",
+   "path": "sprites/A_UIIslandHome_Main/UISportMeeting_btn_Record.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-uisportmeeting_btn_record-e64de31f.png",
+   "sizeBytes": 9373
+  },
+  {
+   "canonical": "sprites/a_uiislandhomewarehouse/treasure_btn_share01",
+   "path": "sprites/A_UIIslandHomeWarehouse/Treasure_btn_share01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-treasure_btn_share01-8c3bccb5.png",
+   "sizeBytes": 15094
+  },
+  {
+   "canonical": "sprites/a_uimain/main_btn_newscenter",
+   "path": "sprites/A_UIMain/main_btn_NewsCenter.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-main_btn_newscenter-4434951d.png",
+   "sizeBytes": 13738
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/island_bg_itemexplanation",
+   "path": "sprites/A_UINumberBattle/Island_bg_ItemExplanation.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-island_bg_itemexplanation-d74d2627.png",
+   "sizeBytes": 3175
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_bg_power1",
+   "path": "sprites/A_UINumberBattle/Trial_bg_power1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_bg_power1-ec6916bd.png",
+   "sizeBytes": 14688
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_bg_power2",
+   "path": "sprites/A_UINumberBattle/Trial_bg_power2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_bg_power2-ea217d72.png",
+   "sizeBytes": 18214
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_bg_progress1",
+   "path": "sprites/A_UINumberBattle/Trial_bg_progress1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_bg_progress1-26d1cb4e.png",
+   "sizeBytes": 10994
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_bg_progress1_1",
+   "path": "sprites/A_UINumberBattle/Trial_bg_progress1_1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_bg_progress1_1-4a56faaa.png",
+   "sizeBytes": 7281
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_btn_rewardinfo",
+   "path": "sprites/A_UINumberBattle/trial_btn_rewardinfo.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_btn_rewardinfo-a0d77719.png",
+   "sizeBytes": 15353
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_cardbg_up1",
+   "path": "sprites/A_UINumberBattle/Trial_cardbg_up1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_cardbg_up1-ef23a2dc.png",
+   "sizeBytes": 1908
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_cardbg_up2",
+   "path": "sprites/A_UINumberBattle/Trial_cardbg_up2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_cardbg_up2-968583b2.png",
+   "sizeBytes": 2045
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_cardbg_up3",
+   "path": "sprites/A_UINumberBattle/Trial_cardbg_up3.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_cardbg_up3-e8bb5281.png",
+   "sizeBytes": 2180
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_icon_army",
+   "path": "sprites/A_UINumberBattle/Trial_icon_army.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_icon_army-5a82f59b.png",
+   "sizeBytes": 19879
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_icon_prggress1",
+   "path": "sprites/A_UINumberBattle/Trial_icon_prggress1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_icon_prggress1-cef1844b.png",
+   "sizeBytes": 4227
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_icon_prggress2",
+   "path": "sprites/A_UINumberBattle/Trial_icon_prggress2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_icon_prggress2-b506e4f5.png",
+   "sizeBytes": 5681
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_icon_prggress3",
+   "path": "sprites/A_UINumberBattle/Trial_icon_prggress3.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_icon_prggress3-16d0cdc6.png",
+   "sizeBytes": 8347
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_icon_prggress4",
+   "path": "sprites/A_UINumberBattle/Trial_icon_prggress4.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_icon_prggress4-f43688ab.png",
+   "sizeBytes": 6410
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_icon_prggress5",
+   "path": "sprites/A_UINumberBattle/Trial_icon_prggress5.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_icon_prggress5-d94bf6c3.png",
+   "sizeBytes": 7342
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_icon_prggress6",
+   "path": "sprites/A_UINumberBattle/Trial_icon_prggress6.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_icon_prggress6-2d461b6c.png",
+   "sizeBytes": 8079
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_icon_title",
+   "path": "sprites/A_UINumberBattle/Trial_icon_title.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_icon_title-0e03334e.png",
+   "sizeBytes": 1053
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_pic_1",
+   "path": "sprites/A_UINumberBattle/trial_pic_1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_pic_1-a8016ca4.png",
+   "sizeBytes": 2039
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_pic_2",
+   "path": "sprites/A_UINumberBattle/trial_pic_2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_pic_2-4a5298ad.png",
+   "sizeBytes": 1506
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_pic_3",
+   "path": "sprites/A_UINumberBattle/trial_pic_3.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_pic_3-61128e3c.png",
+   "sizeBytes": 2776
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_pic_4",
+   "path": "sprites/A_UINumberBattle/trial_pic_4.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_pic_4-29e0f8b3.png",
+   "sizeBytes": 2409
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_pic_5",
+   "path": "sprites/A_UINumberBattle/trial_pic_5.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_pic_5-574eec0a.png",
+   "sizeBytes": 2385
+  },
+  {
+   "canonical": "sprites/a_uinumberbattle/trial_pic_6",
+   "path": "sprites/A_UINumberBattle/trial_pic_6.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-trial_pic_6-19db56f3.png",
+   "sizeBytes": 2956
+  },
+  {
+   "canonical": "sprites/a_uitreasurehunt/bg_purple",
+   "path": "sprites/A_UITreasureHunt/bg_Purple.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-bg_purple-b0d203f0.png",
+   "sizeBytes": 2360
+  },
+  {
+   "canonical": "sprites/a_uitreasurehunt/treasure_image_01",
+   "path": "sprites/A_UITreasureHunt/Treasure_Image_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-treasure_image_01-ab4ef7de.png",
+   "sizeBytes": 11648
+  },
+  {
+   "canonical": "sprites/a_uitreasurehunt/treasure_title_01",
+   "path": "sprites/A_UITreasureHunt/Treasure_Title_01.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-treasure_title_01-6120fc7f.png",
+   "sizeBytes": 2774
+  },
+  {
+   "canonical": "sprites/a_uitreasurehunt/treasure_title_02",
+   "path": "sprites/A_UITreasureHunt/Treasure_Title_02.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-treasure_title_02-23e4bcc1.png",
+   "sizeBytes": 2935
+  },
+  {
+   "canonical": "sprites/a_uitreasurehunt/treasure_title_03",
+   "path": "sprites/A_UITreasureHunt/Treasure_Title_03.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-treasure_title_03-7546d332.png",
+   "sizeBytes": 2858
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiactivitypaidcheckin/cashback_image_reward_01",
+   "path": "uiv3/texture/_static_uipanel/uiactivitypaidcheckin/Cashback_Image_Reward_01.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-cashback_image_reward_01-4f474242.png",
+   "sizeBytes": 126091
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uibackground/dojo_pic_bg",
+   "path": "uiv3/texture/_static_uipanel/uibackground/Dojo_pic_bg.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-dojo_pic_bg-0e3f770f.png",
+   "sizeBytes": 1447096
+  },
+  {
+   "canonical": "uiv3/texture/ui_season_main/s01_season_equip_entry",
+   "path": "uiv3/texture/ui_season_main/s01_season_equip_entry.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-s01_season_equip_entry-0556b4d5.png",
+   "sizeBytes": 166777
+  },
+  {
+   "canonical": "uiv3/texture/uiactivitypaidcheckin/paidcheckin_bg_01",
+   "path": "uiv3/texture/uiactivitypaidcheckin/Paidcheckin_Bg_01.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-paidcheckin_bg_01-2a825e56.png",
+   "sizeBytes": 977668
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0000_fence",
+   "path": "uiv3/texture/uiislandhome/p0000_fence.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0000_fence-d565a154.png",
+   "sizeBytes": 409229
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0000_fence_s",
+   "path": "uiv3/texture/uiislandhome/p0000_fence_s.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0000_fence_s-fc025e46.png",
+   "sizeBytes": 35856
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0000_road_04",
+   "path": "uiv3/texture/uiislandhome/p0000_road_04.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0000_road_04-92298aca.png",
+   "sizeBytes": 440165
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0000_road_04_s",
+   "path": "uiv3/texture/uiislandhome/p0000_road_04_s.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0000_road_04_s-35314fca.png",
+   "sizeBytes": 57326
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0001_fence",
+   "path": "uiv3/texture/uiislandhome/p0001_fence.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0001_fence-1935b5a6.png",
+   "sizeBytes": 475626
+  },
+  {
+   "canonical": "uiv3/texture/uiislandhome/p0001_fence_s",
+   "path": "uiv3/texture/uiislandhome/p0001_fence_s.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-p0001_fence_s-f36b345b.png",
+   "sizeBytes": 66376
+  },
+  {
+   "canonical": "uiv3/texture/uimonstericon/search222",
+   "path": "uiv3/texture/uimonstericon/search222.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-search222-c15e78f4.png",
+   "sizeBytes": 63016
+  }
+ ]
+}

@@ -596,6 +596,28 @@
     "path": "changelogs/rv445/changelog.json"
    },
    "appVersion": "0.5.417"
+  },
+  {
+   "label": "rv446",
+   "tag": "rv446",
+   "order": 446,
+   "publishedAtUtc": "2026-09-18T18:17:39.397893+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5555,
+    "sprites": 7438,
+    "builder": 0,
+    "added": 70,
+    "modified": 828,
+    "removed": 12,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": {
+    "pair": "rv446",
+    "path": "changelogs/rv446/changelog.json"
+   },
+   "appVersion": "0.5.417"
   }
  ]
 }
