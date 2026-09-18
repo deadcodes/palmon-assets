@@ -706,6 +706,28 @@
     "path": "changelogs/rv450/changelog.json"
    },
    "appVersion": "0.5.417"
+  },
+  {
+   "label": "rv451",
+   "tag": "rv451",
+   "order": 451,
+   "publishedAtUtc": "2026-09-18T18:31:45.786668+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5576,
+    "sprites": 7444,
+    "builder": 0,
+    "added": 0,
+    "modified": 0,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": {
+    "pair": "rv451",
+    "path": "changelogs/rv451/changelog.json"
+   },
+   "appVersion": "0.5.417"
   }
  ]
 }
