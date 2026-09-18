@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv441",
+    "new": "rv442"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:11Z",
+  "title": "Mid-Autumn text lands: Full-Moon Promise replaces the football festival",
+  "summary": "This version is text only: 322 localization keys are added or rewritten. The festival line is re-themed from football to the Mid-Autumn Full-Moon Promise, and new strings arrive for Auto Rally, a News Center, Ace Trial power advice, Dream Isle furnishings and the Corrupted Meowdame hunt. No palmons, skills, items or systems changed.",
+  "highlights": [
+    "Festival text is rewritten from the football-themed Football Fiesta line to Full-Moon Promise, with names such as Moonlit Scroll, Moonlit Reunion Feast and Moon-Lantern Bounty (71 keys).",
+    "Ruins challenge text gains power guidance: Recommended Power, Power Insufficient, and per-system upgrade advice for mounts and core breakthroughs (54 keys).",
+    "New Auto Rally strings appear under the gather activity, covering Auto Rally enabled, disabled and duration refreshed.",
+    "A News Center is described for the first time, with battle headlines, Server News, View Coordinates and a world-map red dot toggle.",
+    "Dream Isle adds furnishing names and descriptions through Moonveil Palace and Moonlit Spring, plus Huzzah, visitor and interaction logs.",
+    "The Corrupted Meowdame event is written out: rally Bullypunks for Trail Maps, summon Meowdame with one, and it stays for one hour.",
+    "35 team camp info keys are still placeholders reading #N/A."
+  ],
+  "categories": [
+    {
+      "title": "Text & Localization",
+      "count": 322
+    }
+  ]
+}
