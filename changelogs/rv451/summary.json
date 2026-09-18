@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv450",
+    "new": "rv451"
+  },
+  "generatedAtUtc": "2026-09-18T18:40:22Z",
+  "title": "No player-facing changes",
+  "summary": "Nothing changed in this version's game data. No palmons, skills, items, systems, text or art were modified; it is a resource version bump only.",
+  "highlights": [],
+  "categories": []
+}
