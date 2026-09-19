@@ -339,7 +339,8 @@
    "changelog": {
     "pair": "rv433",
     "path": "changelogs/rv433/changelog.json"
-   }
+   },
+   "appVersion": "0.5.417"
   },
   {
    "label": "rv434",
@@ -360,7 +361,8 @@
    "changelog": {
     "pair": "rv434",
     "path": "changelogs/rv434/changelog.json"
-   }
+   },
+   "appVersion": "0.5.417"
   },
   {
    "label": "rv435",
@@ -381,7 +383,8 @@
    "changelog": {
     "pair": "rv435",
     "path": "changelogs/rv435/changelog.json"
-   }
+   },
+   "appVersion": "0.5.417"
   },
   {
    "label": "rv436",
@@ -402,7 +405,8 @@
    "changelog": {
     "pair": "rv436",
     "path": "changelogs/rv436/changelog.json"
-   }
+   },
+   "appVersion": "0.5.417"
   },
   {
    "label": "rv437",
@@ -423,7 +427,8 @@
    "changelog": {
     "pair": "rv437",
     "path": "changelogs/rv437/changelog.json"
-   }
+   },
+   "appVersion": "0.5.417"
   },
   {
    "label": "rv438",
@@ -507,7 +512,8 @@
    "changelog": {
     "pair": "rv441",
     "path": "changelogs/rv441/changelog.json"
-   }
+   },
+   "appVersion": "0.5.417"
   },
   {
    "label": "rv442",
