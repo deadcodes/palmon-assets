@@ -1,17 +1,17 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv455",
+ "generatedFor": "rv456",
  "designWidth": 1080,
  "counts": {
   "panels": 1462,
   "registered": 929,
   "nodes": 109771,
-  "images": 41794,
+  "images": 41804,
   "missing": 6130
  },
  "diagnostics": {
   "GridLayoutGroup": 41,
-  "UImage": 295,
+  "UImage": 285,
   "URawImage": 1295
  },
  "panels": [
@@ -17626,7 +17626,7 @@
    "group": "component",
    "file": "index/ui-layouts/uiprotectingcoral_midautumnday.json",
    "nodes": 65,
-   "images": 22,
+   "images": 32,
    "texts": 6,
    "missing": 3
   },

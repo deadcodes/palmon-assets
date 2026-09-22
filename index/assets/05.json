@@ -12170,12 +12170,19 @@
    "path": "uiv3/texture/uiislandhome/p0000_fence.png",
    "kind": "texture",
    "firstSeen": "rv446",
-   "lastSeen": "rv446",
+   "lastSeen": "rv456",
    "history": [
     {
      "version": "rv446",
      "sha256": "0624b06a93f1d42105c0096cdd12a5015000af8dfbf857b8a6b70c3982a19991",
      "bytes": 409229,
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "version": "rv456",
+     "sha256": "09eb95ace71169308f9042b4c53542346120c2bc8ed0175d9032a10c9d2dd04a",
+     "bytes": 259806,
      "width": 1024,
      "height": 1024
     }

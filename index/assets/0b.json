@@ -11607,12 +11607,19 @@
    "path": "uiv3/texture/uiislandhome/p0000_fence_s.png",
    "kind": "texture",
    "firstSeen": "rv446",
-   "lastSeen": "rv446",
+   "lastSeen": "rv456",
    "history": [
     {
      "version": "rv446",
      "sha256": "58f2b94316284243713517f66f9c46f63fbe20b39f9d732fd81fc8733c864f8a",
      "bytes": 35856,
+     "width": 256,
+     "height": 256
+    },
+    {
+     "version": "rv456",
+     "sha256": "286a052ae02b8ed355da4da9561fb61cfb11670fe1b22b0da7fca0a4f3b9899b",
+     "bytes": 27496,
      "width": 256,
      "height": 256
     }
@@ -11622,12 +11629,19 @@
    "path": "uiv3/texture/uiislandhome/p0000_road_04.png",
    "kind": "texture",
    "firstSeen": "rv446",
-   "lastSeen": "rv446",
+   "lastSeen": "rv456",
    "history": [
     {
      "version": "rv446",
      "sha256": "ae5a1b82e0938233faba84fb6ed537a8455d69deba026bd2e74f26624803285f",
      "bytes": 440165,
+     "width": 1024,
+     "height": 1024
+    },
+    {
+     "version": "rv456",
+     "sha256": "21812de4a90e67ab893e76422bcc20ec26f0316925a97c9773a3876de295a49b",
+     "bytes": 307770,
      "width": 1024,
      "height": 1024
     }

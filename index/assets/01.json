@@ -12202,12 +12202,19 @@
    "path": "uiv3/texture/uiislandhome/p0000_road_04_s.png",
    "kind": "texture",
    "firstSeen": "rv446",
-   "lastSeen": "rv446",
+   "lastSeen": "rv456",
    "history": [
     {
      "version": "rv446",
      "sha256": "0947f6eeba299b416f2136b3925215a7ff79d7fbea52856030317d7cdff0e789",
      "bytes": 57326,
+     "width": 256,
+     "height": 256
+    },
+    {
+     "version": "rv456",
+     "sha256": "e84aacb078d954eca9ab8bb7f0720401d85608b620889010621c1b65aebe8440",
+     "bytes": 40709,
      "width": 256,
      "height": 256
     }
