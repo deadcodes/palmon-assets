@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv454",
+    "new": "rv455"
+  },
+  "generatedAtUtc": "2026-09-22T11:47:18Z",
+  "title": "Eliminate Poachers returns for later servers",
+  "summary": "A new Eliminate Poachers event entry opens for servers 277 and up, while the existing entry is capped to servers 144-276. The Purify Meowdame entries now show in the activity calendar with rewards attached.",
+  "highlights": [
+    "New Eliminate Poachers activity (id 1511006) for servers 277-9999, unlocking at main level 8.",
+    "The earlier Eliminate Poachers entry (id 1511002) now covers servers 144-276 instead of 144 and up.",
+    "Purify Meowdame (ids 2731001-2731003) is now shown rather than hidden, gains a calendar icon, and lists its rewards."
+  ],
+  "categories": []
+}
