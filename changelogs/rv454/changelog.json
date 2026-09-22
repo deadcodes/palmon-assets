@@ -1,0 +1,264 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv453",
+  "new": "rv454"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 30,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 1,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 2,
+  "otherRowsExcluded": 12,
+  "assetsNew": 0,
+  "assetsListed": 0,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 0,
+  "assetImageBytes": 112705,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 0,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 2
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "Gnashley (#205027)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Tail Flurry",
+           "kind": "bold"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiskillicon_card/HeroSkill_205027_2.png",
+           "version": "rv454",
+           "published": true,
+           "sha256": "f492997a62527520584fcf6abf1b505896c5c2520b446675c8985d3c8ebd4e93"
+          }
+         ],
+         "images": [],
+         "sub": [
+          {
+           "runs": [
+            {
+             "text": "Increased the super-evolve animation timeline from 247 to 248. (all levels)",
+             "kind": "text"
+            },
+            {
+             "text": " ↑",
+             "kind": "up"
+            }
+           ],
+           "icons": [],
+           "images": [],
+           "sub": [],
+           "levels": {},
+           "level_range": null,
+           "level_mode": "slider",
+           "level_label": "Level",
+           "level_group_id": null,
+           "overflow": null
+          }
+         ],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": {
+        "resource": "uiv3/texture/uiheroicon/Palmon_head_5027.png",
+        "version": "rv454",
+        "published": true,
+        "sha256": "096ca0ac2778960505706d717d4bbfc217e12a4cee518fa8e0df878014dfdc8a"
+       }
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Stat Curves",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Equipment Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Ace Trial Stages & Enemies",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "2 tables with 12 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: castle_skin (1), recharge (11).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": []
+  }
+ ],
+ "newAssets": []
+}
