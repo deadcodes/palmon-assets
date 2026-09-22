@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv456",
+    "new": "rv457"
+  },
+  "generatedAtUtc": "2026-09-22T14:32:18Z",
+  "title": "Wanderer reward preview halved, event banner copy swapped",
+  "summary": "A small data-only patch. All 25 wandering-monster herds have one entry in their reward preview cut from 2,000 to 1,000; this is the display-only show_item list, and the rewards the game actually hands out are untouched. The Palmon Refinement broadcast banners for Electric Palmon and Earth Palmon also trade slots, so the two events' copy swaps places.",
+  "highlights": [
+    "Wandering monsters: all 25 herds, from Mantleray School to Blazeal Pack, now preview one reward at 1,000 instead of 2,000.",
+    "That figure is the display-only preview; each herd's daily first-kill, rally-leader and squad-member reward lists are byte-for-byte unchanged.",
+    "Palmon Refinement events: the Electric Palmon and Earth Palmon broadcast banners swap slots, each event's three lines of copy trading places with the other's.",
+    "Nothing else shipped: the published bundle delta is season 0 only, and the one other changed file is a build stamp."
+  ],
+  "categories": [
+    {
+      "title": "Text & Localization",
+      "count": 12
+    }
+  ]
+}
