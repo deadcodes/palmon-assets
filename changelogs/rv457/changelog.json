@@ -1,0 +1,474 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv456",
+  "new": "rv457"
+ },
+ "counters": {
+  "added": 0,
+  "removed": 0,
+  "changed": 0,
+  "noiseSkipped": 0,
+  "languageEntries": 12,
+  "bullets": 12,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 1,
+  "otherRowsExcluded": 25,
+  "assetsNew": 0,
+  "assetsListed": 0,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 0,
+  "assetImageBytes": 0,
+  "assetsWithoutArt": 0,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 0,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 0,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 0,
+  "assetsNonRenderable": 0,
+  "assetsOutsideResourceTree": 0,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 0
+ },
+ "warnings": [],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Stat Curves",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Equipment Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Ace Trial Stages & Enemies",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "1 table with 25 changed rows is not shown here. Re-run with --include-other-data for the full audit view. Excluded: monster_wanderer (25).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": [
+    {
+     "title": "Localization by Key Family",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "activity (12)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_110_1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Electric Palmon arrive, boost your lineup's power!\" -> \"Earth Palmon arrive, build a solid defense!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_110_2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Meet Electric Palmon, collect your favorites, and discover fun new lineup combinations.\" -> \"Earth Palmon bring stronger defense and better battlefield control to your team.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_110_3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Invest resources wisely to unlock your Electric Palmon potential and turn them into a reliable force on the battlefield.\" -> \"Collect and train Earth Palmon to enhance your team's survivability and defense, securing steady advantages in prolonged battles.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_111_1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Earth Palmon arrive, build a solid defense!\" -> \"Electric Palmon arrive, boost your lineup's power!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_111_2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Earth Palmon bring stronger defense and better battlefield control to your team.\" -> \"Meet Electric Palmon, collect your favorites, and discover fun new lineup combinations.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_111_3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Collect and train Earth Palmon to enhance your team's survivability and defense, securing steady advantages in prolonged battles.\" -> \"Invest resources wisely to unlock your Electric Palmon potential and turn them into a reliable force on the battlefield.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_122_1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Electric Palmon arrive, boost your lineup's power!\" -> \"Earth Palmon arrive, build a solid defense!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_122_2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Meet Electric Palmon, collect your favorites, and discover fun new lineup combinations.\" -> \"Earth Palmon bring stronger defense and better battlefield control to your team.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_122_3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Invest resources wisely to unlock your Electric Palmon potential and turn them into a reliable force on the battlefield.\" -> \"Collect and train Earth Palmon to enhance your team's survivability and defense, securing steady advantages in prolonged battles.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_123_1",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Earth Palmon arrive, build a solid defense!\" -> \"Electric Palmon arrive, boost your lineup's power!\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_123_2",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Earth Palmon bring stronger defense and better battlefield control to your team.\" -> \"Meet Electric Palmon, collect your favorites, and discover fun new lineup combinations.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "activity_herorefine_broadcast_tip_123_3",
+           "kind": "code"
+          },
+          {
+           "text": ": \"Collect and train Earth Palmon to enhance your team's survivability and defense, securing steady advantages in prolonged battles.\" -> \"Invest resources wisely to unlock your Electric Palmon potential and turn them into a reliable force on the battlefield.\"",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": []
+  }
+ ],
+ "newAssets": []
+}
