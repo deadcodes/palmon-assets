@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv455",
+    "new": "rv456"
+  },
+  "generatedAtUtc": "2026-09-22T12:48:26Z",
+  "title": "Mail battle report guards against a missing defender",
+  "summary": "No game data changed in this version: no config tables, no text, and no new art. Two client scripts were fixed. PvP battle-record mail now checks that a battle record actually has a defending side before reading it, and the Alliance Boss panel moves its reservation time row in the China client build to the position the global build already used.",
+  "highlights": [
+    "Mail: the PvP battle result check now requires a battle record to have a defending side before reading its map-object type, instead of assuming one is present.",
+    "Mail: the red dot for PvP battle-record mail applies the same defending-side check, and resolves to no red dot when the record has none.",
+    "Alliance Boss: in the China client build only, the reservation time row moves from (0, -295.8) to (-95, -228.8), matching the position the global build already used."
+  ],
+  "categories": []
+}
