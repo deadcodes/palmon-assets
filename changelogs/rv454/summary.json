@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv453",
+    "new": "rv454"
+  },
+  "generatedAtUtc": "2026-09-22T11:47:18Z",
+  "title": "Gnashley's Tail Flurry animation retimed",
+  "summary": "A small maintenance update. Gnashley's skill Tail Flurry gets a new super-evolve animation timeline at every level; nothing else a player sees in game was changed.",
+  "highlights": [
+    "Gnashley (#205027): Tail Flurry's super-evolve animation timeline moves from 247 to 248 at all levels."
+  ],
+  "categories": [
+    {
+      "title": "Palmons",
+      "count": 1
+    }
+  ]
+}
