@@ -4,9 +4,21 @@
     "old": "rv440",
     "new": "rv441"
   },
-  "generatedAtUtc": "2026-09-06T11:13:14Z",
-  "title": "No player-facing changes",
-  "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
-  "highlights": [],
-  "categories": []
+  "generatedAtUtc": "2026-09-23T04:55:27Z",
+  "title": "Master's Trial power partly restored, high tiers hit hardest",
+  "summary": "One version after the big rescale, Master's Trial power moves back up across most of the ladder: tiers 1-5 and 13-50 rise while tiers 6-12 come down slightly, and the 350 NPC rows behind them shift to between 0.92x and 2.82x their previous stats. It is a genuine re-tune of that mode's difficulty curve rather than bookkeeping.",
+  "highlights": [
+    "Tier 1 monster power rises from 21,688,000 to 36,956,000; tier 50 from 171,679,000 to 289,685,000.",
+    "Tiers 6 to 12 are the only ones reduced, for example tier 7 from 57,360,000 to 55,204,000.",
+    "The increases steepen up the ladder: tier 25 rises from 117,708,000 to 148,628,000.",
+    "monster_npc attack and defence: 301 rows increased and 49 decreased, 0.92x to 2.59x previous (ids 230011-230507).",
+    "monster_npc health: 301 rows increased and 49 decreased, 0.92x to 2.82x previous, across the same rows.",
+    "NPC changes are reported as aggregate counts and factors only, so no individual monster row is named."
+  ],
+  "categories": [
+    {
+      "title": "General",
+      "count": 53
+    }
+  ]
 }
