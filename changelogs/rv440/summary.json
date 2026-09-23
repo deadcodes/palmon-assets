@@ -4,9 +4,23 @@
     "old": "rv439",
     "new": "rv440"
   },
-  "generatedAtUtc": "2026-09-06T11:13:14Z",
-  "title": "No player-facing changes",
-  "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
-  "highlights": [],
-  "categories": []
+  "generatedAtUtc": "2026-09-23T04:55:26Z",
+  "title": "Master's Trial rescaled far weaker across all 50 tiers",
+  "summary": "Every Master's Trial world-monster tier (ids 230001-230050) is rebuilt at a much lower scale. Listed monster power drops by roughly an order of magnitude at the low tiers and less than half at the top, and the 350 NPC rows behind them fall to between 1.6% and 25% of their previous attack, defence and health, with levels and star ratings cut to match. This is a real difficulty change to that mode, not bookkeeping.",
+  "highlights": [
+    "Tier 1 monster power falls from 218,176,000 to 21,688,000; tier 50 from 366,943,000 to 171,679,000.",
+    "Every tier's army number is cut, for example tier 1 from 3,000 to 2,500 and tier 50 from 6,000 to 5,000.",
+    "Each tier's army id moves from 20,008 down to 20,006 or 20,007.",
+    "monster_npc attack and defence drop to 1.9%-25.2% of their previous values across 350 rows (ids 230011-230507).",
+    "monster_npc health drops to 1.6%-25.1% of previous across the same 350 rows.",
+    "140 NPC rows drop in level, to between 66.7% and 98.3% of their previous level.",
+    "70 NPC rows drop in star rating, to between 60% and 80% of their previous value.",
+    "Rows are listed by id only; this pair was rendered without a recovery tree, so no icons or resolved NPC names are available."
+  ],
+  "categories": [
+    {
+      "title": "General",
+      "count": 146
+    }
+  ]
 }
