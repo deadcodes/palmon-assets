@@ -4,9 +4,18 @@
     "old": "rv421",
     "new": "rv422"
   },
-  "generatedAtUtc": "2026-09-03T10:23:22Z",
-  "title": "No player-facing changes",
-  "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
-  "highlights": [],
-  "categories": []
+  "generatedAtUtc": "2026-09-23T04:55:24Z",
+  "title": "Season 3 desert and King City matchups are filled in",
+  "summary": "Season 3's two cross-server matchmaking tables go from empty to populated: 32 desert match groups and 64 King City pairings. These rows decide which servers are grouped or paired against one another in those season 3 events; no event rules, rewards, text or art changed alongside them.",
+  "highlights": [
+    "s03_desert_match gains 32 entries (ids 1-32), each naming four server ids and an outpost flag.",
+    "s03_kingcity_match gains 64 entries (ids 1-64), each pairing one server against another.",
+    "Both tables were previously empty, so this is the season 3 bracket being seeded rather than an existing bracket being rebalanced."
+  ],
+  "categories": [
+    {
+      "title": "General",
+      "count": 2
+    }
+  ]
 }
