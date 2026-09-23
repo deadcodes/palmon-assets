@@ -4,12 +4,20 @@
     "old": "rv449",
     "new": "rv450"
   },
-  "generatedAtUtc": "2026-09-18T18:40:21Z",
-  "title": "Shortcut table re-pointed across 226 entries",
-  "summary": "Nothing visible to a player changed in this version's palmons, skills, items, systems, text or art. The only data change is the internal goto table, the where-do-I-get-this shortcuts: 226 entries are re-pointed to different descriptions, icons and destinations, and three are removed.",
+  "generatedAtUtc": "2026-09-23T05:26:31Z",
+  "title": "Activity shortcuts renumbered, Dojo Challenge added",
+  "summary": "The activity shortcut table, the jump buttons that send you to wherever an item or event lives, loses its four seasonal Rally, Explorers! entries and gains one for Dojo Challenge. Everything below that point keeps its meaning and simply slides down three row ids, so the 226 rows reported as changed are almost entirely a renumbering rather than new destinations.",
   "highlights": [
-    "226 goto shortcut entries change their description, icon or jump target, for example Dojo Challenge, VIP Shop, Black Friday Madness and Mariner's Hoard.",
-    "Three goto entries are removed: Desert Mastery, Daily Quests and Purchase Bundles."
+    "Four seasonal Rally, Explorers! shortcuts are removed and one new shortcut takes their place: Dojo Challenge, which jumps to the cross-server Dojo screen.",
+    "The remaining 222 shortcuts are unchanged in meaning, keeping their label, description, icon, destination and type, and only shift down by three row ids.",
+    "Verified field by field: 181 of 181 types, 175 of 176 descriptions, 160 of 161 labels and icons, and 130 of 131 jump targets match the entry three rows higher in the previous version.",
+    "Desert Mastery, Daily Quests and Purchase Bundles are still present; they move from rows 1050 to 1052 down to rows 1047 to 1049 rather than being removed.",
+    "The table goes from 1,052 to 1,049 shortcut entries."
   ],
-  "categories": []
+  "categories": [
+    {
+      "title": "General",
+      "count": 15
+    }
+  ]
 }
