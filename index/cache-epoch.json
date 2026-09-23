@@ -1,5 +1,5 @@
 {
  "schemaVersion": 1,
- "epoch": "2026-09-23T00:00:00Z",
- "reason": "re-authored summaries for rv422, rv430, rv440, rv441, rv444 and rv455: limit_activity, monster, monster_npc, gift and the season matchmaking tables gained changelog sections, so versions previously rendered as 'No player-facing changes' now carry real content"
+ "epoch": "2026-09-23T01:00:00Z",
+ "reason": "re-authored summaries for rv433 and rv450: power_detail and goto gained changelog sections, so both now carry real content (rv433 rescaled the recommended-power targets; rv450 renumbered the activity shortcuts)"
 }
