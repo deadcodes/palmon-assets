@@ -4,9 +4,16 @@
     "old": "rv423",
     "new": "rv424"
   },
-  "generatedAtUtc": "2026-09-03T10:23:22Z",
-  "title": "No player-facing changes",
-  "summary": "This version changed server-side data only (excluded tables such as gift or GM bookkeeping); nothing a player sees in game was modified.",
-  "highlights": [],
+  "generatedAtUtc": "2026-09-23T06:03:27Z",
+  "title": "Trainer Tasks unlock only inside their season day window",
+  "summary": "No game data changed in this version: no config tables, no text, and no new art. Two client scripts were changed. Trainer Tasks now unlock only while the current season's open-day count falls inside the day window configured for that task group, where previously a matching season number alone was enough, and the Challenge Dojo opponent list stops reading rank data for a badge tier it has not loaded.",
+  "highlights": [
+    "Trainer Tasks: unlocking now also requires the task group to belong to the current season's group range and the season's open days to fall inside that group's configured day window, not just a matching season number.",
+    "Trainer Tasks: if the season has no task groups at all, the tasks now stay locked rather than unlocking on a season-number match.",
+    "Trainer Tasks: the unlock check builds the task group table on demand if missing, the season group range returns an empty range instead of reading a missing table, and the server id falls back to 0.",
+    "Trainer Tasks: the group completion check now confirms the requested group exists before iterating it.",
+    "Challenge Dojo: the opponent list accessors, the load-more check and the list refresh now return early when the selected badge tier has no rank data loaded, instead of indexing straight into it.",
+    "Challenge Dojo: the opponent list now refreshes only on a player-info response for the badge tier it requested, so a response for another tier no longer repaints the list."
+  ],
   "categories": []
 }
