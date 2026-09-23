@@ -4,12 +4,18 @@
     "old": "rv443",
     "new": "rv444"
   },
-  "generatedAtUtc": "2026-09-18T18:40:14Z",
-  "title": "Cross-Server Arena locks its challenge buttons until opponents load",
-  "summary": "No text, art or player-facing config changed in this version. The only changes are to client screens: the Cross-Server Arena challenge list now locks its buttons until the newest opponent list has arrived, and an opponent's displayed power is read from a different source.",
+  "generatedAtUtc": "2026-09-23T04:55:27Z",
+  "title": "Cross-Server Arena button lockout, and one event switched off",
+  "summary": "One limited-time activity entry (id 2080001) is disabled. The rest of the change is to client screens: the Cross-Server Arena challenge list now locks its buttons until the newest opponent list has arrived, and an opponent's displayed power is read from a different source.",
   "highlights": [
+    "Limited-time activity entry 2080001 is turned off; its label resolves only to the generic string More, so the exact event it gates cannot be named from the data.",
     "Cross-Server Arena: the challenge, detail and refresh buttons stay greyed out until the latest opponent list comes back, so a stale opponent can no longer be entered.",
     "Cross-Server Arena: an opponent's displayed power now comes from their base info rather than their ranking record."
   ],
-  "categories": []
+  "categories": [
+    {
+      "title": "General",
+      "count": 1
+    }
+  ]
 }
