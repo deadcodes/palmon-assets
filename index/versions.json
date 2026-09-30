@@ -910,6 +910,28 @@
     "path": "changelogs/rv459/changelog.json"
    },
    "appVersion": "0.5.417"
+  },
+  {
+   "label": "rv460",
+   "tag": "rv460",
+   "order": 460,
+   "publishedAtUtc": "2026-09-30T13:09:12.103909+00:00",
+   "sprites": "measured",
+   "counts": {
+    "textures": 5585,
+    "sprites": 7458,
+    "builder": 0,
+    "added": 0,
+    "modified": 0,
+    "removed": 0,
+    "renamed": 0,
+    "ambiguousSkipped": 0
+   },
+   "changelog": {
+    "pair": "rv460",
+    "path": "changelogs/rv460/changelog.json"
+   },
+   "appVersion": "0.5.417"
   }
  ]
 }
