@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv458",
+    "new": "rv459"
+  },
+  "generatedAtUtc": "2026-09-30T13:21:25Z",
+  "title": "Trial Points Chest, Ruins Pro challenge data and a Migration Mania refresh",
+  "summary": "Adds the Trial Points Chest, an orange treasure chest obtained from Palmon Trials that opens for Trial Points and other rare rewards. A new ruins_challenge_pro config group arrives with new Ruins Pro stage, NPC and hero tables, backed by 33 new assets that are mostly Ruin tower UI art. Nine new Migration Mania events are added and 55 older ones are removed.",
+  "highlights": [
+    "New item: Trial Points Chest (#10708), orange quality, obtained from Palmon Trials and opened for Trial Points and various other rare rewards.",
+    "New ruins_challenge_pro config group, plus new Ruins Pro stage, stage NPC and hero tables.",
+    "Migration Mania: 9 new limited-time events (#2120060 to #2120068) added and 55 older events (#2120002 to #2120057) removed.",
+    "Person hide power coefficient function changes from 799 x proportion^1.3 + 1 to 4 x (proportion / 0.004)^1.512197 + 1.",
+    "Server red rank is set to [[8,2],[16,4],[32,6],[48,7],[64,8]].",
+    "6,280 gift entries added (ids 101902 to 108181); one parameter increases from 341 to 10,708.",
+    "33 new assets, mostly Ruin tower sprites and textures; 10 prefab effects are registered but have no art exported yet."
+  ],
+  "categories": [
+    {
+      "title": "Items",
+      "count": 1
+    },
+    {
+      "title": "General",
+      "count": 69
+    },
+    {
+      "title": "Assets",
+      "count": 33
+    }
+  ]
+}
