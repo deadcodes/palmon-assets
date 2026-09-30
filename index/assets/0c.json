@@ -7990,10 +7990,26 @@
    "atlas": "A_UIRoyalWar"
   },
   {
+   "path": "sprites/A_UIRuin/tower_icon_settlebg2.png",
+   "kind": "sprite",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "a1344aa5d84fbd501194630ddd98c79817571bfcfa2262d8c22abaf925b0c4d7",
+     "bytes": 14059,
+     "width": 206,
+     "height": 104
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
    "path": "sprites/A_UIRuin/tower_pic_floorlock.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -8008,6 +8024,13 @@
      "bytes": 5945,
      "width": 77,
      "height": 90
+    },
+    {
+     "version": "rv459",
+     "sha256": "f7539a3239b57f736834c624ad2bd18714040e2e25c2c43e4e57a0fdaf3267cc",
+     "bytes": 5875,
+     "width": 77,
+     "height": 90
     }
    ],
    "atlas": "A_UIRuin"
@@ -8016,7 +8039,7 @@
    "path": "sprites/A_UIRuin/tower_pic_skymask.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -8031,6 +8054,13 @@
      "bytes": 8351,
      "width": 40,
      "height": 400
+    },
+    {
+     "version": "rv459",
+     "sha256": "449d90117b6bc4a9de1c1aa00dbebe24835b62a433f8db1fdbcb19c4a745b8ab",
+     "bytes": 8518,
+     "width": 40,
+     "height": 400
     }
    ],
    "atlas": "A_UIRuin"
@@ -8039,12 +8069,19 @@
    "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_1.png",
    "kind": "sprite",
    "firstSeen": "rv436",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv436",
      "sha256": "bd2ecd1aa12795a7fbe2ea8bff8b0585397ad177ebb41742331535bf6be4e83b",
      "bytes": 21297,
+     "width": 125,
+     "height": 125
+    },
+    {
+     "version": "rv459",
+     "sha256": "3584eaa91ece8ede8235ae8a588e13c3c3ffb0018a90e2376112ff6432f52478",
+     "bytes": 20471,
      "width": 125,
      "height": 125
     }

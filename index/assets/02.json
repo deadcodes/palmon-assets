@@ -3467,7 +3467,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_category02.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3484,6 +3484,13 @@
      "version": "rv428",
      "sha256": "068dcc5f6907f6756b261aa23ca26256ff57c9f075d96e734236e1aed1d1ac88",
      "bytes": 283,
+     "width": 24,
+     "height": 24
+    },
+    {
+     "version": "rv459",
+     "sha256": "78f79f937888ab9880e89c44c60cb4ac2a87c6b80690e5f40b63f273b23923ee",
+     "bytes": 275,
      "width": 24,
      "height": 24
     }
@@ -7546,12 +7553,19 @@
    "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_3.png",
    "kind": "sprite",
    "firstSeen": "rv436",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv436",
      "sha256": "c218d496bc62c7c1fc96ac56057ee2c6555d06fe7c8574501f69659db1a03ae1",
      "bytes": 23717,
+     "width": 125,
+     "height": 125
+    },
+    {
+     "version": "rv459",
+     "sha256": "c37cc12f5fffd3fcc4bd9f56c15c450fa3e2be37fe692d4d748cab78663c4d36",
+     "bytes": 24657,
      "width": 125,
      "height": 125
     }
@@ -7562,7 +7576,7 @@
    "path": "sprites/A_UIRuin/trial_pic_2.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7575,6 +7589,13 @@
      "version": "rv436",
      "sha256": "3d0610193a36cc89f56f63d98bfedb1258ed3e0e31273a2e34ccdfa1b51a7880",
      "bytes": 1547,
+     "width": 40,
+     "height": 43
+    },
+    {
+     "version": "rv459",
+     "sha256": "10e349b625533321c9c5074e8f347ab046c85702b58bdf93951545c48c0e6b23",
+     "bytes": 1538,
      "width": 40,
      "height": 43
     }
@@ -9971,6 +9992,21 @@
      "bytes": 11835,
      "width": 350,
      "height": 219
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground2.png",
+   "kind": "texture",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "3d6d9693e4d9604a3bd4e0f068faf3b19f05596571a6759b5e8ffffa25384974",
+     "bytes": 70862,
+     "width": 316,
+     "height": 512
     }
    ]
   },

@@ -3432,7 +3432,7 @@
    "path": "sprites/A_UIDesertTech/Desert_image_sharereward.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3449,6 +3449,13 @@
      "version": "rv428",
      "sha256": "b79e2990b6874b8033a9b4153ada13aa37cf88df133179edceddd832819c6830",
      "bytes": 876,
+     "width": 82,
+     "height": 44
+    },
+    {
+     "version": "rv459",
+     "sha256": "06493819d61441fb9072e3db63c09600bd5fe4ad5fef3b6472eab8ed35fa9aa3",
+     "bytes": 985,
      "width": 82,
      "height": 44
     }
@@ -7206,12 +7213,19 @@
    "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_4.png",
    "kind": "sprite",
    "firstSeen": "rv436",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv436",
      "sha256": "4815a05bf726fe383d5ad2870c6e4965d4b13ab14f7ea87f8999e022dc673682",
      "bytes": 23247,
+     "width": 125,
+     "height": 125
+    },
+    {
+     "version": "rv459",
+     "sha256": "f46abfbc83ea16a46848c44ebcd32e8badfbe9ce441f3de1cbe5d2f9a7692ba5",
+     "bytes": 22183,
      "width": 125,
      "height": 125
     }
@@ -7222,7 +7236,7 @@
    "path": "sprites/A_UIRuin/trial_pic_5.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7235,6 +7249,13 @@
      "version": "rv436",
      "sha256": "dabe3ca12c46e1088da77d44d1eb534ae8299e178f41d8498a28fcdb03eff87a",
      "bytes": 2351,
+     "width": 51,
+     "height": 45
+    },
+    {
+     "version": "rv459",
+     "sha256": "6812020b2da55edc6122a9d7eb7dbe1f4ea8dbd081804d2a84e43f4d2101aa6e",
+     "bytes": 2387,
      "width": 51,
      "height": 45
     }

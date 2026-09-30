@@ -1,9 +1,9 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv458",
+ "generatedFor": "rv459",
  "totals": {
-  "textures": 5576,
-  "sprites": 7444,
+  "textures": 5585,
+  "sprites": 7458,
   "builder": 0,
   "panels": 0
  },
@@ -11,98 +11,98 @@
   {
    "id": "00",
    "file": "index/assets/00.json",
-   "count": 774,
-   "bytes": 307534
+   "count": 778,
+   "bytes": 310056
   },
   {
    "id": "01",
    "file": "index/assets/01.json",
-   "count": 791,
-   "bytes": 322073
+   "count": 795,
+   "bytes": 324392
   },
   {
    "id": "02",
    "file": "index/assets/02.json",
-   "count": 823,
-   "bytes": 328573
+   "count": 824,
+   "bytes": 329468
   },
   {
    "id": "03",
    "file": "index/assets/03.json",
    "count": 814,
-   "bytes": 325900
+   "bytes": 326433
   },
   {
    "id": "04",
    "file": "index/assets/04.json",
-   "count": 804,
-   "bytes": 319260
+   "count": 807,
+   "bytes": 321378
   },
   {
    "id": "05",
    "file": "index/assets/05.json",
-   "count": 828,
-   "bytes": 331323
+   "count": 830,
+   "bytes": 333114
   },
   {
    "id": "06",
    "file": "index/assets/06.json",
-   "count": 848,
-   "bytes": 334308
+   "count": 849,
+   "bytes": 335022
   },
   {
    "id": "07",
    "file": "index/assets/07.json",
-   "count": 814,
-   "bytes": 323579
+   "count": 816,
+   "bytes": 325179
   },
   {
    "id": "08",
    "file": "index/assets/08.json",
    "count": 830,
-   "bytes": 333434
+   "bytes": 333967
   },
   {
    "id": "09",
    "file": "index/assets/09.json",
    "count": 789,
-   "bytes": 309199
+   "bytes": 310088
   },
   {
    "id": "0a",
    "file": "index/assets/0a.json",
-   "count": 791,
-   "bytes": 310205
+   "count": 792,
+   "bytes": 311268
   },
   {
    "id": "0b",
    "file": "index/assets/0b.json",
    "count": 803,
-   "bytes": 317046
+   "bytes": 317400
   },
   {
    "id": "0c",
    "file": "index/assets/0c.json",
-   "count": 847,
-   "bytes": 341240
+   "count": 848,
+   "bytes": 342134
   },
   {
    "id": "0d",
    "file": "index/assets/0d.json",
-   "count": 787,
-   "bytes": 308458
+   "count": 788,
+   "bytes": 309526
   },
   {
    "id": "0e",
    "file": "index/assets/0e.json",
-   "count": 849,
-   "bytes": 339020
+   "count": 850,
+   "bytes": 340624
   },
   {
    "id": "0f",
    "file": "index/assets/0f.json",
-   "count": 842,
-   "bytes": 334858
+   "count": 844,
+   "bytes": 336108
   }
  ],
  "categories": [
@@ -416,7 +416,7 @@
   },
   {
    "path": "sprites/A_UIDesertTech",
-   "count": 21
+   "count": 22
   },
   {
    "path": "sprites/A_UIDojo",
@@ -692,7 +692,7 @@
   },
   {
    "path": "sprites/A_UIRuin",
-   "count": 58
+   "count": 71
   },
   {
    "path": "sprites/A_UISandwich",
@@ -1116,7 +1116,7 @@
   },
   {
    "path": "uiv3/texture/_static_uipanel/uiruin",
-   "count": 24
+   "count": 32
   },
   {
    "path": "uiv3/texture/_static_uipanel/uiseasonjourney",
@@ -1356,7 +1356,7 @@
   },
   {
    "path": "uiv3/texture/uiitem",
-   "count": 531
+   "count": 532
   },
   {
    "path": "uiv3/texture/uimilestone",
@@ -1712,6 +1712,7 @@
   "rv455",
   "rv456",
   "rv457",
-  "rv458"
+  "rv458",
+  "rv459"
  ]
 }

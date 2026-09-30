@@ -1,0 +1,3012 @@
+{
+ "schemaVersion": 1,
+ "pair": {
+  "old": "rv458",
+  "new": "rv459"
+ },
+ "counters": {
+  "added": 6291,
+  "removed": 55,
+  "changed": 3,
+  "noiseSkipped": 0,
+  "languageEntries": 0,
+  "bullets": 103,
+  "imagesMissing": 0,
+  "otherTablesExcluded": 12,
+  "otherRowsExcluded": 38793,
+  "assetsNew": 33,
+  "assetsListed": 33,
+  "assetsNotListed": 0,
+  "assetImagesCopied": 23,
+  "assetImageBytes": 6643635,
+  "assetsWithoutArt": 10,
+  "assetsBudgetSkipped": 0,
+  "assetsCategoryNotExported": 0,
+  "assetsConfigAheadOfArt": 10,
+  "assetsNoRecoveryRoot": 0,
+  "assetsImagesDisabled": 0,
+  "resourceRowsChanged": 0,
+  "assetsFromRegistry": 19,
+  "assetsFromContentHash": 0,
+  "assetsFromBoth": 0,
+  "assetsFromSpriteCrop": 14,
+  "assetsNonRenderable": 2,
+  "assetsOutsideResourceTree": 27,
+  "assetContentDiffRequested": 1,
+  "imagesCopied": 24
+ },
+ "warnings": [
+  "New assets: 10 are registered but had no art exported.",
+  "Table `ruins_pro_hero` is entirely added in this diff (588 rows).",
+  "Table `ruins_pro_stage` is entirely added in this diff (9600 rows).",
+  "Table `ruins_pro_stage_npc` is entirely added in this diff (67200 rows)."
+ ],
+ "categories": [
+  {
+   "title": "Palmons",
+   "sections": [
+    {
+     "title": "New Palmons",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "New Evolutions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Potency Additions",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Skill & Balance Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Data Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Palmon Stat Curves",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Items",
+   "sections": [
+    {
+     "title": "New Items",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Trial Points Chest",
+         "kind": "bold"
+        },
+        {
+         "text": " (#10708): New item.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [
+        {
+         "resource": "uiv3/texture/uiitem/item_icon_Trial.png",
+         "version": "rv459",
+         "published": true,
+         "sha256": "d6291fbb62453ff1a5b8e0f05fa0a59557cb1d107c3899d3033596f294b3acbf"
+        }
+       ],
+       "sub": [
+        {
+         "runs": [
+          {
+           "text": "Quality: orange (legendary)",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Type: treasure chest",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Description: Obtained from Palmon Trials. Open to randomly receive Trial Points and various other rare rewards.",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Item Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Equipment Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Armigos",
+   "sections": [
+    {
+     "title": "Armigo Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Mounts",
+   "sections": [
+    {
+     "title": "Mount Changes",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "General",
+   "sections": [
+    {
+     "title": "New Buff Effects",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Systems & Constants",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "ruins_challenge_pro",
+         "kind": "bold"
+        },
+        {
+         "text": ": New config group (6 field(s)).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [
+      {
+       "title": "transfer_server",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "Updated the person hide power coefficient function from \"function(proportion)\n            return  799 * (proportion^1.3) / 1 + 1\n        end\" to \"function(proportion)\n            return  4 * (proportion / 0.004) ^ 1.512197 + 1\n        end\".",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "Set the server red rank to [[8,2],[16,4],[32,6],[48,7],[64,8]].",
+           "kind": "text"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Ace Trial Stages & Enemies",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Achievements / Buff Words",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Limited-Time Events",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120060)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120060): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120061)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120061): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120062)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120062): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120063)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120063): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120064)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120064): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120065)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120065): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120066)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120066): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120067)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120067): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120068)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120068): New limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120002)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120002): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120003)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120003): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120004)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120004): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120005)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120005): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120006)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120006): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120007)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120007): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120008)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120008): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120009)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120009): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120010)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120010): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120011)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120011): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120012)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120012): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120013)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120013): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120014)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120014): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120015)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120015): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120016)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120016): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120017)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120017): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120018)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120018): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120019)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120019): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120020)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120020): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120021)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120021): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120022)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120022): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120023)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120023): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120024)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120024): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120025)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120025): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120026)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120026): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120027)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120027): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120028)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120028): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120029)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120029): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120030)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120030): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120031)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120031): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120032)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120032): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120033)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120033): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120034)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120034): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120035)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120035): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120036)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120036): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120037)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120037): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120038)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120038): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120039)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120039): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120040)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120040): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120041)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120041): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120042)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120042): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120043)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120043): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120044)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120044): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120045)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120045): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120046)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120046): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120047)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120047): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120048)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120048): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120049)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120049): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120051)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120051): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120052)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120052): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120053)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120053): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120054)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120054): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120055)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120055): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120056)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120056): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Migration Mania (#2120057)",
+         "kind": "bold"
+        },
+        {
+         "text": " (#2120057): Removed limited-time event.",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "World Monsters",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Gifts & Rewards",
+     "entries": [
+      {
+       "runs": [
+        {
+         "text": "gift",
+         "kind": "bold"
+        },
+        {
+         "text": ": 6280 gift entries added (ids 101902-108181).",
+         "kind": "text"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      },
+      {
+       "runs": [
+        {
+         "text": "Increased the parameter from 341 to 10,708. (#13425)",
+         "kind": "text"
+        },
+        {
+         "text": " ↑",
+         "kind": "up"
+        }
+       ],
+       "icons": [],
+       "images": [],
+       "sub": [],
+       "levels": {},
+       "level_range": null,
+       "level_mode": "slider",
+       "level_label": "Level",
+       "level_group_id": null,
+       "overflow": null
+      }
+     ],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Season Matchmaking",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Recommended Power",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Activity Shortcuts",
+     "entries": [],
+     "subsections": [],
+     "note": null,
+     "cards": [],
+     "icon": null
+    },
+    {
+     "title": "Other data changes",
+     "entries": [],
+     "subsections": [],
+     "note": "12 tables with 38793 changed rows are not shown here. Re-run with --include-other-data for the full audit view. Excluded: PanelTitle (1), challenge_management (1), drop (16), recharge (3), recharge_product (25), redpoint (4), ruins_pro_hero (294), ruins_pro_stage (4800), ruins_pro_stage_npc (33600), season_cross_server_team (10), season_open (15), treasure_hunt_task (24).",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  },
+  {
+   "title": "Text & Localization",
+   "sections": []
+  },
+  {
+   "title": "Appendix: Asset Registry",
+   "sections": [
+    {
+     "title": "Asset Registry",
+     "entries": [],
+     "subsections": [
+      {
+       "title": "`models/prefabs` (10)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_level",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_level1_win",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level1_win.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_level2",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level2.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_level2_win",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level2_win.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_level2_win1",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level2_win1.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_level_jian",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level_jian.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_pro_flat_01",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_pro_flat_01.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_pro_flat_02",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_pro_flat_02.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_pro_flat_03",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_pro_flat_03.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "gfx_uiruin_pro_flat_04",
+           "kind": "code"
+          },
+          {
+           "text": " ",
+           "kind": "text"
+          },
+          {
+           "text": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_pro_flat_04.png",
+           "kind": "muted"
+          }
+         ],
+         "icons": [],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UIDesertTech` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "main_btn_event_deserttech",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIDesertTech/main_btn_event_deserttech.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "417508f5991139f94ff59b41b78b0f364ed4abda8d36ec27789c5d8c7c629121"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`sprites/A_UIRuin` (13)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "tower_bg_reward",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_bg_reward.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "0ac9ef0c3451a6b76498911c6149efb6900791c29e058e220088d3a63e08c1cc"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_LevelFirsttime",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_LevelFirsttime.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "02f8ba75314cee113258e7ac46935cad0d1c72aaa829e09ddffa478ce1f13059"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_pamon",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_pamon.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "640e4ff571af5a984a2a87e4e72dfa5cc1e6d569e51f2571f2c5728c833f824f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_RankingList",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_RankingList.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "ac5da7cd4e765cc5fb80f80818de28cba239b324e8fe7bb2bcc2d039738c1d83"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_RewardFirsttime",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_RewardFirsttime.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "12532ffc04184ddb0d64d483a4b2d12a944e57f246fbce2684c79ebfa9f6c3ad"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_settlebg1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_settlebg1.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "28aef2933e74351efb6679a3d9bb7a734a6d3cd4bad83583722fc57ca08ed90a"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_settlebg2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_settlebg2.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "a1344aa5d84fbd501194630ddd98c79817571bfcfa2262d8c22abaf925b0c4d7"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_settlebg3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_settlebg3.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "59f3f03dfc9df3207630b10e87e69cb37207d52f28915331fc86f37075380992"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_settlebg4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_settlebg4.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "69f4d0162f36c85a07ab6df7f6a8bc2b05d13777d883bbd0fe91fbfa56857022"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_shop",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_shop.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "8821b69bd968341d3eaaea78e1d1e7e24972b40b4fabc1c58f9bc4fda2445930"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_Turnthepage",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_icon_Turnthepage.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "9fe92051f3ecbe5a929711fedb37981e3dc8bc63919442a7cc22785233c4207e"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_pic_floor3_4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_pic_floor3_4.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "d617e196daef69099dfe43634405e84b785a7b3d4b26624d763c2d5b89049563"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_pic_floor3_5",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "Discovered Assets/Spritesheets/A_UIRuin/tower_pic_floor3_5.png",
+           "version": "rv459",
+           "published": false,
+           "sha256": "a3e0b1457a54157e2045f94c745557d677119b5be9453b031199cc08df4bd5bc"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/_static_uipanel/uiruin` (8)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "tower_bg_part1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part1.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "5f48e33d0c4507c6630cb4095b20a6f242dde9e29ee85e3fcd8bdad421961106"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_bg_part2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part2.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "285094225151f985dc52dfa4b761a4167ab8e578ec31f38c06a767727f760c42"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_bg_part3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part3.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "2376f89f907a20c71c0b6b2cbd41e8072ab84c5ac15575114f982b110dbb2e6b"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_bg_part4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part4.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "10382abfb7085428f8f14b4f1943765192f9201e3bfa380fe1d6521722eee38f"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_levelbackground1",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground1.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "9a4f6372ef8d3aa039017e7326a26f90971585e541ed408e8366cba945db1fcc"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_levelbackground2",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground2.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "3d6d9693e4d9604a3bd4e0f068faf3b19f05596571a6759b5e8ffffa25384974"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_levelbackground3",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground3.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "2a91502e1c89c69373df266db612c256bd012f435e104a0b112fd970d1f63d7c"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        },
+        {
+         "runs": [
+          {
+           "text": "tower_icon_levelbackground4",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground4.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "c254cc497adb1d3e3c0741e4ecba220ab25effd1bdbefbaa157eb5daa0b5bf28"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      },
+      {
+       "title": "`uiv3/texture/uiitem` (1)",
+       "entries": [
+        {
+         "runs": [
+          {
+           "text": "item_icon_trial",
+           "kind": "code"
+          }
+         ],
+         "icons": [
+          {
+           "resource": "uiv3/texture/uiitem/item_icon_Trial.png",
+           "version": "rv459",
+           "published": true,
+           "sha256": "d6291fbb62453ff1a5b8e0f05fa0a59557cb1d107c3899d3033596f294b3acbf"
+          }
+         ],
+         "images": [],
+         "sub": [],
+         "levels": {},
+         "level_range": null,
+         "level_mode": "slider",
+         "level_label": "Level",
+         "level_group_id": null,
+         "overflow": null
+        }
+       ],
+       "subsections": [],
+       "note": null,
+       "cards": [],
+       "icon": null
+      }
+     ],
+     "note": "10 of 33 new assets have no image: 10 registered but with no art exported at their path (config ahead of art, a normal state in this game's data). 2 non-renderable file(s) (Unity sprite metadata sidecars) were excluded from this list. 27 added file(s) outside works/resources/ with no resource path were excluded from this list.",
+     "cards": [],
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "newAssets": [
+  {
+   "canonical": "models/prefabs/gfx_uiruin_level",
+   "path": "models/prefabs/gfx_uiruin_level",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_level1_win",
+   "path": "models/prefabs/gfx_uiruin_level1_win",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level1_win.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_level2",
+   "path": "models/prefabs/gfx_uiruin_level2",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level2.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_level2_win",
+   "path": "models/prefabs/gfx_uiruin_level2_win",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level2_win.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_level2_win1",
+   "path": "models/prefabs/gfx_uiruin_level2_win1",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level2_win1.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_level_jian",
+   "path": "models/prefabs/gfx_uiruin_level_jian",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_level_jian.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_pro_flat_01",
+   "path": "models/prefabs/gfx_uiruin_pro_flat_01",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_pro_flat_01.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_pro_flat_02",
+   "path": "models/prefabs/gfx_uiruin_pro_flat_02",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_pro_flat_02.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_pro_flat_03",
+   "path": "models/prefabs/gfx_uiruin_pro_flat_03",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_pro_flat_03.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "models/prefabs/gfx_uiruin_pro_flat_04",
+   "path": "models/prefabs/gfx_uiruin_pro_flat_04",
+   "sources": [
+    "registry"
+   ],
+   "resolved": false,
+   "reason": "registered but no art exported at works/resources/models/prefabs/gfx_uiruin_pro_flat_04.png",
+   "output": null,
+   "sizeBytes": null
+  },
+  {
+   "canonical": "sprites/a_uideserttech/main_btn_event_deserttech",
+   "path": "sprites/A_UIDesertTech/main_btn_event_deserttech.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-main_btn_event_deserttech-9ffa3f1b.png",
+   "sizeBytes": 16905
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_bg_reward",
+   "path": "sprites/A_UIRuin/tower_bg_reward.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_bg_reward-d11536e7.png",
+   "sizeBytes": 3896
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_levelfirsttime",
+   "path": "sprites/A_UIRuin/tower_icon_LevelFirsttime.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_levelfirsttime-4a85d95c.png",
+   "sizeBytes": 6302
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_pamon",
+   "path": "sprites/A_UIRuin/tower_icon_pamon.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_pamon-a4f09658.png",
+   "sizeBytes": 15577
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_rankinglist",
+   "path": "sprites/A_UIRuin/tower_icon_RankingList.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_rankinglist-c3cc68bb.png",
+   "sizeBytes": 6821
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_rewardfirsttime",
+   "path": "sprites/A_UIRuin/tower_icon_RewardFirsttime.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_rewardfirsttime-e3d10f74.png",
+   "sizeBytes": 890
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_settlebg1",
+   "path": "sprites/A_UIRuin/tower_icon_settlebg1.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_settlebg1-ffa59ff8.png",
+   "sizeBytes": 12871
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_settlebg2",
+   "path": "sprites/A_UIRuin/tower_icon_settlebg2.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_settlebg2-f1cad1ac.png",
+   "sizeBytes": 14059
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_settlebg3",
+   "path": "sprites/A_UIRuin/tower_icon_settlebg3.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_settlebg3-022badaf.png",
+   "sizeBytes": 8015
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_settlebg4",
+   "path": "sprites/A_UIRuin/tower_icon_settlebg4.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_settlebg4-8ab31621.png",
+   "sizeBytes": 5203
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_shop",
+   "path": "sprites/A_UIRuin/tower_icon_shop.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_shop-9e2194af.png",
+   "sizeBytes": 8325
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_icon_turnthepage",
+   "path": "sprites/A_UIRuin/tower_icon_Turnthepage.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_turnthepage-97b42b23.png",
+   "sizeBytes": 764
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_pic_floor3_4",
+   "path": "sprites/A_UIRuin/tower_pic_floor3_4.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_pic_floor3_4-5804f383.png",
+   "sizeBytes": 10584
+  },
+  {
+   "canonical": "sprites/a_uiruin/tower_pic_floor3_5",
+   "path": "sprites/A_UIRuin/tower_pic_floor3_5.png",
+   "sources": [
+    "spriteCrop"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_pic_floor3_5-1a66cdc0.png",
+   "sizeBytes": 9804
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part1",
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part1.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_bg_part1-82dab83f.png",
+   "sizeBytes": 1437483
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part2",
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part2.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_bg_part2-59aeefee.png",
+   "sizeBytes": 1508745
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part3",
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_bg_part3-090ad5d2.png",
+   "sizeBytes": 1490698
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part4",
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_bg_part4-9cf43a44.png",
+   "sizeBytes": 1604852
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiruin/tower_icon_levelbackground1",
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground1.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_levelbackground1-e2437806.png",
+   "sizeBytes": 72000
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiruin/tower_icon_levelbackground2",
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground2.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_levelbackground2-72fe8f1d.png",
+   "sizeBytes": 70862
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiruin/tower_icon_levelbackground3",
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground3.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_levelbackground3-a2ccb36a.png",
+   "sizeBytes": 165173
+  },
+  {
+   "canonical": "uiv3/texture/_static_uipanel/uiruin/tower_icon_levelbackground4",
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground4.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-tower_icon_levelbackground4-b43b9eac.png",
+   "sizeBytes": 87498
+  },
+  {
+   "canonical": "uiv3/texture/uiitem/item_icon_trial",
+   "path": "uiv3/texture/uiitem/item_icon_Trial.png",
+   "sources": [
+    "registry"
+   ],
+   "resolved": true,
+   "reason": null,
+   "output": "changelog-assets/asset-item_icon_trial-00a11314.png",
+   "sizeBytes": 43154
+  }
+ ]
+}

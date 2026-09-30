@@ -3521,7 +3521,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_category01.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3540,6 +3540,13 @@
      "bytes": 485,
      "width": 62,
      "height": 38
+    },
+    {
+     "version": "rv459",
+     "sha256": "c1eb56651be0a99c47375b12891bf1b14064be9829c047dc0c5f1bb9985f40c2",
+     "bytes": 544,
+     "width": 62,
+     "height": 38
     }
    ],
    "atlas": "A_UIDesertTech"
@@ -3548,7 +3555,7 @@
    "path": "sprites/A_UIDesertTech/Desert_pic_frame.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -3575,6 +3582,13 @@
      "version": "rv428",
      "sha256": "5689781a289aee628f637b201ce5647bb00f97f69430c7cafabfd5c1f52a31b6",
      "bytes": 2506,
+     "width": 80,
+     "height": 80
+    },
+    {
+     "version": "rv459",
+     "sha256": "93454ad7bbfa995569fdf08b6b4e64e1b97cd3546eebf6c9bb2d6b159635e962",
+     "bytes": 2471,
      "width": 80,
      "height": 80
     }
@@ -7637,10 +7651,26 @@
    "atlas": "A_UIRoyalWarS03"
   },
   {
+   "path": "sprites/A_UIRuin/tower_icon_settlebg3.png",
+   "kind": "sprite",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "59f3f03dfc9df3207630b10e87e69cb37207d52f28915331fc86f37075380992",
+     "bytes": 8015,
+     "width": 208,
+     "height": 105
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
    "path": "sprites/A_UIRuin/trial_pic_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7653,6 +7683,13 @@
      "version": "rv436",
      "sha256": "bac4e8bcd07944d904190e537aaae8601e0cf39e4bff60cb073b8eee495dce91",
      "bytes": 2172,
+     "width": 48,
+     "height": 48
+    },
+    {
+     "version": "rv459",
+     "sha256": "85e91f81bef0c76f878d90c70f4a6d3ceb8180cb59c59e8a8ae43d3a0d6ac55f",
+     "bytes": 2117,
      "width": 48,
      "height": 48
     }
@@ -10178,6 +10215,21 @@
      "bytes": 11343,
      "width": 302,
      "height": 322
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground1.png",
+   "kind": "texture",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "9a4f6372ef8d3aa039017e7326a26f90971585e541ed408e8366cba945db1fcc",
+     "bytes": 72000,
+     "width": 316,
+     "height": 512
     }
    ]
   },

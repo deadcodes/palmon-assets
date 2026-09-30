@@ -1,18 +1,18 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv458",
+ "generatedFor": "rv459",
  "designWidth": 1080,
  "counts": {
-  "panels": 1462,
-  "registered": 929,
-  "nodes": 109771,
-  "images": 41804,
-  "missing": 6130
+  "panels": 1463,
+  "registered": 930,
+  "nodes": 109941,
+  "images": 41867,
+  "missing": 6134
  },
  "diagnostics": {
   "GridLayoutGroup": 41,
   "UImage": 285,
-  "URawImage": 1295
+  "URawImage": 1296
  },
  "panels": [
   {
@@ -9388,10 +9388,10 @@
    "folder": "",
    "group": "panel",
    "file": "index/ui-layouts/uicardformation_ruin.json",
-   "nodes": 304,
-   "images": 143,
-   "texts": 23,
-   "missing": 17,
+   "nodes": 324,
+   "images": 155,
+   "texts": 24,
+   "missing": 18,
    "registered": {
     "key": "UICardFormation_Ruin",
     "type": "Panel",
@@ -15447,7 +15447,7 @@
    "folder": "",
    "group": "component",
    "file": "index/ui-layouts/uimain.json",
-   "nodes": 319,
+   "nodes": 320,
    "images": 126,
    "texts": 49,
    "missing": 9
@@ -15459,7 +15459,7 @@
    "folder": "",
    "group": "component",
    "file": "index/ui-layouts/uimain_ch.json",
-   "nodes": 348,
+   "nodes": 349,
    "images": 135,
    "texts": 53,
    "missing": 9
@@ -18053,14 +18053,17 @@
    "folder": "",
    "group": "dialog",
    "file": "index/ui-layouts/uiruin_level.json",
-   "nodes": 86,
-   "images": 36,
-   "texts": 16,
+   "nodes": 144,
+   "images": 46,
+   "texts": 22,
    "missing": 2,
    "registered": {
     "key": "UIRuinsLevel",
     "type": "Dialog",
-    "fullScreen": true
+    "fullScreen": true,
+    "aliases": [
+     "UIRuinsProLevel"
+    ]
    }
   },
   {
@@ -18087,14 +18090,17 @@
    "folder": "",
    "group": "dialog",
    "file": "index/ui-layouts/uiruin_leveldetail.json",
-   "nodes": 64,
-   "images": 26,
-   "texts": 10,
+   "nodes": 71,
+   "images": 29,
+   "texts": 13,
    "missing": 4,
    "registered": {
     "key": "UIRuin_LevelDetail",
     "type": "Dialog",
-    "fullScreen": true
+    "fullScreen": true,
+    "aliases": [
+     "UIRuinsProDetail"
+    ]
    }
   },
   {
@@ -18125,6 +18131,23 @@
    "images": 11,
    "texts": 7,
    "missing": 1
+  },
+  {
+   "id": "uiruin_pro",
+   "name": "UIRuinsPro",
+   "path": "uiv3/uipanel/uiruin_pro.prefab",
+   "folder": "",
+   "group": "panel",
+   "file": "index/ui-layouts/uiruin_pro.json",
+   "nodes": 83,
+   "images": 38,
+   "texts": 14,
+   "missing": 3,
+   "registered": {
+    "key": "UIRuinsPro",
+    "type": "Panel",
+    "fullScreen": true
+   }
   },
   {
    "id": "uiruin_replay",
@@ -18159,7 +18182,8 @@
     "type": "Dialog",
     "fullScreen": false,
     "aliases": [
-     "UIRuinsNewRank"
+     "UIRuinsNewRank",
+     "UIRuinsProRank"
     ]
    }
   },

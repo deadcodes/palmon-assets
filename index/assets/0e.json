@@ -3499,7 +3499,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_frame_goodnumber.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3518,6 +3518,13 @@
      "bytes": 689,
      "width": 52,
      "height": 50
+    },
+    {
+     "version": "rv459",
+     "sha256": "352c4bb04d79b2353d0108fd6c8d1747d48c5bf7dbcf5be2ad5ccc771227e27e",
+     "bytes": 672,
+     "width": 52,
+     "height": 50
     }
    ],
    "atlas": "A_UIDesertTech"
@@ -3526,7 +3533,7 @@
    "path": "sprites/A_UIDesertTech/Desert_frame_tipsbg.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3542,6 +3549,13 @@
     {
      "version": "rv428",
      "sha256": "2c3853329c92e46da9d854c70e5eab074e0db3a962c6b79605a1f7416183f2a8",
+     "bytes": 778,
+     "width": 96,
+     "height": 60
+    },
+    {
+     "version": "rv459",
+     "sha256": "35edbd6df4fb133fda2e8dc3f8c6eca3e03444fd43e967a207e4470acc8facde",
      "bytes": 778,
      "width": 96,
      "height": 60
@@ -3553,7 +3567,7 @@
    "path": "sprites/A_UIDesertTech/Treasure_btn_share01.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -3580,6 +3594,13 @@
      "version": "rv428",
      "sha256": "cf08f1e7ffa128cec6887f34f7420094964ea8bb4a4576c103f2ba07993af0be",
      "bytes": 15104,
+     "width": 128,
+     "height": 128
+    },
+    {
+     "version": "rv459",
+     "sha256": "d79a8065d730bdba7c99a9aa411761f330768de4cd23ba799f13954e9534931d",
+     "bytes": 15143,
      "width": 128,
      "height": 128
     }
@@ -7941,7 +7962,7 @@
    "path": "sprites/A_UIRuin/model_icon_4.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7956,6 +7977,13 @@
      "bytes": 48344,
      "width": 206,
      "height": 212
+    },
+    {
+     "version": "rv459",
+     "sha256": "3649f7f1f1f5bfb1d878c29e2063e3644cbe8b07fed45855b92f153e20046175",
+     "bytes": 48167,
+     "width": 206,
+     "height": 212
     }
    ],
    "atlas": "A_UIRuin"
@@ -7964,7 +7992,7 @@
    "path": "sprites/A_UIRuin/tower_pic_floor3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7979,6 +8007,29 @@
      "bytes": 19553,
      "width": 500,
      "height": 133
+    },
+    {
+     "version": "rv459",
+     "sha256": "12ca8c3d1bcbee273a16ab81b467be634408f006bdef735e083d8f33b668e1d4",
+     "bytes": 9189,
+     "width": 500,
+     "height": 121
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
+   "path": "sprites/A_UIRuin/tower_pic_floor3_5.png",
+   "kind": "sprite",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "a3e0b1457a54157e2045f94c745557d677119b5be9453b031199cc08df4bd5bc",
+     "bytes": 9804,
+     "width": 129,
+     "height": 127
     }
    ],
    "atlas": "A_UIRuin"
@@ -7987,7 +8038,7 @@
    "path": "sprites/A_UIRuin/towerfight_pic_3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -8002,6 +8053,13 @@
      "bytes": 1761,
      "width": 39,
      "height": 49
+    },
+    {
+     "version": "rv459",
+     "sha256": "7bdd048597367840850317a9d50cccbc354b0e5f0c4a7f9da84c8b4d7c46aaaa",
+     "bytes": 1711,
+     "width": 39,
+     "height": 49
     }
    ],
    "atlas": "A_UIRuin"
@@ -8010,12 +8068,19 @@
    "path": "sprites/A_UIRuin/trial_frame_playerred1.png",
    "kind": "sprite",
    "firstSeen": "rv436",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv436",
      "sha256": "0a9d8d7226e07698f60a7d7b79089ca3f1a1f1293fefc9829a175470130491ad",
      "bytes": 23304,
+     "width": 422,
+     "height": 139
+    },
+    {
+     "version": "rv459",
+     "sha256": "9c220d237090dfb444dd54b8894bbbb04f32098878a53bb85d62a358728d6f1e",
+     "bytes": 23561,
      "width": 422,
      "height": 139
     }

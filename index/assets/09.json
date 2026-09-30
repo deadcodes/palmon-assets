@@ -3319,7 +3319,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_icon_time.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3338,6 +3338,13 @@
      "bytes": 1352,
      "width": 50,
      "height": 50
+    },
+    {
+     "version": "rv459",
+     "sha256": "40081bfc98d42013612a78b5599b316458a1a54399040f8757012382f19edea0",
+     "bytes": 1342,
+     "width": 50,
+     "height": 50
     }
    ],
    "atlas": "A_UIDesertTech"
@@ -3346,7 +3353,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_plan_01.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3363,6 +3370,13 @@
      "version": "rv428",
      "sha256": "4a1937bfbe86243f1826d222cf6d3b765faebe752662d527ee99b70e2c16a187",
      "bytes": 2592,
+     "width": 90,
+     "height": 93
+    },
+    {
+     "version": "rv459",
+     "sha256": "69a0d1314c5fbc3680fbef407184430eb9ac486261c5f7c27059a3cf34288373",
+     "bytes": 2728,
      "width": 90,
      "height": 93
     }
@@ -6703,7 +6717,7 @@
    "path": "sprites/A_UIRuin/tower_pic_footmask.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -6718,6 +6732,13 @@
      "bytes": 3733,
      "width": 40,
      "height": 245
+    },
+    {
+     "version": "rv459",
+     "sha256": "7f5978ef09b92d6328ddff0d6d8991e57d4793941435c291c4ee42c49b145339",
+     "bytes": 3649,
+     "width": 40,
+     "height": 245
     }
    ],
    "atlas": "A_UIRuin"
@@ -6726,7 +6747,7 @@
    "path": "sprites/A_UIRuin/tower_pic_towercoin.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -6741,6 +6762,13 @@
      "bytes": 5934,
      "width": 57,
      "height": 56
+    },
+    {
+     "version": "rv459",
+     "sha256": "172ecec76f7fdb3b7dd10a6c8694325edd054d154c6a7c677d085fc6c5adda26",
+     "bytes": 5738,
+     "width": 57,
+     "height": 56
     }
    ],
    "atlas": "A_UIRuin"
@@ -6749,12 +6777,19 @@
    "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_6.png",
    "kind": "sprite",
    "firstSeen": "rv436",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv436",
      "sha256": "0aef5cf4fea64e4ca1d3f851f51eb5886633db664fd4427dc0ebebbf678c7050",
      "bytes": 27722,
+     "width": 125,
+     "height": 125
+    },
+    {
+     "version": "rv459",
+     "sha256": "19512f96d99b1ef04adc2855ba7d594e1f6901f66241250e2f19f7985e335aa0",
+     "bytes": 27829,
      "width": 125,
      "height": 125
     }

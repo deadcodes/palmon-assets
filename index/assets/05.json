@@ -3378,7 +3378,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_icon_good.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3397,6 +3397,13 @@
      "bytes": 899,
      "width": 49,
      "height": 43
+    },
+    {
+     "version": "rv459",
+     "sha256": "e9d640bf061c2a0e33ffbc56e91b8f65aa5287364523cef90bf55b3680d59e40",
+     "bytes": 896,
+     "width": 49,
+     "height": 43
     }
    ],
    "atlas": "A_UIDesertTech"
@@ -3405,12 +3412,19 @@
    "path": "sprites/A_UIDesertTech/Desert_pic_tech1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
      "sha256": "2eb57182e3a305be80345c49d6a4f199c560e3a09f2d101eb01f731f724757ea",
      "bytes": 21398,
+     "width": 290,
+     "height": 377
+    },
+    {
+     "version": "rv459",
+     "sha256": "81850ccdcd3ed86dd60f05323efa3a6d433a6b553b3cdf0330f95e6f11ef2d61",
+     "bytes": 21397,
      "width": 290,
      "height": 377
     }
@@ -7496,7 +7510,7 @@
    "path": "sprites/A_UIRuin/tower_btn_shop.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7511,6 +7525,29 @@
      "bytes": 14985,
      "width": 154,
      "height": 154
+    },
+    {
+     "version": "rv459",
+     "sha256": "dbac566681f271305dadf99ffbe0407c3bee5568e9ae1fc73780f6b3aa6a37db",
+     "bytes": 14961,
+     "width": 154,
+     "height": 154
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
+   "path": "sprites/A_UIRuin/tower_icon_settlebg1.png",
+   "kind": "sprite",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "28aef2933e74351efb6679a3d9bb7a734a6d3cd4bad83583722fc57ca08ed90a",
+     "bytes": 12871,
+     "width": 172,
+     "height": 89
     }
    ],
    "atlas": "A_UIRuin"
@@ -7519,7 +7556,7 @@
    "path": "sprites/A_UIRuin/tower_pic_stubattack.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7534,6 +7571,13 @@
      "bytes": 3539,
      "width": 96,
      "height": 93
+    },
+    {
+     "version": "rv459",
+     "sha256": "94086fdbf68af7b08598c9c98084ffc1aec9548c092cd3bfb9f942cf916dd16b",
+     "bytes": 3658,
+     "width": 96,
+     "height": 93
     }
    ],
    "atlas": "A_UIRuin"
@@ -7542,12 +7586,19 @@
    "path": "sprites/A_UIRuin/trial_frame_ProfilePicture_2.png",
    "kind": "sprite",
    "firstSeen": "rv436",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv436",
      "sha256": "6f3efa1243b220776e9189a3c44e3d546e8aab0ccdd40ec9774ff4079ee23362",
      "bytes": 30993,
+     "width": 125,
+     "height": 125
+    },
+    {
+     "version": "rv459",
+     "sha256": "7c9285007c374dd1cab051e7518d3556a20bccef22854d46b0e1c7d49f866f5d",
+     "bytes": 30568,
      "width": 125,
      "height": 125
     }
@@ -7558,7 +7609,7 @@
    "path": "sprites/A_UIRuin/trial_pic_3.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7571,6 +7622,13 @@
      "version": "rv436",
      "sha256": "268352a50c00588b74f1e06dfd0d6430185efb0a6d67663c890713441f54a082",
      "bytes": 2619,
+     "width": 53,
+     "height": 42
+    },
+    {
+     "version": "rv459",
+     "sha256": "f2d6d9644bd4d02f74a95627c29e3b393b9d210e4765339bd6070bf61108be1e",
+     "bytes": 2812,
      "width": 53,
      "height": 42
     }
@@ -10064,6 +10122,21 @@
      "bytes": 209107,
      "width": 878,
      "height": 2048
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_icon_LevelBackground3.png",
+   "kind": "texture",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "2a91502e1c89c69373df266db612c256bd012f435e104a0b112fd970d1f63d7c",
+     "bytes": 165173,
+     "width": 491,
+     "height": 796
     }
    ]
   },

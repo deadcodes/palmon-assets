@@ -2939,7 +2939,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_delete.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -2966,6 +2966,13 @@
      "version": "rv428",
      "sha256": "11bb4b50ae704219cf15f9b3ab923bbe4f717e27e4982a6b9de4b05e07c5ffa7",
      "bytes": 1698,
+     "width": 80,
+     "height": 80
+    },
+    {
+     "version": "rv459",
+     "sha256": "977e4ab5b7d87251167197349b5beed2b2066512d4d69df948d4b25a1536e3f3",
+     "bytes": 1687,
      "width": 80,
      "height": 80
     }
@@ -6638,12 +6645,19 @@
    "path": "sprites/A_UIRuin/trial_frame_playerred2.png",
    "kind": "sprite",
    "firstSeen": "rv436",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv436",
      "sha256": "9b71d766cf97ad8fc9adede599e4531be6f66d1ee07612a61cae140ff4323521",
      "bytes": 3867,
+     "width": 62,
+     "height": 62
+    },
+    {
+     "version": "rv459",
+     "sha256": "80b53c37514704065d118559e66ac5656482195276e002feb8c5d89faba2c45d",
+     "bytes": 3868,
      "width": 62,
      "height": 62
     }

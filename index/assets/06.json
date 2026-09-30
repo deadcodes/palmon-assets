@@ -7214,10 +7214,26 @@
    "atlas": "A_UIRuin"
   },
   {
+   "path": "sprites/A_UIRuin/tower_icon_settlebg4.png",
+   "kind": "sprite",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "69f4d0162f36c85a07ab6df7f6a8bc2b05d13777d883bbd0fe91fbfa56857022",
+     "bytes": 5203,
+     "width": 173,
+     "height": 89
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
    "path": "sprites/A_UIRuin/tower_pic_stubbg.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7232,6 +7248,13 @@
      "bytes": 25927,
      "width": 253,
      "height": 265
+    },
+    {
+     "version": "rv459",
+     "sha256": "a344547e9dd2b9364cb04f180053fc9335a61b08214e3f63128d472730baa420",
+     "bytes": 25934,
+     "width": 253,
+     "height": 265
     }
    ],
    "atlas": "A_UIRuin"
@@ -7240,7 +7263,7 @@
    "path": "sprites/A_UIRuin/trial_pic_6.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -7253,6 +7276,13 @@
      "version": "rv436",
      "sha256": "29943078a2ff915f4ab6d8935c8214154732898d475329f70f74d3f14f4792b3",
      "bytes": 2981,
+     "width": 40,
+     "height": 48
+    },
+    {
+     "version": "rv459",
+     "sha256": "13735d0e51a8a990bb3ab689166b9fb6972a432040482ba99c1d89e86b0db050",
+     "bytes": 2805,
      "width": 40,
      "height": 48
     }

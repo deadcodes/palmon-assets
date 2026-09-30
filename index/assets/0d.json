@@ -3011,12 +3011,19 @@
    "path": "sprites/A_UIDesertTech/Desert_pic_Share.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv417",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
      "sha256": "1c984421a4556f390b755d2e3e1f3e032ee4ba7d36a2e6c3ae50cc418ac21d53",
      "bytes": 24744,
+     "width": 131,
+     "height": 155
+    },
+    {
+     "version": "rv459",
+     "sha256": "27441ef81489d39693ffdb53edb56f2390e90e6f7c9cc3b2ac736cdf8506f1c3",
+     "bytes": 24746,
      "width": 131,
      "height": 155
     }
@@ -6599,7 +6606,7 @@
    "path": "sprites/A_UIRuin/model_icon_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -6614,6 +6621,29 @@
      "bytes": 47517,
      "width": 206,
      "height": 224
+    },
+    {
+     "version": "rv459",
+     "sha256": "d0fbf6e2d55034b546b13a489d48541cb0d559f6f251712edfe072c7f61bcdff",
+     "bytes": 47817,
+     "width": 206,
+     "height": 224
+    }
+   ],
+   "atlas": "A_UIRuin"
+  },
+  {
+   "path": "sprites/A_UIRuin/tower_bg_reward.png",
+   "kind": "sprite",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "0ac9ef0c3451a6b76498911c6149efb6900791c29e058e220088d3a63e08c1cc",
+     "bytes": 3896,
+     "width": 150,
+     "height": 148
     }
    ],
    "atlas": "A_UIRuin"
@@ -6622,7 +6652,7 @@
    "path": "sprites/A_UIRuin/tower_pic_icon1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -6637,6 +6667,13 @@
      "bytes": 954,
      "width": 277,
      "height": 60
+    },
+    {
+     "version": "rv459",
+     "sha256": "3224f51b6ea0e40f85df9bac448b1e101e1a185a728e31ab2139ef6ba61cedf4",
+     "bytes": 949,
+     "width": 277,
+     "height": 60
     }
    ],
    "atlas": "A_UIRuin"
@@ -6645,7 +6682,7 @@
    "path": "sprites/A_UIRuin/towerfight_pic_6.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -6658,6 +6695,13 @@
      "version": "rv436",
      "sha256": "2f7ab67f84461b5b9777cd35b905f77f6ea7a124f0dcfc489050e4366b7304e3",
      "bytes": 1789,
+     "width": 100,
+     "height": 52
+    },
+    {
+     "version": "rv459",
+     "sha256": "bd4e501cf81964cddfb5971b4138cb9f8b652decd02f5608a3bce6e3ea61a5fc",
+     "bytes": 1595,
      "width": 100,
      "height": 52
     }

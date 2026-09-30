@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedFor": "rv458",
+ "generatedFor": "rv459",
  "kinds": {
   "armigo": {
    "10001": {
@@ -1380,6 +1380,9 @@
    },
    "10707": {
     "icon": "uiv3/texture/uiitem/item_icon_Dreambox1.png"
+   },
+   "10708": {
+    "icon": "uiv3/texture/uiitem/item_icon_Trial.png"
    },
    "11601": {
     "icon": "uiv3/texture/uiitem/item_icon_lohamap.png"
@@ -39731,7 +39734,7 @@
  "counts": {
   "armigo": 26,
   "buff": 0,
-  "item": 984,
+  "item": 985,
   "mount": 7,
   "palmon": 69,
   "skill": 10761

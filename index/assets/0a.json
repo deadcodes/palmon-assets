@@ -3467,7 +3467,7 @@
    "path": "sprites/A_UIDesertTech/Desert_btn_good01.png",
    "kind": "sprite",
    "firstSeen": "rv426",
-   "lastSeen": "rv428",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv426",
@@ -3484,6 +3484,13 @@
      "version": "rv428",
      "sha256": "d7ccdfe0250e7c0c40a77585c53360f0cac087892a5ed50fd5095df0858182e8",
      "bytes": 3116,
+     "width": 88,
+     "height": 88
+    },
+    {
+     "version": "rv459",
+     "sha256": "22e55ec51661622d57b45abff6e8a3a74548ffbe0a479bda960d10f8db586e62",
+     "bytes": 2990,
      "width": 88,
      "height": 88
     }
@@ -6907,7 +6914,7 @@
    "path": "sprites/A_UIRuin/model_tag_1.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -6922,6 +6929,13 @@
      "bytes": 11266,
      "width": 92,
      "height": 192
+    },
+    {
+     "version": "rv459",
+     "sha256": "a492e0f3a086c9d867fea3985530515ab59e44816b818da2d42b240d2b93b9e9",
+     "bytes": 11314,
+     "width": 92,
+     "height": 192
     }
    ],
    "atlas": "A_UIRuin"
@@ -6930,7 +6944,7 @@
    "path": "sprites/A_UIRuin/tower_pic_stublock.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -6945,6 +6959,13 @@
      "bytes": 2838,
      "width": 63,
      "height": 82
+    },
+    {
+     "version": "rv459",
+     "sha256": "2b4ae792e2a7260225d29a3e52d9a85f5177800cbb63a4e5c5bad931b4def32b",
+     "bytes": 2720,
+     "width": 63,
+     "height": 82
     }
    ],
    "atlas": "A_UIRuin"
@@ -6953,7 +6974,7 @@
    "path": "sprites/A_UIRuin/towerfight_pic_7.png",
    "kind": "sprite",
    "firstSeen": "rv417",
-   "lastSeen": "rv436",
+   "lastSeen": "rv459",
    "history": [
     {
      "version": "rv417",
@@ -6966,6 +6987,13 @@
      "version": "rv436",
      "sha256": "f877058ba67c33c9a5d41708063a7291dd8158b7bbbc8fc6e0be8444e6ca1694",
      "bytes": 1857,
+     "width": 100,
+     "height": 60
+    },
+    {
+     "version": "rv459",
+     "sha256": "272b0ad46b80639fc14e823266aa387ef0fcf01c20427d0282526edb22c0fea7",
+     "bytes": 2044,
      "width": 100,
      "height": 60
     }
@@ -9195,6 +9223,21 @@
      "version": "rv417",
      "sha256": "c16afc3a7043fd9504128179ff8f8ce09be7840b2111687449df881bcd7c8b79",
      "bytes": 1346789,
+     "width": 878,
+     "height": 2048
+    }
+   ]
+  },
+  {
+   "path": "uiv3/texture/_static_uipanel/uiruin/tower_bg_part1.png",
+   "kind": "texture",
+   "firstSeen": "rv459",
+   "lastSeen": "rv459",
+   "history": [
+    {
+     "version": "rv459",
+     "sha256": "5f48e33d0c4507c6630cb4095b20a6f242dde9e29ee85e3fcd8bdad421961106",
+     "bytes": 1437483,
      "width": 878,
      "height": 2048
     }
