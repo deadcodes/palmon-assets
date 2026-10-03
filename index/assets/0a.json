@@ -8347,12 +8347,19 @@
    "path": "uiv3/texture/_static_uipanel/uiactivitygather/Auto_pic_bg_3.png",
    "kind": "texture",
    "firstSeen": "rv447",
-   "lastSeen": "rv447",
+   "lastSeen": "rv462",
    "history": [
     {
      "version": "rv447",
      "sha256": "5e8956566608836acbcd942b3e523daafcc785b00722110cb96d14fcc8222356",
      "bytes": 1617248,
+     "width": 878,
+     "height": 2048
+    },
+    {
+     "version": "rv462",
+     "sha256": "f6d1e18fe3e46bc122bb09383ac89d158aeb5e5427656d2f1b06348e1fa37657",
+     "bytes": 1455880,
      "width": 878,
      "height": 2048
     }
