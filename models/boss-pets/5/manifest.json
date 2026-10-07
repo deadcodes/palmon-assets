@@ -1,0 +1,44 @@
+{
+  "backdrop": "backdrops/WorldBoss_pic_bg_3.png",
+  "bossId": 5,
+  "camera": {
+    "eulerAngles": [
+      12.964,
+      180.0,
+      0.0
+    ],
+    "fov": 36.0,
+    "position": [
+      0.0,
+      1.52,
+      7.13
+    ]
+  },
+  "clips": [
+    {
+      "duration": 2.6667,
+      "name": "a0003_boss_idle"
+    },
+    {
+      "duration": 5.3333,
+      "name": "a0003_boss_idlea"
+    }
+  ],
+  "coordinateSystem": "glTF right-handed Y-up (converted from Unity)",
+  "file": "model.glb",
+  "prefab": "models/prefabs/p0003_boss",
+  "quality": 3,
+  "render": {
+    "clip": "idle",
+    "composite": "hero.webp",
+    "model": "hero-model.webp",
+    "size": [
+      1080,
+      1980
+    ],
+    "time": 1.0,
+    "tool": "tools/boss-pet-render/index.html"
+  },
+  "scale": 1,
+  "sourceVersion": "rv462"
+}
