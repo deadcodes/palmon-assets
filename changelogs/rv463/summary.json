@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "pair": {
+    "old": "rv462",
+    "new": "rv463"
+  },
+  "generatedAtUtc": "2026-10-09T05:47:27Z",
+  "title": "Auto-rally duration extended to 12 hours, plus chat announcement fixes",
+  "summary": "A small hotfix. The first auto-rally (auto-gather) target group now runs for 12 hours instead of 8; the second group stays at 72 hours. In-game announcements in chat are also re-fetched after a reconnect and kept in full instead of being trimmed with ordinary chat history.",
+  "highlights": [
+    "Auto-rally target group 1 duration: 28800 s (8 h) → 43200 s (12 h); rewards, target types and group 2 (72 h) are unchanged",
+    "After reconnecting, the game re-pulls the announcement list so announcements pushed while offline are no longer missed",
+    "The announcement channel is no longer trimmed to the chat cache limit, so older announcements stay available",
+    "Chat window clears pending new-message markers when opening the announcement list or leaving an announcement's detail view, and refreshes the pinned announcement when new messages arrive"
+  ],
+  "categories": [
+    {
+      "title": "General",
+      "count": 1
+    }
+  ]
+}
