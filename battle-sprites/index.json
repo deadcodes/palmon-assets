@@ -1,0 +1,2190 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-09-28T08:32:39Z",
+ "entries": [
+  {
+   "heroId": 205001,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 132,
+   "atlases": 7,
+   "bytes": 1877090,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 1215942
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 520616
+    }
+   ]
+  },
+  {
+   "heroId": 205001,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 151,
+   "atlases": 9,
+   "bytes": 2801770,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 1814202
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 776976
+    }
+   ]
+  },
+  {
+   "heroId": 205001,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 138,
+   "atlases": 8,
+   "bytes": 3195850,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2004004
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 852552
+    }
+   ]
+  },
+  {
+   "heroId": 205002,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 113,
+   "atlases": 6,
+   "bytes": 1538780,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1071278
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 451092
+    }
+   ]
+  },
+  {
+   "heroId": 205002,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 115,
+   "atlases": 10,
+   "bytes": 2190168,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1586768
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 684316
+    }
+   ]
+  },
+  {
+   "heroId": 205002,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 106,
+   "atlases": 10,
+   "bytes": 2607154,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1827604
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 795032
+    }
+   ]
+  },
+  {
+   "heroId": 205003,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 129,
+   "atlases": 6,
+   "bytes": 2129448,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1711766
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 746254
+    }
+   ]
+  },
+  {
+   "heroId": 205003,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 141,
+   "atlases": 15,
+   "bytes": 3621800,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2564114
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1089736
+    }
+   ]
+  },
+  {
+   "heroId": 205004,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 167,
+   "atlases": 6,
+   "bytes": 1680312,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1132590
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 494812
+    }
+   ]
+  },
+  {
+   "heroId": 205004,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 121,
+   "atlases": 5,
+   "bytes": 2122550,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1496938
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 639142
+    }
+   ]
+  },
+  {
+   "heroId": 205004,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 111,
+   "atlases": 5,
+   "bytes": 2176164,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1547052
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 646062
+    }
+   ]
+  },
+  {
+   "heroId": 205005,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 112,
+   "atlases": 6,
+   "bytes": 1962054,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1277898
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 538164
+    }
+   ]
+  },
+  {
+   "heroId": 205005,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 139,
+   "atlases": 9,
+   "bytes": 4648496,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 3188270
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1336386
+    }
+   ]
+  },
+  {
+   "heroId": 205005,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 113,
+   "atlases": 13,
+   "bytes": 5916202,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 3717314
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1551738
+    }
+   ]
+  },
+  {
+   "heroId": 205006,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 149,
+   "atlases": 6,
+   "bytes": 1165086,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 886590
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 404282
+    }
+   ]
+  },
+  {
+   "heroId": 205006,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 121,
+   "atlases": 5,
+   "bytes": 1819866,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1229808
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 527608
+    }
+   ]
+  },
+  {
+   "heroId": 205006,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 129,
+   "atlases": 8,
+   "bytes": 3570140,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2240100
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 928120
+    }
+   ]
+  },
+  {
+   "heroId": 205007,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 125,
+   "atlases": 9,
+   "bytes": 1527854,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1132182
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 506038
+    }
+   ]
+  },
+  {
+   "heroId": 205007,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 124,
+   "atlases": 14,
+   "bytes": 2698196,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 2024036
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 895668
+    }
+   ]
+  },
+  {
+   "heroId": 205007,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 130,
+   "atlases": 16,
+   "bytes": 3789490,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 7,
+     "bytes": 2806714
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1245892
+    }
+   ]
+  },
+  {
+   "heroId": 205008,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 129,
+   "atlases": 5,
+   "bytes": 2143002,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1519356
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 672306
+    }
+   ]
+  },
+  {
+   "heroId": 205008,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 115,
+   "atlases": 5,
+   "bytes": 2263978,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1607528
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 694602
+    }
+   ]
+  },
+  {
+   "heroId": 205008,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 118,
+   "atlases": 18,
+   "bytes": 2646836,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 2094540
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 923620
+    }
+   ]
+  },
+  {
+   "heroId": 205009,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 106,
+   "atlases": 5,
+   "bytes": 1578034,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1095762
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 468958
+    }
+   ]
+  },
+  {
+   "heroId": 205009,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 112,
+   "atlases": 7,
+   "bytes": 3054936,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 2003988
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 848996
+    }
+   ]
+  },
+  {
+   "heroId": 205010,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 77,
+   "atlases": 5,
+   "bytes": 1418880,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 983112
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 417780
+    }
+   ]
+  },
+  {
+   "heroId": 205010,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 79,
+   "atlases": 6,
+   "bytes": 2100514,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1405610
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 583908
+    }
+   ]
+  },
+  {
+   "heroId": 205011,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 110,
+   "atlases": 9,
+   "bytes": 2169632,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1464794
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 634396
+    }
+   ]
+  },
+  {
+   "heroId": 205011,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 110,
+   "atlases": 8,
+   "bytes": 3031862,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 2184626
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 954544
+    }
+   ]
+  },
+  {
+   "heroId": 205011,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 110,
+   "atlases": 16,
+   "bytes": 4808122,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 3194084
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1400056
+    }
+   ]
+  },
+  {
+   "heroId": 205012,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 114,
+   "atlases": 10,
+   "bytes": 1853180,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1350778
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 574376
+    }
+   ]
+  },
+  {
+   "heroId": 205012,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 113,
+   "atlases": 13,
+   "bytes": 2589652,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1894708
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 786788
+    }
+   ]
+  },
+  {
+   "heroId": 205012,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 126,
+   "atlases": 20,
+   "bytes": 3568790,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 7,
+     "bytes": 2515418
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1018400
+    }
+   ]
+  },
+  {
+   "heroId": 205013,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 159,
+   "atlases": 7,
+   "bytes": 1890724,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1290316
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 574978
+    }
+   ]
+  },
+  {
+   "heroId": 205013,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 127,
+   "atlases": 10,
+   "bytes": 2951220,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1994600
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 875010
+    }
+   ]
+  },
+  {
+   "heroId": 205014,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 99,
+   "atlases": 6,
+   "bytes": 1716084,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1200834
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 527496
+    }
+   ]
+  },
+  {
+   "heroId": 205014,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 102,
+   "atlases": 5,
+   "bytes": 2639234,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1730718
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 723338
+    }
+   ]
+  },
+  {
+   "heroId": 205015,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 103,
+   "atlases": 4,
+   "bytes": 1819430,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1301686
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 548238
+    }
+   ]
+  },
+  {
+   "heroId": 205015,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 106,
+   "atlases": 8,
+   "bytes": 3445388,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 2448812
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1028722
+    }
+   ]
+  },
+  {
+   "heroId": 205016,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 134,
+   "atlases": 9,
+   "bytes": 3678802,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2522782
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1075036
+    }
+   ]
+  },
+  {
+   "heroId": 205016,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 150,
+   "atlases": 22,
+   "bytes": 6501518,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 7,
+     "bytes": 4318662
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1884116
+    }
+   ]
+  },
+  {
+   "heroId": 205017,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 134,
+   "atlases": 5,
+   "bytes": 2185078,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1427192
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 617882
+    }
+   ]
+  },
+  {
+   "heroId": 205017,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 131,
+   "atlases": 12,
+   "bytes": 3151448,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1972178
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 835180
+    }
+   ]
+  },
+  {
+   "heroId": 205017,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 131,
+   "atlases": 14,
+   "bytes": 4686016,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 3134886
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1366130
+    }
+   ]
+  },
+  {
+   "heroId": 205018,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 109,
+   "atlases": 6,
+   "bytes": 1760098,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1262030
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 544316
+    }
+   ]
+  },
+  {
+   "heroId": 205018,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 120,
+   "atlases": 16,
+   "bytes": 4104852,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 2677992
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1103906
+    }
+   ]
+  },
+  {
+   "heroId": 205019,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 117,
+   "atlases": 32,
+   "bytes": 3043464,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 8,
+     "bytes": 1974934
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 851160
+    }
+   ]
+  },
+  {
+   "heroId": 205019,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 139,
+   "atlases": 11,
+   "bytes": 2741992,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1793146
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 759680
+    }
+   ]
+  },
+  {
+   "heroId": 205020,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 137,
+   "atlases": 11,
+   "bytes": 3092984,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 2212280
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 963208
+    }
+   ]
+  },
+  {
+   "heroId": 205020,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 139,
+   "atlases": 13,
+   "bytes": 3879974,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 2630308
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1110182
+    }
+   ]
+  },
+  {
+   "heroId": 205021,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 112,
+   "atlases": 6,
+   "bytes": 2511326,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1761012
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 775066
+    }
+   ]
+  },
+  {
+   "heroId": 205021,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 120,
+   "atlases": 16,
+   "bytes": 5069366,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 3140046
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1322670
+    }
+   ]
+  },
+  {
+   "heroId": 205021,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 120,
+   "atlases": 24,
+   "bytes": 7582044,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 4431470
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1795758
+    }
+   ]
+  },
+  {
+   "heroId": 205022,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 113,
+   "atlases": 5,
+   "bytes": 1756532,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1197316
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 522220
+    }
+   ]
+  },
+  {
+   "heroId": 205022,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 127,
+   "atlases": 6,
+   "bytes": 2830514,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1891588
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 793010
+    }
+   ]
+  },
+  {
+   "heroId": 205023,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 144,
+   "atlases": 31,
+   "bytes": 7264380,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 8,
+     "bytes": 4649492
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1907524
+    }
+   ]
+  },
+  {
+   "heroId": 205023,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 141,
+   "atlases": 86,
+   "bytes": 8370210,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 17,
+     "bytes": 5171418
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 6,
+     "bytes": 2096218
+    }
+   ]
+  },
+  {
+   "heroId": 205024,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 117,
+   "atlases": 8,
+   "bytes": 2917180,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2031448
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 909284
+    }
+   ]
+  },
+  {
+   "heroId": 205024,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 117,
+   "atlases": 12,
+   "bytes": 3836654,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2495332
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1075068
+    }
+   ]
+  },
+  {
+   "heroId": 205025,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 89,
+   "atlases": 9,
+   "bytes": 3457508,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 2383838
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1008036
+    }
+   ]
+  },
+  {
+   "heroId": 205025,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 76,
+   "atlases": 6,
+   "bytes": 2065140,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1456922
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 607804
+    }
+   ]
+  },
+  {
+   "heroId": 205026,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 116,
+   "atlases": 9,
+   "bytes": 2923092,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1831454
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 766170
+    }
+   ]
+  },
+  {
+   "heroId": 205026,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 106,
+   "atlases": 8,
+   "bytes": 3683978,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 2295484
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 980460
+    }
+   ]
+  },
+  {
+   "heroId": 205027,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 110,
+   "atlases": 5,
+   "bytes": 1592394,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1223318
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 520318
+    }
+   ]
+  },
+  {
+   "heroId": 205027,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 127,
+   "atlases": 10,
+   "bytes": 2580002,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1930250
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 824110
+    }
+   ]
+  },
+  {
+   "heroId": 205027,
+   "form": "super",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 113,
+   "atlases": 7,
+   "bytes": 2624718,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1805318
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 769532
+    }
+   ]
+  },
+  {
+   "heroId": 205028,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 114,
+   "atlases": 20,
+   "bytes": 2483714,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 1647416
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 693556
+    }
+   ]
+  },
+  {
+   "heroId": 205028,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 114,
+   "atlases": 34,
+   "bytes": 3931760,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 8,
+     "bytes": 2714580
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1164688
+    }
+   ]
+  },
+  {
+   "heroId": 205029,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 135,
+   "atlases": 8,
+   "bytes": 2735058,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 1969454
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 872924
+    }
+   ]
+  },
+  {
+   "heroId": 205030,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 117,
+   "atlases": 8,
+   "bytes": 1488030,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1047990
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 440458
+    }
+   ]
+  },
+  {
+   "heroId": 205031,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 124,
+   "atlases": 6,
+   "bytes": 2101610,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1447990
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 628202
+    }
+   ]
+  },
+  {
+   "heroId": 205031,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 133,
+   "atlases": 18,
+   "bytes": 3494704,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 2235372
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 939830
+    }
+   ]
+  },
+  {
+   "heroId": 205032,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 131,
+   "atlases": 23,
+   "bytes": 3867680,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 8,
+     "bytes": 2644314
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1154002
+    }
+   ]
+  },
+  {
+   "heroId": 205032,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 129,
+   "atlases": 24,
+   "bytes": 6570050,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 8,
+     "bytes": 3954000
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 6,
+     "bytes": 1689080
+    }
+   ]
+  },
+  {
+   "heroId": 205033,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 125,
+   "atlases": 15,
+   "bytes": 3151628,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 2300680
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 999646
+    }
+   ]
+  },
+  {
+   "heroId": 205033,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 139,
+   "atlases": 21,
+   "bytes": 5206136,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 3616462
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1541050
+    }
+   ]
+  },
+  {
+   "heroId": 205034,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 120,
+   "atlases": 8,
+   "bytes": 2807850,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1968504
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 824808
+    }
+   ]
+  },
+  {
+   "heroId": 205034,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 118,
+   "atlases": 9,
+   "bytes": 3739824,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 2727076
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1126000
+    }
+   ]
+  },
+  {
+   "heroId": 205035,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 131,
+   "atlases": 7,
+   "bytes": 2345708,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1866660
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 790234
+    }
+   ]
+  },
+  {
+   "heroId": 205035,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 132,
+   "atlases": 7,
+   "bytes": 2969914,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 2151450
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 889640
+    }
+   ]
+  },
+  {
+   "heroId": 205036,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 110,
+   "atlases": 6,
+   "bytes": 1608790,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1014644
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 415404
+    }
+   ]
+  },
+  {
+   "heroId": 205037,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 129,
+   "atlases": 12,
+   "bytes": 3473612,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2575664
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1100518
+    }
+   ]
+  },
+  {
+   "heroId": 205037,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 133,
+   "atlases": 12,
+   "bytes": 3967488,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2714858
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1104098
+    }
+   ]
+  },
+  {
+   "heroId": 205038,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 107,
+   "atlases": 5,
+   "bytes": 1469218,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 991160
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 428442
+    }
+   ]
+  },
+  {
+   "heroId": 205038,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 115,
+   "atlases": 7,
+   "bytes": 2506538,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 1720600
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 732910
+    }
+   ]
+  },
+  {
+   "heroId": 205039,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 121,
+   "atlases": 8,
+   "bytes": 3868816,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 4,
+     "bytes": 2539714
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1075556
+    }
+   ]
+  },
+  {
+   "heroId": 205039,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 115,
+   "atlases": 21,
+   "bytes": 5265838,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 7,
+     "bytes": 3420698
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1425482
+    }
+   ]
+  },
+  {
+   "heroId": 205040,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 136,
+   "atlases": 15,
+   "bytes": 3252078,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 2455966
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1057058
+    }
+   ]
+  },
+  {
+   "heroId": 205040,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 136,
+   "atlases": 20,
+   "bytes": 4272964,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 6,
+     "bytes": 3015432
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 4,
+     "bytes": 1265078
+    }
+   ]
+  },
+  {
+   "heroId": 205041,
+   "form": "base",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 99,
+   "atlases": 11,
+   "bytes": 3428922,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 5,
+     "bytes": 2160708
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 884556
+    }
+   ]
+  },
+  {
+   "heroId": 205041,
+   "form": "evolved",
+   "sourceVersion": "v0.5.417_251",
+   "frames": 94,
+   "atlases": 19,
+   "bytes": 6003598,
+   "lods": [
+    {
+     "scale": 0.5,
+     "pixelsPerUnit": 98.0,
+     "dir": "lod-50",
+     "atlases": 7,
+     "bytes": 3718642
+    },
+    {
+     "scale": 0.25,
+     "pixelsPerUnit": 49.0,
+     "dir": "lod-25",
+     "atlases": 5,
+     "bytes": 1494070
+    }
+   ]
+  }
+ ]
+}

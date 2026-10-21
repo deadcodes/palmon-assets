@@ -1,0 +1,1384 @@
+{
+ "scale": {
+  "schemaVersion": 1,
+  "pixelsPerUnit": 196,
+  "yawDeg": 0,
+  "pitchDeg": 12,
+  "surveyedAt": "2026-09-27T11:44:22.902Z",
+  "forms": 91,
+  "widest": {
+   "heroId": 205032,
+   "form": "evolved",
+   "clip": "skilla",
+   "spanU": 5.096283340505252,
+   "spanV": 20.74173107623716
+  }
+ },
+ "rows": [
+  {
+   "heroId": 205001,
+   "form": "base",
+   "name": "Barkplug",
+   "frames": 20,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 363,
+    "modelProjected": 1.8474450377584282,
+    "modelWorld": 1.7882121539960718
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205001,
+   "form": "evolved",
+   "name": "Wattweiler",
+   "frames": 32,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 455,
+    "modelProjected": 2.3168755107251746,
+    "modelWorld": 2.2540740201065903
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205001,
+   "form": "super",
+   "name": "Voltfang",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 471,
+    "modelProjected": 2.402551216574625,
+    "modelWorld": 2.189096263929567
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205002,
+   "form": "base",
+   "name": "Ninjump",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 333,
+    "modelProjected": 1.6926187966017445,
+    "modelWorld": 1.692871324983961
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205002,
+   "form": "evolved",
+   "name": "Bufonobi",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 479,
+    "modelProjected": 2.4389725100919684,
+    "modelWorld": 2.3381660220768867
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205002,
+   "form": "super",
+   "name": "Shadowkaeru",
+   "frames": 20,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 564,
+    "modelProjected": 2.8743965551418382,
+    "modelWorld": 2.878700978652551
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205003,
+   "form": "base",
+   "name": "Lucidina",
+   "frames": 27,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 431,
+    "modelProjected": 2.1980370460290803,
+    "modelWorld": 2.2307542626783965
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205003,
+   "form": "evolved",
+   "name": "Oneirina",
+   "frames": 37,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 480,
+    "modelProjected": 2.443345329040389,
+    "modelWorld": 2.4616666963502096
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205004,
+   "form": "base",
+   "name": "Mantleray",
+   "frames": 28,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 261,
+    "modelProjected": 1.330507660728391,
+    "modelWorld": 1.302311398051226
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205004,
+   "form": "evolved",
+   "name": "Sorceray",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 429,
+    "modelProjected": 2.187469736838828,
+    "modelWorld": 2.2468109870980713
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205004,
+   "form": "super",
+   "name": "Mystiray",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 418,
+    "modelProjected": 2.134388472746228,
+    "modelWorld": 2.1468201359667076
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205005,
+   "form": "base",
+   "name": "Ghillant",
+   "frames": 27,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 391,
+    "modelProjected": 1.9907565223860497,
+    "modelWorld": 1.906418937567652
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205005,
+   "form": "evolved",
+   "name": "Chefeuillier",
+   "frames": 64,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 568,
+    "modelProjected": 2.8979015293490504,
+    "modelWorld": 2.7932658158995998
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205005,
+   "form": "super",
+   "name": "Leafergarde",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 780,
+    "modelProjected": 3.979329349790212,
+    "modelWorld": 3.720021806908289
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205006,
+   "form": "base",
+   "name": "Dolphriend",
+   "frames": 64,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 395,
+    "modelProjected": 2.011740477696768,
+    "modelWorld": 2.0173685660339244
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205006,
+   "form": "evolved",
+   "name": "Adolphonis",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 360,
+    "modelProjected": 1.8331029482768424,
+    "modelWorld": 1.8889299356145168
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205006,
+   "form": "super",
+   "name": "Leviadolph",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 497,
+    "modelProjected": 2.533360769650219,
+    "modelWorld": 2.5764820298015447
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205007,
+   "form": "base",
+   "name": "Abuzzinian",
+   "frames": 24,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 331,
+    "modelProjected": 1.6861047557447943,
+    "modelWorld": 1.5485546195132114
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205007,
+   "form": "evolved",
+   "name": "Servolt",
+   "frames": 24,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 390,
+    "modelProjected": 1.9904935099633763,
+    "modelWorld": 1.996422728259002
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205007,
+   "form": "super",
+   "name": "Shadowvolt",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 583,
+    "modelProjected": 2.973002843939284,
+    "modelWorld": 2.947729806605714
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205008,
+   "form": "base",
+   "name": "Statchew",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 490,
+    "modelProjected": 2.4984859879932437,
+    "modelWorld": 2.373112539291597
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205008,
+   "form": "evolved",
+   "name": "Anubeast",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 539,
+    "modelProjected": 2.747730196493426,
+    "modelWorld": 2.715101564291498
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205008,
+   "form": "super",
+   "name": "Pharohound",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 694,
+    "modelProjected": 3.54362730619627,
+    "modelWorld": 3.5043400696868647
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205009,
+   "form": "base",
+   "name": "Blazeal",
+   "frames": 24,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 441,
+    "modelProjected": 2.2470180555968406,
+    "modelWorld": 2.2409020249055924
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205009,
+   "form": "evolved",
+   "name": "Wildfuror",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 575,
+    "modelProjected": 2.9305053119211992,
+    "modelWorld": 2.8973175176197414
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205010,
+   "form": "base",
+   "name": "Baboom",
+   "frames": 20,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 428,
+    "modelProjected": 2.1778554282996216,
+    "modelWorld": 2.104953359324773
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205010,
+   "form": "evolved",
+   "name": "Rumbkey",
+   "frames": 20,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 412,
+    "modelProjected": 2.1027098408371234,
+    "modelWorld": 2.0577697280877714
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205011,
+   "form": "base",
+   "name": "Magmolin",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 404,
+    "modelProjected": 2.057557833424651,
+    "modelWorld": 1.9930601048758692
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205011,
+   "form": "evolved",
+   "name": "Obsidrake",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 500,
+    "modelProjected": 2.5519919350042284,
+    "modelWorld": 2.4138837258300945
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205011,
+   "form": "super",
+   "name": "Inferdrake",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 611,
+    "modelProjected": 3.1191326074711117,
+    "modelWorld": 3.0038284870225196
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205012,
+   "form": "base",
+   "name": "Surveilynx",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 439,
+    "modelProjected": 2.2345348572781707,
+    "modelWorld": 2.227504756705305
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205012,
+   "form": "evolved",
+   "name": "Camouflynx",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 463,
+    "modelProjected": 2.358355441475398,
+    "modelWorld": 2.2290259083842154
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205012,
+   "form": "super",
+   "name": "Predalynx",
+   "frames": 36,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 495,
+    "modelProjected": 2.5302218220874386,
+    "modelWorld": 2.5135337015980626
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205013,
+   "form": "base",
+   "name": "Fingenue",
+   "frames": 64,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 365,
+    "modelProjected": 1.8605582011245998,
+    "modelWorld": 1.945012548101972
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205013,
+   "form": "evolved",
+   "name": "Finnabelle",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 574,
+    "modelProjected": 2.928225209208685,
+    "modelWorld": 2.9446976904815254
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205014,
+   "form": "base",
+   "name": "Woozard",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 419,
+    "modelProjected": 2.135475230789507,
+    "modelWorld": 2.1143436921215555
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205014,
+   "form": "evolved",
+   "name": "Fleurizard",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 478,
+    "modelProjected": 2.437460068463799,
+    "modelWorld": 2.416837412148338
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205015,
+   "form": "base",
+   "name": "Salamantis",
+   "frames": 27,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 398,
+    "modelProjected": 2.0310692967833472,
+    "modelWorld": 1.9294911264438925
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205015,
+   "form": "evolved",
+   "name": "Silvaurus",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 589,
+    "modelProjected": 3.0053204072144224,
+    "modelWorld": 2.953557823050371
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205016,
+   "form": "base",
+   "name": "Fulgairy",
+   "frames": 27,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 515,
+    "modelProjected": 2.62182787925789,
+    "modelWorld": 2.3654739307212647
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205016,
+   "form": "evolved",
+   "name": "Keraunosaur",
+   "frames": 34,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 721,
+    "modelProjected": 3.6787255014369498,
+    "modelWorld": 3.2536590197250503
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205017,
+   "form": "base",
+   "name": "Hoofrit",
+   "frames": 27,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 387,
+    "modelProjected": 1.973226828392797,
+    "modelWorld": 1.8170985937925546
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205017,
+   "form": "evolved",
+   "name": "Flaries",
+   "frames": 24,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 357,
+    "modelProjected": 1.8248019252718553,
+    "modelWorld": 1.7952192689603153
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205017,
+   "form": "super",
+   "name": "Solhorn",
+   "frames": 24,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 607,
+    "modelProjected": 3.097155146568895,
+    "modelWorld": 2.937211888326333
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205018,
+   "form": "base",
+   "name": "Limudroid",
+   "frames": 20,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 416,
+    "modelProjected": 2.1197880340120556,
+    "modelWorld": 2.1114267687423958
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205018,
+   "form": "evolved",
+   "name": "Bunodroid",
+   "frames": 24,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 537,
+    "modelProjected": 2.7344699290039447,
+    "modelWorld": 2.7885104383408033
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205019,
+   "form": "base",
+   "name": "Regalion",
+   "frames": 27,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 422,
+    "modelProjected": 2.1495777396748457,
+    "modelWorld": 1.9176556876516275
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205019,
+   "form": "evolved",
+   "name": "Lionarch",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 307,
+    "modelProjected": 1.5674638195794075,
+    "modelWorld": 1.5049283816279408
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205020,
+   "form": "base",
+   "name": "Battereina",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 491,
+    "modelProjected": 2.5046662431940914,
+    "modelWorld": 2.515964893210654
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205020,
+   "form": "evolved",
+   "name": "Ampereina",
+   "frames": 32,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 557,
+    "modelProjected": 2.840948120788413,
+    "modelWorld": 2.4783064169690006
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205021,
+   "form": "base",
+   "name": "Revontulet",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 447,
+    "modelProjected": 2.2774514636065937,
+    "modelWorld": 2.4551207381409563
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205021,
+   "form": "evolved",
+   "name": "Vulpyrean",
+   "frames": 28,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 559,
+    "modelProjected": 2.850846416747706,
+    "modelWorld": 2.7024674246571054
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205021,
+   "form": "super",
+   "name": "Scarvulpine",
+   "frames": 28,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 797,
+    "modelProjected": 4.06872950128568,
+    "modelWorld": 3.9222027616449213
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205022,
+   "form": "base",
+   "name": "Escarffier",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 417,
+    "modelProjected": 2.12510350677639,
+    "modelWorld": 2.010679963575852
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205022,
+   "form": "evolved",
+   "name": "Essaucier",
+   "frames": 38,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 501,
+    "modelProjected": 2.5532634464638946,
+    "modelWorld": 2.502786678841746
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205023,
+   "form": "base",
+   "name": "Glacewing",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 683,
+    "modelProjected": 3.481894921672547,
+    "modelWorld": 3.2775785419671855
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205023,
+   "form": "evolved",
+   "name": "Cryovern",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 981,
+    "modelProjected": 5.004713610646013,
+    "modelWorld": 4.98585827465073
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205024,
+   "form": "base",
+   "name": "Mammolith",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 423,
+    "modelProjected": 2.155076323507514,
+    "modelWorld": 2.036137194510971
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205024,
+   "form": "evolved",
+   "name": "Prismalith",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 434,
+    "modelProjected": 2.2107497155930473,
+    "modelWorld": 2.132166830612934
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205025,
+   "form": "base",
+   "name": "Thundertooth",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 453,
+    "modelProjected": 2.311972632481985,
+    "modelWorld": 2.0473924023306966
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205025,
+   "form": "evolved",
+   "name": "Thundermane",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 444,
+    "modelProjected": 2.2636906515398643,
+    "modelWorld": 2.17835433521963
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205026,
+   "form": "base",
+   "name": "Embergeist",
+   "frames": 36,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 542,
+    "modelProjected": 2.7622035204213824,
+    "modelWorld": 2.7473685087534117
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205026,
+   "form": "evolved",
+   "name": "Pyregeist",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 700,
+    "modelProjected": 3.5722906655714723,
+    "modelWorld": 3.383206302007288
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205027,
+   "form": "base",
+   "name": "Gnashley",
+   "frames": 24,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 413,
+    "modelProjected": 2.10425438962871,
+    "modelWorld": 2.081260845983304
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205027,
+   "form": "evolved",
+   "name": "Gnashfin",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 444,
+    "modelProjected": 2.2590637014452972,
+    "modelWorld": 2.3171427909149775
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205027,
+   "form": "super",
+   "name": "Gnashswirl",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 469,
+    "modelProjected": 2.3912178321691027,
+    "modelWorld": 2.39525211827226
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205028,
+   "form": "base",
+   "name": "Pipistrigoi",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 462,
+    "modelProjected": 2.3569819375988454,
+    "modelWorld": 2.277671238852084
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205028,
+   "form": "evolved",
+   "name": "Azurostrigoi",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 834,
+    "modelProjected": 4.250226600280793,
+    "modelWorld": 4.248868253253403
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205029,
+   "form": "base",
+   "name": "Oleana",
+   "frames": 32,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 441,
+    "modelProjected": 2.248339009541052,
+    "modelWorld": 2.1963216131147
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205030,
+   "form": "base",
+   "name": "Spookaboo",
+   "frames": 25,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 331,
+    "modelProjected": 1.686292765563038,
+    "modelWorld": 1.723408288930321
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205031,
+   "form": "base",
+   "name": "Kungpaw",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 463,
+    "modelProjected": 2.360508425934295,
+    "modelWorld": 2.3365886601433834
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205031,
+   "form": "evolved",
+   "name": "Kungfury",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 526,
+    "modelProjected": 2.6830597663527813,
+    "modelWorld": 2.5385078080609738
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205032,
+   "form": "base",
+   "name": "Plunderjaw",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 541,
+    "modelProjected": 2.75949554166862,
+    "modelWorld": 2.6391382992049404
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205032,
+   "form": "evolved",
+   "name": "Dreadmaw",
+   "frames": 26,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 617,
+    "modelProjected": 3.1449067752068784,
+    "modelWorld": 3.041887178967524
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205033,
+   "form": "base",
+   "name": "Zapantis",
+   "frames": 20,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 581,
+    "modelProjected": 2.961931920110557,
+    "modelWorld": 2.5258250707580503
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205033,
+   "form": "evolved",
+   "name": "Shockmantis",
+   "frames": 32,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 663,
+    "modelProjected": 3.3832054140584247,
+    "modelWorld": 2.678933833740317
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205034,
+   "form": "base",
+   "name": "Rootwarden",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 456,
+    "modelProjected": 2.321952526325435,
+    "modelWorld": 2.3341816203234833
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205034,
+   "form": "evolved",
+   "name": "Thornkeeper",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 576,
+    "modelProjected": 2.934704320739068,
+    "modelWorld": 2.7795734676332398
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205035,
+   "form": "base",
+   "name": "Hexkit",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 396,
+    "modelProjected": 2.019620342489697,
+    "modelWorld": 2.0788316882009004
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205035,
+   "form": "evolved",
+   "name": "Cinderpurr",
+   "frames": 27,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 415,
+    "modelProjected": 2.114801267173636,
+    "modelWorld": 2.1741619429314465
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205036,
+   "form": "base",
+   "name": "Sunplume",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 314,
+    "modelProjected": 1.6028854628986269,
+    "modelWorld": 1.4300815646132017
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205037,
+   "form": "base",
+   "name": "Sylphira",
+   "frames": 32,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 517,
+    "modelProjected": 2.6359886837395314,
+    "modelWorld": 2.6391256820491176
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205037,
+   "form": "evolved",
+   "name": "Abysphira",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 507,
+    "modelProjected": 2.586599105968811,
+    "modelWorld": 2.491367955831605
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205038,
+   "form": "base",
+   "name": "Dialuna",
+   "frames": 24,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 349,
+    "modelProjected": 1.7783912012067566,
+    "modelWorld": 1.7925268277193398
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205038,
+   "form": "evolved",
+   "name": "Dialunova",
+   "frames": 32,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 461,
+    "modelProjected": 2.3508458476734457,
+    "modelWorld": 2.3270782832500045
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205039,
+   "form": "base",
+   "name": "Gryndarr",
+   "frames": 23,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 602,
+    "modelProjected": 3.070085598247768,
+    "modelWorld": 2.7469364075949505
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205039,
+   "form": "evolved",
+   "name": "Gryphonarch",
+   "frames": 20,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 590,
+    "modelProjected": 3.007670936838349,
+    "modelWorld": 2.388054004153472
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205040,
+   "form": "base",
+   "name": "Scorphelia",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 577,
+    "modelProjected": 2.9397686343605622,
+    "modelWorld": 2.9020969261345937
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205040,
+   "form": "evolved",
+   "name": "Scorphelas",
+   "frames": 40,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 536,
+    "modelProjected": 2.7333822227651465,
+    "modelWorld": 2.741325699813054
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205041,
+   "form": "base",
+   "name": "Rapheni",
+   "frames": 30,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 509,
+    "modelProjected": 2.598703806475803,
+    "modelWorld": 2.4886034582631793
+   },
+   "cells": {}
+  },
+  {
+   "heroId": 205041,
+   "form": "evolved",
+   "name": "Pyronyx",
+   "frames": 25,
+   "bytes": 0,
+   "clipped": [],
+   "skipped": [],
+   "height": {
+    "spritePx": 617,
+    "modelProjected": 3.1472981123664656,
+    "modelWorld": 2.611337311975466
+   },
+   "cells": {}
+  }
+ ]
+}

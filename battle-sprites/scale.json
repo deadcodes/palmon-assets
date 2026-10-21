@@ -1,0 +1,15 @@
+{
+ "schemaVersion": 1,
+ "pixelsPerUnit": 196,
+ "yawDeg": 0,
+ "pitchDeg": 12,
+ "surveyedAt": "2026-09-27T11:44:22.902Z",
+ "forms": 91,
+ "widest": {
+  "heroId": 205032,
+  "form": "evolved",
+  "clip": "skilla",
+  "spanU": 5.096283340505252,
+  "spanV": 20.74173107623716
+ }
+}
